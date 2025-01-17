@@ -1,0 +1,642 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,Chart of iPad Comparison Charts,,19,165,2010-02-01,AAPL,0.0657070204615593,0.8877242207527161,0.04656868800520897
+apple,I'm trying to sell my MacBook and found this handy tool for estimating the value of used Apple products,,29,61,2010-02-01,AAPL,0.025652064010500908,0.9365555047988892,0.03779244050383568
+apple,The one feature the iPad is really missing.,"I don't care about the lack of camera. I never use the one on my MacBook, and even if I did the angle would be terrible on the iPad.
+
+I don't care if third party apps can't run in the background. I don't listen to streaming music.
+
+I don't care that the App Store is a closed system. I can jailbreak for myself and I think the closed system works better for most users.
+
+The one feature I want is User Accounts and a Guest Account. If this device is meant to be a coffee table computer, it needs to be able to accomadate multiple users.",58,56,2010-02-01,AAPL,0.04042710363864899,0.9301081299781799,0.029464757069945335
+iphone,"Stanza, I don't think I read your latest update correctly...",,39,46,2010-02-01,AAPL,0.16358740627765656,0.8109607696533203,0.02545185573399067
+apple,"Now Steven, Where'd you get that iPad?",,21,44,2010-02-01,AAPL,0.06288690865039825,0.893384575843811,0.0437285490334034
+apple,"The Apple iPad Keynote, In 3 Minutes of Adjectives",,15,35,2010-02-01,AAPL,0.03352025896310806,0.877620279788971,0.08885947614908218
+apple,Apparently Arthur C. Clarke invented the iPad long before Apple did.,,8,33,2010-02-01,AAPL,0.030598923563957214,0.9196977019309998,0.04970337823033333
+iphone,"Trying to get google calendar to sync with the iPhone, not much luck. Help?","Hey guys, just got my iPhone 3Gs, must say am pretty happy so far. Plan to jailbreak it later this week.
+
+Anyway, I sync'd up google calendar as per instructions from google, and it worked, except the only calendar that is on my iPhone is the one that is named by my email address. I have several calendars within my google calendar, for organization purposes. For example, I keep really important things on my komali...@gmail.com calendar, then I have my ""english reading assignments"" calendar, ""math homework"", etc. None of my extra calendars transferred over. How can I get these things on my iPhone, save from just making all my stuff under komali...@gmail calendar?
+
+If I'm not explaining myself very well, here's a picture to help illustrate my point: http://imgur.com/hRbrY.jpg",14,25,2010-02-01,AAPL,0.027440553531050682,0.9308968782424927,0.04166252538561821
+iphone,Apple's Cool Matrix-Style App Wall,,6,24,2010-02-01,AAPL,0.027072180062532425,0.9149923920631409,0.057935431599617004
+iphone,Anyone use their iPhone as a mouse?,"Hello everyone, I got to my hotel earlier in nyc and took out my laptop, only to find that I forgot to bring my wireless mouse from home. I *hate* using the touchpad.
+
+Does anyone use their iPhone as a mouse? And by mouse, I mean you put your iPhone on the desk next to your computer, and move it around ... like a mouse. After some cursory googling I haven't found any app like that yet, just things that allow you to use the iphone touch screen as a touchpad (no), or something called ""air mouse"" which you apparently use as an air mouse (no) -- anyone know of an app for this?",30,21,2010-02-01,AAPL,0.03212874010205269,0.9381938576698303,0.029677370563149452
+apple,"iPad snivelers: put up or stfu, a call to reason",,62,126,2010-02-02,AAPL,0.04555843770503998,0.9245225191116333,0.029919011518359184
+apple,"Sublime Video - Excellent video player for HTML 5. Still a beta, but it ran a hell of a lot better than flash for me.",,55,110,2010-02-02,AAPL,0.010981361381709576,0.09123054146766663,0.8977881073951721
+apple,"Hey reddit, it's time to move on to an open standard. Opt-in to the HTML5 betas now.","I'm getting pretty tired of Flash crashing. It's a proprietary platform and as Steve Jobs put it, Adobe is too lazy to do anything. I think it's time to move on.
+
+For YouTube, all you need to do is go to [http://youtube.com/html5](http://youtube.com/html5) and click on ""Join the HTML5 Beta"". In Vimeo, you click on the link in the bottom, and voila, video will no longer be in Flash. There are [some more detailed instructions here](http://macbound.com/how-to/web-apps/get-rid-of-flash-and-opt-in-to-html5-on-youtube-and-vimeo), if needed.
+
+Let's get rid of Flash together!",36,66,2010-02-02,AAPL,0.051277510821819305,0.9149724245071411,0.033750101923942566
+apple,Maybe the iPad will be shipping with a camera after all,,41,62,2010-02-02,AAPL,0.016397060826420784,0.8976985812187195,0.08590438216924667
+apple,Homebrew: OS X's Missing Package Manager,,28,60,2010-02-02,AAPL,0.03787926957011223,0.9233444333076477,0.03877631574869156
+iphone,Apple releases iPhone software 3.1.3,,30,39,2010-02-02,AAPL,0.0344180166721344,0.9371767044067383,0.02840525098145008
+apple,Where the heck do you get a micro-SIM for the iPad?  Apple's got your back...,"For me the mention that the iPad uses a Micro-SIM was the first I'd heard about that SIM format.   Clearly, based on many media reports about micro-SIMS that people are considering shaving down regular sims in order to be able to use an iPad right out of the gate.  
+
+This is understandable because nobody in the US uses micro-SIMS right now.  Not AT&amp;T nor T-Mobile (The two GSM carriers.)
+
+But what I initially missed, and everyone else seems to be missing is that Apple already announced the solution.  During the Stevenote Steve said (paraphrased) ""You'll be able to activate your AT&amp;T service right from the iPad.""   
+
+Of course, my initial thought was ""thank god, Apple provided a good software solution for AT&amp;T so we don't have to deal with AT&amp;T reps or AT&amp;T crappy website"".
+
+But I missed the piont hidden in there-- how is this possible?
+
+**The solution is obvious, and very Apple:  The iPad ships with a micro-SIM inside it already.**
+
+You don't have to find a carrier that supports micro-SIMS, you just use this Apple app that Steve alluded to, which conects over wifi or over the network -- using the internal micro-SIM -- to set up billing and configure the device for the carrier.
+
+This is the reverse of the typical carrier sales cycle.  You dont' wait in a mall for some teenager to activate your account and configure your device, and thus get your SIM.  You get the device from apple and activate it yourself.   Further, the iPhone ships with a SIM and Apple has built activation into iTunes.  With the iPadt they've taken the final step and you could use the iPad without ever needing to actually connect it to iTunes-- activation is built in. 
+
+I think this is a great technological feat given what's involved, but as is typical for apple, they made it so easy that it was essentially invisible. 
+
+Please don't downmod if you already figured this out.  I'm still reading articles at sites like engadget speculating on how we can make microsims from regular sims, etc.   Clearly many people haven't connected the dots on this one, and when I did, I wanted to share.",36,31,2010-02-02,AAPL,0.05398022383451462,0.915541410446167,0.030478378757834435
+apple,"Leaked Apple Memo on faulty iMac 27"" LCDs: """"exlpain thath slight color variability is normal for LCD displays...(will be contacted in) 3 weeks to arrange a LCD replacement""  Why are ""normal"" panels replaced? [pic]",,14,15,2010-02-02,AAPL,0.0917300134897232,0.8639764189720154,0.04429352656006813
+iphone,iPhone DevTeam has updated redsn0w to be compatible with FW 3.1.2.,,4,15,2010-02-02,AAPL,0.021949265152215958,0.9075905680656433,0.07046016305685043
+iphone,This American Life now has an iPhone app and it kicks ass,,2,14,2010-02-02,AAPL,0.020352626219391823,0.82277512550354,0.15687225759029388
+apple,I just had my ass saved by Time Machine. Anyone else had the same experience?,"After a bizarre and bothersome kernel panic, I rebooted to find my iTunes Library was corrupted. Not too keen on Apple's song and dance about restoring from the iTunes Library.xml file, I realized that my library was probably backed up on my Time Capsule. Lo, and behold, it was--a three hour and fifteen minute-old backup. I restored that, the iTunes Genius, and iTunes Library.xml files. Now my iTunes is grooving again, and I can finish listening to my David Bowie album. I didn't lose a thing.
+
+Anyone else have their ass saved by Time Machine?",86,76,2010-02-03,AAPL,0.046471431851387024,0.9179208874702454,0.03560766205191612
+apple,Anybody else using geektool?,Curious how other people are using geektool (http://projects.tynsoe.org/en/geektool/) I've had fun over the last few days customizing my desktop.,103,72,2010-02-03,AAPL,0.04718615487217903,0.9167328476905823,0.03608103096485138
+iphone,"Interesting facts about the iPhone, and how many applications are currently available &amp; downloaded at the Apple Store.",,18,63,2010-02-03,AAPL,0.026032831519842148,0.941254734992981,0.03271247819066048
+apple,If you happen to often switch between Mac and PC - this might interest you,,30,52,2010-02-03,AAPL,0.02298991195857525,0.92469722032547,0.05231286212801933
+apple,Ask /r/Apple: What are your opinions of the youtube HTML5 beta so far?,"I signed up for the HTML5 beta the day it came out and I was wondering what other mac users thought were on it.
+
+Good stuff:
+
+* I have yet to have a video stop midstream to buffer.
+* Skipping ahead in the video is snappier. 
+* Consistent preload times .
+* No popover ads.
+
+Things I hope they change/fix:
+
+* Volume bar does not work. [At least for me, on the chrome dev build]
+* Click the video to toggle pause/play not working.
+* Spacebar pause/play not working.
+* Add an option to disable autoplay. 
+* Progress bar is not always accurate.",45,32,2010-02-03,AAPL,0.02861589379608631,0.923525869846344,0.04785823076963425
+apple,MBP laptop display does not wake up after sleeping for 2 + hours when connected to external display; AppleCare suggested restarting every time it happens.,"Background: I have a non-unibody 15"" MBP attached to a 23"" Acer Widescreen HD Display.  My computer is set to never go to sleep and the displays are set to sleep after 30 minutes.  I leave my computer on almost all the time and twice in the past four days when I go to wake my computer up in the morning, the external display responds but my laptop display does nothing.  Naturally the first time it happened I restarted my computer and the display starting working, so I thought it was a one time deal.  It happened again this morning, but instead of restarting, I called AppleCare for assistance.  The tech suggested I change my energy settings for my displays to never go to sleep (!!), take notes when it happens again and restart to fix the problem.  Normally I would be a bit frustrated with this response and ignore it until it became a bigger issue; but I am leaving in a month to do research on a ship in the middle of the pacific ocean for 34 days where I will not have an external display or constant internet access, so if this issue decides to become a bigger issue while I am at sea, I am fucked.  Because AppleCare was a waste of time and a simple google search did not turn up anything useful, I am posting here in the hopes that someone will a) have experienced this problem before and know how to fix it or b) tell me something more useful than ""restart"".
+
+tl;dr - My laptop display doesn't wake up after 2+ hours of sleeping and I need to figure out why as soon as possible.
+
+EDIT: I have tried ""detecting displays"" when my laptop display is unresponsive.  Doesn't work.
+
+EDIT 2: I really appreciate everyone's responses: not only are you awesome, you are useful :)
+
+UPDATES: Because of Keat83's [comment](http://www.reddit.com/r/apple/comments/axmqq/mbp_laptop_display_does_not_wake_up_after/c0jxiul), I called Apple Care again to see if this issue is a result of a jacked NVIDIA card.  I got a different tech this time who quickly put me through to the ""Senior"" tech.  Apparently my issue is not related to the NVIDIA card, maybe, but is something Chris has never heard of before.  We deleted some Power Management Preferences in /Library/Preferences/SystemConfiguration and he *thinks* that should fix the problem.  Otherwise I have to call him back and most likely send in my computer.  I will try and keep this updated until it is fixed for those who have this issue in the future.  Thank you all!!!",37,24,2010-02-03,AAPL,0.1305188238620758,0.8404285311698914,0.029052644968032837
+iphone,Safari on 3.1.3 gets 100 on the Acid3 test! [iPhone Screenshot],[deleted],5,13,2010-02-03,AAPL,0.013149695470929146,0.8091826438903809,0.17766761779785156
+apple,Safari on 3.1.3 gets 100 on the Acid3 test! [iPhone Screenshot],[deleted],2,7,2010-02-03,AAPL,0.013149695470929146,0.8091826438903809,0.17766761779785156
+apple,Favorite games for mac?,[removed],18,7,2010-02-03,AAPL,0.03269214183092117,0.930570662021637,0.03673716261982918
+apple,The Secret Diary of Steve Jobs  :  Worth noting: Eric never recused himself from our iPad discussions,,0,4,2010-02-03,AAPL,0.052875395864248276,0.9150798916816711,0.032044667750597
+iphone,"Don't Worry Ma'am, your bank information is safe with me. (why i'm deleting the Bank Of America app from my iPhone)","So I was heading to bestbuy with a friend of mine today, and decided to check my account balance. I signed in with my username (which I guess is autosaved) and my password, which is pretty unique. The next thing I know, I'm in someone else's account, linked to about 6 others (there were 4 savings accounts, labeled by name, I'm assuming kids), a savings account with about $2000 in it and one with a label about a house, I'm assuming again it's a savings, with about $4600 in it. I went to transfer, and, lo and behold, I had access to their accounts. I don't think I could've done anything besides transfer funds between the accounts, but as I went to refresh after checking each account's history, it popped up with my (much poorer) accounts. I took a few screenshots, not that it would help, but I could upload those. Does anyone know how this could happen? Either way, it makes me feel very insecure about my banking information.
+
+edit: here are the screenshots... i blurred out the amounts per account, but these are some shots
+
+[Link One](http://imgur.com/0W396.jpg)
+
+
+[Link Two](http://imgur.com/rhNY9.jpg)
+
+
+[Link Three](http://imgur.com/ObXF0.jpg)",59,125,2010-02-04,AAPL,0.02319878712296486,0.9382190704345703,0.03858213871717453
+apple,What are everyone's favorite dashboard widgets?,"I realized i've had the same widgets on my dashboard for 2 years, and was wondering what everyone's favorite widgets were?",129,64,2010-02-04,AAPL,0.029990296810865402,0.9192359447479248,0.050773732364177704
+apple,"Try this: Open a terminal. Type ""sleep 3 &amp;&amp; killall Dock"". Hit return, then quickly Shift-Minimize the window. Enjoy.",,34,42,2010-02-04,AAPL,0.031941547989845276,0.9158936142921448,0.052164897322654724
+apple,I have an interview at an Apple Store on Monday. Any tips?,"So, out of the blue (I applied for these positions back around Thanksgiving/Christmas time), I got a call today from a store manager of one of my local Apple Stores wanting to schedule an interview with me soon. I have it on Monday. He didn't say for which position I was being interviewed. I know at this particular location, I applied for Specialist and Concierge.
+
+Has anyone interviewed or worked for an Apple Store? What are some things to expect or tips?",66,22,2010-02-04,AAPL,0.04644220694899559,0.9213458299636841,0.03221196308732033
+mac,Help! Just bought a new Macbook Pro. Three days ago I splashed literally a drop of herb tea on the track pad. The cloth I grabbed to wipe it wasn't very absorbent and a miniscule amount of liquid seeped through the cracks. Now the trackpad doesn't click. What should I do? (x-post from r/applehelp),[removed],15,11,2010-02-04,AAPL,0.03196078538894653,0.9076712727546692,0.060367923229932785
+apple,AT&amp;T to invest $18-19B in mobile network,,5,11,2010-02-04,AAPL,0.018586892634630203,0.9354851841926575,0.04592793062329292
+apple,Need advice: Bought a new Macbook Pro a month ago. Three days ago I splashed literally a drop of herb tea on the track pad. The cloth I grabbed to wipe it wasn't very absorbent and a miniscule amount of liquid seeped through the cracks. Now the trackpad doesn't click. What should I do?,[removed],112,10,2010-02-04,AAPL,0.055015817284584045,0.9088683128356934,0.036115895956754684
+apple,Does the iPad delete all your saved media files associated with an application if that application is uninstalled?,,15,7,2010-02-04,AAPL,0.023764178156852722,0.9299381971359253,0.04629761725664139
+iphone,Apple stopped signing 3.1.2 today - Be careful when restoring from now on if you are jailbroken,,3,4,2010-02-04,AAPL,0.2639254927635193,0.7003874182701111,0.035687100142240524
+iphone,Need to read calendar invites (ics files) on iPhone?  Try this...,,1,4,2010-02-04,AAPL,0.033773668110370636,0.929625928401947,0.036600444465875626
+apple,"""With Flash Player 10.1, we are optimizing video rendering further on the Mac and expect to reduce CPU usage by half""",,130,196,2010-02-05,AAPL,0.336444616317749,0.47318485379219055,0.1903705596923828
+apple,FINDER PILLOW! [pic],,34,63,2010-02-05,AAPL,0.056594185531139374,0.8882864117622375,0.05511942133307457
+iphone,"Clicking the App Store links embedded on sites now loads a handy web page, rather than launching Apple’s resource-hog jukebox application",,9,48,2010-02-05,AAPL,0.0377737395465374,0.9335253834724426,0.0287008099257946
+apple,This is probably the one thing that would tempt me to buy an iPad,,12,31,2010-02-05,AAPL,0.014610043726861477,0.9009661078453064,0.08442389965057373
+iphone,Why does the Video app run when you listen to music?,,7,14,2010-02-05,AAPL,0.03509542718529701,0.9387783408164978,0.026126250624656677
+apple,Trouble uploading to MobileMe? I just tried this and it solved a problem that's been ongoing for... well... forever.,"I've always had issues with horrible upload performance to my iDisk. Even the smallest files hang or take forever to transfer. [Honestly, I don't know why I keep paying for it, but that's another story.]
+
+After unsuccessfully trying to connect using the Cyberduck WebDAV client, I connected to my iDisk in the Finder via HTTPS. Speed is now lightning fast.
+
+In the Finder, Go&gt;Connect To Server [command+k], then enter 
+    https://idisk.mac.com/accountname  
+
+Obviously, *accountname* is going to be your MobileMe account name.
+
+Enjoy.
+
+Edit: command+k in the Finder automatically mounts the volume as a WebDAV volume. No need for third party utilities.",5,13,2010-02-05,AAPL,0.04360193759202957,0.9292569756507874,0.027141105383634567
+iphone,SlingPlayer Mobile App for 3G Mobile Broadband Network Returns,,1,11,2010-02-05,AAPL,0.015983281657099724,0.9260786175727844,0.057938121259212494
+mac,Maximising windows with keyboard shortcut,"For a while, I've been using [Size-Up](http://www.irradiatedsoftware.com/sizeup/) for maximising windows (I never use the Space-switching or other stuff).
+
+But! I realised today you can set up a window-maximising shortcut without extra software. Just go to:
+
+ *  menu
+ * System Preferences...
+ * Keyboard &amp; Mouse
+ * Keyboard Shortcuts
+ * click '+'
+
+Set Application to **All Applications**, Menu Title to **Zoom** and whatever shortcut you want.
+
+Apparently, it's not a silver bullet, but I've yet to find an app it doesn't do the right thing with!",7,11,2010-02-05,AAPL,0.030219845473766327,0.9295740127563477,0.0402061864733696
+apple,Cooking with the iPhone? Put it in a plastic bag -- touchscreen still works!,,10,10,2010-02-05,AAPL,0.024868067353963852,0.8752639293670654,0.09986808896064758
+apple,"On Napkins, programmers, and Apple's attention to detail.",,16,10,2010-02-05,AAPL,0.1069263368844986,0.7765472531318665,0.11652644723653793
+apple,OS X Hidden Gems,,89,183,2010-02-06,AAPL,0.03541494160890579,0.9180688261985779,0.04651618003845215
+apple,Why Steve Jobs is pissed at Adobe,,43,47,2010-02-06,AAPL,0.425577312707901,0.5059945583343506,0.06842808425426483
+apple,"Unreleased Core i7 MacBook Pro 6,1 Benchmarked",,20,45,2010-02-06,AAPL,0.020359767600893974,0.9061709046363831,0.07346933335065842
+iphone,"Buy a 3GS now, or wait for a potential iPhone 4G?","I'm growing tired of my Nokia 5800 (iPhone killer, yeah right), so I'm finally growing the balls to spend all that money on a phone that _just works_. I already have an iPod Touch, so I know from experience what the iPhone OS is capable of compared to phones I've had before (ironic when my MP3-player is a better smartphone than my smartphones). However, I'm thinking about whether or not it's a good idea to wait a few months and see if Apple releases a new model. From what I can gather, it would be around May/June, which isn't that far from now. Then again, what can Apple put in the phone that it doesn't have already, and that I might actually _need_. Will it just be bling?
+
+What do you think? Are there any rumors that sound believable? Do you think it'd be worth the wait?
+
+Edit: Thanks guys! Seems I'll wait. A faster chip does seem likely, if the speed of the iPad is anything to go by, and I wouldn't say no to a better camera. With all the great camera apps and possibilities, a camera that's actually _good_ would be worth quite a lot.",106,33,2010-02-06,AAPL,0.017174094915390015,0.8104233145713806,0.17240260541439056
+apple,Apple iPad’s tiny SIM is just there to mess with you,,17,17,2010-02-06,AAPL,0.016058964654803276,0.894400954246521,0.08954013884067535
+apple,"Charlie Rose Brings Carr, Arrington, and Mossberg To the Virtual Round Table For iPad Chat",,10,9,2010-02-06,AAPL,0.025025460869073868,0.9349954128265381,0.039979081600904465
+apple,My Macbook has &lt; 5GB left. What's the best (cheapest) route to go?,"I've never had an external HD before. I have 60GB+ of music and I cannot delete the applications I have because I need them all. I'm trying to find the best route to go, external HD? What should I put on it? And if I put my music on it, can I play it regularly as long as it's plugged in? I'm usually not at a desk on my computer, I just sit on my bed, I don't know if that matters. 
+
+I was looking on craigslist and someone from my school is offering ""Seagate 320 gb external harddrive - $35"" and said ""This is a seagate 320 gb external hard drive that i have barely used since I've had it and I'm selling because I got a bigger backup drive. Works fine. Is partitioned for Mac use but if you have Windows I can repartition it for you ahead of time if you want."" Good deal?",49,7,2010-02-06,AAPL,0.032176315784454346,0.9127483367919922,0.05507536977529526
+iphone,Need advice on what app is the best to remote control my computer.,I have a Windows XP computer I would like to remote control. Would like suggestions on what experience some have had in using apps to do that. Thanks.,13,6,2010-02-06,AAPL,0.014678866602480412,0.9036701917648315,0.08165087550878525
+mac,Newb Question: Deleting Files,"I'm a fairly new Mac user and I'm not too sure how to delete files. Do I just need to put the files in the Trash and empty the trash?
+
+Thanks for the help.",9,6,2010-02-06,AAPL,0.05153116211295128,0.9050383567810059,0.04343043640255928
+iphone,IPHONE RINGTONE MAKER PORTABLE,,0,1,2010-02-06,AAPL,0.024378016591072083,0.9101753830909729,0.06544660776853561
+iphone,"""I'm making an iPhone app in a week, and you can watch.""",,5,28,2010-02-07,AAPL,0.03790866211056709,0.8650649785995483,0.09702634066343307
+iphone,How to hide those stupid games/surveys on your iPhone Facebook app.,Pro Tip- After hiding all those stupid ass games with your computer that your friend post all over the place you logoff Facebook on your iPhone and log back in and they will be hidden there as well.,12,24,2010-02-07,AAPL,0.07180988788604736,0.903260350227356,0.024929720908403397
+iphone,iPhone bad battery symptoms and best replacement options?,"I've had a 3G for almost two years and it just started dying when the battery is still at around 50%. When I turn it back on, the battery shows 1%. It still takes a charge and acts normally until about 50% battery charge and then dies again. Is this the behavior of a dying battery, or something else? 
+
+The AT&amp;T store wants over $100 to replace the battery and send it back to Apple, where it gets wiped. Are there better alternatives for the less-than technical among us? Google comes up with a bunch of website offers that look fishy.",7,15,2010-02-07,AAPL,0.08018248528242111,0.8655758500099182,0.054241690784692764
+iphone,"Newly Jailbroken Iphone, cydia apps.","Just jailbroke my iphone and started getting themes and apps from cydia, What apps does reddit recommend?
+
+Also: Is it supposed to be slow? especially when reloading packages?
+
+Thanks",15,8,2010-02-07,AAPL,0.08493632078170776,0.8835151791572571,0.03154850751161575
+apple,I can use CMD to reorder all of my system tray icons except for Google's (Notifier and QSB). Does anyone know how to fix this?,Does this bother anyone else or am I just being picky?,30,7,2010-02-07,AAPL,0.039060916751623154,0.9281489849090576,0.03279001638293266
+iphone,SwapKit library reaches 1.0! Mover 3.1 (with SwapKit) now under review!,,5,5,2010-02-07,AAPL,0.027679216116666794,0.9187118411064148,0.05360891669988632
+mac,Newb Question: Remap capslock to escape?,"First day on a mac, I'm entirely lost here. Coming from linux I miss having my capslock key be escape (vim user). Any idea as to how I can accomplish this on a mac?",2,4,2010-02-07,AAPL,0.037318721413612366,0.9078251123428345,0.05485619232058525
+iphone,"Ask /r/iPhone: My mom is traveling from Denmark 
+to The States soon, and wants to be able to make 
+local calls...","The phone is all new, so I'm guessing I'll have to jailbreak the sucker first.
+
+My question is: if I have an unlocked iPhone, can I buy some sort of pre-paid sim card over there that will work with her iPhone so she can make local calls? She's only staying for a few weeks, so a subscription is complete overkill...
+
+Thanks =)",13,4,2010-02-07,AAPL,0.030751606449484825,0.9184799790382385,0.05076843500137329
+iphone,"Reviews of the *worst* iPhone apps, just for the hell of it I suppose",,0,1,2010-02-07,AAPL,0.5148128271102905,0.4216386675834656,0.06354858726263046
+iphone,"Tale of Tales First Foray into iPhone Gaming, ‘Vanitas’",,0,1,2010-02-07,AAPL,0.013831790536642075,0.8097794055938721,0.17638880014419556
+apple,"Please stop calling the iPod Touch the ""iTouch""",[deleted],225,97,2010-02-08,AAPL,0.06461226940155029,0.9139326214790344,0.021455097943544388
+iphone,"AT&amp;T Executive John Stankey: ""I Don't think you can have an unlimited model forever.  More people get drunk at an open bar than a cash bar.""","From Feb 15th Business Week article ""AT&amp;T's iProblem"". 
+
+AT&amp;T doesn't get it. Instead of giving customers what they want by investing in rapidly improving their network, they consider metering usage as a way to slow down usage.",19,53,2010-02-08,AAPL,0.08835151046514511,0.8801423907279968,0.03150606527924538
+apple,iPhone OS 3.1.3 has shortened my battery life and started crashing/sudden-shutdown my iPhone 3G. Anyone else having issues?,"I am running it non-jailbreaked OS 3.1.3 with my 16GB iPhone 3G (aka 2nd gen iPhone). Ever since updating my phone's software a few days ago it started exhibiting this bad behavior.
+
+The battery life seems to have taken a noticeable dive post-update and occasionally the phone will suddenly shut itself down without warning. Not just ""crash"" a program, but actually go black with the spinning icon and then shut down.
+
+I'm going to do a full software restore (ugh) and then see if it works better, but wanted to see if anyone else was experiencing issues.
+
+EDIT: After a search of the apple support forums, [I am clearly NOT ALONE](http://discussions.apple.com/thread.jspa?threadID=2324303&amp;tstart=0)",35,25,2010-02-08,AAPL,0.4521109163761139,0.52732914686203,0.020559925585985184
+iphone,PwnageTool for iPhone OS 3.1.3 released for the version obsessed,,3,10,2010-02-08,AAPL,0.024769779294729233,0.9342567324638367,0.040973544120788574
+apple,Reformatting my HD....need to use Time Machine.  I have a couple questions....,"So, I need to reformat my MacBook Pro because I had partitioned it, then undid it, and now I want to partition it again.  For anybody who has done this...well, you can't partition your HD twice without having to reformat it (fucking lame).  
+
+My main question was--can I use any external HD to back up my MacBook?  If the external HD already has stuff on it...will it still work?
+
+I really have no idea what to do.  Any help would be greatly appreciated",30,9,2010-02-08,AAPL,0.016602056100964546,0.861820638179779,0.12157731503248215
+mac,5 things to watch for at Macworld,,0,7,2010-02-08,AAPL,0.029351621866226196,0.9228326678276062,0.04781569913029671
+apple,"MacBook Pro 5,1 2.66GHz Screen Flicker/Flash Black","Lately the screen on my MBP 5,1 has started flashing black sometimes just the top 3 inches other times the whole screen. Either way it only lasts less than a second. Has anyone found a solution? 
+
+[This is whats happening](http://www.youtube.com/watch?v=xJMuYneBLLE)",18,4,2010-02-08,AAPL,0.03438592329621315,0.9178853034973145,0.04772872105240822
+iphone,Ask r/iphone: iPhone restore and game saves,"I have a newish, unjailbroken iPhone and am thinking to upgrade to the latest OS. Does anyone know if the game saves and app data will be retained, or am I going to lose them? How about Stanza books that I transferred from my computer?
+
+In a similar topic, what if you delete a game from an iPhone, is there a way to restore the game saves after reinstalling the game?",13,3,2010-02-08,AAPL,0.046547338366508484,0.9140187501907349,0.03943394124507904
+apple,"iTunes is certainly imperfect and doesn't suit everyone's needs or preferences, but this blanket dismissal of users annoys me.",,4,3,2010-02-08,AAPL,0.03557434678077698,0.9259482622146606,0.038477346301078796
+iphone,Want to keep track of what your MP is up to? There's an app for that.,,0,3,2010-02-08,AAPL,0.03025014139711857,0.9390578269958496,0.030692042782902718
+apple,I made a desktop background some of you may enjoy.  It's an updated take on the classic rainbow Apple logo.,,36,168,2010-02-09,AAPL,0.009293067269027233,0.8231803774833679,0.16752657294273376
+apple,The tweet that infuriated Steve Jobs,,12,44,2010-02-09,AAPL,0.05693028122186661,0.8934708833694458,0.049598775804042816
+iphone,GeoHot: No Jailbreak for iPhone 3GS or iPod Touch 3rd Gen on OS 3.1.3,,33,27,2010-02-09,AAPL,0.019637063145637512,0.9222988486289978,0.05806409940123558
+apple,The new version of Aperture looks awesome,,18,27,2010-02-09,AAPL,0.013408609665930271,0.7517317533493042,0.2348596304655075
+iphone,My free guitar tuner app...because you shouldn't have to pay for a tuner. (updated with different tunings),,18,25,2010-02-09,AAPL,0.025578785687685013,0.924527645111084,0.04989355057477951
+apple,"Hey Apple reddit. I worked for Apple Inc. for 2 years in iPod, then iPhone, then desktop/portables. Ask me anything! I'd love to talk.",,51,20,2010-02-09,AAPL,0.02651057578623295,0.9242391586303711,0.049250297248363495
+iphone,Reading is fun again with the amazing power of WebApps,,7,14,2010-02-09,AAPL,0.025595033541321754,0.9098317623138428,0.06457317620515823
+apple,1983 to 2010... the Apple iPad (pic),,5,14,2010-02-09,AAPL,0.01917911320924759,0.911572277545929,0.06924864649772644
+apple,Apple Releases Aperture 3; Macintosh News,,6,10,2010-02-09,AAPL,0.020425502210855484,0.9057568311691284,0.073817677795887
+mac,"The Apple Store, down for some time, is now back up with brand spanking new...",,3,10,2010-02-09,AAPL,0.03188245743513107,0.8822427988052368,0.08587470650672913
+apple,Microsoft on iTunes in 2003: 'We were smoked',,45,100,2010-02-10,AAPL,0.024519605562090874,0.931974470615387,0.04350590333342552
+apple,"Meat stylus for the iPhone -- Yes, it's exactly what you think it is.",,11,97,2010-02-10,AAPL,0.020418288186192513,0.9017545580863953,0.07782717049121857
+iphone,You know how Safari on the iPhone doesnt allow file uploads? I built a free app that uses imgur's excellent API to help get around that.,,12,65,2010-02-10,AAPL,0.011994454078376293,0.750089704990387,0.2379157990217209
+apple,reddit on the iPad (simulator)...,,39,46,2010-02-10,AAPL,0.045594047755002975,0.9173309206962585,0.037074971944093704
+iphone,"Opera Mini for iPhone announced, but wait…Why?",,17,46,2010-02-10,AAPL,0.026433218270540237,0.891958475112915,0.08160830289125443
+apple,"Aperture 3 delivered more than Faces, Places, and Brushes — they also got a few esoteric wishes that other photographers told me I'd never see","I've been waiting a long time for Aperture 3 to deliver Faces, Places, and Brushes.  They were at the top of my wish list and knew that Aperture 3 wouldn't appear without them.  What I didn't expect is that they'd get a few other things on the list that other photographers told me I'd never see.
+
+* Video and audio support.  They told me to forget about it.  Aperture would never include general media support, so I have movies hiding in iPhoto and audio in iTunes.  I can't wait to put all my memories into one place again.
+* Autosplit projects on import with adjustable preview.  I hated shooting several memory cards worth of photos from different locales and events only to have to sort through them after brining them in to Aperture.
+* Drag and drop improved: project merging and import (finally).  I was told on a forum that pro apps were too sophisticated for drag and drop.
+* Library switching and chooser.  All library-based programs (iTunes, iPhoto, Papers, etc.) should work this way.
+* Usable metadata entry fields with LCD display and autofocus regions.
+
+I wasn't expecting Aperture 3 this morning.  I haven't heard a whisper about it, despite checking online for rumors for the past year.  I am a happy camper.",23,30,2010-02-10,AAPL,0.04649229720234871,0.9259318113327026,0.027575869113206863
+iphone,Wolfram Alpha iPhone app now supports input of scientific symbols,,4,17,2010-02-10,AAPL,0.01197186391800642,0.9154424071311951,0.07258573174476624
+iphone,Anyone know of a calculator for the iphone similar to a TI-85?,,13,11,2010-02-10,AAPL,0.022480279207229614,0.9322385787963867,0.045281197875738144
+apple,Wired: Looking at the iPad as a replacement for your MacBook.,,39,11,2010-02-10,AAPL,0.01645301841199398,0.8822819590568542,0.10126497596502304
+iphone,bookmarklet for a decent safari in page search. betatesting anyone?,,4,7,2010-02-10,AAPL,0.029938830062747,0.931465208530426,0.03859597072005272
+apple,Google Releases New Google Chrome Beta for Mac (supports extensions.. adblock anyone?),"For anyone who may be interested, I just installed and it seems to be working well. Adblock works wonderfully; I've been waiting for it for a long time.",68,76,2010-02-11,AAPL,0.03525780513882637,0.9107114672660828,0.05403067544102669
+apple,When the PC is a Toaster.  Similarities between the iPad launch and the Macintosh launch.,,3,24,2010-02-11,AAPL,0.022328654304146767,0.9331561326980591,0.04451524466276169
+apple,So I just bought an iBook G4 to replace my netbook,[deleted],47,21,2010-02-11,AAPL,0.024447495117783546,0.9307307004928589,0.044821809977293015
+iphone,I just had my first desktop sharing teleconference on the iPhone using Cisco's Webex service with their iPhone app.,"I don't know about other smartphones, but on the iPhone, this was actually usable.  A completely functional way to attend a meeting remotely.",1,12,2010-02-11,AAPL,0.014732593670487404,0.9207471609115601,0.06452019512653351
+iphone,Hey Reddit. I'm writing a native Google Buzz application (video inside). Any ideas or suggestions?,,9,10,2010-02-11,AAPL,0.03012949787080288,0.9371698498725891,0.03270072489976883
+mac,A few questions,"I started use a Mac for some things at work and there are a few annoyances that I can't get over. Here is what I would like to know:
+
+* Is there any way to make the green button (on a window's title bar) actually maximize a window? It seems to toggle between two random sizes and I can't find any options to change that behavior. **Solution**: [RightZoom](http://www.blazingtools.com/downloads.html) (scroll down)
+* Is there any way to make the elevation windows more like UAC so I don't need to type a password every time?
+* Is there a keyboard shortcut for (forward) delete? **Solution**: fn + Delete
+* Can I disable that boot-up sound? Again, I couldn't find it in preferences. **Solution**:  [StartupSound.prefPane](http://www.tech-recipes.com/rx/2721/os_x_disable_mac_startup_sound/)
+
+Edit: Thanks for the help Reddit. Solutions added for reference.",23,7,2010-02-11,AAPL,0.016130145639181137,0.91409832239151,0.06977155804634094
+apple,Will we ever get OneNote?,"It's the killer Windows app I want. Evernote does not cut it, and notepad view in Word is lame as hell.",12,7,2010-02-11,AAPL,0.05574442446231842,0.9191109538078308,0.025144683197140694
+apple,Apple Reddit: I found a treasure trove of obsolete apple software! Get your legit copy of System 7.5.5 here!,,4,7,2010-02-11,AAPL,0.026918020099401474,0.9250987768173218,0.04798322916030884
+apple,"Apple - Download the 10 billionth song and win a $10,000 iTunes gift card.",[deleted],11,6,2010-02-11,AAPL,0.015689648687839508,0.8873431086540222,0.09696727991104126
+apple,"/r/apple, I now have two internet connections. How do I use them both simultaneously?","My DSL is essentially free, but it's slow.
+
+My cable is fast, but it's shared with the rest of the house and they don't like me using up all the bandwidth.
+
+How can I set it up so that all my downloads are using the DSL connection while everything else uses the cable connection?
+
+Using Snow Leopard, ethernet for the DSL, and AirPort for the cable.
+
+Edit: I forgot to mention I want to do it without having to buy or configure any additional external hardware. I want to all be done in OS X. Both are currently connected, I can switch between the two, but I can't use both at the same time. How can I use both at the same time?
+
+Edit 2: If I can't do it easily via software (which seems to be the case), I might just put my downloads in a VM and have it use the DSL connection as its main.",20,4,2010-02-11,AAPL,0.023202864453196526,0.9460089802742004,0.030788127332925797
+apple,Chris Anderson kidding Bill Gates at the TED stage (pic),,18,89,2010-02-12,AAPL,0.04576117545366287,0.918237566947937,0.03600126504898071
+iphone,iPhone Explorer Turns Your iPhone or iPod touch into a Disk Drive,,3,44,2010-02-12,AAPL,0.019368670880794525,0.9149152040481567,0.06571605056524277
+apple,Office for Mac 2011 finally introduced.,,76,43,2010-02-12,AAPL,0.017730610445141792,0.8751177787780762,0.10715154558420181
+apple,"What ""to-do"" iPhone app do you use?","And while we're on the subject, what is your note app of choice?",45,23,2010-02-12,AAPL,0.023901712149381638,0.9441395401954651,0.03195871785283089
+mac,I thought things were running slow. Now they're not.,,2,17,2010-02-12,AAPL,0.3005322813987732,0.6415894627571106,0.0578782893717289
+apple,"Does anyone know a way that I can play ""Choplifter"" for Apple II on my MacBook?",[deleted],8,12,2010-02-12,AAPL,0.030068954452872276,0.9236277341842651,0.04630330204963684
+apple,Anyone know where I can find an old apple game called Barney Blaster?,I used to play this game when I was a kid and have been unable to find it. Its a called Barney blaster and is basically asteroids but with barney's.,10,5,2010-02-12,AAPL,0.02654927410185337,0.94444739818573,0.02900337055325508
+iphone,Spelling Toy iPhone App Released,,1,4,2010-02-12,AAPL,0.01666860468685627,0.904854953289032,0.07847646623849869
+apple,Apple Logo Art,,1,3,2010-02-12,AAPL,0.04542769864201546,0.9290849566459656,0.025487303733825684
+apple,does this mean we can tether our laptops to our iPhones now?,,8,3,2010-02-12,AAPL,0.019892970100045204,0.9044861793518066,0.07562082260847092
+apple,How many of you are waiting for Apple to update the MacBook Pro so you can buy one?,"I need to buy one, but I'm waiting for the update. It's taking FOREVER!",200,219,2010-02-13,AAPL,0.036018580198287964,0.9112798571586609,0.05270162597298622
+apple,"Dear World, MAC is Media Access Control.  If you're referring to the computer, it's Mac.  As in Macintosh.  Thank you.  Love, Me.",[deleted],45,98,2010-02-13,AAPL,0.02760605327785015,0.9170834422111511,0.05531047657132149
+mac,30+ Super Secret OS X Features and Shortcuts | Mac.AppStorm,,12,55,2010-02-13,AAPL,0.03979436680674553,0.9223170280456543,0.037888649851083755
+iphone,How many oranges does it take to charge an Apple? (video),,10,34,2010-02-13,AAPL,0.026438571512699127,0.9341211915016174,0.03944021463394165
+iphone,Force iTunes to believe you have iPhone OS 3.1.3 Installed,,14,28,2010-02-13,AAPL,0.014196238480508327,0.8735296130180359,0.1122741550207138
+apple,"Hey Reddit! Check out what I did over my winter break! I know some of you have been coding since you were young, but hey you got to learn sometime!",,21,25,2010-02-13,AAPL,0.0692446231842041,0.8684275150299072,0.06232780963182449
+apple,The iPad that launched a thousand apps; huge surge in application development in anticipation of iPad release,,1,9,2010-02-13,AAPL,0.015122275799512863,0.8640024662017822,0.12087524682283401
+iphone,Poll Technica: How much 3G data are you using on your iPhone?,,8,7,2010-02-13,AAPL,0.023629195988178253,0.9382602572441101,0.03811052069067955
+apple,Dear AppleReddit: Need boot help. I kinda jacked up my new MacBook Pro.,"Okay, so I decided to try and use BootCamp and install Win7RC (Build 7100) on a 40gig partition on my base model 13"" MBP.
+
+I used BootCamp Assistant to create the 40gig partition and proceeded to install Win7. Win7 said it couldn't install on the BC partition because of incorrect formatting, so I told the installer to format the partition to NTFS and finished installing.
+
+Needless to say, I found Win7 to be a pain in the ass because half of the things in my MBP didn't work and didn't have Win7 equivalent drivers. So, I got fed up with it and decided to wipe the partition and merge it back with my main OSX partition.
+
+This basically went fine (after I figured out how to boot back into OSX by holding the Option key during startup), but now the MBP keeps trying to boot into the missing partition and stalls out whenever I reboot unless I do the Option key thing and tell it to boot from the OSX partition.
+
+So, the question is: how do I set the machine so that it automatically boots back into the correct OSX partition?
+
+Any help would be greatly appreciated.",16,6,2010-02-13,AAPL,0.09162429720163345,0.8511430621147156,0.05723267421126366
+apple,Perfect Valentine's Day for Apple Fanboys,,0,4,2010-02-13,AAPL,0.03200727328658104,0.9075897336006165,0.06040295213460922
+apple,"Hey /r/apple, what does your Adium look like‽",[deleted],105,24,2010-02-14,AAPL,0.030124153941869736,0.9234568476676941,0.04641898348927498
+apple,How to Use Your Mac as an Xbox Live Wireless Adapter [vid],,11,23,2010-02-14,AAPL,0.022275682538747787,0.9273134469985962,0.050410907715559006
+apple,Hey /r/apple - When you want to find a new application what's the first download site you try?,"I know that they say for every little organising job there's an Apple Script or Automator Action—but I'm just not smart enough to figure that stuff out for myself.
+
+I, like millions of other Mac users, rely on those clever people out there who are also generous enough to share either for free or a nominal fee, their useful little single function apps.
+
+But where do you turn when you need one of these little applications in a hurry?  It's all very well using the built-in Apple Menu shortcut to the apple.com download page when you know the name of a widget or shareware app you've already used before.  But what about finding new applications and hidden gems?
+
+Here's a list of some of the download sites I use.  If you know of more, please leave a comment.
+
+http://osx.iusethis.com/ - Works like reddit to upvote or downvote applications you use or recommend
+
+http://www.versiontracker.com/macosx/ - The filter to hide commercial and demo versions doesn't always work, but there's usually always a niche app on here when no other site can help
+
+http://mac.softpedia.com/ - Another site which makes it hard to search for indy developers over big commercial titles
+
+http://download.cnet.com/mac/ - Download.com from CNet
+
+http://macupdate.com/ - Another frustratingly slow to load, doesn't always work filter design—but at least you can search by free / open / shareware without jumping through hoops
+
+http://mac.oldapps.com/ - For apps whose latest version breaks functionality",29,17,2010-02-14,AAPL,0.036290254443883896,0.9292352199554443,0.034474533051252365
+apple,Track an applications usage of the file system with the OpenSnoop utility,,7,17,2010-02-14,AAPL,0.07231405377388,0.9076901078224182,0.019995851442217827
+iphone,"Now that Appulous is gone,",anyone know of a similar site to use?,27,13,2010-02-14,AAPL,0.03377179056406021,0.9412156343460083,0.02501256950199604
+iphone,Is there a way to install iphone 3.12 software over 3.13 in order to jailbreak?,[deleted],14,9,2010-02-14,AAPL,0.14652195572853088,0.8322259783744812,0.021252039819955826
+apple,I thought someone will find this useful: OpenOffice.org 3.2 came out last week,"It's a native OS X app since 3.0, and now it is much snappier on OS X. I recommend to [download it from go-oo.org](http://go-oo.org/download/) because it incorporates some patches not accepted by Sun, which makes OpenOffice.org even more compatible with MS Office. [Info](http://go-oo.org/)",4,6,2010-02-14,AAPL,0.018876738846302032,0.8900458216667175,0.09107742458581924
+apple,Some old photos of the Sydney Apple Store Opening. I was among the first 100 in. Who recognises themselves in the queue?,,0,4,2010-02-14,AAPL,0.020001273602247238,0.7173526287078857,0.2626461088657379
+apple,Anybody know how to remove the window reflections from the dock?,"I'm not talking about the indicator lights, I'm talking about the reflection of open apps in the dock, it kinda annoys me. 
+
+I don't want to change the dock to 2D, nor do I want to have it set to auto-hide. Any help?
+
+[P.S. Share any dock customization sites you have.]",13,4,2010-02-14,AAPL,0.04270872846245766,0.9272488355636597,0.030042417347431183
+apple,"Finally you can use your 27"" iMac as a display for PS3 or XBox","Finally someone is producing an HDMI to mini-display adapter.  Now I can finally begin to put my 27"" iMac to good use playing PS3 games.  Yes, I know it's $149 and won't be available till April, but at least it's being made and isn't vaporware like Belkin's supposed HDMI -&gt; mini-display.
+
+http://kanexlive.com/products/item.aspx?id=3662",3,3,2010-02-14,AAPL,0.012905839830636978,0.8790370225906372,0.10805708914995193
+apple,No OS X support for the 7 Series (ZunePhone) is going to hurt MS.,,107,48,2010-02-15,AAPL,0.7658495903015137,0.20691660046577454,0.027233803644776344
+iphone,"Star Wars, The Force Unleashed now only $.99 on iPhone - Was originally $10",,3,28,2010-02-15,AAPL,0.02203085646033287,0.8955429196357727,0.08242617547512054
+apple,Problem: Two MacBooks and a time capsule. How to sync photo libraries.,[deleted],35,20,2010-02-15,AAPL,0.02586757391691208,0.9374437928199768,0.036688610911369324
+apple,Bowtie 1.0 is out with full Snow Leopard compatibility!,,18,20,2010-02-15,AAPL,0.02936791442334652,0.9113677740097046,0.05926433950662613
+apple,Macworld a great time despite—or because of—Apple's absence,,5,17,2010-02-15,AAPL,0.0248660147190094,0.8941582441329956,0.08097580075263977
+apple,Can two Macs use Time Machine to the same non-Time Capsule NAS?,"I'm considering a [Synology DS210j NAS](http://www.synology.com/us/products/ds210j/index.php) which supposedly supports Time Machine out of the box.
+
+Can two Macs both use Time Machine to the same NAS?  I know you can do it with Time Capsule, but I'm not sure if there is anything proprietary that enables it.",19,17,2010-02-15,AAPL,0.018583226948976517,0.9392974376678467,0.042119380086660385
+apple,Attention software developers and download sites: Please stop marking shareware and commercial trial software as 'free download' when there is no mention otherwise of cost!,,14,14,2010-02-15,AAPL,0.06287644803524017,0.9188491702079773,0.018274398520588875
+apple,Weird Flash bug in Chrome for Mac... paused videos randomly start playing after a long interval.,"Has anyone experienced this or have any idea what might be causing it? I couldn't find anything on Google.
+
+This has actually woken me up a couple of times, including last night when I paused an episode of the Daily Show before I went to sleep and it suddenly started playing about an hour later.
+
+edit: Not just for Mac.",15,13,2010-02-15,AAPL,0.19491609930992126,0.775540292263031,0.029543593525886536
+iphone,The future direction of Appulo.us.,,1,13,2010-02-15,AAPL,0.032386310398578644,0.93315190076828,0.034461863338947296
+apple,"To all of the Mac whizzes out there, I need your help!!!","Ok, so my huge problem is that I can't update my computer.  
+
+Every time the administrator name and password prompt comes up, I type in my username and password CORRECTLY, and it never works.  
+
+I haven't been able to update anything since last summer.  The problem isn't that I don't know my password or anything, because whenever I log off, I can type in the password and log in without a problem.  
+
+My questions for you are, have you ever encountered this situation before?  What should I do?  And lastly, will I have to take it to an Apple Store?",39,12,2010-02-15,AAPL,0.15310099720954895,0.8225799798965454,0.024319039657711983
+apple,"The Director of Toy Story 3 uses a MacBook Pro to edit the upcoming film at 36,000 feet (w/ pic)",,120,201,2010-02-16,AAPL,0.020750463008880615,0.9380673170089722,0.041182179003953934
+apple,"Man's house burns down, but his iMac survives.. and still works!",,16,62,2010-02-16,AAPL,0.1310504525899887,0.8086100220680237,0.06033947318792343
+apple,Apple's 10 biggest problems,,54,44,2010-02-16,AAPL,0.05424945056438446,0.8840919137001038,0.06165864318609238
+apple,Microsoft's New Windows 7 Phone Also Doesn't Have Flash,,41,38,2010-02-16,AAPL,0.02432885766029358,0.9236714839935303,0.05199969559907913
+apple,"Apple Reddit, what is your preferred web browser?","I use a blackbook for some perspective, the kind that has the razor edges and is sometimes unpleasant to type on at certain angles.
+
+Switching from PC to Mac I used Firefox, found it too slow and then settled on Camino for a short while before switching to Safari.
+Safari has been fast. Now, I'm a little tired off the way it navigates - specifically how it saves your search history.
+
+With the rising popularity of mac, now there are tons of new browsers.
+Stainless, Chrome, in addition to the ones I've mentioned.
+
+Which browser(s) do you use, and why?",170,36,2010-02-16,AAPL,0.021501924842596054,0.9161684513092041,0.062329623848199844
+apple,"Finally, an acceptable way to connect my mac through HDMI without separate cables.",,8,13,2010-02-16,AAPL,0.014549508690834045,0.8574674725532532,0.1279830038547516
+apple,Final Fantasy is coming to the iPhone... Screenshots and Video included,,4,11,2010-02-16,AAPL,0.03055933676660061,0.9316927790641785,0.037747807800769806
+apple,Steve Jobs agrees to collaborate on authorized biography,,3,10,2010-02-16,AAPL,0.01868734136223793,0.9197961688041687,0.061516471207141876
+apple,"If your product is Great, it doesn't need to be Good.",,1,10,2010-02-16,AAPL,0.0130615234375,0.8768699765205383,0.11006852984428406
+apple,Gruber: Every major mobile platform is now either using WebKit or will be soon. Except for one.,,1,10,2010-02-16,AAPL,0.022775711491703987,0.9472081661224365,0.03001614660024643
+apple,New York Times struggles to figure out which ridiculously high price point is best for its iPad app....$10-30 PER MONTH?   WTF!?,,89,67,2010-02-17,AAPL,0.019710922613739967,0.8419378995895386,0.13835114240646362
+iphone,Extreme Reddit iPhone-App Makover,[deleted],23,31,2010-02-17,AAPL,0.028837546706199646,0.9291349053382874,0.04202756658196449
+apple,"Less but better: Design according to Dieter Rams, the man whose work inspired Apple's style.",,1,13,2010-02-17,AAPL,0.02364589273929596,0.8407873511314392,0.13556666672229767
+apple,The Wired iPad App,,8,9,2010-02-17,AAPL,0.0250246524810791,0.9368730783462524,0.03810229152441025
+iphone,New to Iphone. What should I know?,"Any app suggestions, or online resources I should be reading up on?
+
+I'm also looking for a good screen protector, thoughts?",62,7,2010-02-17,AAPL,0.010221077129244804,0.6882026791572571,0.3015762269496918
+apple,Apple Replacing Some Faulty MacBook Drives for Free Through the MacBook Repair Extension Program,,7,5,2010-02-17,AAPL,0.06600852310657501,0.9074786305427551,0.02651289291679859
+iphone,"Three classic games coming to iPhone - Riven, Military Madness, Rise of the Triad",,4,3,2010-02-17,AAPL,0.02571978233754635,0.839401364326477,0.13487879931926727
+iphone,iPhone 3G app download size limit raised to 20MB?,"I was just updating my iPhone apps, and the usual error ""Application over 10MB  Connect to a Wi-Fi netowrk or use iTunes on your computer to download ________. [OK]"" was replaced with a similar one, but with 20 MB.  Can anyone verify this?  Did apple and ATT just raise the limit?",4,3,2010-02-17,AAPL,0.03816527500748634,0.8929542899131775,0.06888046115636826
+iphone,What Is a Clean-Cut Way to Check for a Faulty GPS Chip (3GS)?,[deleted],8,2,2010-02-17,AAPL,0.07404803484678268,0.8870540857315063,0.03889792412519455
+apple,Why are animated gifs so slow on the iphone/ipod touch?,When opening a animated gif in mobile safari I get 1-2fps. It also seems to slow down even more as the animation progresses?,13,2,2010-02-17,AAPL,0.1594298928976059,0.8158936500549316,0.024676499888300896
+apple,"If the iPad is ""just a big iPod Touch"", and the iPod Touch is awesome, then the iPad is big and awesome.","I just think it's the laziest, stupid critique every time I hear ""it's just a big iPod Touch"".
+
+Good! I'm glad it's that! Months before it ever came out I was hoping it would be exactly that!",164,72,2010-02-18,AAPL,0.02594730630517006,0.8066349029541016,0.16741780936717987
+apple,"Apple Pushes The App Over 3G Download Limit To 20MB, Prepares For The iPad?",,22,58,2010-02-18,AAPL,0.038713064044713974,0.9162259101867676,0.04506099969148636
+iphone,NASA - 3D Sun for the iPhone,,4,37,2010-02-18,AAPL,0.023748358711600304,0.9302495121955872,0.0460021086037159
+apple,"I have an extra 17"" PowerBook. Any suggestions on how to convert it into an TV ?",,62,22,2010-02-18,AAPL,0.02409452199935913,0.9309051632881165,0.04500032961368561
+apple,Ask Apple: What's better than iTunes?,"I'm tired of iTunes. I just traded my iPhone in for a Droid Eris and am pretty much ready to ditch iTunes. So what music apps are better than it? I was using DoubleTwist to sync my Eris, but it turns out to be a lot easier for me to just drag and drop files, so that's not a requirement.
+
+Is there anything along the lines of foobar2000 for OS X?",49,18,2010-02-18,AAPL,0.01478546392172575,0.8451828360557556,0.14003166556358337
+apple,Is there any way to stream music to external speakers like the airport express does using an airport extreme?,Maybe a USB-to-3.5mm headphone jack output? Or some hacky way I havent thought of yet?,7,2,2010-02-18,AAPL,0.03423432260751724,0.9270948171615601,0.038670897483825684
+apple,What is the best FREE Outlook/Entourage replacement for my mac?,"Unibody MacBook OSX Leopard
+
+Thanks apple reddit!",14,2,2010-02-18,AAPL,0.02643577568233013,0.9143795967102051,0.05918465927243233
+apple,"Hey Apple, what are some software that you used to use, but has now fallen by the wayside?","I used to use iClip back when I was on OS X Tiger, but I haven't used it in forever and now I found out that the developer isn't even offering it anymore (business closed down) - check it: [inventive.us](http://inventive.us)
+
+Also, what about Unsanity? No one hears much coming from them anymore.
+
+What are some other software that used to be popular for the Mac, but has now generally been forgotten?",21,2,2010-02-18,AAPL,0.05426878109574318,0.9188546538352966,0.02687663584947586
+mac,Best Mac prices: 2GHz MacBook from $749; $999 MB Pro,,1,1,2010-02-18,AAPL,0.027879714965820312,0.9332427978515625,0.03887747600674629
+iphone,Download f0recast for iPhone jailbreak info,[deleted],0,1,2010-02-18,AAPL,0.08652792125940323,0.8931397795677185,0.020332273095846176
+apple,"Steve Jobs compares Flash to floppy drives, calling it a ""CPU hog"" and ""old technology""",,82,153,2010-02-19,AAPL,0.04032514989376068,0.913425862789154,0.046248964965343475
+apple,I'm SO depressed that I can't visit this WONDERFUL FLASH SITE on my iPhone or iPad.,,37,73,2010-02-19,AAPL,0.17779342830181122,0.8004193902015686,0.021787231788039207
+iphone,Remember the Buzz native application I was writing? I sent it to Apple two days ago. (Video inside),"After 6 days of too much work, I finally finished writing Buzzie 1.0. I have some more features in mind, but I wanted to get a release out quickly to get some feedback. Enjoy the video ;)
+
+http://dl.dropbox.com/u/3193787/Buzzie_v1.0.mov",5,28,2010-02-19,AAPL,0.019461937248706818,0.9083080291748047,0.07223007082939148
+iphone,Where do you guys find out about apps?,"Hey, I'm just wondering what sites people use to find out about apps?  Most of the review sites don't give a lot of useful info or review most of the games I already know about.  Any good sites for finding up and comping games / applications?
+
+Update:
+
+* http://www.toucharcade.com
+* http://app.itize.us
+* http://gizmodo.com/tag/iphoneapps/
+* http://freeappaday.com/
+* http://www.firstand20.com/
+* http://iphone.iusethis.com/
+* http://iphone.appstorm.net/
+* http://www.everythingicafe.com/
+* http://www.theweekinapps.com/WeekInApps.html
+* http://www.appspy.com/
+* http://www.appvee.com/
+* http://www.appsafari.com/",21,22,2010-02-19,AAPL,0.03707394003868103,0.9272179007530212,0.03570818901062012
+iphone,Has anyone done any iphone development on a hackintosh?,"I'm going to be writing my first iphone app and I don't really want to shell out for a mac. From what I can tell, as long as the pc has the proper hardware, there shouldn't be any problems installing Mac OS X but I'm worried that the sdk may not operate properly. Has anyone done this and successfully submitted an app to apple?",13,21,2010-02-19,AAPL,0.023482361808419228,0.9013100266456604,0.07520756125450134
+apple,Epson's driver installer is terrible.,"So my sister bought an Epson Workforce series printer and the drivers she installed were causing kernel panics. She claimed that there was no ""uninstall"" option when I told her to reverse the process. Figuring it was just hidden, I thought I'd investigate the installer program myself. Turns out there's no uninstall option, nor is there an install option. You simply open the program, it asks for your password, and it begins auto-installation without doing so much as popping up an EULA. Is this even legal? I ended up aborting the install when I realized it wasn't going to query me on anything (I know, I know I should have raised my red flag when it asked for my password right off the bat, but I'll just restore from yesterday's Time Machine backup).",6,15,2010-02-19,AAPL,0.046317558735609055,0.9221964478492737,0.03148597478866577
+iphone,JB w/ Winterboard: orangered on your statusbar!,"During a moment of brilliance this morning, I have made orangred icons for new mail on the statusbar! Obviously, install winterboard if you don't have it.  
+Simply download [orangered.zip](http://dl.dropbox.com/u/21609/orangered.zip), extract it, and you should have a folder called orangered. Drop that folder onto your phone at /var/stash/Themes.(jumble)/ and enable it in Winterboard. When you close out of winterboard, your phone will respring, and the changes will be enabled.    
+    
+Send yourself an email, and get excited about your new orangered!
+
+EDIT: Make sure you don't have another theme with an email icon set. Either disable that theme in WB, or replace the icons in that theme with those from orangered.",11,11,2010-02-19,AAPL,0.017913419753313065,0.9251022338867188,0.056984275579452515
+apple,"Steve Jobs to WSJ: ditch ""dying"" Flash technology",,8,11,2010-02-19,AAPL,0.04063824564218521,0.909386932849884,0.049974847584962845
+apple,"Apple Reddit, what is your favorite icon set?",I'm still using the original SL one. Getting sick of it. Anything that works with LiteIcon you guys can suggest?,20,10,2010-02-19,AAPL,0.055454712361097336,0.9120933413505554,0.03245202451944351
+apple,How do I rename pictures on a Macbook...all at once?,[deleted],40,9,2010-02-19,AAPL,0.027600985020399094,0.938054084777832,0.034344855695962906
+apple,I didn't realize Preview.app was so powerful,,28,110,2010-02-20,AAPL,0.05501658469438553,0.898207426071167,0.046775948256254196
+apple,"Would you buy a 13"" Macbook Pro, the same size as the current model, with no optical drive but a 10 hour battery life?","I have a current model 17"" MacbookPro5,2.  The first thing I did with it when I got it was remove the DVDRW drive and install an Intel SSD in a $40 caddy in its place.  My wife has a 13"" Macbook from late 2008, the same form factor as the current 13"" Macbook Pro.  
+
+I was looking at it yesterday and considering the huge percentage of its volume that is occupied by the DVDRW.  It is in my opinion a media type that is rapidly making itself obsolete, with bootable flash drives, remote disc, and 2GB to 8GB sized H.264 720p/1080p files of movies copied across the WAN/LAN that are better quality than 480p DVD.  
+
+Because the 13"" MBP uses the same flat/square cell battery technology as the current 15"" and 17"", it's already supposed to have superb battery life.  If they used the volume occupied by that drive for more battery, about half of a 13"" MBP could be battery.  It would probably result in a laptop with a 10 hour real-world battery life.
+
+(Note that I am NOT talking about anything like a fat Macbook Air, which is a useless product for my purposes due to its lack of I/O ports).",78,81,2010-02-20,AAPL,0.02815358340740204,0.9338563084602356,0.03799012675881386
+apple,"MacBook Pro with dual 22"" displays, drool",,105,81,2010-02-20,AAPL,0.023020122200250626,0.9240456819534302,0.05293417349457741
+apple,Steve Jobs doesn't want Flash on his iPlatform for the following reason,"Apple doesn't like to just 'implement a feature', they like to 'revolutionize' it. My Motorola RAZR had a ""web browser""... except it didn't really. It was pure crap and nobody used it.  
+
+What the iPhone web browser brought to the table was a fast, responsive browser that displayed the whole page quickly, introduced swipe to scroll, double tap to zoom in on an element and the ability to rotate the device to view in landscape. All this happens immediately. Not click a button and wait for the program to action my request.  
+
+It does all that, and cleverly obfuscates areas where there is any lag time (you can scroll rapidly with your finger, and if the device hasn't had time to render the revealed part of the webpage you see the checkerboard pattern... but the difference is my finger swipe was registered and displayed a logical response instantly).  
+
+The iPhone browser is all about perceived responsiveness. Apple wants you to be confident that when you touch the screen with your fingertip and do something it responds instantly and in the manner that you intended. ""It just works"" (although it doesn't always... but Apple has the best shot at achieving it if it has tight control over everything).  
+
+There is no conceivable way that a page containing running flash animations or movies will be able to nimbly accommodate that directive. Rotate your device with a bunch of Flash animations running? You think the screen will quickly respond?  
+
+**tl;dr** Jobs wants his mobile web browser to be the 'snappiest', most ergonomic multi-touch experience out there and adding plugin support ruins that.",37,42,2010-02-20,AAPL,0.028198253363370895,0.9276579022407532,0.044143807142972946
+iphone,Anyone else having problems with iReddit starting today?,"Earlier I was getting ""Connection Error"" when trying to load the front page when on 3G - it worked ok over Wifi though. Curiously I could get to the front page over 3G from within Safari
+
+As of a few hours ago I can pull up the front page over 3G but going to an ""other subreddit"" was telling me the subreddit didn't exist. Again, no problem over wifi.
+
+I have a feeling this relates to the NSFW content that is being pulled from the app store, but I have no good reason to believe this - just my tech spidey sense. 
+
+Anyone else out there having similar problems?",32,32,2010-02-20,AAPL,0.2193683534860611,0.7518905401229858,0.028741125017404556
+apple,Decorate your OS X Desktop in style • Some of the best desktop wallpaper sites,,8,15,2010-02-20,AAPL,0.035502493381500244,0.9180763959884644,0.04642108455300331
+apple,Strangest Mac app interface I've seen in quite a while: TapeDeck,[deleted],8,14,2010-02-20,AAPL,0.03640071302652359,0.9073266983032227,0.05627257004380226
+iphone,Manage Bookmarks On Your iPhone/iPod,"[Simple Project-Based Bookmarks](http://www.homemarks.com/)
+A real user review says it best! ""This app really, really works so far. It takes a bit to figure out, but once you do, it is very simple. The integration of the web app and the iPhone app is perfect. If you don't like tagging bookmarks, if you are a visual person abd organizer and like to see things all laid out with the ability to easily make changes, if you want to have only one set of bookmarks across all computers (I have at least 4) and your iPhone, if like things that are risk- free, then this app us for you. One idea I have is to set up another account and put a link to it on my blog along with an easy password to let others see the links and add to them. Just a crazy idea. Thanks!""
+
+FYI, this is my own pet project and a labor of love, hope others find it useful! [http://www.homemarks.com/](http://www.homemarks.com/)",10,12,2010-02-20,AAPL,0.018327709287405014,0.9076808094978333,0.07399148494005203
+iphone,My friend and I are making another iphone / ipad game. You can watch our dev process here if you want.,[deleted],5,12,2010-02-20,AAPL,0.01636369340121746,0.9310192465782166,0.052617136389017105
+apple,"Mac users, hate the new MPlayer OS X Extended new update? try this clean new app.",,8,11,2010-02-20,AAPL,0.018587343394756317,0.8612661957740784,0.12014642357826233
+apple,An Adobe Flash developer on why the iPad can't use Flash,,95,284,2010-02-21,AAPL,0.05151260644197464,0.9272249937057495,0.02126246690750122
+apple,I overheard this at the Apple display in a Best Buy today.,"A potential ""switcher"" was discussing the display of MacBook Pros with a Best Buy sales associate, who sounded reasonably knowledgeable about Macs.  When the customer asked about Apple's extended warranty, the sales associate said he didn't recommend Apple's extended warranty, it didn't cover batteries, which is particularly problematic in the unibody MacBooks, and recommended Best Buy's extended warranty instead.
+
+Sheesh.  While the associate was off checking on something, I sidled over to the customer and explained that the associate's remark about Applecare simply wasn't true--I had personally benefitted from Applecare coverage when I had a MBP battery lose capacity prematurely, after about 100 recharge cycles.
+
+I also blurted out, in front of the sales associate, that a MacBook Pro hardware refresh was rumored to be imminent, and when I bumped into the customer again in the parking lot I recommended he visit the local Mac store (an independent chain of Apple resellers here in the Pacific Northwest, where I got that battery replaced).
+
+I'd hate to see someone submit a MBP to the tender ""mercy"" of the Geek Squad.",55,52,2010-02-21,AAPL,0.09737485647201538,0.866879940032959,0.035745229572057724
+apple,The Whole Thing About Adobe’s Flash Player Not Having Access to H.264 Hardware Acceleration on Mac OS X,,14,44,2010-02-21,AAPL,0.016093799844384193,0.9229094982147217,0.060996681451797485
+apple,Why I'll probably be buying Apple gear for some time to come.,"So I bought an iPhone 3g almost a year ago. I take pretty good care of it. It usually sits in my pocket, or on the desk next to me. I don't use a case, but like I said, I take good care of it. It's never been dropped, except one time it fell out of my pocket onto the carpeting in the car. Anyway...
+
+Last week I notice there is a small crack developing on the rear panel near the dock connector. Now, as I said, it's not been dropped. So I call the Apple store. They set up an appointment for 17:15. I walk in, and get help right on time. The genius asks me what the problem is. I tell him about the cracks. He checks the warranty, says it is still under the warranty, and just replaces the phone. All without asking what caused the cracks. In about 3 minutes. By 5 minutes, I was walking out with a new phone.
+
+I've had problems with phones before, like my wife's blackberry on t-mobile. It was like the goddamned spanish inquisition. ""Are you sure you didn't get it wet? REALLY SURE?"" Or a Treo on Verizon, in which the rep said that she didn't think I followed the four steps she gave me correctly. The steps that I told her I'd already tried before I called. The Blackberry problem got solved. The Treo problem did not (which is how I ended up buying a 2g iPhone, so suck it, Palm.) 
+
+And you can't even get phone support for a Nexus One? I mean, it's a cool looking phone, but jesus.
+
+Anyway, some digression there. Say what you want about Apple's software, closed off app store, etc, but their support is fucking excellent.",43,26,2010-02-21,AAPL,0.13002994656562805,0.8329811096191406,0.036988966166973114
+apple,"Oh Flash, how my battery loves thee...",,11,18,2010-02-21,AAPL,0.07693397253751755,0.7987487316131592,0.12431729584932327
+apple,"I thought the /r/apple Mac users would appreciate a heads up on a new thumbnail image browser software I found called gBrowser.  In a nutshell I now no longer use Adobe Bridge or GraphicConverter for 99.9% of sorting, renaming or other batch processing tasks.  Here's a full review I wrote.",,2,18,2010-02-21,AAPL,0.015981541946530342,0.9122401475906372,0.071778304874897
+apple,"The New App Store Rules: No Swimsuits, No Skin, And No Innuendo!",,17,14,2010-02-21,AAPL,0.029307475313544273,0.9215399622917175,0.049152567982673645
+apple,Photoshop 1.0 Recreated On iPhone,,2,10,2010-02-21,AAPL,0.025432061403989792,0.9207102060317993,0.0538577102124691
+apple,Where can I find a cheap iPod classic?,"I've got an iPod Touch at the moment which is only 8 GB. 160 GB just sounds like heaven, but I can't really afford it.
+
+Where's the cheapest place I can get one from that's trustworthy?",3,7,2010-02-21,AAPL,0.0166004691272974,0.8853468298912048,0.09805271029472351
+apple,"Apple Says No More Titillating Apps, Period",,8,7,2010-02-21,AAPL,0.02765692211687565,0.9152746796607971,0.057068388909101486
+iphone,"Apple Bans Over 5000 Apps: No Bikinis, No Skin, No Innuendo",,29,67,2010-02-22,AAPL,0.0232906024903059,0.9248820543289185,0.05182730033993721
+apple,I needed to batch resize some photos. I found this: Preview is all you need.,,9,44,2010-02-22,AAPL,0.021385086700320244,0.9099229574203491,0.0686919093132019
+apple,Have you guys ever defragmented your Mac's hard drive?,"So, I know Macs are supposed to ""just work"" and their filesystems are made in such a way to prevent fragmentation, but it can happen.  Here's what happened to me.
+
+After upgrading to Aperture 3, I noticed that it was running dog slow. Tons of pinwheels often when just trying to select the next picture in my library.  Starting it was also a nightmare.  Sometimes it took more than a minute. It wasn't really using up a lot of resources though.  still had 500 some megs of free ram, and it was using up maybe 50% of one of my cores.  Well, what could be the problem then?
+
+I looked around online and found that doing something like an Aperture upgrade can seriously fragment your filesystem.  It involved adding/modifying metadata on upwards of 80 gigs of images.
+
+I downloaded the demo of iDefrag and saw [this](http://www.antiyawn.com/uploads/beforedefrag.png).  (red is bad).  Also, the top 6 most fragmented files on my drive were all Aperture database files (which were several orders of magnitude more fragmented than the next in line).
+
+So i went ahead and forked over the $30 for the full version and did a defrag off the bootable CD it makes for you.  Now it looks like [this](http://www.antiyawn.com/uploads/afterdefrag.png), and Aperture is running much faster.
+
+Has anyone else here had to defrag their Mac?
+
+**Edit** in case anyone was wondering, I used iDefrag.",54,37,2010-02-22,AAPL,0.037573397159576416,0.9276747107505798,0.03475186601281166
+apple,A First Look At Apple’s Massive New iDataCenter In North Carolina,,25,36,2010-02-22,AAPL,0.027435660362243652,0.9120262861251831,0.06053800880908966
+apple,Hope these help you. Here are some of my favorite Automator downloads. More in comments.,,5,15,2010-02-22,AAPL,0.0215121079236269,0.9084423184394836,0.0700455978512764
+iphone,Lunar Electric Rover Simulator iPhone app (screenshots),,1,13,2010-02-22,AAPL,0.037186399102211,0.9062574505805969,0.056556157767772675
+apple,"Apple bans boobs, babes and bikinis from App Store",,16,12,2010-02-22,AAPL,0.028861546888947487,0.9330118894577026,0.038126591593027115
+iphone,What is the best app to password protect a few photos on my iPhone?,,10,9,2010-02-22,AAPL,0.02641328237950802,0.9233419895172119,0.05024479329586029
+mac,removing color tags for a group of folders,"So, I have a music folder with over 500 folders inside it, and about 300 of them have a color tag applied. 
+
+Is there any way to untag the folders as a group rather than having to bring up 'get info' for each individual one?
+
+Any tips appreciated.",4,5,2010-02-22,AAPL,0.026987459510564804,0.936183512210846,0.036828987300395966
+apple,Apple Ranks Third in Customer Service Survey,,7,5,2010-02-22,AAPL,0.018736036494374275,0.8098681569099426,0.17139576375484467
+apple,Regarding Apple stance on multitasking and why most tech users are clueless,,129,106,2010-02-23,AAPL,0.026811646297574043,0.9235885739326477,0.049599725753068924
+apple,Google Book Downloader for Mac,,16,91,2010-02-23,AAPL,0.03494034335017204,0.9329965114593506,0.03206314519047737
+iphone,"Anybody else having trouble with iReddit connecting, and also being unable to connect to reddit.com using Safari when connected to 3G?","I couldn't connect to reddit using iReddit or Safari for my entire 50 minute drive home from work, but had no problem connecting to other sites. I kept getting ""service temporarily unavailable"" from Safari, but as soon as I walked into my home and was connected to wifi, I had no problem. Anybody else?
+
+EDIT: both iReddit and Safari are working again for me now.  No idea what the problem was.
+
+EDIT: Wednesday 12:20PM EST - the problem has returned. No connection through iReddit or reddit.com on Safari.  Other websites load just fine.
+
+EDIT: 2:00PM EST - it has temporarily started working again. 5 mins ago it wasn't though. 
+
+EDIT: 2:25PM EST - it's stopped working again. I'll stop updating now. Hopefully someone is actually looking into this.",49,66,2010-02-23,AAPL,0.22828714549541473,0.7473487257957458,0.024364201352000237
+apple,iPhone Ringtone Mashup...(I made this),,24,64,2010-02-23,AAPL,0.02936452440917492,0.9206978678703308,0.0499376617372036
+apple,"So long, and thanks for all the Hints! - Rob Griffiths leaves Mac OS X Hints...",,6,41,2010-02-23,AAPL,0.3767697811126709,0.5839451551437378,0.0392850823700428
+iphone,Is there a jailbreak program that can put the name of the wifi network (that my iPhone is logged into) in the menubar?,Happy for it to go next to the Wifi icon or even replace it.  Does anyone know of a program that does this?  Thanks in advance for any leads!,9,23,2010-02-23,AAPL,0.018383799120783806,0.924272358417511,0.05734385550022125
+iphone,Replacements for default apps?  What's your page 1?,"What apps would you recommend as replacements/upgrades for the default app page?
+
+Weather - just about any weather app.  I use Met Office (for the UK)
+
+Camera - GorillaCam.  Starts up in the same time as the camera app, and has self timer, time lapse, anti shake, bubble level, press anywhere, 3shot burst etc.
+
+Stocks, Calculator, Voice Memo, Clock - never use these.  Replaced them with Qik Video, Wapedia, WhatsApp and Showtimes (cinema showtimes).
+
+What's your home screen like?  It's a shame we can't delete the default apps.",71,21,2010-02-23,AAPL,0.0434601753950119,0.9262412190437317,0.030298614874482155
+apple,Apple plans to expand iPhone OS to more platforms,,14,17,2010-02-23,AAPL,0.009344172663986683,0.40653499960899353,0.5841208696365356
+apple,Apple Explains Semi-Ban of Sex Apps,,10,9,2010-02-23,AAPL,0.2242499738931656,0.7544554471969604,0.021294591948390007
+apple,iPhone's Share in the Smartphone Market Nearly Doubled Last Year,,1,8,2010-02-23,AAPL,0.013873481191694736,0.07333596050739288,0.9127905368804932
+apple,App Store Adds Explicit Category for iPhone Apps!,,19,83,2010-02-24,AAPL,0.022684546187520027,0.9348218441009521,0.042493581771850586
+apple,Looks like MacHeist 4 is starting up.  Free Mac software and eventually big discounts for all.,,28,44,2010-02-24,AAPL,0.014763030223548412,0.903944730758667,0.0812922790646553
+apple,More People Interested In Buying iPad Than Original iPhone - Gizmodo,[deleted],13,42,2010-02-24,AAPL,0.01776302419602871,0.9317492842674255,0.0504877008497715
+apple,"Happy Birthday, Steve Jobs!",[deleted],2,21,2010-02-24,AAPL,0.03431302309036255,0.8525328636169434,0.11315412819385529
+mac,What advice/resources do you think a new mac user should know about?,,24,12,2010-02-24,AAPL,0.013036436401307583,0.8412919640541077,0.14567160606384277
+iphone,"Apple, There’s Pornography On My iPhone. The App Is Called Safari. You Made It.",,3,9,2010-02-24,AAPL,0.012599632143974304,0.9130769968032837,0.07432334125041962
+apple,Here's a list of hidden settings you get by option-clicking menu icons on the right-hand side of the menu bar. Does anyone know any others?,[deleted],2,9,2010-02-24,AAPL,0.036900535225868225,0.93673175573349,0.02636769972741604
+iphone,5 Sexy Apps Still in the iTunes Store,,3,8,2010-02-24,AAPL,0.025289330631494522,0.918171763420105,0.05653891712427139
+apple,Thanks Chromium. That's really helpful.,,6,6,2010-02-24,AAPL,0.01702139899134636,0.6992504000663757,0.28372812271118164
+apple,5 Really cool iphone 4G concept designs (Pics),,0,5,2010-02-24,AAPL,0.018514372408390045,0.8837242126464844,0.09776140749454498
+apple,Is the Steam gaming platform coming to Mac?,,94,79,2010-02-25,AAPL,0.01823991723358631,0.9349598288536072,0.04680024832487106
+apple,"Woz: ""They [Microsoft] didn’t plug money into Apple. It’s a phony perception that was conveyed that way to get public opinion swaying that way.""",,26,74,2010-02-25,AAPL,0.01666063815355301,0.8696445822715759,0.11369480937719345
+apple,"iPhone demographics are balanced, but Android OS is a sausage fest",,8,41,2010-02-25,AAPL,0.052164629101753235,0.5651726722717285,0.38266274333000183
+apple,When Having A MacBook Pro Isn't Enough...,,8,39,2010-02-25,AAPL,0.10472945123910904,0.85829097032547,0.03697961941361427
+apple,Question: are System Sounds on OS X (e.g. Ping.aiff)  copyrighted? Can I use them as an alert noise for another project?,,25,25,2010-02-25,AAPL,0.03728622570633888,0.930306077003479,0.0324077382683754
+apple,Track down all startup/login scripts and application launches in Mac OS X,,1,23,2010-02-25,AAPL,0.027342040091753006,0.9335112571716309,0.039146654307842255
+apple,"iPad keyboard has ""mystery"" blank key.",,48,21,2010-02-25,AAPL,0.07437656819820404,0.9061259627342224,0.019497450441122055
+mac,MacHeist is active again.,"**[MacHeist.com](http://www.macheist.com/):** The truck rolled up last night, and they immediately began unloading crates of software.
+
+From what we can tell, there will be a nanoBundle Sale beginning at 7:00 PM (EST) on March 2nd until 8:59 PM on March 9th. Application icons are slowly being added to the stream of boxes. The MacHeist community has already identified [RipIt](http://thelittleappfactory.com/ripit/) and [MacJournal](http://www.marinersoftware.com/sitepage.php?page=85), with one unidentified icon included in the mix.
+
+This is all we know. No word on the bundle price or if there will be puzzles to solve for discounts or free software.",11,19,2010-02-25,AAPL,0.02447347715497017,0.9215067028999329,0.05401983857154846
+apple,Johnny Cash's Guess Things Happen That Way has become the 10 billionth track to be sold at the ITunes online store.,,4,18,2010-02-25,AAPL,0.02883422188460827,0.921018123626709,0.05014766752719879
+iphone,The First (Adobe-Authored) Flash-to-Native-iPhone-App Conversion,,7,17,2010-02-25,AAPL,0.029758699238300323,0.9232853651046753,0.046955958008766174
+apple,"I renamed my iPod 'The Titanic' so that when I plug it in, iTunes tells me 'The Titanic is syncing.' That is all.",,78,801,2010-02-26,AAPL,0.018314121291041374,0.8889082074165344,0.09277771413326263
+apple,Using Safari AdBlock and noticing more ads in Safari as of late? There's a reason ...,"The default Safari AdBlock ""General and English ads"" list is made up of 3 urls:
+
+* http://safariadblock.sourceforge.net/list.txt
+* http://easylist.adblockplus.org/adblock_rick752.txt
+* http://easylist.adblockplus.org/easylist-element_rick752.txt
+
+If you actually check those URLs, you'll notice only 1 of them exists / loads right now - namely the first one, and it's not a very good list.
+
+To fix this, just add a new subscription (plus button at the bottom left of the list) and enter this URL:
+
+https://easylist-downloads.adblockplus.org/easylist.txt  
+
+( or https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt )
+
+Bingo, now you're back in action!
+
+**Edit:** Hell ... maybe I'll just use [Safari AdBlocker](http://sweetpproductions.com/safariadblocker/) instead! (since it's still supported and has 64-bit support, too)",28,82,2010-02-26,AAPL,0.043230973184108734,0.9196377396583557,0.037131305783987045
+iphone,Plants vs Zombies On The iPhone Makes Devs Rich,,25,46,2010-02-26,AAPL,0.023578109219670296,0.3803895115852356,0.5960323214530945
+apple,Daring Fireball: Tits and Apps,,4,45,2010-02-26,AAPL,0.08733528107404709,0.8751324415206909,0.03753229230642319
+apple,Don't Steal Mac OS X [PIC],,8,22,2010-02-26,AAPL,0.14347755908966064,0.8218564391136169,0.03466605767607689
+apple,MacHeist is offering Squeeze for free; the HFS compression sounds neat. Any gotchas? Slow-downs? Anyone used it yet?,"I'm going to grab it while it's free, but I'm wondering if there are any performance gains/drains to keep an eye on or if anyone's had experience with third-party HFS compression.
+
+Can I just add the root of my drive? Any suggestions for specific folders?
+
+Links for those interested:
+
+* http://www.macheist.com/
+* http://www.latenitesoft.com/squeeze/",29,14,2010-02-26,AAPL,0.030742520466446877,0.9216006398200989,0.047656796872615814
+apple,Final Fantasy I and II Now Available for iPhone,,1,13,2010-02-26,AAPL,0.036173973232507706,0.932356059551239,0.031469982117414474
+iphone,Is there any way to boost the bluetooth volume on the iPhone 3G?,"I just got a new car with the Subaru BlueConnect handsfree interface.  I've read that the iPhone tends to have very low volume on all bluetooth devices, and I was wondering if there is any way to boost this?  In order to hear anyone on the phone, I have to crank the volume on the BlueConnect ALL the way up, and it makes the voice prompts so loud that it is literally ear-piercing.  Any suggestions?",4,12,2010-02-26,AAPL,0.019396264106035233,0.9162804484367371,0.06432333588600159
+apple,"Dear Reddit, I have a cat that loves to scratch my sofa. I also have a Macbook. Would you please help me?","Got your attention? Here is the deal: 
+
+My cat destroyed my last sofa, and now I have a brand new one. I want it to last, so I was thinking in putting my macbook near my sofa with some kind of motion detection software for its iSight in order to play a loud sound when the cat appears. Google just showed me free alternatives for Windows. Does anyone know of a free way of doing this?
+
+**Edit:** thanks for the tips.. unfortunately, I've already tried the most commons ones, and my cat only goes for my sofa when I'm not around, that's why I thought about setting my macbook for this.. I'll try your suggestions!",34,5,2010-02-26,AAPL,0.028453482314944267,0.9251590967178345,0.046387478709220886
+apple,Anyone else upgrade to Flash 10.1 Beta 3 and have their performance go to hell?,"I'm wondering if anyone else is seeing the same problem.  
+
+Fullscreen Hulu Desktop is so choppy it's unwatchable.  I'm running a late 2007 MacBook.",14,5,2010-02-26,AAPL,0.10262277722358704,0.8679377436637878,0.029439425095915794
+apple,Apple taken to task for reporting partners' child labor violations,,6,48,2010-02-27,AAPL,0.8587684035301208,0.11589851975440979,0.025333022698760033
+iphone,"Rejected by Apple, Grooveshark releases music for jailbroken phones on cydia.",,11,34,2010-02-27,AAPL,0.07698629051446915,0.8915714025497437,0.031442344188690186
+apple,"iTunes Prize Winner to Steve Jobs: “Yeah Right, Who Is This Really?”",,5,31,2010-02-27,AAPL,0.026747742667794228,0.7892752289772034,0.18397708237171173
+iphone,"Lasers...Check, Mirrors...Check. My upcoming game preview of enemies that shoot lasers and have reflective coating.",,9,7,2010-02-27,AAPL,0.05503791198134422,0.9201467633247375,0.02481529861688614
+apple,Cross over games with 60% off... (Included the next cross over 9 version...),"Typing as promo code: CROSSOVER9.
+
+I post this because after using a pirate version (not really pirate in fact, just a torrented version of the free day version... but you got it I never paid for..) I finally decided to pay for the product I was happy with, after testing it through the trial of the latest version... Good thing to do I still think, anyway a week after I received that e-mail:
+&gt; ""Sometime over the past month, you downloaded a trial copy of CrossOver Games.  At this time, our database shows that you have not purchased our software.  Maybe you forgot or got very busy, but I would like to extend to you a very special offer to entice you to buy now.  For the next two days, you will have the opportunity to purchase CrossOver Games at a 60% discount.  This is a one-time offer only available to trial users.  What makes this offer truly special is that in addition to the SPECIAL DEAL CODE, you will also receive the upgrade to our latest version of software (CrossOver 9.0) which we plan to release on March 2, 2010.  To be clear, you get the discount and you get the upgrade.
+
+&gt;If you are at all interested in purchasing CrossOver, please use this SPECIAL DEAL CODE that will save you 60% on CrossOver Games.  This is by far the best deal you can get for CrossOver, and this SPECIAL DEAL CODE will expire at 11:59 PM (Minneapolis, MN) on February 28, 2010.  to purchase at this special price, please follow these steps:
+
+&gt;Go to www.codeweavers.com.  Go to our web-store (7th tab under CodeWeavers logo).  Select CrossOver Games.  Add it to your cart.  In the cart screen (KEY IT HAS TO BE THE CART SCREEN), enter SPECIAL DEAL CODE:      CROSSOVER9      in the Special Deal box to the right of the screen.  Complete your order.  You will see the SPECIAL DEALS discount applied to the purchase price before you complete your transaction.  Please let me know if there is anything else I can do to assist or if you have any questions.  Thank you again for your continued interest.  My very best regards.""
+Aaarg.
+
+Enjoy.",2,2,2010-02-27,AAPL,0.016603583469986916,0.9238114356994629,0.059584926813840866
+apple,Upgrade XP to Windows 7 on Boot Camp?,"Can it be done?  I got my hands on Windows 7, and was wondering if I reformatted it as an NTFS...would it be able to upgrade to Windows 7?
+
+Edit: I should specify, this is the upgrade version only",4,1,2010-02-27,AAPL,0.01462919544428587,0.8427907228469849,0.1425800919532776
+ipad,"The Associated Press launches AP Gateway, brewing pay wall",,1,1,2010-02-27,AAPL,0.04708108678460121,0.9162415266036987,0.036677420139312744
+iphone,Insurance for Your iPhone,,0,1,2010-02-27,AAPL,0.030810868367552757,0.9339109659194946,0.035278115421533585
+apple,Hey Reddit! I just moved my iTines library to an external drive...,[deleted],0,1,2010-02-27,AAPL,0.031425848603248596,0.9281060099601746,0.04046820104122162
+apple,First Macintosh Computer and its Commercial Ad !!,[deleted],0,1,2010-02-27,AAPL,0.026074189692735672,0.9084432721138,0.06548256427049637
+apple,I want a computer that works [lmgtfy],,42,183,2010-02-28,AAPL,0.033900730311870575,0.9274346232414246,0.03866470977663994
+apple,"Well, looks like I'll need to go to the Apple Store...",[deleted],68,140,2010-02-28,AAPL,0.018393499776721,0.8459194898605347,0.13568703830242157
+iphone,Anybody else unable to load comments on iReddit?,[deleted],23,34,2010-02-28,AAPL,0.08260747790336609,0.897335410118103,0.020057130604982376
+apple,"After reviewing Microsoft's and Oprah's ""How to Pick a Computer"" features, SF Weekly comes up with it's own comprehensive guide.",,8,30,2010-02-28,AAPL,0.027125554159283638,0.9252363443374634,0.047638144344091415
+iphone,Next iPhone may be equipped with camera-based swipe controls,,6,16,2010-02-28,AAPL,0.014402934350073338,0.921800971031189,0.06379612535238266
+apple,How to play games like Tetris inside the Mac OS Terminal,,1,6,2010-02-28,AAPL,0.028223007917404175,0.9376258254051208,0.03415117785334587
+apple,"The Conclusion to the Faulty iMac Saga ""iMac was released 16 weeks ago. Since then, it's been plagued with problems"" - Gizmodo",,5,3,2010-02-28,AAPL,0.03925567865371704,0.8932938575744629,0.06745053082704544
+apple,What is the iPad?  It's the first real approximate commercial implementation of Alan Kay's Dynabook!,Watching [this video](http://www.youtube.com/watch?v=tQg4LquY0uU&amp;feature=related) of Alan Kay (specifically at 53:00 on) reminded me of why the iPad seems so familiar and prone for success: the iPad is the first real approximate embodiment of Alan Kay's Dynabook concept.,5,3,2010-02-28,AAPL,0.01178373396396637,0.8739715814590454,0.11424470692873001
+apple,"I just bought my first Apple computer (MBPro, low end 15"").  Help me get it set up?",,14,2,2010-02-28,AAPL,0.02285771630704403,0.8596834540367126,0.11745882779359818
+apple,"Mac OS X market share up 29% in past year, slowly chipping away at Microsoft",,0,1,2010-02-28,AAPL,0.2938019931316376,0.6367835402488708,0.06941447407007217

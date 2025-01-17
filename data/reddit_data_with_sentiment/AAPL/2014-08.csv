@@ -1,0 +1,1073 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+mac,Somebody on the iCloud team is a Mario fan!,,12.0,95,2014-08-01,AAPL,0.03907954320311546,0.9123460054397583,0.04857443645596504
+mac,OS X 10.9 recognizes a USB floppy drive,I'm impressed.  I thought for sure that support would have been removed by now.,4.0,9,2014-08-01,AAPL,0.00810000579804182,0.7524216771125793,0.2394782453775406
+apple,"Feature request: use Bluetooth or other tech to determine when my devices are next to each other so I don't receive three separate dings for a text on my MacBook, iPad, and iPhone one after another.",,136.0,801,2014-08-01,AAPL,0.022670133039355278,0.9343076348304749,0.043022271245718
+ipad,Offline Notes,[deleted],4.0,8,2014-08-01,AAPL,0.23727990686893463,0.6667014360427856,0.0960187241435051
+mac,Anyway to make touchpad scrolling natural and middle-mouse-scrolling not-natural independently?,"When I check the box in preferences, I want the touchpad scrolling to be natural, but when I plug in a mouse, I want that to be like it is on Windows.
+
+However, when I check the box on either the ""Mouse"" or ""Trackpad"" icons, it changes both items.",4.0,7,2014-08-01,AAPL,0.06944455206394196,0.9100132584571838,0.020542223006486893
+mac,New rMBP owner with 3 questions!,"Hey guys, I just picked up the new 2014 rMBP 13'' mid tier model a few hours ago. Decided to return the Surface Pro 3 and try out a Macbook! This is the first OS X based computer I have ever owned so I'm still trying to learn through playing around. I'm also not very tech savvy so keep that in mind lol.
+
+I have a few questions I'm hoping someone can answer for me.
+
+1. On my Surface Pro 3 when I right clicked on the Windows Desktop and went clicked Screen Resolution it would show that my current resolution was all the way at the top using the native 2160x1440 resolution and I could choose any of the resolutions below it. But on Mac when I go to System Preferences and then Display it shows my screen resolution as ""Best for Display"". So I went to http://www.whatismyscreenresolution.com and saw it was running 1280x800 and there isn't an option for 2560x1600. Can someone explain why it wouldn't be default running at 2560x1600 like how the SP3 ran at 2160x1440? I know there is a reason for it just hoping someone can make it clear for me.
+
+2. Can someone explain how closing a program in OS X works? When I click the top left corner X I see that it doesn't close some programs like Safari because the little black dot on the dock under the Safari app indicates it's still running. So I need to go to the top bar and click Safari then Quit Safari to actually have the program fully closed? 
+
+3. On using IE and Chrome on my SP3 I always turned on the setting to restore the last session upon opening the browsers so I could pick up where I left off. I enabled that setting in Safari&gt;Preferences&gt;Safari Opens with All windows from last session. I noticed that when just clicking the red X to 'exit' Safari and then reopening it later on my last session wouldn't be restored. It would just open up with the default homepage. However if I went to Safari&gt;Quit Safari instead clicking the top left red X, and reopened Safari later on my previous websites from the last session would all be there from the start. Is there a setting I so that I could have all the pages from my last session restored from clicking the red X button instead of having to go to Safari&gt;Quit Safari to make it work every time?",10.0,7,2014-08-01,AAPL,0.056018177419900894,0.9077295064926147,0.036252278834581375
+iphone,iPhone stolen and out of battery.,I was on the train home today and I found my iPhone (5c white 16 gb) and some other items were missing/stolen. My iPhone is out of battery and I'm not sure on how to use Find My iPhone when its out of battery or any other steps that should be taken in this circumstance. Any help would really be great. Thanks!,8.0,6,2014-08-01,AAPL,0.01499930303543806,0.7526981830596924,0.23230256140232086
+apple,MacBook sticker sellers see sizable sales surge after Apple's 'Stickers' ad airs,,98.0,543,2014-08-01,AAPL,0.046738311648368835,0.18011952936649323,0.7731420993804932
+apple,On the Yosemite public beta? Have you noticed a new search feature in Safari?,"I was pleasantly surprised when I noticed this. On the new Safari in Yosemite, whenever you visit a site with a search feature, the software will 'learn' the search box - even small, local websites.
+
+Anytime afterwards, and no matter what website you're on, you can just click in the address bar and type ""[site] [search term]"". E.G. ""ebay shoes""
+The first time I noticed it was when it allowed me to search on ThePirateBay - no pre configuration necessary 
+
+Just a super handy feature I thought I'd share",18.0,51,2014-08-01,AAPL,0.014850194565951824,0.9051682949066162,0.0799814984202385
+apple,Shazam is now in the Mac App Store and it works beautifully! And it's free!,Want to know that song playing in a youtube video or on the tv? Shazam alerts you seamlessly with a eligent little notification of the track name and artist. Quick access to lyrics to that song you're playing in iTunes or need a track name or artist for completing song information? The new Shazam app is works fuckering staggeringly well with all of these things.,46.0,50,2014-08-01,AAPL,0.02633499540388584,0.9344660043716431,0.03919896110892296
+apple,"New iPhone ad ""Dreams""",,44.0,92,2014-08-02,AAPL,0.015122820623219013,0.8484792709350586,0.13639795780181885
+mac,Buying a refurbished model?,So I was looking at the refurbished models that apple has and was attracted by the price for the performance. I'm just wondering if anybody has purchased a refurbished model? I'm looking at an October 2012 MBP with 8 gbs of ram if that matters,9.0,8,2014-08-02,AAPL,0.022392090409994125,0.8441383242607117,0.13346950709819794
+apple,Two nice subtle UI ehnancement I've noticed in OSX Yosemite,"Both are little things that PC users complain that the mac doesn't do, that it now does.
+
+1. Double clicking anywhere in the title bar (the whole grey section) to ""maximize"" – this is especially useful to know as the green button now triggers fullscreen not instead of zoom. (However option-clicking the green button preserves the old zoom).
+
+2. Open/Save dialog now supports drag and dropping of files. I noticed this accidentally as I use the previous function all the time - dragging a folder and/or file into the open/save before yosemite used to navigate to that folder and/or file. In yosemite, dragging a folder will move or copy the folder. To use the previous drag-to-navigate, you need to drag the folder or file to the dropdown at the top of the Open/Save.
+
+
+EDIT: It seems that the workaround for #2 in my post might have been missed by some people. To use the Mavericks way... http://i.imgur.com/au5aQqs.png
+
+Thanks to /u/Save_the_landmines who mentioned you can drag to the whole top and bottom of the dialog.",85.0,78,2014-08-02,AAPL,0.05292067304253578,0.9175057411193848,0.029573647305369377
+apple,"[Question] How do I check my rMBP 15"" late 2013 manufacturer in Yosemite","I'm starting to distinguish apparent pression points on my retina screen on top right and bottom left corner, especially visible on dark colors
+
+the following command just shows ""Color LCD""
+
+    ioreg -lw0 | grep ""EDID"" | sed ""/[^&lt;]*&lt;/s///"" | xxd -p -r | strings -6
+
+Is there any other way to say if my retina is manufactured by LG or Samsung?
+
+Thanks.",9.0,7,2014-08-02,AAPL,0.02530645579099655,0.9128100872039795,0.061883389949798584
+iphone,Help - iPhone 4 suddenly displays text telling me a I stole the phone and now has a password lock,"I bought my mom a used iPhone 4 through Glyde, and we set it up with Ting. Everything seemed fine; we set up an apple ID for her and tried to switch things over. But the phone had some remnants of info from the previous owner, which I did my best to get rid of. 
+
+My mom then lost the phone for a few weeks, and I just found it again today. I turn it on, and now the main screen reads ""hey fucking thieef stop uing my fucking apple id mtf!!!!!1 byeee good luck unlocking ur phone lol"" and now has a lock password. 
+
+Still not sure if I bought a stolen phone or this person is just stupid and didn't clear out their phone properly before selling it or whatever. Either way, I haven't used their apple id to purchase anything, and have no clue how to get the phone working again for my mom. I tried resetting it by holding the sleep/off and home buttons at the same time. I'm not finding much by googling for help. 
+
+Help?",11.0,7,2014-08-02,AAPL,0.07755894958972931,0.8821489214897156,0.0402921587228775
+mac,Files on Dual Desktops?,"Im running a dual monitor setup and Im wondering if there is any way to have icons, files, etc, on both desktops? When I drag a file from one desktop to the other, it just snaps back to the main window.",5.0,6,2014-08-02,AAPL,0.05746973678469658,0.9199238419532776,0.02260640077292919
+apple,I have a $1700 budget and am in need of a great laptop so I am getting a MacBook Pro. Can you guys put me in any direction to help get the right laptop for me? (More info in comments),Really want a great laptop for the remainder of my college years. Would love a lot of power and memory! You guys are the experts! Help me out!!,56.0,6,2014-08-02,AAPL,0.0174163319170475,0.8905024528503418,0.0920812115073204
+apple,"Dear conspiracy nuts: Apple doesn’t cripple your old iPhone, time does.--Digital Trends",,209.0,534,2014-08-02,AAPL,0.04614866152405739,0.9143550992012024,0.03949626907706261
+iphone,What is your favourite app no one knows about?,"You know like this one App no one has heard of but is incredibly useful, practical and beautiful designed.",8.0,5,2014-08-02,AAPL,0.016531186178326607,0.9084842205047607,0.07498457282781601
+mac,"Buying a 13"" MacBook Pro advice.",So I need a MacBook for school and stuff. I want it for music software and video editing too. Is there a particular reason why I would favor having more hard drive space vs upgrading the ram and processor. I figure I can always have an external drive anyway. I'm trying to keep it under 1500.,8.0,5,2014-08-02,AAPL,0.03665865957736969,0.9144251346588135,0.048916157335042953
+ipad,"iMessage briefly freezes a lot (iPad Air, 32gb, lte)","I use iMessage on my ipad constantly. But multiple times a day I'll launch it and it will pause/freeze for like ten seconds before allowing me to type or open a message. 
+
+Started happening recently. Usually only upon launch of the iMessage app. 
+
+Maybe low ram? Or deleting messages might help? 
+
+Any ideas? 
+
+I run my ipad ragged. With me all day at work at day home. Usually the Air is very fast and reliable. Only recently been slowing down",4.0,8,2014-08-03,AAPL,0.03760185092687607,0.9235087633132935,0.038889363408088684
+apple,"My brother was in Shenzhen, China and I had him buy me a knockoff iPhone 6","[Link to pictures](http://imgur.com/a/rZDuf)It really is a pretty impressive feat they managed in making this look very Apple like, from the box, lightning cable, to the phone.  It's running Android 4.4.2 though it is heavily skinned to look nearly identical to iOS(obviously).  I bet the average person wouldn't be able to tell it isn't an actual iPhone.
+
+The home button is a little wonky and makes a pretty audible click, but other than that the build quality is pretty nice, though obviously not Apple quality.  You can see in the pictures when you click on the App Store it takes you to the Play Store, and most of the stock apps take you to a similar Android App.  Everything seemingly works on it and I think I might switch to it for awhile to impress people at the bar and convince them I got an early iPhone 6. :)
+
+If you want to ask any questions I'm all ears.  The 4.7"" size seems perfect to me and it really does feel good in the hand if Apple really does have a similar size in mind.  He haggled the vendor down to $145 in case you are interested.  Well worth it for the novelty and to see how close the real one comes to it!",274.0,705,2014-08-03,AAPL,0.022582458332180977,0.9188296794891357,0.05858786404132843
+mac,Has anybody tried using an external GPU through the newer thunderbolt-capable macs?,"This goes for either the desktops or laptops, but is more likely to be used in the latter. Word on the grapevine is that it's possible to use a macbook's thunderbolt port to accept input from a discrete graphics card for gaming or other tasks that the integrated graphics would find difficult.  However, it either requires a lot of investment in some thunderbolt PCI-E cases or some hardwear modding. (Still cheaper than buying a new gaming PC, however..)
+
+
+Has anybody tried this successfully or not-so-successfully?",7.0,7,2014-08-03,AAPL,0.04885518178343773,0.9018101096153259,0.04933468997478485
+iphone,"Tried to download a game and for some reason this is happening, it won't load and I can't delete it does any one know what I can do?",,40.0,67,2014-08-03,AAPL,0.028569670394062996,0.9256640076637268,0.04576636850833893
+mac,"Number of PCIe lanes in 2012 Retina Macbook Pro 15""?","Does anyone know how many PCIe lanes the logic board has, and if the same lane connects the integrated graphics processor with the discrete GPU? Been looking on Google for a while, came up empty...
+
+EDIT: To clarify, I'm asking to see if there is any possibility of using both the IGP and discrete GPU at the same time. Since most motherboards have the IGP and GPU in the same PCIe lane, this is not possible, however, some motherboards (H67) do have independent lanes for IGP and GPU, so *in theory* you should be able to use them both at the same time.",25.0,6,2014-08-03,AAPL,0.035471510142087936,0.9287559986114502,0.03577246516942978
+mac,Should I Buy Late 2011 iMac?,"Would a Late 2011 3.1 GHz i3 4 GB RAM iMac suffice for smooth emailing and web browsing on OS.Mavericks?
+
+Thanks!",10.0,6,2014-08-03,AAPL,0.02019820734858513,0.8968014121055603,0.08300033211708069
+mac,"Considering my first MacBook for iOS development, Air or Pro?","Like the title suggests, I am looking to get a MacBook for developing apps for iOS, I don't plan on rendering huge movies, or developing albums or becoming a super artist using Photoshop--I will be doing some LIGHT photo editing though (just for everyday pics that I will upload to facebook/instagram etc.)
+
+The main use for the laptop will be: iOS SDK, Web Browing, E-Mail, YouTube, Netflix, Research, Writing, syncing iPhone/iTunes, and some other low intensity activities. I don't plan on doing any gaming on it, I have a custom built PC that snores when I play games at ultra settings for that.
+
+A few questions to finish up:
+
+1. I could be staring at this thing for HOURS at a time, will the glossy screen be a problem for eye strain?
+
+2. First, some information... I currently have a 6GB DDR3 1033MHz Ram, Quad Core that is OC to 4.0GHz. I NEVER reach maximum usage except when rendering videos, which I do really do anymore, and even when gaming at ultra settings, my CPU/RAM/GPU never hit maximum, depending on the game CPU/GPU MIGHT hit 75%, but RAM rarely goes above 60% no matter what I am doing. 
+
+With that in mind... I notice Apple products tend to have much lower spec Laptops; HOWEVER, I am aware they optimize their software to run on a very specific set of hardware which I know will yield better results. My question is, is the optimization enough to make up the difference in power that is lost, and is it enough to do what I have outlined as my primary usage for the device?
+
+3. Brand New vs Refurbished. Pro's vs Cons?
+
+4 I have very limited experience with a Mac, it fact it has been years since I last really used one. What are some of the benefits of a Mac vs Windows? If you are a Windows to Mac switcher, I WANT TO HEAR FROM YOU!
+
+5. Retina Display, worth it or just marketing?
+
+Sorry for wall of text!",10.0,6,2014-08-03,AAPL,0.07940926402807236,0.886883020401001,0.03370775654911995
+iphone,"Question about ""Notes"" on iPhone.","I used to be able to sync my ""Notes"" on my iPhone with my MacBook Pro when did the rest of the syncing on my phone and computer. It would come up in my ""Mail"" in my dock. It seems to have disappeared, and though it is on my phone (I use it daily) I can no longer transfer/copy the data to my phone. I'm thinking this problem might have started a few months ago with the big upgrade in the operating software on my MacBook. Does anyone here know what I'm talking about and how I can fix it? I was hoping to copy one particularly long note to my computer, then copy/paste it into a document I was going to print out for a coworker who needed the info. I was hoping to not have to manually type out the info into a Pages document.",10.0,6,2014-08-03,AAPL,0.09766101837158203,0.8755667209625244,0.026772238314151764
+apple,Android Overtakes iOS in Usage Stats for the First Time Ever,,22.0,6,2014-08-03,AAPL,0.013029509223997593,0.811471700668335,0.17549876868724823
+apple,"As a purchaser of AppleCare+ for my iPhone 5, can I simply choose to pay the deductible and get a replacement phone to upgrade it's overall physical condition and worsening battery life?","I just can't justify intentionally breaking the thing, but I'd like a refresh before my warranty expires.",83.0,59,2014-08-03,AAPL,0.22369401156902313,0.7360734343528748,0.04023251682519913
+appletv,NFL teasing us with a partially filled NFL Now app for AppleTV,,6.0,9,2014-08-04,AAPL,0.024355806410312653,0.9089158773422241,0.06672835350036621
+ipad,"The original Bioshock, coming soon to iOS Devices!",,12.0,88,2014-08-04,AAPL,0.02389133907854557,0.9180585145950317,0.05805014818906784
+iphone,The Insidiousness of Facebook Messenger's Mobile App Terms of Service,,11.0,8,2014-08-04,AAPL,0.03278602287173271,0.9423452019691467,0.024868743494153023
+apple,"Form-fitting sleeve for Macbook Pro Retina 13""","I just purchased the now end-of-life MBP Retina 13"" (the 8GB Ram, 256SSD, etc) before the 200Mhz upgrade. 
+  
+I want a form-fitting sleeve for it. It is 13.3 inches to be precise. I don't want a hard case because it will be in a briefcase and I don't want it getting moved around or scratched. I can't find anything form fitting. Everything that says it fits like a sleeve in the ad later gets torn apart in the comments as being too big. Can anyone suggest something that will fit tightly around this thing and restrict it from moving around in the case?
+  
+Thanks!",23.0,8,2014-08-04,AAPL,0.0374416783452034,0.9160903096199036,0.04646800830960274
+apple,BioShock 1 announced for iPhone and iPad,,155.0,742,2014-08-04,AAPL,0.012660615146160126,0.8818264603614807,0.10551292449235916
+ipad,Best Apps/Acessories for a Grad Student,"Hi all!  Recently received an iPad as a birthday gift, and am looking to use it as a note taking machine for school.  Any recommendations for good apps for writing notes, stylus', and keyboards?",7.0,7,2014-08-04,AAPL,0.017063427716493607,0.8840528726577759,0.09888369590044022
+iphone,"iOS 8 beta 5 changes carrier to ""T-Mobile Wi-Fi"" when using Wi-Fi calling.",,20.0,61,2014-08-04,AAPL,0.02742943912744522,0.9473683834075928,0.02520216628909111
+mac,Running Windows off of an exteternal hard drive?,"Hi,    
+    
+So I have a 1 TB external hard drive that I'd like to set up in a similar way to boot camp, so that when I plug it in and turn the computer off, it would let me boot the hard drive as I would boot a Boot Camp partition. That way all the windows files and documents are saved exclusively to the hard drive, rather than using up hard drive space on my rMBP. Is there a way to do this?    
+    
+Thanks!",20.0,6,2014-08-04,AAPL,0.016451936215162277,0.9168630838394165,0.06668499857187271
+iphone,Organize photos from camera roll,"Is it possible to see which photos are not in albums already?
+And to hide photos that are already in albums?
+Any tipps to make this bad app work better? I've tried third party ones, but they're not as integrated as the official/",6.0,5,2014-08-04,AAPL,0.029940510168671608,0.9172634482383728,0.052796103060245514
+apple,Why do I still not have to worry about getting viruses on my Mac?,"Seeing as how popular Macs are, it's amazing that they don't have more problems with viruses. Macs used to not have to worry about viruses because the market for them was very small compared to the windows market. In a way, this is the case. But Macs are more popular than they've ever been and I still don't worry about it contracting any digital illnesses.
+
+So what's up?
+
+edit: Wow, you guys have been super helpful. This is some great info.",68.0,42,2014-08-04,AAPL,0.02574586495757103,0.9099593758583069,0.0642947182059288
+iphone,Just got our music app approved... are we doing this right?,"Hi everyone,
+
+We're a small app-development start-up company founded in Taiwan and we'd like to introduce--as well as get some feedback on--a free app we've just released to the US. It's called iMusee+ and its App Store link is here:
+
+[https://itunes.apple.com/us/app/id892293290](https://itunes.apple.com/us/app/id892293290)
+
+iMusee+ is a music app that allows you to listen to music and watch music videos provided by YouTube. YT music players are nothing new on the App Store, but we differ by bringing in aspects from Spotify and Songza, such as providing mood/scenario-based playlists that we curate ourselves.
+
+Other features:
+
+* International Top Chart rankings, updated in real-time
+* A ""currently relevant"" playlist themed around things like recently released movies, trending pop culture, today's current events, etc. updated every week
+* Background playback support
+* Ability to create, back-up, and restore custom playlists
+* Ability to import your playlists from YouTube
+* HD/SD video quality toggling to save bandwidth/reduce lag
+* Audio-only mode to save bandwidth/reduce lag
+* It's free!
+
+We're adding the function to see playlists made by other people (much like you can explore/follow friends and popular users on instagram) very soon.
+
+Our Chinese version of the app has been pretty successful in Taiwan, Hong Kong, Singapore, and Malaysia, but this is the first time we're setting our sights on an English-speaking (not to mention massive) market, so it's a bit of a new and intimidating undertaking. We'd love to hear any suggestions to help us improve our product into something people would want to use in the US.
+
+Thanks for looking reddit!",10.0,9,2014-08-05,AAPL,0.021653495728969574,0.9257918000221252,0.052554644644260406
+apple,"13"" rMBP upgrades?","Hi /r/apple!
+
+I've been thinking quite a while about buying a retina macbook pro and now that they've released the updates I thought that it was a good time to finnaly buy one. I'm thinking about buying the base-model with 128 GB of memory, 8 GB ram and the 2,6 GHz processor. The question I have is if you think that there are any updates that are essential or that I should consider before closing the deal, I'd be glad for any answers!
+
+I should also add that I plan to use the computer for browsing the web, watching movies and series and also writing documents and such for school, other than that just daily use, nothing special.
+
+I'm very thankful for any help or input!",35.0,9,2014-08-05,AAPL,0.028361555188894272,0.939841628074646,0.031796880066394806
+ipad,Will bluetooth headphones work if there are headphones plugged into the 3.5mm jack?,?,2.0,9,2014-08-05,AAPL,0.025737488642334938,0.9290711879730225,0.04519132897257805
+mac,Shazam for Mac. An app that listens to everything in the background... sounds secure.,,47.0,89,2014-08-05,AAPL,0.0299273319542408,0.9312009215354919,0.03887180611491203
+apple,I for one hope there's still a new 4-inch iPhone 6,"For all the hype about the new 4.7"" and 5.5"" iPhone, it's almost starting to feel like there won't be a new 4"" model with updated processor?
+
+I really hope Apple doesn't give in to the big-screen-lovers and totally abandon their current userbase. I'm sure plenty of current iPhone users would choose a bigger screen if given a choice, but I for one would still choose the current size, and frankly, I'm not sure I would be happy with a larger one at all. 
+
+Probably about 75% of the time I use my phone it's while on the bus or while eating, so being able to use it comfortably one-handed is a very important feature to me, and even the current size is pushing the limits of that for me.
+
+Does anyone else feel the same? Has anyone seen any rumours saying there will be new 4"" model? Everything I read is just about the larger ones.",104.0,88,2014-08-05,AAPL,0.02304711937904358,0.9097824096679688,0.06717041879892349
+ios,The Best Siri Feature You're Not Using: Do you know Siri Can Read Your Latest Text Messages,,5.0,8,2014-08-05,AAPL,0.02093241550028324,0.9326026439666748,0.04646486043930054
+mac,/r/Mac Wants YOU!,,9.0,8,2014-08-05,AAPL,0.026222722604870796,0.9244807362556458,0.04929647967219353
+ipad,Trying to figure out why I do not see YouTube ads on my iPad,"i am so used to blocking ads on my computers that I never even realized I wasn't seeing ads on YouTube on the iPad. Then my friend got an iPad and when I send him a link to a video he constantly sees ads, whether through Safari, Chrome, or the YouTube app.
+
+I just don't get what's going on here. 
+
+My iPad is not jailbroken. I use OpenDNS but so does he.
+Any ideas as to what is going on?
+
+Thanks",5.0,8,2014-08-05,AAPL,0.03988267481327057,0.9257159233093262,0.034401439130306244
+mac,How long have you had your Macbook Pro and when do you think you'll upgrade?,"I have an early 2011 Macbook Pro that I got before my freshmen year of college and it has held up completely fine for the most part since I got it. I am going into my fourth year of college with no regrets, but have noticed that it has gotten a little slower and the battery has gotten pretty bad. With that in mind, I am considering upgrading either after this year or the next. I am in a six year pharmacy program and would like to upgrade while I can still get student pricing/perks.
+
+This got me to wonder how long does a typical /r/mac user keep using the same macbook pro? Are you planning to upgrade soon?",28.0,7,2014-08-05,AAPL,0.032397422939538956,0.8711182475090027,0.09648434072732925
+ipad,ipad not charging?,"When I plug my ipad in it doesn't charge but when it's completely dead and I plug it in the screen wakes up and shows the empt5 battery icon, but I don't believe it's charging. anyone run into this before?",2.0,6,2014-08-05,AAPL,0.03149524703621864,0.9339390397071838,0.03456567972898483
+apple,How do YOU use Spaces?,Looking for tips to get more usability out of it. It's the one feature I don't feel i'm making the most of.,35.0,9,2014-08-06,AAPL,0.05694320797920227,0.9036890864372253,0.039367664605379105
+mac,Good RDC client for connecting to a Linux VPS?,,4.0,9,2014-08-06,AAPL,0.02184348553419113,0.9307804703712463,0.04737606644630432
+mac,"I'm trying to copy a cd file straight to the desktop to use in protools, but when I do, parts of the audio drop out or are replaced with clicks. I check the original cd and it's fine. I check the file on the desktop and it has the clicks or dropouts. What gives?","The cd from a tascam burner gives me dropouts, and the cd from an Alesis burner gives me clicks. Both cds are fine when I check them.",4.0,9,2014-08-06,AAPL,0.1915687471628189,0.7898827195167542,0.018548574298620224
+mac,Mac running public beta of yosemite sending sms messages rather than imessages.,"My late 2013 rMBP is running the public beta of yosemite and my iphone 5s is running DP5 of iOS8. I was having no problems with messaging until yesterday. When texting any friend with an iphone from my laptop, instead of imesseging, it always sms texts through my phone. If I turn my phone off, instead of sending an imessage it just won't send at all. I understand this is beta software so I completely understand that there are bugs. I was just wondering if anyone also had this problem and if anyone had a fix? Thanks.",1.0,9,2014-08-06,AAPL,0.061815980821847916,0.9088770747184753,0.02930700033903122
+mac,Which launcher do you use and why?,"Maybe this question is moot with the upcoming release of Yosemite, but I got to wondering this today.
+
+I've been using Quicksilver since it came out. There are other launchers such as Alfred and Launchbar and I don't know why I should consider switching to them, but do sometimes feel as if I'm missing out on being more productive.",17.0,9,2014-08-06,AAPL,0.21597884595394135,0.7467586398124695,0.03726246580481529
+apple,50 ways to use your Mac server,,34.0,88,2014-08-06,AAPL,0.013839730061590672,0.9261675477027893,0.05999269336462021
+ipad,Im looking for some Beta testers! for a children's book app.,,5.0,8,2014-08-06,AAPL,0.030868427827954292,0.9255302548408508,0.043601345270872116
+ios,Creating Scannable Promo Codes for Your Apps,,0.0,8,2014-08-06,AAPL,0.024475904181599617,0.94415682554245,0.031367234885692596
+mac,will this SSD work with a late 2008 unibody 13' macbook,,10.0,8,2014-08-06,AAPL,0.030624182894825935,0.8999153971672058,0.06946048140525818
+ipad,"The Verge - This is my Next - The iPad Air is the best tablet you can buy. iPad Mini with Retina a ""close second.""",,54.0,76,2014-08-06,AAPL,0.0173913836479187,0.781242311000824,0.20136626064777374
+mac,"One monitor, two sources.","Hi all, I have a possibly stupid question and I would like some advice. I'm getting a Mac Mini which I will hooking up to a 24"" monitor that only accepts a DVI and VGA input (it lets me choose which source I would like to use).
+
+Right now the VGA input is occupied by my PC and the DVI slot is occupied by my PS4 that is connected using an HDMI to DVI adaptor. Since i'm a really cheap person, I don't want to go and buy another monitor, is there anyway that I could attach my Mac Mini AND my PS4 to the same DVI input using some sort of DVI splitter? I'm thinking one male end that splits to two female ends (if they even exist). Since the Mac Mini and the Playstation is already using an HDMI to DVI adaptor, will adding this splitter make it less feasible?
+
+I hope this made sense. Thank you in advance.",2.0,9,2014-08-07,AAPL,0.02382497861981392,0.9156934022903442,0.06048160418868065
+ipad,DropZap 1 v3.3 released and is FREE for a limited time.,,3.0,9,2014-08-07,AAPL,0.03602151200175285,0.9228003621101379,0.0411781407892704
+mac,Have had a PC for all my life. Making the switch to a macbook pro with retina,What do I need to know?  I've never really used a Mac before and would like to know how to get the most out of it.,7.0,9,2014-08-07,AAPL,0.025660235434770584,0.9319558143615723,0.04238393157720566
+ipad,[iPad] Automatic full backup options?,"Hi gang
+
+I work for an MSP that provides services - including cloudbackup for our customers. A particularly picky client insists on having us set up reliable, scheduled, *complete* backups of his home devices that are iPads and iPhones. His PCs and workstations I got covered, but our backup-software only covers parts of the files/settings on the iOS platform. 
+
+For those of you that know of it - its Asigra Cloudbackup v12.2 and I cant manage to get that app to backup more than Contacts, Calendar, Photo/videos and reminders. 
+
+But what about music? Other apps and their settings/files? This request apparently was spurred on by his son losing a lot of MineCraft savegames... *sigh* I know...
+
+Im no Apple user so I turn to you guys; What are the favoured options here? 
+
+Not iCloud please - the user has been severely burnt on that service before and is vehemently opposing it.
+
+Not manual iTunes backup - the user is *insisting* that there must be some solution out there for the thousands of users that is in a similar situation. For 5-6-7 devices - manual docking and manual iTunes backup to local storage is right out. 
+
+If not Asigra or iCloud or iTunes ... then what?",7.0,9,2014-08-07,AAPL,0.059231966733932495,0.9136955738067627,0.027072420343756676
+apple,I may be the luckiest refurb purchaser ever.,"I ordered the refurbished 15"" mbpr, with 2.3ghz, 16gb ram, 512gb hard drive, and the nvidia 750m.
+
+I ordered that for $2039
+
+Today I got an email saying that it was sold out, so they have upgraded me to the 2.6ghz at no additional cost. I called and asked for the specs, and they said that the new one is the model with the 2.6, and the 1tb hard drive that costs $2650 refurbished, and $3100 new.
+
+So by ordering a refurbished and saving about $450, I just saved over a thousand dollars.
+
+ I love apples customer service. Other companies would have said ""tough shit. Lost your chance.""
+
+Edit: link to the model I was upgraded to for $2059
+http://store.apple.com/us/product/G0PU2LL/A/refurbished-154-inch-macbook-pro-26ghz-quad-core-intel-i7-with-retina-display",264.0,842,2014-08-07,AAPL,0.03672986477613449,0.8700820207595825,0.09318806976079941
+mac,Is 16GB RAM too much?,"I have a 2013 13"" MacBook Pro and want to upgrade from 4GB RAM. Should I get the 8GB or spend an extra $100 for 16 GB?",48.0,8,2014-08-07,AAPL,0.015277265571057796,0.826444149017334,0.15827864408493042
+apple,"any major difference between Late 2013 and Mid 2014 Retina MacBook Pro? (15"")","Finally sold my pos 2012 13"" model that apple refused to fix, I gonna buy a 15"" model now and the apple store has a really great deal for the late 2013 refurbished model. But I saw they just upgraded this model like a week ago and I couldn't find any info on what the differences are, all I can see was a 200mhz increase and 8gb more ram, which I don't really care about. Are they pretty much the same besides that? Like all the ports, usb 3.0, graphics, wifi chip, etc?",11.0,7,2014-08-07,AAPL,0.014865092933177948,0.8744298219680786,0.11070515960454941
+mac,"Just got a Mac from work, I want to make it 'my own'","So today I purchased a Macbook Pro 13"" Mid 2012 from work, they were selling them cheap because they are moving everything over to Windows. I purchased it with getting to know OSX better and generally because I needed a new laptop.
+
+I'm starting to get to grips with it but I want to make it my own, I dont necessarily want to wipe it because it has the MS Office and the Apple Office apps on it - Numbers, Pages etc but I want it to feel like mine. It still has work proxies, on it. I've been told the power settings need to be changed, setting hard disks so they turn off or something? Also would like to associate it with my Apple ID/iCloud if possible and rename it. Is this possible? 
+
+I was also looking to put an SSD into or maybe upgrade the ram, any suggestions are welcome. Thanks!",14.0,7,2014-08-07,AAPL,0.01657145842909813,0.877937376499176,0.10549117624759674
+apple,"Sesame, Locks your Mac when you walk away",,48.0,63,2014-08-07,AAPL,0.12774375081062317,0.8228379487991333,0.04941830039024353
+mac,"iMac 27"" crashing upon start up. Any suggestions?","I was browsing emails on my iMac and it froze and these these strange vertical stripes appeared and my computer crashed. When I went to restart my computer it had the strange vertical lines seen in the album and after 30 seconds of loading the screen froze and dots appeared.
+http://imgur.com/a/SUwlz",10.0,6,2014-08-07,AAPL,0.19666606187820435,0.7720727920532227,0.03126111254096031
+mac,"iWork Templates - Great Collection of Templates for Pages, Numbers and Keynote",,0.0,92,2014-08-08,AAPL,0.03649791702628136,0.9332455396652222,0.0302566047757864
+ipad,"Why does the iPad (Air) have such an issue with wallpapers... It ZOOMS in every time, and I can't re size it to fit/fill the screen properly.",,15.0,9,2014-08-08,AAPL,0.022719718515872955,0.9282324314117432,0.04904785379767418
+iphone,Just got a 5S (50% charged) how should I manage the battery?,,16.0,8,2014-08-08,AAPL,0.022688904777169228,0.9080733060836792,0.06923771649599075
+mac,"Have some older Mac equipment, have a question","We got some older G5 Mac blades as kind of a salvage deal (flooded data room). No O/S installed, but there are 3 servers and 5 of what look like normal blade servers but have no video output. 
+
+They would appear to be storage arrays, but they have all the inputs and outputs that a normal Mac would have (except for video output). On the inside they appear to have the normal computer setup (CPU, memory etc).
+
+Is that what these are? Are they used for additional storage for the blade XServers? They all have 3 drive bays with firewire connections and what appear to be higher capacity data IO connectors.",9.0,8,2014-08-08,AAPL,0.017907852306962013,0.9163042902946472,0.06578785926103592
+ipad,What can I use my 1st Gen iPad for?,"I recently went back home and found my old 1st Gen iPad. I originally jail broken, but nothing really works well anymore as it capped out at iOS 5.
+
+I'm wondering if I should return it to stock iOS, or, reformat the whole thing and jailbreak it again. I fear jail breaking it again, as its so out of date. 
+
+Ideas?",24.0,8,2014-08-08,AAPL,0.05249464511871338,0.9124529361724854,0.035052403807640076
+ios,iOS to OS X screen sharing app?,"I've been using the Microsoft Remote Desktop app on my iPad mini, and it's been great.  Unfortunately, I haven't been able to find a VNC client to connect to My OS X machines that works anywhere near as well.  The best that I've tried is iSSH, which works great for a remote terminal connection, but is just too clumsy for me, now that I've been spoiled by the windows version.  Any recommendations?
+
+After seeing a couple of $20+ suggestions, I looked back through my purchases, and noticed Real VNC.  I can't recall if it was free or what it cost, but since I already have access to it, I gave it a shot, and I was pleasantly surprised.  It used bonjour to find my Mac mini, and it started working right away.  I'd say the interface worked about 95% as well as Remote Desktop on windows, which will do just fine for my needs.",4.0,7,2014-08-08,AAPL,0.03108977898955345,0.8854836225509644,0.08342663198709488
+mac,Best microfiber cloth for Mac cleaning?,Looking for one just for dust removal and general computer cleaning.,6.0,7,2014-08-08,AAPL,0.0576796717941761,0.9149857759475708,0.027334513142704964
+ipad,I am heavy Microsoft / Windows user...,"... and I am looking for a Tablet. 
+
+I completely adore Windows Phone 8 in comparison to Androids, simply because I want the phone to be USEFUL not OVERWHELMING. I don't need all the access to kernel and such and I hate in Android that after 6-10 months of using they become slower and slower and laggy. With WP - it's not a case, and I don't want to/ don't have the money to upgrade phone/tablet every 6 months or 12 months for that matter. 
+
+Now I need a USEFUL tablet. That will allow me to browse the web anywhere in the world, so that I can book rooms on the fly or check my reddits and facebooks and... gmails. 
+
+I've touched the Windows tablets and well they pretty much suck. Just because they don't have mobile Windows installed but the regular desktop thingy and when you're in the system everything it's just too small for a tablet. 
+
+I've touched Androids... but the cheaper ones are laggy and slowly working (which pisses me of the most (!)) and the more expensive ones - they're kind of ok-ish, but they cost almost the same as an iPad and they're made of cheap plastic O.o 
+
+I've touched and iPad and in terms of ""working"" it was clearly the best of them. 
+
+-----
+
+Now I really consider buying one, but one of the cheaper versions. Like Mini Retina + cellular. (Cellular is a must for me!). I would like to have it before 20th of November.
+
+What do I need to know at this point? 
+
+* What problems will I face assuming all my other devices are Windows, and I've never had iThings? I assume it's 2014 and synchronization with google contacts or gmails or anything like that would not be an issue, would it? 
+
+* I know that there's new iPhone announcement rumors going on. Along with this, will there be new iPad version? If so, will I be able to buy the previous one cheaper then? If so, when would be the best time for getting it? Will I be able at all to get older version from the retailer, after the new one is released?
+
+@People who came here from Windows, tell me your opinions and faced problems! :)
+
+I just want to know what would I get myself into if I decided finally to get an iPad.",20.0,7,2014-08-08,AAPL,0.05478530004620552,0.9077054262161255,0.03750927373766899
+mac,"I'm considering switching to a AirPort Time Capsule, but have some simple questions","Here is my current setup (probably more info than what is needed, but here it goes):
+
+* MacBook Pro (Retina, 15-inch, Late 2013, 8GB, 2 GHz Intel Core i7)
+* MacBook Air (13-inch, Mid 2013, 8GB, 1.3GHz Dual-Core Intel Core i5)
+* Lenovo Y450 (Windows 7, 8GB)
+* iPad 2
+* iPhone 5 (two, mine and my gf)
+* Samsung UN50F6300 - 50"" Smart TV.
+* Western Digital My Book Live 3TB
+* Arris DG860 cable modem/router combo thing from TWC (my only choice).
+* Time Warner Cable - 30Mbps down, 5Mbps up
+
+I have my Lenovo laptop connected to my TV via HDMI and the laptop is hardwired to the Arris.  I have a lot of movies and TV shows on the MyBookLive that I open on my Lenovo and watch on my TV (using VLC player for most everything).  For the most part this works pretty well, no real problems.  I was streaming videos straight from the MyBookLive to the TV, but software updates to the TV did something recently that won't let me stream anymore, have yet to figure it out.
+
+Both MacBooks back up to the MyBookLive.
+
+I work from home everyday (on the MacBook Pro) and while I don't have to access the MyBookLive very often, when I do it is brutally slow (I've done research and the speed I am getting is normal, it just seems brutal).  Just navigating through folders to find the file I'm looking for is rough.  This is why I have been contemplating switching to the Airport Time Capsule. 
+
+I guess my real question is, will I see significant speed improvement when accessing the Airport Time Capsule compared to the MyBookLive, particularly when accessing from the MacBooks?  I am not very familiar with the whole 802.11ac technology, but I feel like that is where the difference would be.  How about overall internet speed from my TV (wireless, for Netflix mainly) and the Lenovo (wired)?  Any help would be great.  I've read a lot of reviews, but I have to think that the results will be unique to each persons situation based on their devices and setup.
+
+**TL;DR - Thinking about switching from MyBookLive to Airport Time Capsule, how much faster will access to the Time Capsule from a MacBook (utilizing 802.11ac)?**",10.0,7,2014-08-08,AAPL,0.043845172971487045,0.9228636026382446,0.03329116478562355
+mac,"Question about UI lag for 13"" Retina MacBook Pro late 2013 owners.","I'm currently thinking of buying a 13"" MacBook Pro and stumbled upon a few forums where people were talking about the user interface lagging while doing actions such as scrolling, resizing, playing YouTube videos. at default retina resolution. 
+
+The solution seems to be to decrease the resolution to eliminate the lag, but in the process lose the ""retina"" feature. 
+
+For people who own a 13"" rMBP since a few months already. How has your experience been ? Is it smooth or sluggish at default resolution, even when multitasking ? 
+
+Also if anyone tried Yosemite on their rMBP, did it affect performance ?",27.0,7,2014-08-08,AAPL,0.0658382847905159,0.8966387510299683,0.037522975355386734
+iphone,MoviePro (usually 5$) is free in the App Store for today only! Better than iMovie IMO!,"Been testing it out and it's great! It allows for 60fps 1080p video even on my iPhone 5c. For me it is a lot better than iMovie in terms of features and functionality. Also iMovie is 600mb whereas this app is only 8mb!
+
+Download it now because it is only free today.
+
+https://itunes.apple.com/es/app/moviepro-video-recorder-pause/id547101144?l=en&amp;mt=8",25.0,94,2014-08-09,AAPL,0.014682333916425705,0.8900068998336792,0.09531078487634659
+mac,Macbook Pro or Macbook Air?,"I am currently looking for a new laptop to buy, the Appple products seem to be one of the best to suit my needs, however I am contemplating on which one to buy, either the 13 inch Macbook Air, or the 13 inch Macbook Pro. What do you people think is the better one? If anyone else has any idea, please let me know. 
+
+Thanks
+
+Have a wonderful day",46.0,9,2014-08-09,AAPL,0.012328173965215683,0.8631494045257568,0.12452244013547897
+iphone,How to Buy the Right Car Phone Mount,,6.0,9,2014-08-09,AAPL,0.015518521890044212,0.9144079089164734,0.07007363438606262
+apple,Any ideas why Apple replaced my battery for free?,"I have an out of warranty mid 2012 MBA (no Applecare either) that had a seemingly defective battery. The battery health was in the 70s after only 150 cycles and about 18 months. 
+
+I went to the Genius Bar a couple of weeks ago and the GB tech confirmed this was very unusual and said there was something wrong. He also said it would cost $129 since I wasn't covered. I decided to hold off on getting it fixed to see if my CC company would cover it through an extended warranty. Long story short; they wouldn't.
+
+Went back to the Apple Store today and the new tech confirmed again the battery was messed up, and I expected him to again say I would have to pay to have it fixed but to my surprise he said it was actually covered under ""Quality Program (E1)"" warranty. No idea why this covered it (I didn't ask), but I was sure as hell happy. Is this something commonly used by Apple or only in specific cases?
+
+I read a lot of stories about Apple refusing to replace the batteries for free out of warranty unless the customer made a fuss about it. I certainly didn't so I was pleasantly surprised.",4.0,8,2014-08-09,AAPL,0.09061064571142197,0.867569625377655,0.041819725185632706
+ipad,Why is it that all smart playlists on an iPad are arranged alphabetically? Can I change this?,"This bothers me every day.  On my other devices (computer, iPhone) the Recently Played playlist is arranged in order of last played.  Inexplicably, on the iPad, it is arranged alphabetically.  Does this bother anyone else?  Can I change it?  Thanks!",0.0,8,2014-08-09,AAPL,0.03635783866047859,0.9304890036582947,0.03315306827425957
+mac,Thoughts on Apple USB SuperDrive? Is it worth the $80?,"I have a recently purchased 2013, 13"" MacBook Pro, and it does not have a CD/DVD drive. I will need one for college. Tried getting a standard CD/DVD drive that plugs in via USB off Amazon, but my mac seemed to not recognize it, so I'm returning it. The Apple USB Superdrive seems a bit expensive (the reason I tried using another one first), so I'd just like to know your guys' thoughts on it before I go and purchase one. Bottom line: is it worth the $80?",32.0,8,2014-08-09,AAPL,0.02057476155459881,0.8974863886833191,0.08193880319595337
+apple,It’s official: Your carrier is pushing you to buy a Samsung phone over an iPhone,,8.0,7,2014-08-09,AAPL,0.010324910283088684,0.8445902466773987,0.14508485794067383
+ipad,Video Player - Accessing files - Saving your place,"Since getting my iPad there's one thing that continues to bug me. I will sometimes download videos in different apps and what I'd like to do is to be able to access those files via my preferred video player and/or have the video player to save my spot in the video. I'm coming from Android where everything can access everything else at any time. What's the easiest solution to this?
+
+For an example let's say I downloaded a video from YouTube using Amerigo, MxTube, Titan Player etc.
+
+It's my experience that I cannot access that file from any other application - even a file explorer. Is this true? Is there a way to transfer it to another app or accessible location?
+
+I have figured out how to export the video to the camera roll - but as far as I can tell I can't access even camera roll files via say VLC.
+
+Is there another video player that could access camera roll videos? Is there a better way to get the videos into VLC (or other player)? And will VLC or another player save my place in video files - I don't know that it does this by default?
+
+tldr I want a video player that saves my place because the default player does not. Also is there a way to get a video file from one app to another that I've missed? Thanks.",1.0,7,2014-08-09,AAPL,0.029320919886231422,0.9401808977127075,0.030498210340738297
+iphone,The Intersection of Technology and the Liberal Arts,,0.0,6,2014-08-09,AAPL,0.05755876377224922,0.9097811579704285,0.03266002982854843
+apple,I changed my iCloud password and seemed to have screwed up iMessage...,"After changing my Apple account password, it seems to have taken away my ability to use iMessage via my phone number on all of my devices (iPhone 5 and rMBP). Has anyone dealt with this before?
+
+http://i.imgur.com/gGzXQwo.png
+
+As you can see, messaging via my email works fine. But my phone number is greyed out and unselected?
+
+**EDIT:** Fixed immediately after posting. I decided to turn iMessage on and off, and it worked. I'll leave this up in case anyone is having the same problems.",3.0,6,2014-08-09,AAPL,0.22352933883666992,0.7532600164413452,0.023210683837532997
+apple,Apple Patent Points To Siri On Macs - InformationWeek,,1.0,9,2014-08-10,AAPL,0.03392458334565163,0.924396812915802,0.04167865216732025
+ios,1password Vs iCloud Keychain,What's the benefit of 1 password over iCloud keychain?,27.0,9,2014-08-10,AAPL,0.02584914118051529,0.9271361231803894,0.0470147542655468
+apple,[Hardware Help] Can I use the Lightning to USB Adapter through the Lightning Digital AV Adapter's little side plug?,"On the Digital AV Adapter for lightning cables I see a small other input. Can I plug in a Lightning to USB Camera Adapter through it, and have it function normally? Thanks.",2.0,9,2014-08-10,AAPL,0.026661282405257225,0.9404473304748535,0.0328914076089859
+iphone,Whese - A new iOS app,"We are please to announce our new app, Whese for iOS.
+Whese is a moment sharing app where you will find out what your friends are up to now.
+
+* Whese is not just a simple photo sharing app
+, it is for keeping up with your friends by sharing your moment.
+* Your friends will only see your last post on their screens, so you have no chance to bore them!
+* Whese works in realtime; you will get immediate reactions from your friends as it appears on their screen instantly.
+* Ofcourse posts are not deleted. Your friends can still view your profile to see your previous posts.
+
+You can check here:
+https://itunes.apple.com/app/id871746078",2.0,9,2014-08-10,AAPL,0.052491195499897,0.9239197373390198,0.0235891230404377
+apple,Apple just updated their battery page!,,56.0,80,2014-08-10,AAPL,0.020536059513688087,0.9336580038070679,0.04580598697066307
+ios,"Try out Dex, an iPhone Pokedex",,1.0,8,2014-08-10,AAPL,0.03267863020300865,0.880687952041626,0.08663340657949448
+mac,Would now be a good time to buy a Mac Mini?,"I figured since the new mac mini is coming out perhaps us witrh a smaller budget could snatch a cheaper deal for the old version. Is this a wise choice? Is now a good time to buy?
+
+Also another question, I want to operate this mac mini with dual screens. What should I look for in screens for the mini? 
+
+Thanks in advance for any help!",16.0,8,2014-08-10,AAPL,0.01932326890528202,0.895439624786377,0.08523714542388916
+apple,Asking a favour of someone who owns Logic Pro X,"One day I was waiting, and there was a Mac there, and the Mac had Logic Pro X running. So I made a song on the Mac and emailed the file to myself, but I forgot that I don't actually own Logic Pro X on my computer. I don't need to edit the song, but I would like to be able to listen to it. If someone who owns Logic Pro X is willing to download the Logic file, export it as normal audio and send it to me it would be greatly appreciated.
+
+I saved it as a folder, and ticked all the boxes on the attachments (since I wasn't sure which ones were needed, so I just ticked them all). [Here](https://drive.google.com/file/d/0B9QrbiTEaWpPUzBiQWV0blpxUkE/edit?usp=sharing) is the file. 
+
+Also, if there is a better place to ask for this favour, I would appreciate it if I was directed there. Thank you.",14.0,7,2014-08-10,AAPL,0.019246350973844528,0.8867314457893372,0.09402216225862503
+mac,BootCamp not recognising 64 bit ISO 8.1,I have recently downloaded a windows 8.1 ISO from my dreamspark account. I am attempting to install it on my late 2013 MacBook pro but I am coming across a few issues. When I go into bootcamp and select the ISO I get a error message pop up saying it must be windows 7 or later. I ignore that and click continue again and I get a second error message that says must be 64bit. The file is definitely 64 bit as I had the option to download 32 or 64 so it isn't mixed which is what a lot of users have issue with. I have looked around the net for a few hours now and can't seem to find an appropriate solution. Many thanks for any replies.,6.0,7,2014-08-10,AAPL,0.06736750900745392,0.8747460246086121,0.05788647383451462
+mac,Max fan speed on rMBP and heat question,"I previously had a 2009 13"" MBP and I knew the fans on it ran from 2,000-6,200 RPM depending on the load. However, what is the RPM range of the new rMBPs?
+
+The reason I ask this is because the fans on my old computer used to turn on every once in a while whereas the new computer hardly deviates from 2,000 RPM! For example, I opened up around 20 applications tonight with approximately 20 mildly Flash-intensive tabs, seen here:
+
+http://imgur.com/mYaHqS7
+
+As you can see, the picture shows 193ºF and the fans only running at 2,600 RPM. This worries me a little bit, especially since I can't find much (if any) information on the fan speed range on the rMBPs. I took the screenshot at 193ºF but I was able to hit 197ºF at its max.
+
+If it helps, the model I have is the mid-2014 15"" rMBP with the dGPU",22.0,7,2014-08-10,AAPL,0.029815778136253357,0.9264616370201111,0.04372255504131317
+apple,Inside Apple’s Internal Training Program,,23.0,83,2014-08-11,AAPL,0.02449032850563526,0.9450275301933289,0.030482057482004166
+ios,iOS 8 ready apps,"Are there any apps that are iOS 8 ready; to beta test? 
+
+Third party keyboards, or apps etc.. I know Apple provides a TestFlight service, and developers use it for public betas of their apps?",3.0,8,2014-08-11,AAPL,0.022718248888850212,0.9448456764221191,0.03243605047464371
+apple,How Apple Uses Picasso To Teach Employees About Product Design,,3.0,8,2014-08-11,AAPL,0.027551839128136635,0.9291000962257385,0.04334807023406029
+apple,Renewing Additional iCloud Storage?,"I've been on the additional 10GB iCloud storage plan for a while now, backing up my 32GB iPhone and an iPad. In anticipation of the upcoming iCloud Drive storage plans, I decided not to renew the 10GB for the year. Now my phone is screaming bloody murder about failed backups, out of space, etc. 
+
+Should I definitely wait it out and start backing up to my computer in the meantime? Would renewing the 10GB for a year be monumentally stupid given that when Yosemite comes out they will probably be launching the all new storage plans?
+
+I've been paying $20 per year for 10GB. From what I'm seeing, 20GB will be 99 cents per month with the new plans.",5.0,8,2014-08-11,AAPL,0.0253440048545599,0.9033917784690857,0.07126422971487045
+iphone,10 best apps improving your life. Seriously.,,107.0,775,2014-08-11,AAPL,0.018487565219402313,0.7006372809410095,0.28087514638900757
+mac,Make only one program's audio go to bluetooth?,"Is it possible to make only one applications audio channel go to bluetooth, and the rest of the computer to play through it's speakers?",1.0,7,2014-08-11,AAPL,0.027552219107747078,0.9421196579933167,0.03032817505300045
+apple,"Apple position offered, now a background check snag! (Non-criminal civil suit)",,15.0,7,2014-08-11,AAPL,0.034657105803489685,0.9388850331306458,0.026457887142896652
+apple,Apple’s Suppliers Said to Begin Production of New iPads,,3.0,7,2014-08-11,AAPL,0.011338788084685802,0.667885422706604,0.3207758069038391
+mac,What are your favourite free applications?,"Just got a new mac and would like to find some good applications that I may not have heard of before.  
+Thanks!  
+
+Edit: Thanks a lot everyone all the comments have been very helpful.",49.0,68,2014-08-11,AAPL,0.013179425150156021,0.8587629795074463,0.128057599067688
+iphone,Need Help Organizing My iPhone Files &amp; Pictures,"I'm hoping for a desktop app (Windows) that will help me organize my photos and files on my iPhone.  Does anything like that exist?  For example, I've got about a thousand photos on my camera roll and I would love to have them organized by categories such as Family/Friends/Work/etc.  I know this can be done on my actual phone, but it's a really long and tedious process.
+
+I wouldn't mind an iPhone app either, but I don't know if anything exists that makes the process easier.  Thank you everyone.  I really appreciate the help.",4.0,6,2014-08-11,AAPL,0.021288711577653885,0.9203742742538452,0.0583370216190815
+apple,A copy of the U.S. Constitution is installed on every Mac.,,122.0,944,2014-08-12,AAPL,0.02697119116783142,0.9292508959770203,0.043777961283922195
+apple,"iOS 8 beta testers, how is the A6 chip fairing with the upgraded software?",,7.0,9,2014-08-12,AAPL,0.016103515401482582,0.852921724319458,0.13097472488880157
+mac,MBA okay for programming and low-settings gaming?,"Going to be a computer science major, and I would really like to get a mac to run Xcode and eclipse. Either it helps or hurts my decision, I would also like to run games like wow and diablo on low (lowest possible) settings as well. The MacBook Pro is really out of my price range, being that this would be a gift from my parents and I would probably be covering gifts for a few birthdays if I got a 15"". MacBook Air okay for all of this? Thanks in advance!",9.0,9,2014-08-12,AAPL,0.018353193998336792,0.9025717973709106,0.07907503843307495
+mac,Mac mini quad core vs late 2009 iMac,Which is better? It's going to be used primarily for music production as well as other basic day to day tasks.,10.0,8,2014-08-12,AAPL,0.011279194615781307,0.8420050144195557,0.14671576023101807
+apple,Apple’s Next iPad Could Sport Anti-Reflective Coating For Easier Daylight Use,,9.0,8,2014-08-12,AAPL,0.013264504261314869,0.8460639119148254,0.14067159593105316
+mac,Remove EFI password,"I bought a 2013 MacBook Air off ebay and had it sent to me in a distant country via a freight forwarder. However, i discovered that I couldn't do anything on the laptop because it is locked down with a firmware password.
+
+What options do I have to unlock the firmware password, considering that there is no apple store or authorized repair center anywhere in my country?",11.0,8,2014-08-12,AAPL,0.04119371622800827,0.9169358015060425,0.04187055304646492
+ipad,Help identifying apps?,"From the recent email sent by Apple, ([snapshot]( http://cdn.macrumors.com/article-new/2014/08/productivityapps.jpg)) does anyone know the two apps being displayed on the two iPads between MS Word and MS Excel?",2.0,8,2014-08-12,AAPL,0.0258504468947649,0.9383171796798706,0.03583240509033203
+apple,An iPhone trick to avoid Facebook Messenger and keep chatting,,14.0,8,2014-08-12,AAPL,0.03979001194238663,0.9213220477104187,0.03888794407248497
+ipad,Camp Out for iPad release?,"So, this new iPad will be my first. I'm pretty excited. But I was curious if camping out on day 1 was necessary to get a unit anymore.
+
+I've heard tale of people camping out for the devices in years past, but don't remember for the past couple of years. Will I be able to run into the Apple store on my lunch break and grab one? Will I need to preorder?
+
+Thanks!",10.0,8,2014-08-12,AAPL,0.02613420970737934,0.9197485446929932,0.05411720275878906
+ipad,Apple's Next iPad Could Sport Anti-Reflective Coating For Easier Daylight Use,,31.0,79,2014-08-12,AAPL,0.013264504261314869,0.8460639119148254,0.14067159593105316
+apple,Gruber clarifies his August 8 remark about the intro of Apple's wearable device in his podcast The Talk Show.,"On today's podcast of The Talk Show, John Gruber did some cautious backtracking regarding his August 8 remark about the date of introduction of Apple's rumored wearable device. While he is ""certain"" a device will be introduced this year, he does not know if it will be in September, but thinks it will be then or in October. Says that in hindsight, it would have been better to use the word ""if"" in his comment about the month of introduction. Links in comments.",17.0,9,2014-08-13,AAPL,0.04169689491391182,0.9326128363609314,0.02569032832980156
+apple,"Amazon takes on Square, PayPal with new iOS-connected 'Local Register' card reader.",,4.0,9,2014-08-13,AAPL,0.017329197376966476,0.9328094720840454,0.049861349165439606
+mac,"Why, exactly, is chrome so resource exhausting?","I'm actually really curious in knowing why it's such a damn resource hog, and furthermore if google actually intends to do anything about it for mac users.",19.0,9,2014-08-13,AAPL,0.023512041196227074,0.9047698378562927,0.07171806693077087
+iphone,iPhone 6 cases by Spigen available for preorder (with pics),,5.0,8,2014-08-13,AAPL,0.03616584092378616,0.9254405498504639,0.038393594324588776
+iphone,"Just landed in the UK for a two week holiday from Canada. Purchased a data plan before I left, but iMessage won't work. Any suggestions?","Kinda hoping to resolve this so I can more easily communicate with family and friends back home.  It just says ""Waiting for activation"" or ""Activation failed"" Thanks!
+
+Fixed it. Thanks everyone!",14.0,8,2014-08-13,AAPL,0.061718933284282684,0.7990028858184814,0.13927817344665527
+mac,Is there a way to have Bootcamp and VMWare/Parallels/etc. run off the same partition?,"...in such a way that any changes done on one would be reflected on the other? In other words, if I move File A to Location B on Bootcamp, it'll be done in Parallels, and if I move it back to Location A on Parallels, it'll be reflected on Bootcamp.
+
+ If I could have an easy access to my Bootcamp partition via Parallels/VMWare without having to boot-in to it, that'd be nice.",2.0,8,2014-08-13,AAPL,0.0319889672100544,0.9300433397293091,0.037967611104249954
+ipad,Where do you guys get wallpapers for your iPads?,"I have an iPad with retina display and I'm tired of getting wallpapers that don't fit my screen or ones that only look good when the display is rotated one way and not the other. Where is a great place to get wallpapers specifically made for your iPad from?
+
+I tried googling it but all the top search results are pretty lame wallpaper sites. I'm hoping someone here can let me in on any hidden gems.",32.0,70,2014-08-13,AAPL,0.027102982625365257,0.9104225635528564,0.06247444078326225
+mac,How can I make this gif a screensaver on my 2013 10.9.4 Macbook Pro?,"Here is the gif:
+
+http://imgur.com/gallery/jRGFoEM
+
+I know, sick, right?
+
+
+So is this possible?",3.0,7,2014-08-13,AAPL,0.06600506603717804,0.8863394260406494,0.04765546694397926
+ipad,Love the iPad / hate Safari on it,"Can anyone recommend an Android tablet just for web surfing?
+
+I realized that I started to hate so many things Safari on iPad that maybe another tablet would start making sense.
+
+For example, reddit on iPad became very frustrating. As I return from the article or comments to the front page it loses proper position so I need to scroll down on my own and find the topic in question.
+
+Or writing a comment on reddit (or any other forum). Sometimes I need to provide a link, so I write the text, put brackets requred for links, go to another tab, copy something I want to cite or the web address itself, go back to my comment, but the tab reloads and my comment is lost.
+
+In general, Safari became less stable in iOS7. My iPad 2 on iOS 4 was very stable, now Safari on retina mini and iOS 7.1 crashes all the time. And the keyboard - there are no arrow keys, manually editing the web address has become even harder than before as the address bar is a bit higher than it was on earlier versions.
+
+On top of all that, I can't change my Agent ID so many web sites would recognize the iPad, offer me mobile/non zoomable versions of the page, tapatalk, special offers and promotions, iOS applications for their web sites or single girls in my city. I had enough of all that and for the week or so I started thinking about alternatives and all other options for tablets.
+
+Anyone in the same situation. Did you regret buying an Android tabled?
+
+edit - then -&gt; than",8.0,7,2014-08-13,AAPL,0.12480758875608444,0.8477939367294312,0.027398524805903435
+mac,Just got my first macbook air,"I've seen people on here post about how fast these are, and i always thought it can't be that much faster than my desktop with an SSD, god damn i was wrong, this thing is lightning fast. 
+
+Why didn't i get one sooner.",45.0,65,2014-08-13,AAPL,0.02933378890156746,0.9057786464691162,0.06488755345344543
+mac,I'd like to begin to learn the basics of site development with a very basic starter WYSIWYG website creation program could teach a child. Do you have any suggestions?,"The headline says it all. I work very well in WYSIWYG environments, but have had problems taking in  more detailed line by line coding of site development. I would like to do a little more than fill out a Wordpress blog, but not terribly further, I would simply like something that will allow me to be creative without intimidating me ,and due to my dyslexia i get intimidated really easy. Do you have any suggestions?",5.0,9,2014-08-14,AAPL,0.028189055621623993,0.9185575246810913,0.05325345695018768
+mac,"Macbook Pro Retina, 13-inch, Late 2013. When I shake the laptop I can hear something inside rattling around.","I noticed this the other day when I turned the laptop on its side. Something inside moved. I then shook the laptop around and I can definitely hear a rattling noise like something is loose.
+
+I took it into the Apple shop and they opened it up ands assured me everything was fine. However I can still hear the rattle. It seems to work just fine.
+
+Does anyone have any idea what it could be?",7.0,9,2014-08-14,AAPL,0.06797371804714203,0.8640222549438477,0.0680040493607521
+ipad,Ipad virgin thinking of buying an Ipad for my girlfriend,"My girlfriend has only requested one specific thing for her birthday- an Ipad. Unfortunately, I know absolutely nothing about Ipads and am finding out that there are different generations, retina displays, Mini vs. Regular, etc. She didn't specify which one she wanted and before I give away the surprise by asking her, I was wondering what advice /r/ipad had to give
+
+She isn't particularly tech savvy or knowledgeable, so I imagine that I do not need to get her the most expensive/latest generation Ipad. I think she would probably prefer the regular Ipad rather than the Mini, but if enough of you think the Mini is better I could go with it.  
+
+Just judging from Amazon, the cheapest Ipads of regular size are about $350. Is this a good price?
+
+And I am open to any other Ipad advice you think I should know as well",21.0,9,2014-08-14,AAPL,0.028343450278043747,0.9316003322601318,0.04005630314350128
+mac,rMBP 2014 model,"Found this on Amazon this morning, worth the price?! 
+
+http://www.amazon.co.uk/gp/product/B00MB5BOZM?ie=UTF8&amp;at=&amp;force-full-site=1&amp;ref_=aw_bottom_links",15.0,8,2014-08-14,AAPL,0.016760829836130142,0.7965608835220337,0.18667827546596527
+mac,TIL you can Get Info for multiple items at once by selecting them and pressing Cmd+Ctrl+I!,,18.0,78,2014-08-14,AAPL,0.033493150025606155,0.9302362203598022,0.03627064451575279
+apple,What is the best colour changing light bulb controlled by iPhone?,I saw the Phillips kind but I didn't like them that much. I saw the LIFX smart bulb. Is it worth it? And how can I tell of it fits in my lamp?,10.0,7,2014-08-14,AAPL,0.014702694490551949,0.862591028213501,0.1227063238620758
+iphone,Just replaced the power button and the power and volume flex cable. Need help!,,6.0,7,2014-08-14,AAPL,0.04083865508437157,0.8865921497344971,0.07256916165351868
+appletv,"Apple TV, the ideal HomeKit automation hub. (xpost from /r/Apple)",,0.0,7,2014-08-14,AAPL,0.028603462502360344,0.9348520636558533,0.036544449627399445
+iphone,"Apple Chemical Ban, Beats Music Now Integrated with Shazam",,13.0,67,2014-08-14,AAPL,0.028795886784791946,0.903433620929718,0.06777047365903854
+apple,PSA:you can easily determine when your OS X (10.7+) machines' warranty expires by going to Apple -&gt; About This Mac -&gt; Service.,,11.0,61,2014-08-14,AAPL,0.01467293780297041,0.8850551843643188,0.10027186572551727
+apple,Roll your own Malware Detection in OS X (takes &lt; 1 minute),,19.0,99,2014-08-15,AAPL,0.023209134116768837,0.9160613417625427,0.060729555785655975
+ipad,Pokémon (!) Trading Card Game coming to iPad,,28.0,97,2014-08-15,AAPL,0.024391310289502144,0.8240436911582947,0.1515650451183319
+apple,Is Yosemite stable enough for daily use?,"Just got my first mac, an MBP over a week ago. I've always been an early adopter and I'm thinking of getting Yosemite on my machine. A bit hesitant though as it's going to be my first beta on OSX.
+
+Is it stable enough for daily use?",79.0,9,2014-08-15,AAPL,0.01723584160208702,0.9026327133178711,0.08013150840997696
+mac,Thinking of switching from a Ultrabook to a Retina MBP,"I think I am going to switch from my Acer Aspire S7-392 to a 13"" Retina MBP. But I have a few questions regarding software and hardware.
+
+* How does the keyboard play with Windows being a different layout? I RDP to Windows PC's and Servers often
+
+* What is the RAM usage like in OSX? I am trying to decide between 8 and 16. I use VM's a lot and feel like I should go with 16GB
+* Microsoft Office - Whats the deal here? is 2011 really as good as 2013 on a PC? or atleast comparable? How is Outlook?
+
+* Is there a good alternative to Greenshot? I use this ALL the time in Windows, and if there is no good alternative that would suck
+
+* Windows Snapping, is there Window snapping like in Windows? I like being able to drag windows to the left or right to re-size them. 
+
+* People using VMware Fusion, whats the battery hit when using a VM of Windows 8.1 ontop of the OS?",4.0,8,2014-08-15,AAPL,0.031347714364528656,0.9235552549362183,0.045097045600414276
+mac,Purchasing a rMBP tomorrow!,"After having to wait 2 weeks to finally get a Macbook, I'm going to head over to the Apple Store tomorrow and buy myself a rMBP!
+
+A huge thank you to everyone whose answered my million questions and provided a n00b like me with so much information that I'm able to help out my friends with some of their questions.
+
+After having done hours of research and asking a lot of questions I'm so excited on getting my first ever laptop and that too a Macbook for my first year of University this coming September.
+
+I've watched numerous comparison and review videos and I just can't wait! Thanks again everyone!
+
+PS: Ill probably be coming back to ask many more questions regarding my new purchase :P",2.0,8,2014-08-15,AAPL,0.015855573117733,0.8980246186256409,0.08611976355314255
+mac,New Macbook for Programming?,"I'm looking for a new or used macbook for general software dev as well as iPhone dev. Right now I'm using an early 13-inch 2011 macbook and I can't even see the entire retina iPhone screen on the display. It's also beginning to slow down and it takes a while for the simulator to load. 
+
+Anyways, I'm looking for a new macbook for more efficiency and was wondering what the best value for my buck would be.",11.0,8,2014-08-15,AAPL,0.0315898098051548,0.9263352155685425,0.04207494482398033
+mac,Good external HD solutions these days? Seems like every drive on the shelf has terrible reviews. What's out there for decent drives right now?,"I'll preface to say I'm not a total novice. Ive been using mac exclusively for well over ten years. I'm an audio engineer and videographer and have gone through loads of hard drives. I have at least 20 on shelves right now. I also have massive amounts of optical media for backups. I'm sick of having so much optical media and having to buy blanks and burn discs. I'd like to have more media backed up on hard drives. It seems like these days most fair prices external drives on the ""stores shelves"" have really bad reviews when you look into them some. Doesn't anyone make a decent drive anymore? Maybe I'm wrong but did IDE drives have a longer life span? So many reports of drives failing well within a year. One year is not enough lifespan obviously. I know the best way to ensure data is perhaps a redundant RAID or to have two or three copies of everything. But so simplicity I'm just wondering if anyone has suggestions for current high capacity external drives? Or resources beyond this sub. Thanks for any information!",6.0,8,2014-08-15,AAPL,0.13035845756530762,0.8442562818527222,0.025385288521647453
+apple,Photos Claiming to Be of New Lightning Cable with Reversible USB Connector Surface,,41.0,74,2014-08-15,AAPL,0.009745781309902668,0.8792254328727722,0.11102882027626038
+ios,"My new, free iOS app CamRub fuses photography and drawing, allowing you to capture portions of an image by ""rubbing"" on a camera view. Hope you guys like it!",,6.0,7,2014-08-15,AAPL,0.010910729877650738,0.8933880925178528,0.09570113569498062
+iphone,Highly Anticipated Smart Contacts App Now Available for iPhone,,0.0,7,2014-08-15,AAPL,0.013768728822469711,0.8889243006706238,0.09730695933103561
+apple,Trying to identify my Apple mouse,"I've come into the possession of an older wireless Apple mouse. It's missing the removable back plate, which is necessary as it houses the power switch. (As well as the model number)
+
+* The mouse uses Bluetooth
+* It has the two pressure-sensitive side buttons
+* It has no scroll wheel
+* It takes two AA batteries
+* It has a small switch under the cover to adjust sensitivity.
+* It's opaque (not one of the clear ones)
+
+[Photo](https://dl.dropboxusercontent.com/u/12899811/2014-08-15%2021.13.57.jpg)
+
+Does anyone know the model number for this mouse? I'd like to find a replacement back plate. Thanks!
+
+EDIT: [Found](http://en.wikipedia.org/wiki/Apple_Wireless_Mouse)",11.0,9,2014-08-16,AAPL,0.019550584256649017,0.9189012050628662,0.06154821813106537
+ios,I've released my first iOS game onto the app store - FlyBy!,,6.0,9,2014-08-16,AAPL,0.013456746004521847,0.8741520047187805,0.11239131540060043
+mac,Mac Office 14,"Does anyone think this will be coming in the next few weeks? Or should I just pull trigger and buy Office 11?
+
+
+
+I've been using OpenOffice right now, but that really fucks up all the formatting, and the scrolling is laggy as shit. So I'm thinking i might as well buy MS Office
+
+Just worried that I'll buy 11 now, only to have 14 come out in a few weeks.",19.0,9,2014-08-16,AAPL,0.051917240023612976,0.9057602286338806,0.04232252761721611
+ipad,iPad Air laptop style keyboard case?,I want to do more writing on my iPad so I'm looking for a case where it folds down and closes like a laptop rather than folding or just having a stand. Like I could close it and stick it in my bag. Any suggestions?,16.0,9,2014-08-16,AAPL,0.022642647847533226,0.9103240370750427,0.06703328341245651
+apple,Netflix audio from AppleTv to Airplay speakers,,7.0,9,2014-08-16,AAPL,0.02521550841629505,0.9361724853515625,0.0386119969189167
+iphone,"TIL: If you ask Siri to remind you to do something in the early AM hours, it asks if you meant later in the day or literally tomorrow","I.E. right now it's 12:30 AM where I live and I asked siri to remind me to ship a package tomorrow, forgetting it was already Saturday due to it being past midnight. Siri then asked if I meant today or Sunday. Pretty cool!",1.0,8,2014-08-16,AAPL,0.03253185376524925,0.9089205861091614,0.05854757875204086
+ipad,Newer iPad owners: A lot of apps get discounted and go free every single day. Subscribe to /r/AppHookup for app deals!,"/r/AppHookup 
+
+Just a PSA for those who don't know about this.
+
+Remember: You can always start downloading an app and immediately delete it. It is added to your account permanently to be redownloaded anytime.",4.0,8,2014-08-16,AAPL,0.023575248196721077,0.9211074113845825,0.05531730130314827
+ipad,Question About Battery,"Is it bad for my iPad if I leave active all day while it's plugged into an outlet? Things like as a second monitor, digital picture frame, etc",4.0,8,2014-08-16,AAPL,0.13533052802085876,0.842228889465332,0.022440584376454353
+apple,More Photos Point Toward 1810 mAh Battery for 4.7-Inch iPhone 6,,108.0,74,2014-08-16,AAPL,0.020325232297182083,0.8997753262519836,0.07989949733018875
+mac,[Help] Can't Get Passed Setup Assistant,"The Make is this:
+http://www.everymac.com/ultimate-mac-lookup/?search_keywords=4h61925ru9c
+
+
+i was at a pawn shop and the owner had asked me if i knew what was wrong with this Mac he had been given for free from someone .
+
+i looked at it and it seemed to boot up alrigt and went to the Setup Assistant as if the OS just been freshly installed, so i went through the Setup process and as soon as i got to the end where you create an account for the computer (not apple id but administrative user) i pressed continue and it would show it is processing the request then it would freeze and send me right back to the beginning of the setup assistant all over again. 
+
+the guy offered me it for free and if i can get it working again he would buy it back off me. so i took it to see if its fixable.
+
+
+
+is there a way to fix this Setup loop? should i try and install a different OS like say Ubuntu for the time being till i can get copy of the OS?",14.0,7,2014-08-16,AAPL,0.048139091581106186,0.9169077277183533,0.03495316579937935
+iphone,show me your iPhone homescreens!,,330.0,98,2014-08-17,AAPL,0.021944046020507812,0.9242613315582275,0.053794585168361664
+ios,Never notice the icon for Artists in iTunes looks a lot like Phil Collins from the side?,,10.0,9,2014-08-17,AAPL,0.02154488116502762,0.9208113551139832,0.05764380097389221
+apple,Happy belated Sweet 16 to the original Bondi iMac,,20.0,86,2014-08-17,AAPL,0.026963956654071808,0.8994912505149841,0.07354474812746048
+apple,Apple wins 2014 ‘Outstanding Commercial’ Emmy Award for ‘Misunderstood’ holiday ad,,83.0,830,2014-08-17,AAPL,0.02375861071050167,0.1735934168100357,0.8026479482650757
+apple,Does anyone know when aftermarket PCIe SSDs (for the late-2013 rMBP) are going to be released?,,4.0,8,2014-08-17,AAPL,0.046194471418857574,0.9238851070404053,0.029920417815446854
+apple,"Macbook Pro blew out, damaged TV","My dad and I were watching Netflix on his laptop, connected to my TV. The battery was running low, so I plugged it in and BOOM! Logic board blew out and killed both HDMI ports on the TV. Of course, both are out of warranty. Anybody else experienced anything like this?",35.0,8,2014-08-17,AAPL,0.22519336640834808,0.7504624128341675,0.024344250559806824
+iphone,"iPhone 6 1,810mAh and 6L 2,915mAh batteries leak",,15.0,7,2014-08-17,AAPL,0.020376132801175117,0.9265702366828918,0.05305362865328789
+apple,Suggestions for preventing this graphics card issue for my 2011 Macbook Pro?,,7.0,7,2014-08-17,AAPL,0.04292134568095207,0.9091519713401794,0.04792669415473938
+mac,Apple ignores calls to fix 2011 MacBook Pro failures as problem grows [x-post /r/technology],,6.0,7,2014-08-17,AAPL,0.1565065234899521,0.818330705165863,0.025162821635603905
+mac,Repairing MacBook - LED backlighting issue?,"My GF has an older MacBook from 2009 or so, and it's having an issue with the LED back light. It will occasionally work if we've got it plugged into a power source and we're working with dual monitors, but most of the time there is no light behind the LED display. You can actually see the display if you're using it on a bright day.
+
+Has anyone ever switched out this backlight? Or switched out the entire LED display? Does anyone know if this project would be worth the trouble?
+
+&gt;MacBook 5.2
+
+&gt;Intel Core 2 Duo
+
+&gt;2 GHz CPU
+
+&gt;2 GB 667 MHz DDR2 SDRAM",2.0,7,2014-08-17,AAPL,0.026335112750530243,0.925209105014801,0.0484558567404747
+iphone,"Push It: Anonymous, Location Based Chat.",,6.0,9,2014-08-18,AAPL,0.023983418941497803,0.9453150033950806,0.03070160746574402
+mac,Bought a rMBP -- what are some decent cases?,"I recently purchased the 13"" model and now I'm beginning to look at protection methods. What have been some of the best in your experience? Hard shells? Sleeves? Which ones? I've also noticed some people purchase screen and keyboard protectors. I'm not sure if those are entirely necessary, but I'm open to all suggestions!
+
+Thanks in advance!",23.0,9,2014-08-18,AAPL,0.013513715006411076,0.8649355173110962,0.12155076861381531
+ios,HTML vs. Native?,"What's the main argument for native apps built with IOS platform vs. html5?
+
+i know performance is one of issue are there others?",19.0,9,2014-08-18,AAPL,0.023168951272964478,0.9386755228042603,0.038155559450387955
+mac,4k Screen with Late 2013 Macbook Pro Retina,"hello, I'm looking into getting the samsung 28 inch 4k display for my macbook pro (750M one) and I was wondering what kind of cables am I going to need to run it at 4k resolution. I've heard you cannot go above 30Hz if your using an HDMI to HDMI cable. 
+
+What do you guys suggest? Do I use HDMI to HDMI, Mini Display Port to Display port or thunderbolt 2 to hdmi. 
+
+Which one of these solutions would get me the best experience using this screen? (4k resolution over 30Hz)",11.0,8,2014-08-18,AAPL,0.021859871223568916,0.9109581112861633,0.0671820342540741
+mac,Replacement Macbook Charger,"**UPDATE: Thanks all. I took your advice and gave in to Apple's totalitarian regime.**
+
+I have a 2012 Macbook Pro and after looking around online I've learned I'm not the only one who hates its charger cord. Mine's somewhat functional but its to the point where I have to hold it in a particular position to get it to charge. 
+
+I am looking around for a cheap replacement cord online (since Apple sells them for a whopping $80) and have come up with two options and wanted to get some opinions on them.
+
+[This is the first option](http://www.amazon.com/Adapter-Charger-Macbook-13-Inch-MA538LL/dp/B00EEECKXS/ref=sr_1_9?s=electronics&amp;ie=UTF8&amp;qid=1408386723&amp;sr=1-9&amp;keywords=mac+charger). It is modeled after the old Macbook charger instead of a Macbook Pro, but in my experience with the Macbook I used to have, those things worked a lot better than the new ones.
+
+[The other one](http://www.amazon.com/Factory-Premium-Adapter-Charger-MacBook/dp/B00KNPELKC/ref=sr_1_2?s=electronics&amp;ie=UTF8&amp;qid=undefined&amp;sr=1-2&amp;keywords=mac+charger) is modeled after the newer style. 
+
+Both are in the same price point, and I at least believe they will both work with my laptop, I just wanted to see if any one had some insight on which would really be the better option.
+
+**UPDATE: Thanks all. I took your advice and gave in to Apple's totalitarian regime.**",16.0,8,2014-08-18,AAPL,0.020564159378409386,0.8176693320274353,0.16176651418209076
+iphone,'Flappy Bird' Developer Will Launch 'Swing Copters' on August 21,,6.0,8,2014-08-18,AAPL,0.029483875259757042,0.9267379641532898,0.0437781922519207
+iphone,"if iphone 6 is supposed to be announced sept 9th, when is apple going to announce the event?",like the title says. Everyone keeps saying Sept 9th is the week its going to be released. We're three weeks and 1 day from then. Shouldn't we of seen a press release from them about the event?,6.0,8,2014-08-18,AAPL,0.12119072675704956,0.8586880564689636,0.02012113481760025
+mac,Safari causing system lockup...,"Hi all,
+
+I'm having a little trouble with my MacBook Pro 13"" (Late 2011) and am at a loss as what to do. Every now and then (at least three times a week) Safari 7.0.5 will freeze, which then results in the entire system locking up. 
+
+Force Quit does nothing to help, and generally results in another frozen window on my screen. I originally attributed the problem to Flash (having heard from various friends that it caused their systems to lock up) which resulted in me removing it from my system. It seemed to solve the problem for a few days, but then it retuned exactly as it did before.
+
+I have had this MacBook from new and have not installed any extensions to Safari, and have scanned multiple times with various virus scanners, which have all come back clean.
+
+The MacBooks spec is: 2.4Ghz Core i5, 4GB RAM, 500GB HDD, Intel 3000HD, OS X 10.9.4.
+
+I am heading away on an exchange program with university in a few weeks time, and would like to know if there is anything I can do to solve this before I leave (the last thing I need is to be stuck abroad with no computer during the first semester)
+
+Any help you guys can give would be greatly appreciated.",6.0,8,2014-08-18,AAPL,0.06344789266586304,0.8931686878204346,0.043383434414863586
+apple,Xiaomi Takes Copying iOS 7 to a Whole New Level in Update,,67.0,75,2014-08-18,AAPL,0.014487557113170624,0.7897900342941284,0.19572244584560394
+iphone,Gazelle paying up to $350 cash for old iPhones if you act now; doesn't need them till Oct 10,,78.0,70,2014-08-18,AAPL,0.02872399426996708,0.9257701635360718,0.04550585523247719
+ipad,Question - how to fix changes made to the settings panel by an (uninstalled) app?,"I use Expressvpn on my pc and decided to install it via their app on the App Store. But I ran int some difficulties and decided to manually configure it on my iPad tomorrow. The problem is that the app created its own entry in the settings panel underneath ""Hotspot"" on the main page as opposed to an entry of their profile where other VPNs are - inside the ""General"" tab all the way on the bottom. Does anybody know how to remove this new entry on the settings page - it is labeled ""VPN"" and there is only a switch - no sub panel. I am jailbroken so this shouldn't be too hard to remove but I'm née ought to know the this is beyond me. Thanks.",0.0,9,2014-08-19,AAPL,0.06342408061027527,0.9021868109703064,0.03438907489180565
+ipad,Tom Hanks Wants To Teach You To Love Typewriters With Hanx Writer,,0.0,9,2014-08-19,AAPL,0.03167499974370003,0.9249694347381592,0.04335552453994751
+iphone,Google's Street View-like Photo Spheres can now be made on iOS,,3.0,9,2014-08-19,AAPL,0.027909278869628906,0.9182447195053101,0.05384598299860954
+apple,The stock finally hit $100 after the split!!,"I am super happy and stoked about this, go apple! 
+
+I just had to express my feelings on this with my fellow apple reddit friends. Anyone else happy about the stock or are investors?",98.0,88,2014-08-19,AAPL,0.024072958156466484,0.9150079488754272,0.06091909483075142
+apple,iOS 8 turns up evidence of another possible iPhone 6 resolution: a larger 828 x 1472,,113.0,82,2014-08-19,AAPL,0.01580517552793026,0.8396071195602417,0.1445877104997635
+mac,Tomorrow my MacBook Pro Retina 13 gets here. I have some questions,"I am switching from Windows to a Mac
+
+* I use 7zip for Windows, whats the built in Zip utility like? should I get 7zip for mac? or something else?
+
+* I have all my files on a Windows Fileserver, will there be any issues with using this? I heard you cant write to an NTFS drive, does this mean I cant write to my shares?
+
+Thanks",7.0,8,2014-08-19,AAPL,0.027694258838891983,0.9387512803077698,0.03355450555682182
+mac,Mac Server - Use Profile Manager to set client's list of available printers?,"Hello all,
+
+I'm using a Mac Mini with the Server app to administer a small group of client Macs (roughly 40), and our space has access to two printers, ""Big Brother"" and ""Little Brother"" (they're both Brother printers and their size, well...you know. :D), the latter of which is used by a small subset of those 40 clients. Both of these printers are shared via the Mac server. 
+
+Recently we had to send in BB for repairs, so we temporarily made LB available to all of our client Macs until it came back. Now that BB is up and running again, I'd like to enforce that only that small subset of clients can print to it. Before the BB needed repairs, our users didn't know to add LB to the list of printers, so until recently none of them had it installed in Printers &amp; Scanners. Now, they all do, and I'd like to enforce removing LB from their list of available printers.
+
+Profile Manager seems like a good way to do this, but I've tried tinkering with the Printers settings for my own Mac and the results just seem very janky. I can still see my full printer list in Printers &amp; Scanners, and when printing from something like Safari (that uses OS X's built-in Print dialog), I can only select the printers I defined in Profile Manager. But when printing from something with its own Print dialog, like Chrome, I can still select the printers I'm not supposed to be able to print to, and can in fact print to them. Our browser of choice is Chrome, so this is a real problem.
+
+**Long story short**: I'm trying to use Profile Manager to set the list of available printers to Macs it manages. Is there a ""right"" way to do this?
+
+Thanks in advance! Your help is much appreciated.",0.0,8,2014-08-19,AAPL,0.04396779090166092,0.9261791110038757,0.0298530925065279
+apple,The Complete iOS 7 Course by Bitfountain.io is currently free!,,12.0,8,2014-08-19,AAPL,0.04620097205042839,0.9304927587509155,0.02330632507801056
+apple,Apple Maps icon analysis,"With Apple's frequent updates to Maps, it seems every month they introduce a new icon or two. (Bakery and Car Dealer being the most recent).
+
+I put together this chart: http://i.imgur.com/AhmZjXo.png
+
+A few observations of colours/groupings:
+
+* icon colour has a metaphor to a physical place *e.g. a Park is green, an Aquarium is blue, a Cemetery is grey*
+* icons form part of a collection that shares colours, *e.g. Transport are purple (Airport, Train, Subway), Car services are blue (Gas Station, Car Parking)*
+* a single shade of yellow is very popular
+* some icons don't translate well across cultures, *e.g. the Castle/Prison/Jail icon and the Military shield icons are significantly different from the designs you might find in European/South American countries*
+* some icons aren't good metaphors, e.g. the Fast Food icon is a burger and drink, but it does't work well for a Pizza fast food place, *e.g. the Sports Stadium is clearly an American Sports stadium and doesn't work well for a basketball venue*
+* often a hotel will have a Pub, Bar, Restaurant, Gym, Swimming Pool and Hotel in one place, often Maps will include the Hotel, but not the others, even when the services are available
+* the newer the icon, the more detail it will have
+* Japan has unique icons and a different style to most countries - many stores having their specific logos as the icons
+* each icon has a clear structure, with a consistent balance between the white of the picture and the colour of the circle",15.0,74,2014-08-19,AAPL,0.018458284437656403,0.915535032749176,0.06600673496723175
+apple,I wonder where is the Yosemite wallpaper that you see on Apple store,http://imgur.com/OQOjTkW,22.0,73,2014-08-19,AAPL,0.04178493842482567,0.9266071915626526,0.03160791099071503
+apple,"Apple's stock bounces back to hit a new high amid rising hopes for bigger-screen iPhone, other new products",,24.0,96,2014-08-20,AAPL,0.02160426788032055,0.09626850485801697,0.8821272850036621
+mac,Mac server on local network keeps disappearing and reappearing,"Hello all,
+
+I'm hoping anyone can help me figure out a really perplexing issue we've seen with a Mac server on our local ethernet network. What we're seeing lately is that the server (which we use for Time Machine backups) will seem to ""disappear"" and ""reappear"" to our Macs, with a different ""identity"" each time. What I mean by this is: After connecting to the server through Finder, it appears in the sidebar. However, some time later (usually no later than an hour), I'll get a notification from Time Machine that backups are failing because the backup disk is not available. 
+
+Strangely though, if I go back to Finder and try to click the server link in the sidebar, I get a message saying the original item can't be found; but I can go to the ""Shared"" section, click ""All..."", and find it there. Sometimes I will need to toggle my wifi on and off before I'm able to connect again.
+
+To get an idea of our infrastructure, we use a Cisco switch to input the internet connection, output it to ethernet jacks around our space, and also output to the office-server. We have 3 Airport devices connected to Ethernet jacks to create a roaming WiFi network, and our client Macs connect to these via WiFi.
+
+Any help would be greatly appreciated. Thank you!",2.0,8,2014-08-20,AAPL,0.03136848285794258,0.9181270003318787,0.050504449754953384
+mac,Should I use protection?,"I just got a 2014 rMBP after having an old school 17 inch macbook pro that was pretty banged up. I had to sell it for a lot less than what I could have gotten for it because of the damage. Because of this I decided that I am going to baby the shit out of my current MB.
+
+My question is, what's the ideal amount of protection? I currently have a keyboard cover and a shell, and while it does the job the keyboard cover makes it a little hard to type and the case takes away from the beauty of the macbook. Some have said that just having a good sleeve to use when transporting is good. Others go all out and even put a screen protector.
+
+As someone who mainly uses my laptop at home, or in class at college what are some suggestions on what kind of protection I should be rocking? Would a sleeve do the job? or should I play it safe and stick with the shell and keyboard cover?",11.0,8,2014-08-20,AAPL,0.0418560616672039,0.9157367944717407,0.04240711033344269
+apple,"Apple Website from July 14, 1997",,16.0,76,2014-08-20,AAPL,0.057215671986341476,0.9200145602226257,0.022769829258322716
+apple,"Brazillian judge orders Apple to remove Secret from the App Store, remotely delete from users’ phones",,11.0,7,2014-08-20,AAPL,0.7691826224327087,0.2159925252199173,0.014824826270341873
+mac,What brought you to Macs/OSX?,"I remember the feature that made my mind up: Time Machine. I saw it demoed in the Leopard preview video and was just blown away by both the simplicity and sheer unadulterated _pretty_ of what should be an ugly, boring application.",24.0,7,2014-08-20,AAPL,0.0660991445183754,0.9015780687332153,0.03232276439666748
+mac,Just purchased a new macbook air! One question regarding windows.,Okay so I just took home a brand new macbook air. Is there anyway I can boot windows from a 64 GB flash drive I have lying around? I don't want to use my precious SSD space (only 128 GB). I remember a while back reading that it's possible to boot windows 8 via a flash drive on mac. Can anyone help me out?,3.0,7,2014-08-20,AAPL,0.028501125052571297,0.9274729490280151,0.04402591660618782
+mac,"I just received my Etsy Decal for my rMBP, very pleased with the result!",,17.0,69,2014-08-20,AAPL,0.055567629635334015,0.9100028872489929,0.03442946821451187
+iphone,"Every time, and I never need we'll..Forever alone..",,75.0,637,2014-08-20,AAPL,0.06838426738977432,0.8814309239387512,0.050184763967990875
+apple,Looking to buy an older MacBook Air. Any repercussions?,"Hi all. I'm looking to purchase a MacBook Air. I want to try to save some money by getting an older used one. What's throwing me off is all the year differences and the ones that say ""old version"" in the ebay description. Can somebody who knows apple products explain what that means? And if buying an older macbook from say the year 2011 would be a good idea or not? I'm just looking to use it for grad school. Thanks!",27.0,6,2014-08-20,AAPL,0.014220735058188438,0.8955520987510681,0.0902271717786789
+apple,"Walmart Dropping Price of iPhone 5c to $0.97, iPhone 5s to $79",,52.0,97,2014-08-21,AAPL,0.07418376207351685,0.8790012001991272,0.04681503400206566
+apple,iPhone screen stays on while not in use,"Hey y'all,
+
+My iPhone 5's screen always stays on and fully lit when it is charging lately, and has also sometimes just remained on when it is not in use. I can't remember this ever being an issue until recently, especially the screen turning off while charging. Anyone know of an easy fix to this problem besides doing a full factory restore?",11.0,9,2014-08-21,AAPL,0.08108007907867432,0.8785178065299988,0.040402162820100784
+mac,Replacing optical drive with a 1tb hdd?,Has anyone ever replaced the optical drive with a 1tb hdd?  If so did you run into any issues setting it up.,25.0,9,2014-08-21,AAPL,0.6749231815338135,0.3067986071109772,0.01827826164662838
+mac,Question about Windows 7 on Mac.,"I have a G-Drive-Mini external hard drive with a copy of Windows 7 loaded onto it. I was wondering if it is possible to use that external drive as a windows os on my macbook pro 2012 retina. 
+
+When I start up my macbook pro WITH the drive connected and hold the ""alt"" key there are three options: [Macintosh HD, Recovery-10.9, and EFI Boot](http://i.imgur.com/YXiHDfE.jpg). However, when I select EFI Boot nothing happens - perhaps I am just too impatient. BUT when I start up my macbook pro WITHOUT the drive connected only [the frist two options appear](http://i.imgur.com/LZ06XHI.jpg). 
+
+I apologize if this is not the right subreddit for this question. I appreciate any input. Thanks.",1.0,9,2014-08-21,AAPL,0.021815044805407524,0.9371649026870728,0.04102009907364845
+ios,Siri responds well to threats of extreme violence.,,3.0,83,2014-08-21,AAPL,0.03541563078761101,0.7027035355567932,0.2618808448314667
+ios,"Are there any apps that support Gmail categories, other than the Gmail app?","I would love to know this, because categories are incredible.",7.0,8,2014-08-21,AAPL,0.011842961423099041,0.9152575135231018,0.0728994831442833
+ipad,Free Samurai Bike Messengers interactive ebook app for iPad.,,0.0,8,2014-08-21,AAPL,0.014877619221806526,0.9360513687133789,0.04907095432281494
+apple,[xpost /r/osx] I made a F.lux status bar icon for Yosemite.,"Sample: http://imgur.com/35vFFmI
+
+It supports dark mode as well, you have to swap the icon file out though.
+
+Place it in the F.Lux package under Content&gt;Resources (just the files, not the folder) and replace the existing files and then restart the program. Should work for F.Lux 31.0. 
+
+Should support retina, but I don't have anything to test it on.
+
+https://dl.dropboxusercontent.com/u/46724/Flux.zip",25.0,78,2014-08-21,AAPL,0.04117405042052269,0.9336954951286316,0.02513047866523266
+mac,Should I buy a new Mac or should I repair my old one?,"I have a 13-inch, Mid 2011 MacBook Air with an i7 chip. As faithfully as it has served me, water was spilled on it and it needs to be repaired. Took it to Apple who quoted a price of $430+ for a logic board replacement.
+
+The laptop still works though, with the exception of the keyboard, and some wonky functionality out of the track pad. This means I carry an external keyboard with me when I need it, which is less convenient than it used to be. 
+
+With school starting soon, I need a fully functioning machine. So, should I repair what I have for $430-$650, or bite the bullet and pay more for something new?",5.0,7,2014-08-21,AAPL,0.024576127529144287,0.8686782717704773,0.106745645403862
+mac,"2011 15"" MBP trackpad fell out","Hey guys,
+
+I don't know how, but the trackpad on my 2011 15"" MBP is messed up. I haven't used it in half a year and left it in the closet, safe from harm. Yet, I took it out today and was really surprised to see the trackpad in the state it was in:
+
+http://i.imgur.com/bm0W4PJ.jpg
+
+http://i.imgur.com/en17qIr.jpg
+
+So it seems the right half is lopsided and popping out. How would I go about fixing this myself, if possible? Thanks in advance.",9.0,7,2014-08-21,AAPL,0.03707292675971985,0.7862306833267212,0.17669644951820374
+apple,Yosemite Beta 2: Magic Mouse/Trackpad can finally go back/forward in Finder!,"Something so small, but something I've been so annoyed of not being able to do before.
+
+EDIT: [Video](https://www.youtube.com/watch?v=V9g7ThxUmT4&amp;list=UUazvE50ydVtCO8OUn7NfceQ) of it working for me",22.0,99,2014-08-22,AAPL,0.018292883411049843,0.9103257656097412,0.07138138264417648
+ipad,What's a fair price for a used iPad Air?,"So i am selling my iPad Air, deciding a MacBook Air 11"" will suit my needs better. So i am struggling on a price to sell the iPad Air at, the iPad is as follow;
+
+-32GB
+-Space Grey
+-Mint Condition (Been in case since purchased)
+-Come's in original box (With charger)
+-Will come with the black official leather iPad Air case from Apple
+
+I am from the UK so prices in ££ please i am thinking about £375, is that too much??",5.0,9,2014-08-22,AAPL,0.015552552416920662,0.8824853897094727,0.10196199268102646
+apple,"A Source from Foxconn Leaks iPhone 6 Details, Including Dimensions for Both 4.7 inch and 5.5 inch models",,98.0,89,2014-08-22,AAPL,0.02661004289984703,0.9431718587875366,0.03021811693906784
+apple,iPhone 6 Information Leak Sourced from Foxconn Details Dimensions of 4.7-Inch and 5.5-Inch Versions,,36.0,8,2014-08-22,AAPL,0.04449092224240303,0.9216533899307251,0.03385571390390396
+apple,Apple’s iMessage Becomes Preferred Platform for Spammers,,22.0,8,2014-08-22,AAPL,0.011609788984060287,0.871931254863739,0.116458959877491
+mac,"Mac running pretty slow, HELP","I have a macbook pro from Late 2011.
+Memory is 4gb 1333MHz DDR3 and a 2.4 GHz Intel core i5. I figure i am running low on ram and thats why it is slower now but i don't know how to fix without purchasing new ram and losing my comp for a few days. Any suggestions? Also my mac is showing that i have 256 GB of ""other"" being used any way to figure out what all of this is without paying for an app",5.0,8,2014-08-22,AAPL,0.07270587235689163,0.8788241744041443,0.0484699085354805
+apple,TIL Double tapping the minutes when setting a calendar event in iOS switches from five-minute intervals to single minutes.,"What are your ""just when I thought I knew it all..."" moments?",118.0,715,2014-08-22,AAPL,0.03773201256990433,0.9149924516677856,0.04727548360824585
+apple,Tesla Model S Owners Can Now Start Their Cars With An iPhone,,112.0,683,2014-08-22,AAPL,0.043275922536849976,0.9286481738090515,0.028075886890292168
+iphone,Um what Siri?,,5.0,63,2014-08-22,AAPL,0.035374000668525696,0.907322347164154,0.057303640991449356
+mac,"Imac 20"" 2006 PSU voltage test","Anyone seen one of these power supplies before?
+
+http://ecx.images-amazon.com/images/I/51BvdybwoJL._SX300_.jpg
+
+Is there a way to turn it on by shorting a pin or should it always output 12v from this point and the computer just switches the power on from the logic board? The pin out is as follows
+
+brown - 3.5 - 6v remote on 
+black - ground 
+black - ground 
+grey - 12v 
+grey - 12v
+
+I tested the pins and theres nothing, so maybe it's dead but maybe it needs to remotely turn on first like a normal atx power supply would need? I searched google endlessly but found nothing. Kinda trying to not blindly buy parts off ebay here without knowing for sure, thanks.",0.0,6,2014-08-22,AAPL,0.0920734852552414,0.8753600120544434,0.032566554844379425
+mac,Discover Hidden Steve Jobs Speech on your Mac.,,0.0,9,2014-08-23,AAPL,0.07092025130987167,0.8994231820106506,0.029656575992703438
+ios,Be. A ridiculously simple motivation tool.,,3.0,9,2014-08-23,AAPL,0.029696954414248466,0.9237086176872253,0.046594444662332535
+ipad,Does someone know of any arm I could use for my iPad?,,6.0,9,2014-08-23,AAPL,0.013489922508597374,0.8652653098106384,0.12124478816986084
+mac,What more can I do to upgrade my mid-2009 MBP?,"It's a mid-2009 15in unibody 2.8GHz Macbook Pro that has:
+
+* 8gbs of RAM
+* 128gb SSD OS/Application + 1TB Hybrid HDD combo
+* new battery
+
+
+Is there anything I'm missing? I want to get the best performance (without going full SSD) out of this thing. Any applications I should know about, or some piece of hardware you recommend?",11.0,9,2014-08-23,AAPL,0.013341767713427544,0.8781251907348633,0.10853304713964462
+apple,"OSX should have a ""tether mode"" where background services requiring internet are not allowed to run without prompting the user.","Source: Just burned through a 1300MB of my cellular plan because The App Store auto-downloaded Final Cut and Motion updates, along with Dropbox running in the background.
+
+
+[OSX already knows when I'm tethered.](http://i.imgur.com/IUhl0fG.png) vs. on normal wifi, so let's make use of this and put the ~~phone~~ computer in a mode where only the app I'm using (like Safari) is allowed network access.",121.0,885,2014-08-23,AAPL,0.02784084714949131,0.9435523748397827,0.028606826439499855
+apple,Med School Note Taking [app request],"Hey /r/apple 
+
+My med school gave all of us first years an iPad Air (well, I say 'gave'...). Anyway, all of our notes are given to us ahead of time as PDFs. We're looking for an app that will let us have the pdf open and have the ability to take notes on the side. (Sort of like the note section of the PowerPoint app.)
+
+In essence we want to be able to have the PDF open and take outline style notes. I come from the Android world and I only know of Evernote. Evernote is awesome, but you can't open up the PDF in evernote.
+
+We have access to iAnnotate, but it only lets us add notes to the document, we don't have the ability to edit it on the side. I'm kind of looking for something with two panels, like the Bacon Reader app.
+
+Any recommendations?",7.0,8,2014-08-23,AAPL,0.022600913420319557,0.9370843172073364,0.04031480476260185
+apple,My experience with an Apple authorized service provider,"I, like most people, expected it to be a sub-par experience, at least compared to what I would have gotten at an Apple corporate store. I had a 5S (obviously still in the 1 year warranty) that had a fairly inconsistent home button, and I didn't want to go a week without my phone, like I would if I had shipped it to apple. Also, the closest corporate store is about 2 hours away. So, I went to PeachMac (in Montgomery AL). After showing them the problem, they ran a diagnostic, and said they were required to do a software reset before repairing the hardware. After signing some papers, they wiped it, went to the back for a few minutes (presumable checking the inside of the phone) and came out with a brand new iPhone. they set it up for me and I was out of there with a new phone in under 45 minutes total. I also asked them if they operated any differently from an Apple store, and their response was that they run exactly the same, except PeachMac doesn't require an appointment. I highly recommend going to an AASP if it is closer to you than an apple store. 
+
+EDIT: Obviously, this does not apply to all AASPs. However, this is a testament to the validity of them. Many people told me that I definitely shouldn't trust one and that I should just send it to Apple, but that clearly isn't true, at least not anymore. I do, however, encourage anyone who is far away from an Apple store to at least give an AASP. a try",5.0,7,2014-08-23,AAPL,0.04697711393237114,0.8919777870178223,0.06104504317045212
+iphone,Does anyone think Apple will increase the base model storage capacity (16GB to 32GB) for the iPhone 6?,,16.0,7,2014-08-23,AAPL,0.028424203395843506,0.7222644686698914,0.24931129813194275
+mac,Is it worth buying a MBP MD101 (2012)?,"Long time windows user here. I am an android app developer and I want to buy a Macbook pro to learn making iPhone apps. I would be using it mostly for coding, and web browsing. The MD101 is the cheapest I could find here. I do not live in the US, and the price of the MD101 is around 1,160USD here.
+
+Few criteria I would like:
+
+- Should be able to run the latest Mac OS, and at least the next one :)
+- Easy to add a windows OS in dual boot
+
+So is it worth buying it here or should I find a used one on ebay?",22.0,7,2014-08-23,AAPL,0.010974695906043053,0.868532657623291,0.12049268186092377
+iphone,"MEMS gyroscopes found on modern smart phones are sufficiently sensitive to measure acoustic signals in the vicinity of the phone... Since iOS and Android require no special permissions to access the gyro, apps that cannot access the microphone can eavesdrop on speech.",,4.0,7,2014-08-23,AAPL,0.0477924607694149,0.9269132018089294,0.025294393301010132
+apple,September event predictions. What's yours?,"Some of us might wish for a spectacular event with with every dream product announced, but in reality, this won't be the case. Apple keeps spruiking about this years product pipeline being the best it's ever been, so something must be up their sleeves.
+
+What are your predictions for the yet to be confirmed September event that have some possibility of happening?
+
+Mine:
+
+* iPhone's will no longer be named by numbers (iPhone 4, iPhone 4S, iPhone 5 etc), and instead follow a similar path as did the iPad (iPad Air or 'The new iPad'). I'm thinking this because I don't see Apple calling next years iPhone the 'iPhone 6s'. The name doesn't roll off the tongue as comfortably as previous numbers, and kind of sounds like you're calling it the 'iPhone Success'. I rather see them calling the iPhone 6, or maybe next year's model instead, something along the lines of 'iPhone Air' and/or 'iPhone Pro' for the larger model. Nobody saw the 'iPad Air' name coming, so I'm inclined to think the same could happen for the iPhone.
+
+* All iPad's will gain Touch ID functionality, amongst many other upgrades. The non-Retina iPad mini will be discontinued.
+
+* The Mac Mini will finally return to the stage. New design, new hardware and a new price. I have a feeling the old image of it being the 'budget Mac' will be changed, and rather promoted as a close alternative to the iMac. I can also see it going the way of the Retina Macbook Pro, in terms of locking down and restricting upgradability after purchase. Apple will rather promote expandability as they did with the Mac Pro.
+
+* As mentioned before, I think Apple has something up its sleeve none of us are expecting, and I'm not talking about the iWatch. I think some tweaks or updates are expected to happen to lesser promoted Apple products, such as the Magic Mouse or Wireless Keyboard. Perhaps Apple will finally adopt BluRay and implement it into the USB Superdrive? As with the Mac Pro, these may be announced, then manufacturing will begin. This could be why we haven't seen any leaks?
+
+--
+
+What's your thoughts and predictions?",117.0,93,2014-08-24,AAPL,0.033930644392967224,0.9301000833511353,0.03596927970647812
+ipad,iPad Mini Reboot,"Please tell me other peoples iPad Mini keep rebooting, I've had it for about two years and now every 3 minutes the iPad just reboots! No matter what I'm doing. When to the Apple store today and they told me to buy a new one for $220.....",7.0,9,2014-08-24,AAPL,0.019240129739046097,0.9077497720718384,0.07301008701324463
+mac,"What's the likelihood that the 27"" iMac will get updated next month or in October?","I'm planning on getting myself a 27"" iMac in the next week or so. What's the likelihood that the 27"" iMac will get updated next month or in October?
+
+Seeing how the new Broadwell chips have been delayed until next year, I can't see any major update on the horizon. Would I be right in thinking that?",6.0,8,2014-08-24,AAPL,0.056467924267053604,0.8915074467658997,0.052024632692337036
+mac,Help with iMac as second monitor?,"My wife's job has her mac mini set up to use an iMac as a second monitor. (Mind you, that's completely retarded to me, but her job seems retarded.) She's in a graphic design type of job and needed to calibrate her monitor. She went to run a calibration device or problem that asked her to lower the brightness of the iMac screen. The problem is that the option was not under the preferences for the iMac screen. It was there for the regular screen connected to the mac mini but not the iMac. Is there some slightly less known way to lower the brightness on an iMac being used as a monitor?",7.0,8,2014-08-24,AAPL,0.5864397883415222,0.3946770131587982,0.018883291631937027
+mac,Hard drive failure. Replacement recommendations?,"So I have an early '11 Macbook Pro 2.3 GHz i5 processor,  1333MHz DDR3 SDRAM. Pretty sure its SATAIII.  Any ideas on a replacement? Would an SSD work?",17.0,8,2014-08-24,AAPL,0.028862254694104195,0.9177131056785583,0.053424593061208725
+iphone,Which of these iPhone 6 designs will Apple unveil on September 9th?,,41.0,71,2014-08-24,AAPL,0.036339856684207916,0.8732081055641174,0.09045208990573883
+iphone,"Hi reddit, if you're heading back to school or college you might like an app I made. It's free!",,15.0,7,2014-08-24,AAPL,0.022265851497650146,0.8789113759994507,0.09882280975580215
+mac,Which download manager is the best?,"I have been a longtime windows user but I recently bought a macbook. On Windows, I used IDM(Internet Download Manager) for all my downloads and it worked perfectly. It also gets updated very frequently, every one or two weeks.
+
+Are there any similar download managers on OS X which support resuming downloads, refreshing download addresses and multiple connections?",21.0,7,2014-08-24,AAPL,0.03227238729596138,0.9400746822357178,0.027652941644191742
+apple,"Thanks for the new iPhone 5 battery, Apple. More than half way through the day and I still have 75% battery life.","Took advantage of the recent battery replacement for the iphone 5 yesterday. Store was busy as usual but I made an appt. Got in and out under half an hour. 
+
+Forgot how nice it is to have a phone that lasts all day. My old battery would usually drop to 25% by mid morning. 
+
+Thanks to Apple for standing by their products even if it did take them a while to acknowledge it. 
+
+Update: Holy cannoli, just finished dinner and still have 65%. 
+
+* Edit: [Here is the link to the iPhone 5 battery replacement program.](https://ssl.apple.com/support/iphone5-battery/)",247.0,645,2014-08-24,AAPL,0.73142409324646,0.24372310936450958,0.02485271543264389
+mac,Dual monitor help?,"OK, I have a late 2011 13"" mbp. I use a thunderbolt to rgb converter by rocketfish to plug in a single monitor. What i'd like to do is plug in two monitors. I've heard of ""Daisychain-ing"" but i really don't understand. Can someone ELI5 for me? Thanks!",3.0,6,2014-08-24,AAPL,0.03660937771201134,0.8930206298828125,0.07036995887756348
+ipad,Is there an app that connects to my PC's drive from anywhere?,"I'm looking for an application that connects to my PC's external drive (not a NAS), even when I'm not in my home-wifi. My parents are leaving for vacation and would like to access some docs on the (Windows 8) PC via iPad. Cloud Storage (like Dropbox) won't do it, since they have a ton of files. Is there something like that?",9.0,9,2014-08-25,AAPL,0.03529263660311699,0.9369190335273743,0.02778831496834755
+mac,Help with old 21.5 Intel Imac,"Hello, I have a an iMac that broke just about a month after my apple care ran out about two years ago, and I never bothered to get the computer fixed. I have lots of valuable photos an videos on it that I would like to retrieve, let alone be able to use the computer again. 
+
+the problem: upon start up my imac does absolutely nothing, just a black screen. I can sometimes barely hear a sound when I try and turn it on, but only sometimes. the problem used to occur sometimes and the computer would actually turn on if I waited a little, now it doesn't turn on at all. Any help would be appreciated, even telling me what part I need to replace would be good, because I have friends a tool kits and experience to fix these computers.",11.0,9,2014-08-25,AAPL,0.13892944157123566,0.8275712132453918,0.033499374985694885
+ios,"Seriously, this needs to be fixed.",,11.0,87,2014-08-25,AAPL,0.2969678044319153,0.6328197717666626,0.0702124759554863
+mac,"2014 13"" Retina MacBook Pro cursor stuttering","I just purchased a 13"" rMBP and have been using it for maybe an hour or so and I immediately started noticing a weird sort of cursor stutter. Basically, if I leave the cursor still for around 5+ seconds and then move it, it skips across the screen. It does this every time the cursor sits in one place for longer than 5 seconds, it's fairly frustrating -- especially when scrolling down a webpage. 
+
+I did some searching and I only found one person with my exact problem, though he posted to this subreddit as well: http://www.reddit.com/r/mac/comments/25igpc/2013_rmbp_cursortrackpad_stuttering/
+
+Has anyone else had this problem? The idea of taking my 1 hour old rMBP into an Apple store (nearest one is 2 hours away) to fix this or get it replaced is insanely annoying. Any help is greatly appreciated.",22.0,8,2014-08-25,AAPL,0.2562928795814514,0.7154406309127808,0.02826651558279991
+ios,"NY Westchester iOS 8 Xcode 6 Training Course (Swift, Obj-C, Metal) Sept 15-19",,1.0,8,2014-08-25,AAPL,0.03362089768052101,0.917990505695343,0.048388633877038956
+mac,Help with MacBook Pro,I'm having an issue with my Mac it will not boot to the desktop. All I get is the apple logo while it loads for forever. I booted it into single user boot mode and it ran the scan and gave me the disk0s2 I/O error. Any help?,2.0,8,2014-08-25,AAPL,0.045214880257844925,0.9259411096572876,0.02884403057396412
+mac,Help with Macbook Pro screen,"The screen will randomly fill with bright pink pixels, then after i close the screen and open it they will go away. Anyone else have this issue? Anyone know how to fix it? I've tried looking it up online, but couldn't find any answers. Thanks in advance.",5.0,8,2014-08-25,AAPL,0.05668323114514351,0.8997728824615479,0.04354383796453476
+apple,Whats the best way to transfer my itunes library to a new Mac?,I've tried adding all my music via a flash drive but I end up missing artwork and play count.,21.0,8,2014-08-25,AAPL,0.015342958271503448,0.9144254326820374,0.07023165374994278
+mac,"Mavericks/Mail Printing Oddity: header on first page, content on second","Having an odd problem with Mail under Mavericks (10.9.4); when I try to print certain mail messages (notably from specific senders), the first page will include the header but the content will begin on the second page (and beyond if it's a long email). Other emails print as expected (header &amp; content all start on the same page). 
+
+I assume this is due to an incompatibility between the sender's email encoding setup and Mail itself. Again, this only happens with certain senders. 
+
+Has anyone else encountered this?",0.0,8,2014-08-25,AAPL,0.03395776078104973,0.941139817237854,0.024902377277612686
+apple,Yosemite theme for Firefox. Bugzilla ticket #1040250,,18.0,70,2014-08-25,AAPL,0.020494947209954262,0.8878471255302429,0.09165794402360916
+apple,"Tim Cook Defends Decline in iPad Sales Saying it's Just a ""Speed Bump""",,107.0,95,2014-08-26,AAPL,0.9445043802261353,0.02323211170732975,0.032263536006212234
+apple,Apple should add Apple TV Remote to the iOS Control Center.,Love being able to control the Apple TV with our iOS devices. It is annoying to have to unlock the device and open the remote app though. Adding the Remote App and or it's functions to the Control Center would make life easier.,139.0,931,2014-08-26,AAPL,0.00916698481887579,0.7507789134979248,0.24005413055419922
+apple,New rMBP owner - what are some good safari extensions?,,21.0,9,2014-08-26,AAPL,0.01189983356744051,0.8303993344306946,0.1577007919549942
+mac,Question on cooling performance of rmbp,"Hi reddit, I'm about to get either a 15"" or a 13"" rmbp and would like to know does one necessary run cooler than the other?
+
+
+I'm under the impression that these notebook get quite warm/hot when being used and I would really prefer the one that stays cooler while using  (general activity, occasional photo editing &amp; no gaming).
+
+
+Thanks!
+
+
+edit: rephrase",15.0,9,2014-08-26,AAPL,0.018835030496120453,0.9108640551567078,0.07030095160007477
+iphone,Ralph Lauren introduces iPhone-connected ‘Polo Tech’ fitness tracking shirt,,0.0,9,2014-08-26,AAPL,0.013294518925249577,0.8970284461975098,0.08967705816030502
+iphone,Does anyone know why all the thumbnails in google images are the same pic? No matter what I search it's the same!,,31.0,89,2014-08-26,AAPL,0.0505654476583004,0.9273024797439575,0.022132085636258125
+mac,I think it's time for a new battery.,,30.0,84,2014-08-26,AAPL,0.03510954603552818,0.9160336256027222,0.04885682463645935
+mac,MBP mid2010 Can't tell if harddrive or software issue,"Hi guys, I had a 13 inch MBP mid 2010, and was working fine for a long time, until it seemed like the bottom part of the laptop seemed to be overheating after upgrading to mavericks. 
+
+It got really slow and all, and one day, a lot of things just failed to work. Office programs didn't save, chrome, Firefox, safar didn't work, etc.  then, when restarting my laptop, it just stays at the gray apple logo with the whitish background forever.  
+
+I go into a different startup mode, to boot from my external hard drive, where I saved my memory.  My hard drive did not show up (but my boot camp partition, 11gb, did.   Tried to reinstall clean from my recovery cd thing, and I get something similar: http://m.imgur.com/6CZcgD8
+
+What do you guys think?  Is the problem just the hard drive, and I can just replace it?  Or more than that?",13.0,8,2014-08-26,AAPL,0.06256140023469925,0.9058314561843872,0.03160717338323593
+mac,Some apps experiencing scroll lag,"So I bought rMBP 13"" about 10 days ago but I've been noticing that some apps such as iTunes and Adium will lag when I try to scroll. Safari is totally fine though.
+
+Anyone know why this might be the case?",3.0,8,2014-08-26,AAPL,0.013025008141994476,0.8396251201629639,0.14734990894794464
+mac,Any Google users?,"I use Google's services religiously and I have a Nexus 4, Chromebook and a Chromecast.
+
+Eventually I want to treat myself to a Macbook for entertainment and work (running apps like Qlab, Logic Pro).
+
+Any of you who use Google products and use a Mac, do you prefer to use Apple's or Google's services? If I do switch I'm tempted to also switch to a iPhone and a iPad, as much as I love Android, it does lack a little polish (I'll have to see what L is like when it is released). Or should I keep what I have and carry on using Google's services? I don't mind splashing the cash changing ecosystems.",8.0,8,2014-08-26,AAPL,0.022829068824648857,0.9238052368164062,0.05336570739746094
+apple,The tech specs of the $33 Intex Cloud FX smartphone mirror those of the original 2007 iPhone,,8.0,9,2014-08-27,AAPL,0.019081227481365204,0.8936131000518799,0.0873057022690773
+apple,"Parallels Desktop 10 officially available, promises improved performance, adds new Disk Space Wizard.",,8.0,9,2014-08-27,AAPL,0.01867528073489666,0.05034802109003067,0.9309767484664917
+apple,"eBay: if you’re buying an iPhone 6, sell your existing iPhone now",,25.0,8,2014-08-27,AAPL,0.019832469522953033,0.8997310400009155,0.08043655753135681
+apple,Prepare Yourselves as 'BioShock' for iOS will Land in the App Store Tonight,,38.0,79,2014-08-27,AAPL,0.022326137870550156,0.9346133470535278,0.04306052252650261
+apple,Apple to Unveil Wearable Device on September 9 Alongside iPhone 6,,390.0,735,2014-08-27,AAPL,0.01747342385351658,0.8600296378135681,0.12249691039323807
+ios,Good iOS rhythm games?,"I love me a good rhythm game, and I tried Osu stream, but it has like no songs on it, and the only one I liked was 'Now I only eant you gone'.
+
+Any suggestions for good ones?",4.0,6,2014-08-27,AAPL,0.014483756385743618,0.7377328276634216,0.24778343737125397
+iphone,A simple iOS game from a starting Belgian company,,3.0,6,2014-08-27,AAPL,0.01652924157679081,0.9303975105285645,0.05307326465845108
+apple,More Evidence of NFC Support for Both iPhone 6 Models,,8.0,6,2014-08-27,AAPL,0.011519116349518299,0.33555757999420166,0.6529232859611511
+apple,Caution: My refurb'd iPhone 5 from Geek Squad contains third-party components; warranty void.,"TL;DR: Purchased iPhone 5 from Best Buy with the Geek Squad Protection plan; over a year later, made a claim and got a refurb'd iPhone 5; found out 8 months later (today) that the refurb contains inauthentic Apple components, rendering my warranty void, unable to participate in Battery or Sleep Button Replacement Programs.  
+
+Here's the long version:
+
+I purchased my iPhone 5 on release at Best Buy and purchased the Geek Squad protection with it.  After my battery life deteriorated significantly over the course of the first year, I made a claim on my geek squad protection and received a refurb'd device.  I then cancelled my geek squad protection.
+
+I immediately noticed that on the refurb, the glass panels on the back were not flush with the main back of the phone; they were slightly elevated.  I didn't think much of it, and put the phone in its case.  Several months later, I hear a rattling sound coming from my phone.  I pull of the case to discover that the bottom glass piece on the rear of the device was detached.  Again, I thought little of it; I kept the phone in a case anyway, and planned to superglue the piece back on at some point.  
+
+The battery life on my refurb'd device deteriorated even more quickly than my original device.  I was thrilled to find out that my phone qualified for the Battery Replacement Program, and I figured I would take advantage of the Sleep Button Replacement Program as well, since mine had just begun to act a little finicky.  
+
+I made my appointment at my Apple store for this evening, went in, and the Apple rep began doing the diagnostic on my phone, in preparation for sending it out to be repaired.  One portion of the diagnostic requires the iPhone be plugged into a dock.  This is where the problems began.  My iPhone would not recognize the dock (I had never tried using one before).  The Apple rep took my phone in the back to a Genius to see if they could determine the problem.  They came back and said that the prongs that the dock uses are either damaged or non-existant in my phone.  
+
+The Apple rep couldn't proceed through the diagnostic without connecting to the dock, so he discussed the situation with the store manager.  After examining my phone for a good five minutes, they noticed an oddity which I, myself, am embarrassed I never caught: [there is no serial number or FCC printing on the back of my refurb'd device. ](http://i.imgur.com/BLxmbeI.jpg).
+
+In addition to the lack of printing on the back of my phone, he pointed out the faulty dock connection, the glass pieces not being flush with the body of the phone, and the fact that the bottom glass piece that fell off was held on with glue.  This all lead to the conclusion that the parts were not authentic and that my warranty was void.  
+
+The Apple rep did spend a good half hour on the phone with the local Best Buy explaining the issue and seeing if they would resolve the problem for me, as there was nothing the Apple store could do.  The store manager at Best Buy told me to come down and they would see what they could do. 
+
+Their only solution was to reactivate my geek squad protection (which normally is not allowed once it has been cancelled) at a rate of $9.99 per month, and exchange for another refurb'd phone.  There is no guarantee that this refurb will contain authentic parts, and there's no guarantee that it won't have the faulty battery/sleep button problems either.  
+
+Although I'm less than satisfied with the resolution, I reluctantly agreed. I post this not as a complaint, but as a warning to others the headache that a refurb'd device can cause.  I can say for sure that I will not be using Geek Squad protection on a phone ever again; I am unaware if other places use third-party components in their refurbished devices as well or not.  If the use of third-party components in refurbished devices is common knowledge, then I should have done a little more research.  I haven't read the fine print in my geek squad agreement to see if this aspect is mentioned.  
+
+I found it especially frustrating that, of course Apple refuses to service the device under warranty.  However, the representative at Best Buy pointed the finger at Apple, telling me that Apple has relaxed their policies re: refurbished devices, and allows them to use third-party components.  The consumer is stuck in the middle, with a void warranty.  
+
+
+
+Edit:  [I posted about this to Geek Squad's Facebook page](https://www.facebook.com/photo.php?fbid=10104233007845163&amp;set=o.167050813322149&amp;type=1&amp;theater&amp;notif_t=photo_comment), and they responded that Geek Squad DOES use authentic parts, and IS an authorized Apple repair facility, and that any work they do on the device should not void my warranty with Apple.  Interesting.
+
+Edit of the edit: They just edited their Facebook response, and removed all of the text about using authentic parts and being an authorized repair facility.",222.0,591,2014-08-27,AAPL,0.5653965473175049,0.4083980917930603,0.02620530128479004
+iphone,Prepare Yourselves as 'BioShock' for iOS will Land in the App Store Tonight,,14.0,59,2014-08-27,AAPL,0.022326137870550156,0.9346133470535278,0.04306052252650261
+ipad,Apple has sent out invites to an event on September 9,,17.0,85,2014-08-28,AAPL,0.035645198076963425,0.9406420588493347,0.023712731897830963
+apple,"Gruber Claims that iPhone 6 Will Have NFC, Allow Payment with Credit Cards",,67.0,84,2014-08-28,AAPL,0.014075353741645813,0.8149267435073853,0.17099793255329132
+ipad,ipad mini retina vs new version?,"I want to buy the ipad mini retina but I don't know if it is worth it. should I wait for the next model and decide which model I should buy, if the old mini retina or the ipad mini new version?",8.0,8,2014-08-28,AAPL,0.023420318961143494,0.9375036358833313,0.03907611966133118
+iphone,"Sushi Sum App (for use with Yo! Sushi UK currently, while I get prices for other countries) my first iPhone app. So go easy :)",,0.0,8,2014-08-28,AAPL,0.013811061158776283,0.8538821339607239,0.1323067992925644
+ipad,I need help finding a case for a disabled person.,I have a friend that's in poor health but is still fighting. He gets around with the help of a walker. He is really interested in getting an iPad but the problem is that sometimes he loses his grip on things and I don't want him go and drop it the first day. What I'm looking for is a case with a strap that could go over his shoulder. Think smart case with a rope going though the binder. It will probably be an iPad Air or a retina mini. Thanks in advance.,5.0,8,2014-08-28,AAPL,0.044695332646369934,0.8854151368141174,0.06988953799009323
+iphone,"As a one man developer, I spent the last 8+ months at home and cafes coding and polishing the HECK out of my iPhone game. It’s finally out…","I worked on all aspects of this game completely by myself starting from scratch —teaching myself to code Objective-C, artwork, UI, user experience, and zero budget marketing.  A lot of it’s inspiration came from awesomely designed, clean games like Letterpress and the Dots series.
+
+I’m not an artist, but I took the time to learn Photoshop.  I created all art assets for the game, UI art, the game icon, and App Store screenshots.  I would love to get your feedback on how you think it looks!
+
+For user experience (UX), I really took the time to customize everything.  The transitions switching from view to view were all custom animations.  Even the swipe to delete on the match list is a custom animation.  Other things I worked on were custom animated menus, parallax scrolling on the new game button, and other probably unnoticeable things!  I really wanted to give this game a one of a kind experience whether or not you fully notice what exactly is going on — not just using the default UI/animations.
+
+It’s a multiplayer social turn-based game, so I did all the game testing myself across my iPhone 5, iPad 2, girlfriend’s iPhone 4S, my 18 month old (today) daughter’s iPad mini, and my old iPhone 4 — the only reason why I didn’t sell my old iOS devices!
+
+I could easily have released this game a couple months in from the start, but I really wanted to polish the heck out of it. For icing on the cake, there are other features I included like different colored themes, player and game statistics, previous moves history, game tips/strategy, and silly pre-populated chat messages. My game is called Reversus and it’s free.  I would love for you to try it and let me know what you think! I will keep you regularly updated on how the game is doing.
+
+**TL;DR:** Self-taught iOS coder and graphics designer finally releases his iPhone game (free).
+
+iTunes/App Store link: https://itunes.apple.com/us/app/reversus-multiplayer-reversi/id792882892?ls=1&amp;mt=8
+
+
+-------
+Edit: [Here's](http://www.reddit.com/r/iphone/comments/2etbcv/as_a_one_man_developer_i_spent_the_last_8_months/ck3pvs8) an update I posted this morning that seems to have gotten hidden in the comments",99.0,755,2014-08-28,AAPL,0.03909052163362503,0.9298588037490845,0.03105064667761326
+iphone,Well that's not supposed to happen.,,7.0,74,2014-08-28,AAPL,0.024325503036379814,0.8208268880844116,0.15484757721424103
+iphone,Sneak Preview: Minuum keyboard for iOS8,,22.0,73,2014-08-28,AAPL,0.022137820720672607,0.9246600270271301,0.05320213362574577
+ipad,"After replacing, screen is too dim to be visible. Help?!","I cracked my wifi ipad 2 touch screen, and wanted to replace it myself. After turning my ipad back on after the project, the screen is so dim I have to have light just at the right angle to be able to see the what's on the screen. I've tried replacing the lcd screen and flex cable and still nothing. My screen won't return the the normal brightness. Am I dead in the water here, or am I missing something?",2.0,7,2014-08-28,AAPL,0.11605731397867203,0.847926676273346,0.03601599112153053
+iphone,Wait what,,2.0,7,2014-08-28,AAPL,0.05565713346004486,0.8767070174217224,0.06763589382171631
+apple,Moleskine Just Seriously Upped Its Game - You can now take physical notes that instantly transfer to your iPad without sacrificing an inch of the iconic black leather.,,27.0,95,2014-08-29,AAPL,0.02560451626777649,0.9286406636238098,0.04575478285551071
+iphone,Apple Building Massive Structure at Flint Center for iPhone 6 Event,,28.0,90,2014-08-29,AAPL,0.012176078744232655,0.9144177436828613,0.0734061747789383
+apple,FedEx lost my return package containing my rMBP is was returning?,"Uhhh, Can't believe what luck I have, just a few weeks ago I was sold a POS Macbook Pro on Amazon and then for some reason was banned. I had to file a charge back with my bank and just got my money last week. 
+
+Now the computer I got from Apple didn't have what I ordered, I ordered a Late 2013 model and got a Late 2012. So I call apple and they agree to refund me because they can only exchange it for the same one I'm returning or something. Anyway I drop off the computer/package at a FedEx authorized ship center Apple recommend me and they don't know where my package is, FedEx is investigating this and Apple told me to give them till Tuesday before i call back and they can do anything.
+
+Not sure what to do, I'm out of almost $2000 dollars, and no computer. 
+I don't think I can file a another chargeback if Apple or Fedex decides not to do anything, my bank will think I'm doing fraud or something. Anybody have anything like this happen to them? Does Apple have insurance for this? They have me on camera dropping off the package. Not sure what else I should do. Any advice would be useful. Thanks
+
+http://i.imgur.com/cT3dJMR.png",16.0,9,2014-08-29,AAPL,0.03635324165225029,0.9257206916809082,0.037926085293293
+ipad,Looking for a cheap bluetooth game controller,"I just downloaded GTA San Andreas, and while I find it pretty incredible that my favorite game from 10 years ago functions so well on the ipad, I'd really like to find a decent bluetooth controller. I see this [steel series](http://www.amazon.com/SteelSeries-Stratus-Wireless-Gaming-Controller/dp/B00HSB2EZI) one is supposed to be the best, but I don't want to shell out $80 just to play san andreas. 
+
+Has anyone found anything cheaper? It doesn't have to be very high quality, just something functional.",4.0,9,2014-08-29,AAPL,0.01570681482553482,0.8487809300422668,0.13551227748394012
+ipad,Notability for Mac is now here,,30.0,82,2014-08-29,AAPL,0.038732923567295074,0.9196781516075134,0.04158893972635269
+iphone,New Free App for Cat Lovers. Tag A Cat - The Cat Picture Sharing App.,"Do you like cats? Are you obsessed with taking photos of your cat or know someone who is? Then I have the App for you! Tag A Cat - The Cat Picture Sharing App!
+
+Tag A Cat is the instagram of Cats. No more photos of heavily filtered food in your feed! Only the real stuff you want to see. Photos of Cats! You can browse photos, share you own, view cats from all over the world on our map, and even comment, like and follow your favorites. 
+
+Tag A Cat was built by myself over a 3 month period and was launched about 2 months ago. We currently have about 300 users and over 500 cat photos shared in the system. We have an iPhone version released and are waiting for Apple to approve the iPad version (any day now). 
+
+I would love to have more people use the app and share their photos and Reddit seems like just the place. Feed back is always welcome since the app is still new I know we have a long way to go. Its impossible for me to have the quality of Instagram. But I will try to make the best Cat photo app I can.
+
+[iTunes Link](https://itunes.apple.com/us/app/tag-cat-cat-pictures-sharing/id879287051?ls=1&amp;mt=8)
+
+[Website](http://tagacat.net/)
+
+[Facebook Page](http://www.facebook.com/tagacat)",1.0,8,2014-08-29,AAPL,0.018368959426879883,0.9295788407325745,0.05205215886235237
+mac,Duplicate Finder Apps?,Looking for a good application to go thru my mac and find duplicate items. Any recommendations? I looked up gemini and a couple others with decent reviews but found that they were not able to handle large amounts of files. I have a 500gb HD and about 480 occupied and Im pretty sure there is a butt load of duplicate files?,2.0,8,2014-08-29,AAPL,0.015495304949581623,0.8262415528297424,0.1582631915807724
+apple,"I made two Desktop Wallpapers in the spirit of the upcoming 9/9/14 announcement. Light &amp; Dark modes, in honor of Yosemite.",[Enjoy!](http://imgur.com/a/2eMea/embed),6.0,8,2014-08-29,AAPL,0.02183489315211773,0.9029091000556946,0.07525601983070374
+ios,Help: Unable to unlock encrypted iphone backup.,"Hi all. 
+
+Looking for some help. I have an old iphone backup that has some pictures of my grandfather on his last vacation with us before he passed. My phone crashed shortly after that trip and I was never able to restore from the back up because it says the back up is encrypted.
+
+I never remember establishing an encryption password and have tried EVERY password variation I use to no success. I had added work email on my phone which is why I think it was encrypted and spoke with IT without much luck. 
+
+Do any of you know a way to break the encryption for a backup? Would love to get those photos back. 
+
+Appreciate any help you can give
+
+Thanks!",7.0,8,2014-08-29,AAPL,0.04089090973138809,0.8959460854530334,0.06316296756267548
+iphone,All signs are pointing to the September Press Conference being a game changer for Apple,"It seems like in one day the hype train has jumped from ""I can't wait for the iPhone 6"" to ""Apple might be revolutionizing the entire company"". Let's look at today's announcements:
+
+1) Apple is returning to the performance art hall where they unveiled the Mac for the first time in 30 years. There might be some symbolism in that, i.e. ""We're making a company changing announcement""
+
+2) Analysts who are close friends with Apple/Tim Cook, such as Jim Dalrymple (the most trusted analyst reporting today) are tweeting things like ""holy shit guys, hold onto your hats"" and ""bring a change of pants"". Everyone in the know is acknowledging that some serious information is going to be dropped at this conference.
+
+3) Apple has built a three story tall enclosure inside of which it has a construction project going on. It's near the presentation center and is absolutely *crawling* with security. No one has any idea what they're building inside.
+
+Something big is going to happen. I don't know what, I don't want to get too excited lest I be let down, but I have a gut feeling that this press conference will be one for the history books.",57.0,74,2014-08-29,AAPL,0.022432317957282066,0.9320548176765442,0.04551282152533531
+iphone,"Having an issue where my iPhone 4s is holding 7.6 GB of ""other"". Any ideas what I could do to fix that?",I've had this problem for over a year now but just had the idea to ask here. I've called technical support and they only tell me to restore my phone and sync with an older backup version of my device. The only problem is that would delete valuable information and various other things. I was hoping someone might know a way to delete the problem files so I could go back to having usable space. Thanks!,94.0,81,2014-08-30,AAPL,0.09469547122716904,0.873132586479187,0.03217194229364395
+appletv,Will non-beta apple t.v. work with beta Yosemite?,"I would like to install the current Yosemite beta, but I'm afraid it would't connect properly with a non-beta OS on the Apple t.v.  Have you guys tried this?  Can I browse my computers iTunes library?  Does Airplay work, etc.  
+
+Thanks.
+
+Sorry if this has already been answered.  I looked and didn't see anything.",6.0,7,2014-08-30,AAPL,0.02610291913151741,0.9087010025978088,0.06519603729248047
+apple,Apple Has Considered $400 Price for Wearable Device,,116.0,60,2014-08-30,AAPL,0.015172410756349564,0.8286020159721375,0.1562255173921585
+iphone,This May Be The Best Look Yet At The New iPhone,,8.0,6,2014-08-30,AAPL,0.013573914766311646,0.7719417214393616,0.21448437869548798
+ipad,Deleting a video help,"Ok, I rented a video through iTunes Store and apparently didn't have enough space. When I open iTunes Store app and go to rentals it has the movie icon and says download error tap to retry. I've hit the edit button but the only thing that was bold was to cancel.
+     Also it said it downloaded a few days ago but when I tried to watch it the screen closed every time I loaded it.
+     I want to get rid of it. Do I just wait the 30 days until it's deleted? Is something wrong with my iPad Air?
+Thanks!
+Edit: also the video icon only appears in the iTunes purchased not in the video area. I've tried the swipe &amp; hold down methods nothing happens.",2.0,6,2014-08-30,AAPL,0.12200598418712616,0.8532420992851257,0.02475191093981266
+apple,Hopefully my last Lightning cable.,"I've had bad luck with lightning cables, nothing goes past 2 months. (save the lectures)  This thing has a steel braided cable, aluminum heads that are reinforced with a metal spring.  
+
+http://www.slashgear.com/mos-spring-reinforced-cables-have-exoskeleton-23330181/",237.0,53,2014-08-30,AAPL,0.03256276994943619,0.9185214042663574,0.048915863037109375
+ios,iOS7 wallpaper bug - springboard restart,,1.0,5,2014-08-30,AAPL,0.040207553654909134,0.9345741868019104,0.025218237191438675
+mac,"MacBook Pro 13 Mid-2009, Yosemite (Beta) or not?","My family owns a Mid-2009 13-inch Macbook Pro with 8GB, and standard 120GB SDD. I'm tempted to install the latest OS X 10.10 Yosemite Beta but I'm a bit concerned about stability. The computer is backed up both locally and online, so that won't be an issue, but I'm just wondering if I would be okay installing the beta now that it's a bit further on, or if I should just hold off till the official 1.x release.
+The computer is used by all members of our family frequently, but nothing more than light web browsing, maybe some Netflix streaming, 90% of the time, and then I use it for DVD ripping, photo editing, gaming, etc. every once in a while.
+Does anyone here have the same model as me with the Yosemite public beta that could elucidate what their experience with the software has been? As long as it's not going to crash frequently and Chrome and iPhoto still work, we should be good to go. Any insight would be appreciated. Thanks.",6.0,5,2014-08-30,AAPL,0.01829090341925621,0.9201639890670776,0.06154510751366615
+mac,SVG or vector graphics editor?,"Does anyone know of a good SVG or vector graphics editor for Mac OS X, preferably an opensource one. I've been looking around for one, I know there's InkScape but was wondering if there were any more I should be aware of.",9.0,5,2014-08-30,AAPL,0.02285156026482582,0.9247456192970276,0.052402809262275696
+iphone,BOOM! Apple patents a new kind of Lightning Cable and an iPhone superdock,,1.0,5,2014-08-30,AAPL,0.01464502140879631,0.7466325759887695,0.23872244358062744
+apple,Apple partnering with American Express on new iPhone payments system.,,37.0,99,2014-08-31,AAPL,0.010820848867297173,0.8692189455032349,0.11996017396450043
+apple,"Apple Said to Team With Visa, MasterCard on IPhone Wallet",,41.0,98,2014-08-31,AAPL,0.010654566809535027,0.8795506358146667,0.10979478061199188
+apple,Monthly APPreciation Thread for September 2014,"Here's this month's App recommendation thread. What apps have you been enjoying for the past month?
+
+***
+
+**Guidelines**
+
+* Try to feature apps that people may not have heard of.
+* One app per comment. Make your comment top-level for increased visibility.
+* Any Apple-made platform. iOS and OS X are both game.
+* Include relevant info: Price, platform, app store links...
+* Mention what the app does in a sentence or two, and perhaps how you use it.
+* Vote as much as possible. If you're downvoting, it would be great to include a reply stating why.
+* Don't mention Native/built-in apps (Reminders, Mail, etc), because everyone knows about them.
+
+***
+*NEW*: **Last month's top five suggestions:**
+
+1. [**Overcast**](https://overcast.fm)-  is a brilliant podcast app. I particularly like the effects such as voice boost (normalizes volume across multiple speakers and makes them clearer) and skip silences (that speed up the podcast by a factor of 1.1x or more, depending on how slow the speaker is). It's free for the most part and you only pay to unlock unlimited use of features. - /u/rantrt
+
+2. [**French Girls**](https://itunes.apple.com/us/app/french-girls/id607904602?mt=8). - People may already know about this one. A free iOS app in which you take a selfie and random people from around the world will draw you like one of their French Girls. You can also draw other people too. There are some amazing artists on the app that draw stunning pictures, there are also penis artists that draw stunning penises. It used to be anonymous but a recent update introduces username (obviously you can still remain anonymous if you wish). /u/ThisAverageGuy
+
+3. **[Narwhal](https://itunes.apple.com/us/app/narwhal-for-reddit/id845422455?mt=8)** -  is a decent iOS 7 feeling reddit client. It does some cool things with the UI. It reminds me a bit of mailbox with interactions being mostly swipes. - /u/awkwardmotherfucker
+
+4. **http://www.macbartender.com** - For power users or heavy menubar people - /u/bronzle
+
+5. [**Countable**](https://itunes.apple.com/us/app/countable-congress-in-your/id893853823?mt=8) (iPhone/iPad) - Shows legislation that will soon be voted on and provides some information on it. You choose whether you support it or not, then gives you the option to email your representatives. I think this app does a few great things: (1) Makes it easy to see what legislation is coming up for vote and puts the information in laymen's terms. (2) Shows your representatives and their contact information. (3) Displays how your representatives voted on individual issues and how you voted in the app. This app may have been in last months thread, but they just updated it yesterday to add an email login option (was Facebook only).  - /u/Sky_Diner
+
+Shoutout to /u/RebelNutt18 for commenting on all suggestions with links for all the apps, saving me the trouble of getting them myself
+***
+Last month's thread can be found [here](http://www.reddit.com/r/apple/comments/2cb09e/monthly_appreciation_thread_for_august_2014/)",87.0,91,2014-08-31,AAPL,0.0343698188662529,0.9261093735694885,0.03952084481716156
+mac,Refurb. Macbook C2 Duo (Mac Newb),"Like the title says, I am looking for a computer to take with me from home to school. I will only be doing some simple word processing, netflix, maybe some programming, but that is it. I found this http://www.cowboom.com/product/592311/
+and I am wondering what, if anything, I would need to make this into a solid running machine. I am mostly a windows user, with a sprinkling of Linux. I have never owned a Mac so I am at a loss as to what OS I could run on this or really anything. Any help would be appreciated!!",4.0,8,2014-08-31,AAPL,0.02199742943048477,0.905451238155365,0.07255136221647263
+mac,"What in the hell iTunes, why can't you read my MP3 tags correctly? (OSX Newbie)","I have a music collection that I'm trying to port into iTunes, however it isn't going smoothly as I thought.
+
+On my server (which is linux) I have written a script to set tags on my MP3's based on folder paths since all of my music is Artist\Album\Songs.mp3 using tagmp3.  I have verified that all my tags are correct through measures of QC on my own work.
+
+
+When I look at the ID3 tags in linux I see that it is formatted correctly [see here](http://i.imgur.com/VCoEHQJ.png)
+
+
+Now, when I import into iTunes I see a lot of fucky crap going on [see here](http://i.imgur.com/0mEy5aN)
+
+
+My question is, how do I format my tags correctly on my linux server for iTunes to pick up on them correctly? This is one example but my library is all sorts of messed up when I import everything. On linux it looks fine using Amarok or Rhythmbox..",6.0,8,2014-08-31,AAPL,0.023637287318706512,0.9283137917518616,0.04804898798465729
+ipad,Good apps to produce on the go?,I seen some on the app are like impc which looked good but I read reviews that sad you can't export it out to continue the project on your DAW. That would be a big selling point for me as I just want to start working on a beat and if I need to finish it at home on my pro tools set up.,2.0,8,2014-08-31,AAPL,0.013065082021057606,0.812289297580719,0.17464561760425568
+apple,With the current leaks (Jennifer Lawrence) will there be backlash against Apple?,,10.0,7,2014-08-31,AAPL,0.4902322292327881,0.4717034101486206,0.03806433081626892
+iphone,iPhone tracking location for traffic. But Traffic info isn't available in my country.,,3.0,7,2014-08-31,AAPL,0.08276518434286118,0.9008403420448303,0.01639452576637268
+apple,How many of you use safari as your default browser?,I just switched from chrome and it has been so much better! I just love it.,498.0,666,2014-08-31,AAPL,0.011471022851765156,0.8381702303886414,0.15035878121852875
+apple,TIL: Option Clicking Menu Bar. Read for a bit more,"Most of us know that Option-Clicking an item on the Menu bar tells us a little more information than what it would normally tell us, but if you **Option-Click** the **Notification Center** icon, it turns Do Not Disturb On.
+
+I want to give the credit to /u/neilalexanderr",2.0,66,2014-08-31,AAPL,0.038746874779462814,0.895898163318634,0.06535499542951584

@@ -1,0 +1,349 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+ecommerce,オールデン通販Shoes Collect,,1,1,2012-07-01,ECOM,0.05083361640572548,0.9222579002380371,0.026908470317721367
+dropship,Custom Tshirt Dropshipping,"Would there be interest in this from anyone here?  
+
+Monetize your website, by sellling your own custom Tshirts.
+
+You must have 200+ Unique Visitors to your website per day, and be able to prove it.
+
+Either provide your own art or work with our designers on your concept.
+
+For a X$ setup fee per design, we provide custom branded ad banners, t-shirt designs, and guidance on selling your t-shirt design on your site.
+
+Post the banners on your website receiving traffic.
+
+Earn 3$-7$ per shirt you sell through your site, we handle all the boring stuff like shipping, fullfillment, and payments.
+
+PM me and get set up for 0$ when we launch.",2,0,2012-07-01,ECOM,0.02339855395257473,0.9332966804504395,0.04330473020672798
+ecommerce,"Commerce Sciences Nabs $1.8M From Eric Schmidt, Joe Lonsdale To Make Online Shopping More Personal  |  TechCrunch",,0,1,2012-07-02,ECOM,0.02286425791680813,0.9190667271614075,0.058068957179784775
+ecommerce,Human bridge from ERP to eCommerce platform....,"As a result of poor planning/fund allocation, my company has recently invested in a brand spankin' new JDEdwards ERP system but made no plans to integrate/bridge it with our (3) Magento eCom sites.   As a result, we've had to create a 'human bridge' in order to begin sending transactional email with any accuracy.   Meaning, a human runs a report and manually updates the Magento backend.   Slow, tedious work for sure. 
+
+Anyone have any experience doing this?  Any other suggestions for smoothing this connection until they decided to spend money on a real bridge?",0,1,2012-07-02,ECOM,0.02395518869161606,0.9281406998634338,0.04790415242314339
+ecommerce,"Freight, I've got to be overlooking something","I'm tasked with finding a new e-commerce platform for a company.  Of the many things we'd like to do (I'll summarize below) there seems to be a few that are really limiting our options.  I'm looking for both advice on narrowing the field down vs adding capability to a platform or for suggestions on a particular solution to use.
+
+Constraints:
+We have 2 stores, 1 with about 4,500 products another with 1,500.
+Most of the products need to be sold in groups, have add-ons, refills or consumables that go with them. We know mobile is the future and are looking at building some tools to help our customers in purchasing qty + selection.  We are a brick and mortar location and do rental work so our internal system choices are a bit limited as well as thats the primary focus of one of the businesses (rental).  We are switching platforms for managing this as well but the new vendor we're really leaning towards has nothing in the way of API open yet, and their re-code is a few months from completion.  A lot of our products need to be shipped freight as they may weigh hundreds of pounds. Current providers: Freightquote.com and CHrobinson.com
+
+Solutions I've been reviewing (no particular order):
+Self Hosted and Hosted:
+Amazon Webstore
+Magento
+BigCommerce
+Volusion
+Shopify (not made to handle a store this size)
+3dCart
+ZenCart
+Americart
+PinnacleCart
+
+Assistance with getting freight pricing at time of sale seems to be an out of the box experience with all of these vendors.  I have found:
+
+http://www.magentocommerce.com/magento-connect/ups-freight.html
+http://www.magentocommerce.com/magento-connect/freightquote-com-shipping-module.html
+
+but have had less luck for the other platforms.
+
+For stores of our size and the features we wish to provide is there someone else we should be looking at? Is Magento as good a fit as we'll find?
+
+Budget: $$$
+Store Size: 1:4500 SKU 2:1500 SKU
+
+Additional Info:
+
+Short list of our needs (I am working on a more developed description in our needs from a potential API):
+Inventory (POS / Rental) &lt;-&gt; Online Store - Ability to custom develop a solution.
+Quote / Pricing information from POS -&gt; Website
+Quote Requests / Purchases to modify inventory levels -&gt; POS
+Product catalog (POS / Rental System) &lt;-&gt; Website (Item name, weight, dimensions, description, options) - This may be too complex with options / variations. 
+Customer based price books?
+
+
+Shopping Cart:
+Pull Freight prices / best price match (working on getting contacts with freight providers for you)
+Simliar items (people who viewed bought...)
+Addon's Extras for viewed product
+Product Groups (buy X, Y, Z together and save!)
+State tax / Sales tax handled properly
+Proper shipping rate calculations
+Control over featured product pages (coincide with other marketing efforts, spotlight product / full css/html design ability)
+Schedule deals, spotlights, promotions
+Deal of the Day
+Coupons, perferred customers, discount categories (10% off equipment, 15% off consumables etc)
+Item Filtering by category, item qualities, attributes
+Product Video, Galleries
+Feedback/ Reviews
+Web tools to assist with job costing / calculators 
+
+Customized flow to site to follow job progression, requires style / look changes per department.
+
+Back End:
+Back end for customers with resources, documentation, help and support tools
+Current Balance / Invoices
+Customer notifications / Account information / Tracking Info
+Saved Carts / Wishlist like purchases
+
+Mobile:
+Online Shopping Cart (really like REI.com's effort in this dept)
+Ability to integrate job cost / job calculators for assistance",1,1,2012-07-02,ECOM,0.04877246916294098,0.9220250844955444,0.029202468693256378
+ecommerce,4 Advanced SEO Tips for E-Commerce Sites,,0,1,2012-07-02,ECOM,0.016994165256619453,0.9029322266578674,0.08007357269525528
+ecommerce,"My biggest problem trying to find a drop shipper...When they find out I'm a noob, they don't want to work with me.","How do I get past this obstacle?
+
+I don't have a site, but I will immediately start the construction once I find a drop shipper willing to work with me. Unfortunately, every potential drop shipper wants to see my websites before they commit.  Any advice will be much appreciated. 
+
+EDIT:  I completely understand all of your replies, but how do I make a website if I can't get a product?  Am I doing this right? Don't I need a product supplier to launch a site?
+
+
+Thanks.",15,7,2012-07-03,ECOM,0.03658876568078995,0.9191642999649048,0.044246871024370193
+ecommerce,Ecommerce NY,Mavin Infotech  specialize in Ecommerce custom application development in New York. Over 10 years we developed in NY many Ecommerce applications using open source technologies.,0,1,2012-07-03,ECOM,0.016604751348495483,0.9214820861816406,0.061913199722766876
+ecommerce,Best Prices for Watches and Compare Product Prices,,0,1,2012-07-03,ECOM,0.029403243213891983,0.9364814758300781,0.03411519154906273
+ecommerce,Some Don’ts of  Ecommerce Website Design,,0,1,2012-07-03,ECOM,0.044497862458229065,0.9284359216690063,0.02706620655953884
+ecommerce,Quirky Gifts and Other Wonderful Online Gifts from Hostile Bacon,,0,1,2012-07-03,ECOM,0.021094921976327896,0.930193305015564,0.04871170222759247
+ecommerce,"Magento SEO, Magento seo services, Magento ecommerce seo",,0,1,2012-07-03,ECOM,0.015922168269753456,0.9260892271995544,0.05798863619565964
+ecommerce,The beauty and the grace of bleach swords,,0,0,2012-07-03,ECOM,0.024817349389195442,0.9256881475448608,0.04949454590678215
+dropship,Looking for a dropshipper that specializes in designer sunglasses.,"Looking for a dropshipper that specializes in designer sunglasses (rayban, oakley, costas, etc.) REAL SHIT, NOT FAKES =)
+
+PM if ya want to keep it hush hush.
+
+Thanks!",5,3,2012-07-04,ECOM,0.03610649332404137,0.9261365532875061,0.03775693103671074
+ecommerce,"Online Gifting India - Buy Gifts, Hookah, T-shirts, Novelty, Posters, Ash-Trays, Key Chains  - therufus.com",,0,0,2012-07-04,ECOM,0.023305563256144524,0.9078022241592407,0.06889220327138901
+ecommerce,The trend Setter and eye catchers in the gallery of Military swords,,0,0,2012-07-04,ECOM,0.03986125439405441,0.9134808778762817,0.04665791615843773
+ecommerce,One on One Business Mentors for Small Business Owners at Digital Success Institute,,0,1,2012-07-05,ECOM,0.013707701116800308,0.8548073768615723,0.13148489594459534
+ecommerce,Tiendas Virtuales,,0,1,2012-07-05,ECOM,0.04509998857975006,0.9185611605644226,0.03633884713053703
+ecommerce,International flower delivery,,2,0,2012-07-05,ECOM,0.020135199651122093,0.9293631911277771,0.05050158128142357
+dropship,"Online Photo Printing Dropship, Affiliate or White Label?","I am starting up a photo gift company. I have a large business I control that will allow me to use over $300k in machinery to produce very unique items.
+
+For the potential customers that may not want to buy my unique photo gifts, I would like to offer a printing service where they could submit their pictures, have them printed and sent to their home.
+
+Does anyone know of a service that will pay commissions, drop ships, or white labels photo prints?",1,3,2012-07-06,ECOM,0.050775714218616486,0.9276623129844666,0.021562043577432632
+ecommerce,"Halloween Costumes 2012 | Sexy Costumes, Dress Costume Costumes",,0,1,2012-07-06,ECOM,0.10059532523155212,0.8773735761642456,0.022031135857105255
+dropship,Manufacturer/DropShipper here-how do I reach out to entrepreneurs in need of items?,"I found /r/dropshop through a link in /r/Entrepreneur and figured this would be the perfect place to ask! Most of my orders are wholesale or retail, and I currently only work with one dropshipper. 
+
+How does /r/dropship suggest I reach out to business owners? 
+
+Thanks!",0,1,2012-07-06,ECOM,0.027827361598610878,0.9279015064239502,0.04427114501595497
+ecommerce,La proposition de loi de Philippe Marini pour le e-commerce,,0,1,2012-07-06,ECOM,0.01941952109336853,0.9010394811630249,0.07954102754592896
+ecommerce,Female Store,,1,1,2012-07-06,ECOM,0.06452202796936035,0.9058440923690796,0.029633903875947
+ecommerce,Prime Bargains - Save up to 75% against the RRP of Major Brands,,0,0,2012-07-06,ECOM,0.03178559988737106,0.9295378923416138,0.03867654129862785
+ecommerce,Online Discount Shopping | Home Shopping Mall,"I Love to Shop is a shopping portal to affiliated stores and as such, terms and condition on each purchase depends on the store they are purchased from.",0,1,2012-07-08,ECOM,0.026437249034643173,0.9484363198280334,0.025126470252871513
+ecommerce,Modern Swivel Office Chairs :),,0,0,2012-07-09,ECOM,0.02142537571489811,0.9335712194442749,0.045003365725278854
+ecommerce,"At Yourlamode.com, we are proud to have the largest and most desirable collection of sexy costume, swimwear, and clubwear with the lowest prices and best customer service of any online store.
+For the latest women’s fashion visit our site http://www.yourlamode.com",,0,0,2012-07-09,ECOM,0.03061768040060997,0.9249659776687622,0.04441633075475693
+ecommerce,Introduction To Google Analytics For eCommerce,,0,0,2012-07-09,ECOM,0.029390033334493637,0.9349533319473267,0.035656657069921494
+ecommerce,Cash Box,,0,1,2012-07-10,ECOM,0.0598466657102108,0.8926307559013367,0.04752255231142044
+ecommerce,Apple's Mini IPAD Vs Google Nexus 7,,0,1,2012-07-10,ECOM,0.014574340544641018,0.7773910164833069,0.20803464949131012
+ecommerce,cestas de regalo a domicilio,,0,1,2012-07-10,ECOM,0.02726345881819725,0.9345276355743408,0.03820895031094551
+ecommerce,"My company is giving away over $60,000 in ecommerce service grants... and NO ONE has entered the contest yet!","[I posted the propaganda posters I did for the contest in /r/design yesterday](http://www.reddit.com/r/Design/comments/w9pdm/i_did_these_web_design_and_ecommerce_propaganda/) and got a very flattering response (THANKS!) and as a thank you to the community, I'm doing everything in my power to see to it that redditors know about the promo.  From what I can tell, the prizes are pretty impressive and as of this moment, you couldn't ask for better odds.  Literally.
+
+Check out the contest [here.](http://www.ecommercedefense.com/)  If you win, please consider using your new resources to determine how to somehow give me a billion karma.  Good luck!",0,0,2012-07-10,ECOM,0.016257664188742638,0.7753881216049194,0.20835423469543457
+ecommerce,Shopify announces 3rd annual Build-A-Business Competition. Great incentive for those thinking of starting or opening a new ecommerce store. [Disclaimer - I'm an employee],,0,0,2012-07-10,ECOM,0.013499393127858639,0.77675461769104,0.20974604785442352
+ecommerce,How to Sell Products Across Multiple Online Channels,,0,0,2012-07-10,ECOM,0.013264025561511517,0.9374135136604309,0.04932243004441261
+ecommerce,What is SEO Toaster?,,0,0,2012-07-10,ECOM,0.026502428576350212,0.8962301015853882,0.07726743072271347
+dropship,Success Stories?,"Does anyone here want to share some success stories of their own?  How long have you been drop shipping?  What types of insights to you have for other that are interested?  
+
+Thanks in advance!",1,18,2012-07-11,ECOM,0.01832028664648533,0.9239223599433899,0.057757385075092316
+dropship,Question from a newb.,"Hello, I was wondering what key statistics/analytics one should be on the lookout for when trying to decide on a specific product to dropship.
+
+For example, take pet suppliers.  With a variety of 15,000 products to ship, how does one determine which products would be most worthwhile to advertise?  
+
+Many thanks and hope that sounds clear...",3,7,2012-07-11,ECOM,0.03257738798856735,0.9030730128288269,0.06434962153434753
+ecommerce,Article about Volusion's constant downtime uses Reddit mascot to illustrate point,,4,6,2012-07-11,ECOM,0.06614827364683151,0.9082559943199158,0.02559570223093033
+ecommerce,"Same Product, Different Colors: Split up or Same Page? Opinion, SEO, etc.","I've had my e-commerce store now for almost a year and things are chugging along. A question I asked myself in the beginning is whether I would create 1 page for Red Hat Green Hat Blue Hat and just have the customer select the color, etc. I'm now reconsidering. I still don't know whether it is wise, considering potential duplicate penalties in Google, but I decided to ask: What is your opinion? Do you feel like this is a good strategy? How do you feel your customers would react? Google?
+
+Benefits:
+
+1. More products
+2. More SEO potential with more pages
+3. Keeping customer on site longer by viewing more products
+
+Cons:
+
+1. Potentially annoying (1 product -&gt; 5 colors, 1 style right after another)
+2. Potential duplicate SEO
+
+
+
+Would be really interested to know what people think.
+
+Thanks!",6,2,2012-07-11,ECOM,0.028947951272130013,0.9206477403640747,0.05040429159998894
+ecommerce,Best E-Commerce platform for a developer who wants to drop magento,"While working on developing a new Magento site today I began to feel like I was putting the thing together with more and more duct tape. Magento seems to have the most features by far, but I'm always looking for hidden view files or trying to find XML options that are not in the base theme (so I spend time on their forums looking for someone that had to find the same thing). The site I'm working with is low budget but has several thousand products, and the guy is always wanting to add new features. With that said, Magento is not turning out the be the best option.
+
+I was suggested Lemon Stand and OpenCart by some other developers which I looked into (I want to stick with PHP). I need multi-site capabilities so Lemon Stand is out of the question. OpenCart looks to be nice, but their documentation is horrible. I have a long term contract with the website so I will be spending a lot of time putting in my own customizations.
+
+I've been researching like crazy and it seems like every site I go to recommends OSCommerce and ZenCart. As soon as people start agreeing with the suggestion I go and find a different website, those are two terrible options I've had to deal with in the past.
+
+What do other developers recommend? Any good experiences with OpenCart?",0,1,2012-07-11,ECOM,0.025907184928655624,0.9246150851249695,0.04947778210043907
+ecommerce,Men's Clothing | Online Coupon Codes,If you want more information E-Mail: I-love-to-shop@hotmail.com - We will get back to you!,0,1,2012-07-11,ECOM,0.049677081406116486,0.9216061234474182,0.028716780245304108
+ecommerce,Select Rakhi Wishes with Apparel Gifts from Infibeam.com,,0,1,2012-07-11,ECOM,0.01950043998658657,0.9229012131690979,0.057598404586315155
+ecommerce,Online Shopping In India | Online Shopping Store in india | Online Shopping Website In India | Buy Camera Online,,1,1,2012-07-11,ECOM,0.026712436228990555,0.9412009716033936,0.032086607068777084
+ecommerce,ModernBarStools.com,,1,1,2012-07-11,ECOM,0.03964327648282051,0.9271133542060852,0.03324335068464279
+ecommerce,Infographic: The Online Population Boom - Online User Stats,,1,1,2012-07-11,ECOM,0.028136255219578743,0.921184778213501,0.050678934901952744
+dropship,Doba vs Salehoo vs Worldwide Brands vs X?,"What's your experience with the bigger dropshippers? Any that you recommend/distrust?
+
+I'm looking specifically for the active/adventure sports (rock climbing, bicycling, scuba diving, etc) gear... your tips/input would be amazing!",5,2,2012-07-12,ECOM,0.019379500299692154,0.9149796962738037,0.06564085185527802
+ecommerce,GeoTrust True BusinessID EV SSL,"True BusinessID EV SSL can help you to protect your site from phishing scams and increase your customer transactions. True BusinessID with EV comes with the highest levels of identity authentication, up to 256-bit encryption, and the GeoTrust True Site seal, to help maximize your Internet security coverage and online sales potential.",0,1,2012-07-12,ECOM,0.011582991108298302,0.855283796787262,0.13313321769237518
+ecommerce,¿Que es el dropshipping?,,0,0,2012-07-12,ECOM,0.03567906469106674,0.8979173898696899,0.06640361994504929
+ecommerce,The increase in trend of swords with Sword Sale,,0,0,2012-07-12,ECOM,0.023715006187558174,0.41742104291915894,0.5588639974594116
+ecommerce,The aura and charm of swords,,0,0,2012-07-12,ECOM,0.01987321302294731,0.9102016687393188,0.06992515176534653
+ecommerce,Europeans to Increase Mobile Spending 11x Over Next 5 Years,,0,1,2012-07-13,ECOM,0.014408981427550316,0.2109188288450241,0.7746721506118774
+ecommerce,True BusinessID Extended Validation SSL,True BusinessID EV: Extended Validation SSL Provides highest level of web site identity verification to help foil phishing and helps to increases customer confidence to maximize online sales potential.,0,1,2012-07-13,ECOM,0.009703133255243301,0.08816283196210861,0.9021340608596802
+ecommerce,compare online payment gateways,,1,0,2012-07-13,ECOM,0.018337514251470566,0.9086107611656189,0.07305174320936203
+ecommerce,Significance of Internet in Celebrating The Famous Indian Festival Rakhi,,2,0,2012-07-13,ECOM,0.02067681960761547,0.9115474224090576,0.06777573376893997
+ecommerce,Choosing a shopping cart. Looking for advice,"So I am wanting to setup a shopping cart. I am going to have several thousand items. I want to be able to create and manage hundreds of attributes. I also would like the ability to allow users to send me their items on consignment, and be able to manage pricing on their items, but for all items to ship (and shipping be combined) from one central location.
+
+Any suggestions?",8,4,2012-07-14,ECOM,0.01604648493230343,0.9367396235466003,0.04721391573548317
+ecommerce,SEO Company can Bring Your Website Back to Life,"Struggling Websites Can Regain Traffic with Professional SEO Services
+
+july the 14th -Atlanta businesses can improve their website traffic with the help of professional SEO services. This is according to the local [SEO experts](http://vayumedia.com) at Vayu Media.
+
+The company provides locally oriented search engine optimization services that focus on providing better experiences for web visitors. This often involves speeding up page load times, getting rid of unnecessary media elements, and adding pages that Atlanta web users will likely request.
+
+""Our goal is to act as an effective SEO service that actually adds value to our clients' pages,"" said a representative of Vayu Media. ""We want to give our clients long-term results, and the best way to do that is to impress their audiences.""
+
+Many of Vayu Media's clients appreciate the benefits of using a local [Atlanta SEO company](http://vayumedia.com) Vayu Media creates pages that appeal specifically to Atlanta web users. This approach is especially effective; thanks to recent updates to search engines like Google and Bing. Google's Venice update, which took full effect in June of this year, focused on delivering locale-specific results.
+
+""As a local SEO service, we've anticipated some of the algorithm changes of search engines like Google and Bing for months now,"" said the Vayu Media representative. ""We're prepared to give our clients excellent results. It's particularly notable when a website has gradually lost traffic. High-quality, local SEO services can make a tremendous difference and really bring new life to an old website.""
+
+Vayu Media provides an overview of its SEO services through its website at [SEO services](http://vayumedia.com) the company provides search engine optimization for businesses in the Atlanta area, with a focus on sustainable search engine position growth and local marketing.
+
+
+
+
+About Vayumedia:
+
+Vayu Media delivers Online Integrated Marketing Solutions with sustainable search engine marketing results and brand identity growth. Our design teams create the online presence for companies through our Web Design and Ecommerce solutions.
+
+Vayu Media
+1080 Peachtree Street
+Suite 1010
+Atlanta, GA 30309
+USA
+
+Email: info@vayumedia.com
+Web: www.VayuMedia.com
+Phone: 800-456-1563
+Media Contact: Jennifer E. Dunphy, VP Sales &amp; Marketing",0,1,2012-07-14,ECOM,0.02589305117726326,0.9061745405197144,0.06793245673179626
+ecommerce,"Introducing 9ZillA.com 
+Silent AuctionZ &amp; Classified AdZ 
+Buy • Sell • Bid • Advertise",,0,0,2012-07-14,ECOM,0.025092188268899918,0.9347996711730957,0.040108151733875275
+ecommerce,Flexible Winery eCommerce,,0,0,2012-07-15,ECOM,0.013437017798423767,0.8783969879150391,0.10816597193479538
+dropship,What SEO or PPC strategies are you utilizing?,,1,2,2012-07-16,ECOM,0.017958637326955795,0.932274341583252,0.04976702481508255
+ecommerce,Grow Your Business with VayuMedia Services,,0,1,2012-07-16,ECOM,0.020707396790385246,0.9275326132774353,0.051759928464889526
+ecommerce,Are You Utilising Twitter Correctly?,,0,1,2012-07-16,ECOM,0.02925926074385643,0.9312109351158142,0.03952978178858757
+ecommerce,"eCommerce Solutions, eCommerce development, London",,0,1,2012-07-16,ECOM,0.019145602360367775,0.9293055534362793,0.051548827439546585
+ecommerce,Warehouse Automation - Transformed in 6 weeks. A forum post about a Colorado-based business that largely automated their eCommerce business.,,2,9,2012-07-17,ECOM,0.019348949193954468,0.9197767972946167,0.06087426096200943
+ecommerce,"Looking to start an ecommerce page similar to MerchNow, Big Cartel, Etsy... Can you help?","I'm involved in the music industry and want to help my fellow struggling, touring musicians out by offering a service similar to  MerchNow, Big Cartel or even Etsy for you unfamiliar with the first 2. Basically, a store where I can sell merch from numerous bands. Let them each set up their own store, handle their own prices, upload their products and handle shipping. (I of course have ideas to separate myself from the already existing companies offering a similar service). I just don't know how to go about getting this set up. Would Wordpress be sufficient enough? Do I use WooCommerce for such a thing? Would you suggest Drupal instead? I'm looking for any help I can get, and I think you for your patience.",6,3,2012-07-17,ECOM,0.018476229161024094,0.8782781958580017,0.1032455638051033
+ecommerce,Buy Geotrust True BusinessID EV SSL Certificate at Discount Price,Get astonishing discount offer on GeoTrust. Buy GeoTrust True BusinessID EV SSL at just $134.10/YR by selecting two year purchasing option and apply Coupon Code: SUPER10OFF at very low price.,0,1,2012-07-17,ECOM,0.031063804402947426,0.9067103862762451,0.0622258186340332
+ecommerce,Four silly mistakes may let down your business in ecommerce website design,,0,1,2012-07-17,ECOM,0.06043596565723419,0.9001444578170776,0.03941964730620384
+ecommerce,Why does this subreddit have so many Mods?,"There's like 800% too many Mods, given the ratio of readers. No? Yes? Please don't ban.",0,1,2012-07-17,ECOM,0.04402909800410271,0.9191718697547913,0.036799006164073944
+ecommerce,"Bubble Mailers, Shipping Supplies Boxes, Postal Scale, Poly Bags, Packaging Wholesale, Packing Tape Dispenser",,0,0,2012-07-17,ECOM,0.029333600774407387,0.9397133588790894,0.03095301426947117
+ecommerce,How to define sales strategy according to the types of online customers.,,0,0,2012-07-17,ECOM,0.030555766075849533,0.9431318640708923,0.026312340050935745
+dropship,"Manufacturing a simple novelty item, dropshipping contracts.","Wasn't sure if this belonged here.. but any help is appreciated.
+
+I would like to find a manufacturer to make a novelty item that requires the assembly of two relatively small and simple items (e.g. LED light + key, glue light to key, create lightkey, no this is not the product). I've done some research on alibaba.com and other mfg sites and it appears both items can be manufactured, but I am unsure if I will be able to find a manufacturer who can assemble both with the quality I am looking for. Has anyone been through this process before? Can anyone help me out?
+
+I am also a one-man show (been making item as a hobby on the side) with not much room for a large amount of inventory. My background is in finance, so setting up an LLC and online store should be relatively simple... but I would prefer to arrange a dropship contract with the manufacturer so that the product can ship at point of sale to avoid the whole inventory problem. But most dropshippers have set items that sellers can buy/sell at wholesale prices. Not sure on order amounts yet, but would like quotes on 100, 500, 1000, etc.
+
+Just want to do this right without spending more $ than neccessary/ screwing up big time.",0,3,2012-07-18,ECOM,0.03132963925600052,0.9294394254684448,0.039230916649103165
+ecommerce,An Open-Source eCommerce Application AspxCommerce 1.1 Released,,1,2,2012-07-18,ECOM,0.02521444298326969,0.9295189380645752,0.04526662826538086
+ecommerce,Funny Guide to Selling Products Online - An Infographic,,0,1,2012-07-18,ECOM,0.030088137835264206,0.9327093362808228,0.03720248490571976
+ecommerce,GoldieSmart - Cameras R Us - Best Online Camera Shopping Store,,0,1,2012-07-18,ECOM,0.015022879466414452,0.7475572824478149,0.23741987347602844
+ecommerce,True BusinessID EV Multi Domain SSL,"True BusinessID EV Multi Domain Secure your main domain and 24 additional DNS Names, It provides 256-bit SSL encryption length, Green Address bar and assure you with $150k warranty and GeoTrust True Site Seal.",0,1,2012-07-18,ECOM,0.02249298430979252,0.9390006065368652,0.038506411015987396
+ecommerce,Increasing trend in demand for Cane Swords,,0,0,2012-07-18,ECOM,0.02001184970140457,0.19383811950683594,0.7861500382423401
+ecommerce,Increasing Glamour of the Real Swords,,0,0,2012-07-18,ECOM,0.01492284145206213,0.6522830128669739,0.3327941596508026
+dropship,"Hi drop shippers, could someone help me find the guide from the drop shipper AMA?",I am trying to launch a drop ship site within the next few weeks and would love to have a read through this. Read the entire thread and thought it was really thought provoking and would be great to see the guide as it has since been removed.,3,6,2012-07-19,ECOM,0.01687469333410263,0.8800813555717468,0.10304396599531174
+ecommerce,"Online customer support module: Don't just chat, CoSurf",,0,3,2012-07-19,ECOM,0.036573778837919235,0.931047260761261,0.03237898647785187
+dropship,PC Hardware/Swag,"Good Morning...
+
+Researching drop-shipping and hoping to start my own online store in the next few months. I'm wondering if anyone knows of any dropshippers for PC hardware/accessories. My focus will be PC Gaming and I'm researching contacts now. Anyone have any suggestions or ideas? I've looked into paying to view some of the directories, but I've heard they can be a scam. Anyone have any experience with those?",10,3,2012-07-19,ECOM,0.03054174967110157,0.9360325932502747,0.03342564404010773
+ecommerce,eCommerce – It’s a business opportunity for everyone,,0,1,2012-07-19,ECOM,0.011832001619040966,0.8312290906906128,0.1569388210773468
+ecommerce,FSS: The gateway to web oriented growth,,0,1,2012-07-19,ECOM,0.013263147324323654,0.8974910974502563,0.08924570679664612
+dropship,"SevenPanda.com offers low price and high quality on computers,tablets,PCs accessories,apple accessories,cell phones,Cars,Video games,electronics,RC toys and more with fast shipping and enthusiastic customer service.SevenPanda definitely is your ideal shopping platform for 3Cs products.",,2,0,2012-07-19,ECOM,0.019122134894132614,0.9166404008865356,0.06423750519752502
+ecommerce,How do you deal with customs when importing products into the US?,"I've found some products on Alibaba that I think I can make a buck on by selling in the US. They will quote me shipping costs and timelines - but it appears I will have to get a broker to help with customs/paperwork and getting the inventory in the country.
+
+I've heard that Fedex/UPS might help with this.. but curious what others use to solve this problem.",4,5,2012-07-20,ECOM,0.025010116398334503,0.9032562971115112,0.07173363864421844
+ecommerce,What Ecommmerce can Learn from Software's New User Onboarding Emails,,0,1,2012-07-20,ECOM,0.017522141337394714,0.8990043997764587,0.08347351104021072
+ecommerce,E-Commerce Solution,,0,1,2012-07-20,ECOM,0.023053564131259918,0.9195431470870972,0.0574033185839653
+ecommerce,All that you need to know about Magento Ecommerce,,0,1,2012-07-20,ECOM,0.022073248401284218,0.9241379499435425,0.05378882959485054
+ecommerce,Award Winning Custom BigCommerce Design,,0,1,2012-07-20,ECOM,0.011927907355129719,0.8079759478569031,0.18009613454341888
+ecommerce,"Agra Website Desiging,Web Design &amp; Developement,SEO Comapny Agra",,0,1,2012-07-20,ECOM,0.027285605669021606,0.9252935647964478,0.047420814633369446
+ecommerce,The Genteel | Digital Newsstands with Virtual Shopping Racks,,0,0,2012-07-20,ECOM,0.025239745154976845,0.9282182455062866,0.04654206335544586
+ecommerce,Manage Your Products Quickly and Easily in OpenCart with Product Manager,,0,0,2012-07-20,ECOM,0.014269503764808178,0.9183714985847473,0.06735898554325104
+ecommerce,What is AspxCommerce?,,1,0,2012-07-20,ECOM,0.03280634433031082,0.9164412021636963,0.05075244978070259
+ecommerce,"Offre spéciale, créer votre projet ecommerce - La Box ecommerce",,0,1,2012-07-21,ECOM,0.024619735777378082,0.8865527510643005,0.08882753551006317
+ecommerce,"Get BOGO bids on Zeekler to win laptops, electronics, cash and much more at up to 95% off.",,0,1,2012-07-21,ECOM,0.03686942532658577,0.889002799987793,0.07412777096033096
+ecommerce,ShoppingDiscoveries.com - Find and share interesting/unique/cool/well-designed products you can buy online.,,0,0,2012-07-21,ECOM,0.026720639318227768,0.9386231899261475,0.03465612977743149
+ecommerce,Conventi Cell | Kios Beli Pulsa Online Murah GSM CDMA All Operator,,1,1,2012-07-22,ECOM,0.022513411939144135,0.9257370829582214,0.05174952372908592
+ecommerce,Reddit Ecommerce Big List of Shopping Carts,"Add the cart, add a link, vote and comment on pro's and con's of each and lets see which is most popular",9,0,2012-07-22,ECOM,0.01995762810111046,0.938035249710083,0.042007118463516235
+ecommerce,German Redditor currently working on his thesis has a question about the bottom price where delivery costs make it unworthy to buy it online,"I am currently writing on my Thesis so I highly appreciate any help in form of a quotable source about that.
+I assume there is a bottom price for common items where customers tend to not buy it online because the percentage of the delivery costs take up too much of the overall costs. I couldn't find anything in german literature about it and neither in the really good english book ""E-Commerce 2012""
+I'd highly appreciate any help in that regard and surely other questions I may have while writing my thesis.",6,6,2012-07-23,ECOM,0.024924593046307564,0.9247788786888123,0.05029652267694473
+dropship,"Manufacturing a novelty item, dropshipping contracts.","This is a repost from last week since I didn't have any luck with responses.  Figured I'd start fresh on Monday, any help is greatly appreciated.
+
+I would like to find a manufacturer to make a novelty item that requires the assembly of two relatively small and simple items (e.g. LED light + key, glue light to key, create lightkey, no this is not the product). I've done some research on alibaba.com and other mfg sites and it appears both items can be manufactured, but I am unsure if I will be able to find a manufacturer who can assemble both with the quality I am looking for. Has anyone been through this process before? Can anyone help me out?
+
+I am also a one-man show (been making item as a hobby on the side) with not much room for a large amount of inventory. My background is in finance, so setting up an LLC and online store should be relatively simple... but I would prefer to arrange a dropship contract with the manufacturer so that the product can ship at point of sale to avoid the whole inventory problem. But most dropshippers have set items that sellers can buy/sell at wholesale prices. Not sure on order amounts yet, but would like quotes on 100, 500, 1000, etc.
+
+Just want to do this right without spending more $ than neccessary/ screwing up big time.",0,2,2012-07-23,ECOM,0.03431585431098938,0.9285298585891724,0.03715428337454796
+ecommerce,Your Prestashop Development Partner,,0,1,2012-07-23,ECOM,0.022894825786352158,0.9372710585594177,0.03983413055539131
+ecommerce,The Basics of Online PR,,0,1,2012-07-23,ECOM,0.02800229750573635,0.9425852298736572,0.02941243350505829
+ecommerce,The charms and the craziness for Medieval Weapons,,0,1,2012-07-23,ECOM,0.0318966843187809,0.921267032623291,0.04683634266257286
+ecommerce,Great ways to approach to the optimization in Prestashop,,0,1,2012-07-23,ECOM,0.02346138469874859,0.9197131395339966,0.05682549998164177
+ecommerce,#1 rated ecommerce solution,,1,0,2012-07-23,ECOM,0.018762128427624702,0.8646918535232544,0.11654607206583023
+ecommerce,Introducing Chunky Deals TV News Channel,,0,1,2012-07-24,ECOM,0.03143434226512909,0.9279041290283203,0.04066147282719612
+ecommerce,Build a Conversion Rate Heatmap by Hour &amp; Day of Week in Google Docs,,0,1,2012-07-24,ECOM,0.029232675209641457,0.930553674697876,0.040213681757450104
+ecommerce,Another Request for Advice (Apparel Site),"I'm in the process of creating a website (including webshop) for men's apparel. 
+
+I noticed that the community here seemed friendly, and even saw comments that said you guys ENJOYED this stuff, so I thought I might pick your brains a bit. 
+
+I need a mobile-friendly shop solution that includes inventory management (item, color AND size), quickbooks integration, and customization. 
+
+Am I looking for too much in a shop? Should I be looking into extensions for each of these features?  I really have no knowledge about this sort of thing and any information would be greatly appreciated!
+
+edit: 
+
+here are some sites i've found that look great and have (i hope) content management. 
+
+* [Quintin Co](http://www.quintinco.com)
+
+* [Trukfit](http://www.trukfit.com)
+
+I've looked into the WooCommerce options, but I don't believe that they have the inventory management features I need. I'm also not sure about their mobile functionality.",0,1,2012-07-24,ECOM,0.014115158468484879,0.8928983807563782,0.09298650175333023
+ecommerce,Quiksilver Rides the eCommerce Wave with Demandware,,0,1,2012-07-24,ECOM,0.031230000779032707,0.8947564959526062,0.07401347905397415
+ecommerce,SEO for eCommerce sites,,0,1,2012-07-24,ECOM,0.020522961392998695,0.9138354063034058,0.06564158946275711
+ecommerce,Prestashop- a best open source platform!,,1,1,2012-07-24,ECOM,0.013258686289191246,0.8895987868309021,0.09714248776435852
+ecommerce,PrestaShop Modules &amp; Addons,,0,1,2012-07-24,ECOM,0.031688883900642395,0.9243462681770325,0.04396482929587364
+ecommerce,E-commerce is social,,3,5,2012-07-25,ECOM,0.020861204713582993,0.9157055020332336,0.06343325227499008
+ecommerce,The Ecommerce Desert,,0,2,2012-07-25,ECOM,0.027380501851439476,0.9071259498596191,0.06549356132745743
+ecommerce,PSD to BigCommerce Template Conversion,,0,1,2012-07-25,ECOM,0.03549550473690033,0.9254281520843506,0.03907637670636177
+ecommerce,Evolve Promos - Travel,,0,1,2012-07-25,ECOM,0.015430612489581108,0.9329180717468262,0.05165134370326996
+ecommerce,ATAKinteractive.com is offering free hosting($280 Value) for all new web design projects with basic CMS or Ecommerce http://on.fb.me/MFIIEO,,1,0,2012-07-25,ECOM,0.010741683654487133,0.8556318879127502,0.13362650573253632
+ecommerce,ISSIMO HOME Tüm Ürünleri ile artýk www.evimalisveris.com 'da. : Evimalisveris.com,,0,0,2012-07-25,ECOM,0.03612682223320007,0.9222910404205322,0.04158211499452591
+ecommerce,Buy Solar Panels Online,,0,2,2012-07-27,ECOM,0.019771883264183998,0.9352474808692932,0.04498058557510376
+ecommerce,"Magento Development, Magento Developers, Magento Ecommerce",,0,1,2012-07-27,ECOM,0.020351633429527283,0.9253683090209961,0.054280105978250504
+ecommerce,Charismatic charm as a dream Movie Swords,,0,1,2012-07-27,ECOM,0.02385258488357067,0.8479172587394714,0.12823013961315155
+ecommerce,The fascination for Movie Swords,,0,1,2012-07-27,ECOM,0.039352089166641235,0.9214117527008057,0.03923622891306877
+ecommerce,Introduction To Pinterest For eCommerce,,0,1,2012-07-27,ECOM,0.03508492559194565,0.9203406572341919,0.04457440599799156
+ecommerce,Discount Office Supplies,,1,1,2012-07-27,ECOM,0.05467759072780609,0.9195448756217957,0.025777537375688553
+dropship,Need help with Shipping Fees,Any tips on how to set up shipping fees? I want to ship internationally. Is there a formula to calculate the shipping fee according to country and weight?,0,2,2012-07-28,ECOM,0.03015945479273796,0.9414593577384949,0.02838120050728321
+ecommerce,Can anyone recommend a good Web-based shopping cart?,"I just want the cart portion for my existing site ([mellowmonk.com](http://www.mellowmonk.com/)). 
+
+I tried 3dCart for about 1 day -- they want to rope you into their all-in-one services and don't make it obvious how to integrate their cart functionality with an existing site (if it's possible at all). Volusion seems the same.
+
+OpenCart and ZenCart are out as I'd rather have a Web-based cart. (I currently use Mal's eCommerce.)
+
+Some carts are slick looking and easy to use but don't have advanced functionality, such as free shipping for domestic (U.S.) orders only.
+
+I'd appreciate hearing your advice on this. Thanks!",0,1,2012-07-28,ECOM,0.01533168088644743,0.9123979806900024,0.07227029651403427
+ecommerce,Turn Your Visitors Into Customers with Latest Trends of eCommerce,,0,1,2012-07-28,ECOM,0.02091623842716217,0.9120276570320129,0.06705605983734131
+ecommerce,Win Back Shopping Cart Abandoners (And Build Repeat Business),,0,0,2012-07-28,ECOM,0.02866370975971222,0.8049220442771912,0.16641420125961304
+ecommerce,10 Tips To Using The Internet Safely,,0,1,2012-07-29,ECOM,0.020258991047739983,0.9325103759765625,0.047230593860149384
+ecommerce,The Best Russian eCommerce Software now in English! You'll love it!,,0,1,2012-07-30,ECOM,0.024107571691274643,0.8298043012619019,0.1460881382226944
+ecommerce,Why there is no loyalty with shopping aggregators,,0,1,2012-07-30,ECOM,0.013683037832379341,0.8632813096046448,0.12303566932678223
+ecommerce,An Introduction To Designing For eCommerce,,0,1,2012-07-30,ECOM,0.022712377831339836,0.927160918712616,0.05012674257159233
+ecommerce,Would a e-commerce site with no prices listed put you off? or would you consider phoning the company?,"I run an e-commerce site that has always done extremely well by not listing the RRP of our products, essentially trying to get a potential customer to phone us  so we can actually talk to them, negotiate, close the sale etc.
+
+Recently though out competition has increases massively, and business is down. 
+
+They all list the same product with prices, do you think that the business model on the site I run is now outdated? or do you think any serious enquiry would make the effort to contact us by email or phone?",0,1,2012-07-30,ECOM,0.015425863675773144,0.879594624042511,0.10497943311929703
+ecommerce,Some Do’s of  Ecommerce Website Design,,0,1,2012-07-30,ECOM,0.02838486060500145,0.9348440170288086,0.03677110746502876

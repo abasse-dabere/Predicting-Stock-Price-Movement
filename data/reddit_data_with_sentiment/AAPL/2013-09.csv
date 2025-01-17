@@ -1,0 +1,839 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,Phishing attempt on Apple ID,"**Just posting this as a warning in case anyone else has received similar. If you have, then beware - it's not genuine**
+
+Anyway, I've just received an email claiming to be from Apple and stating :-
+
+*""This is an automatic message sent by our security system to let you know that you have 48 hours to confirm your account information.*
+
+*Your itunes account has been frozen because we are unable to validate your account information.""*
+
+It's trying to send me to a site called applestoreverfied.com to type in my apple id and password, which looks like a valid Apple page, but was registered yesterday by someone who is quite clearly not Apple ([whois record](http://whois.domaintools.com/applestoreverfied.com) if anyone's interested).
+
+I use multiple email addresses to allow me to track where these kinds of phishing attacks come from and this one is from an email I've only ever used at a company called Shinyshack.",56,533,2013-09-01,AAPL,0.05119631066918373,0.9233911633491516,0.025412552058696747
+iphone,Discussion: iPhone 5S Fingerprint Recognition,"For people who don't know this yet but last year Apple bought the company AuthenTec who manufacture fingerprint technology.
+
+[Article on the topic](http://www.iol.co.za/scitech/technology/hardware/buzz-over-iphone-fingerprint-reader-1.1568117#.UiMFyhkayc0)
+
+The rumours are that the next generation iPhones will have a fingerprint scanner.
+
+What are people's thoughts on this?
+
+Will it work well or be a problem?
+
+What else could it offer for further developments and how could it be implemented with applications?",154,110,2013-09-01,AAPL,0.014447709545493126,0.9087878465652466,0.07676443457603455
+ipad,"For everyone asking or about to ask if they should buy an iPad or an iPad mini now, Mac Buyer's Guide provides a knowledgable suggestions",,43,108,2013-09-01,AAPL,0.021373940631747246,0.9265301823616028,0.05209587886929512
+apple,"How Apple Does Sentimental Consumerism: In marketing and branding materials, the computer giant promises to strengthen your relationship with loved ones.",,30,87,2013-09-01,AAPL,0.017854858189821243,0.8268653154373169,0.15527988970279694
+apple,This Is How Apple's New iPhone Trade-In Program Works | Gadget Lab,,41,81,2013-09-01,AAPL,0.02549266815185547,0.9184391498565674,0.05606817454099655
+ipad,3D Printed iPad Stand (more pics in comments),,21,71,2013-09-01,AAPL,0.016185037791728973,0.9273903369903564,0.05642463266849518
+iphone,"For jailbroken devices, GlyphPatch in Cydia prevents apps from crashing when rendering that infamous string of Arabic characters",,22,67,2013-09-01,AAPL,0.3794582486152649,0.6012856960296631,0.019256027415394783
+apple,Apple is positioning itself well to gain ground on Samsung in China.,,8,67,2013-09-01,AAPL,0.02713589370250702,0.05552982538938522,0.917334258556366
+iphone,"[IPhone4] Need help fixing a memory issue...I have been having issues with storage space on my phone and when I tried to sync it tonight it showed that I had 8.8GB of ""Other"" (see picture). Does anyone know what ""other"" means and/or how I can delete it, or at least some of it? Thank you in advance.",,32,53,2013-09-01,AAPL,0.02229652926325798,0.8695083856582642,0.10819511115550995
+apple,VMware Fusion 6 link released early,,12,44,2013-09-01,AAPL,0.022694826126098633,0.9340808391571045,0.043224360793828964
+apple,"John Gruber: ""It seems far more likely that Nintendo can produce amazing games for iOS than that they can produce technically competitive handheld hardware.""",,369,425,2013-09-02,AAPL,0.008862069807946682,0.1532973200082779,0.8378405570983887
+apple,iPod History,,65,332,2013-09-02,AAPL,0.03611860051751137,0.9332327246665955,0.030648689717054367
+apple,"Packaged iPhone 5C Surfaces Again in Multiple Colors, Video Shows Powered-On Unit",,125,270,2013-09-02,AAPL,0.014880414120852947,0.9214218854904175,0.06369777768850327
+iphone,iPhone 5C Manuals Leaked,,128,219,2013-09-02,AAPL,0.019580744206905365,0.9173542857170105,0.06306494772434235
+apple,Assembling the LEGO Apple //c (with video),,5,166,2013-09-02,AAPL,0.022174479439854622,0.8957071900367737,0.08211831748485565
+iphone,"Every once in a while, several copies of this picture appear in my camera roll, and I have to delete them all. Can someone tell me how to make it stop?",,60,163,2013-09-02,AAPL,0.05130060017108917,0.9135286211967468,0.035170845687389374
+apple,TIL Holding shift and clicking on a link in safari it send the article to reading list.,,9,116,2013-09-02,AAPL,0.05001957714557648,0.9292503595352173,0.020730022341012955
+apple,Expect the September iPhone event invite to be sent tomorrow,,14,71,2013-09-02,AAPL,0.027133483439683914,0.9482430219650269,0.024623539298772812
+apple,Apple's new trade-in program offers less than Gazelle.,,27,57,2013-09-02,AAPL,0.0364835299551487,0.9085501432418823,0.05496636778116226
+mac,Top 5 Mac Utility Apps (2013),,22,56,2013-09-02,AAPL,0.013942326419055462,0.8338625431060791,0.15219514071941376
+apple,Apple iPhone event on September 10th is official,,366,1191,2013-09-03,AAPL,0.04950961843132973,0.9272520542144775,0.02323834039270878
+apple,What if the iPhone 5c is sold with no contract and replaces the iPod Touch?,"In the most recent 5c photos/videos post, everyone is like ""the packaging is like my iPod Touch.""
+ 
+What if they kill off the touch and sell the 5c at a price point similar to the touch... but with no contract (so it can be used as an iPod and then prepaid for a month to a phone)? 
+ 
+They tend to cannibalize their own products occasionally and they famously replaced the iPod mini with the nano... Wouldn't this be sort of a revolutionary product? An iPod that can be your phone when you need it? If they can sell it for 250, do you think it would be big?",224,527,2013-09-03,AAPL,0.04056784510612488,0.9131481647491455,0.04628399759531021
+iphone,Apple iPhone event on September 10th is official,,144,500,2013-09-03,AAPL,0.04950961843132973,0.9272520542144775,0.02323834039270878
+apple,Apple releases OS X Mavericks Developer Preview 7,,54,102,2013-09-03,AAPL,0.02867160364985466,0.9439969658851624,0.027331454679369926
+apple,iPhone 5 Wallpaper using the new announcement art.,Here's the [link](http://imgur.com/TPiroWP),27,90,2013-09-03,AAPL,0.020416738465428352,0.9398751854896545,0.03970802202820778
+apple,Apple Patents iOS Unlocking Methods That Determine Level Of User Access To Device Features And Software,,12,65,2013-09-03,AAPL,0.019945258274674416,0.9426400065422058,0.03741474077105522
+ipad,Ipad stolen. Recipient of stolen ipad posting to my facebook profile,"My ipad was stolen from my house a few weeks back. Find iPhone has always said the device was offline. On Sunday night someone posted some pictures to my facebook profile inadvertently. There was no EXIF location data that I could find on the photos. Facebook sent me an email that stated my account had been accessed from an unregistered device and included an IP address. Did an IP address location search and the address it turned up does not belong to the person in the photos. 
+
+Any ideas?",46,56,2013-09-03,AAPL,0.2489568144083023,0.7314732670783997,0.019569871947169304
+apple,"New photo claims to show iPhone 5S home button part, possibly pointing to fingerprint sensor",,28,52,2013-09-03,AAPL,0.07787550240755081,0.8809925317764282,0.04113195464015007
+mac,"TIL if you right click the title of a webpage on Safari, you can see the URL path",,5,46,2013-09-03,AAPL,0.0353226400911808,0.931993842124939,0.03268350288271904
+iphone,"This is how all my photos are appearing, blurry. Any ideas? Never dropped my phone in water.",,27,41,2013-09-03,AAPL,0.042994484305381775,0.9123137593269348,0.04469180479645729
+apple,"SNES Emulator For iPhone And iPad Sneaks Into The App Store, Download Now Before It’s Pulled",,289,465,2013-09-04,AAPL,0.017496082931756973,0.9229931235313416,0.05951077863574028
+apple,"Video shows alleged new iPad with smaller frame, same screen size",,83,236,2013-09-04,AAPL,0.020090974867343903,0.8934429287910461,0.08646605908870697
+apple,DO NOT update Google Authenticator unless you have backed up/ have access to all your accounts!!!!,It might be exciting with the iPhone 5 support and Retina Display and new icon but you will lose access to your accounts. Google does not say this in the change log and restoring an old version does not help either.,63,229,2013-09-04,AAPL,0.11368752270936966,0.847873330116272,0.038439154624938965
+apple,All the new wallpapers from Mavericks DP7 (since I'm sure it will be requested).,,25,190,2013-09-04,AAPL,0.03333991393446922,0.9260345697402954,0.04062550142407417
+iphone,Warning: Google Authenticator upgrade loses all accounts,,70,185,2013-09-04,AAPL,0.8232688903808594,0.15462401509284973,0.022106975317001343
+apple,Apple ups focus on China with separate iPhone media event in Beijing on September 11 - smart move by Cook.,,34,140,2013-09-04,AAPL,0.02134048379957676,0.9330852627754211,0.04557425528764725
+iphone,Google confirms it’s working on an update to fix Google Authenticator for iOS data losses - The Next Web,,13,133,2013-09-04,AAPL,0.05621093884110451,0.9193823337554932,0.02440672181546688
+iphone,SNES app in the AppStore. Get it before it's pulled,,83,131,2013-09-04,AAPL,0.031662408262491226,0.9067879915237427,0.06154961138963699
+iphone,Looks like lots of other people know about the SNES emulator.,,27,90,2013-09-04,AAPL,0.02713790535926819,0.921348512172699,0.05151356756687164
+ipad,"SNES App, found over at r/iphone, bringing here for more love before its gone.",,55,68,2013-09-04,AAPL,0.019782332703471184,0.8383737206459045,0.14184394478797913
+apple,This Apple Advert. is still accurate 34 years later. (and the phone number still works),,74,578,2013-09-05,AAPL,0.03602804243564606,0.9166789650917053,0.04729295149445534
+iphone,iPhone doesn't take a charge unless I do this.,,143,426,2013-09-05,AAPL,0.031924862414598465,0.9443185925483704,0.023756472393870354
+apple,Op-ed: Why the days are numbered for the legacy iPod,,199,286,2013-09-05,AAPL,0.09394621849060059,0.8406965732574463,0.0653572604060173
+apple,Discrete graphics cards in 2011 Macbook Pros are failing left and right,,153,270,2013-09-05,AAPL,0.027705425396561623,0.9258348345756531,0.046459782868623734
+apple,A7X-powered retina iPad mini &amp; iPad 5 to come before Christmas.,,40,163,2013-09-05,AAPL,0.021209316328167915,0.902691662311554,0.07609903067350388
+apple,Apple Tests iPhone Screens as Large as Six Inches,,118,131,2013-09-05,AAPL,0.023605970665812492,0.8171305060386658,0.159263476729393
+apple,What is one thing that annoys you the most about Apple products?,,651,113,2013-09-05,AAPL,0.025160720571875572,0.9336327314376831,0.04120649769902229
+iphone,What happens to devs who sneak features in an app?,Like the SNES app yesterday that hit #1? Does he get to keep all the money he made? I assume he gets thrown out of the dev program? Anyone know? Just curious.,76,111,2013-09-05,AAPL,0.022923124954104424,0.9158018231391907,0.06127503514289856
+iphone,"I developed an iPhone game about rocket science. SimpleRockets ""launches"" today.",,22,74,2013-09-05,AAPL,0.013531109318137169,0.9015179872512817,0.08495084941387177
+mac,Anyone know what these are?,,22,69,2013-09-05,AAPL,0.07217106968164444,0.8967095017433167,0.03111943230032921
+iphone,This really made my flight,,108,1117,2013-09-06,AAPL,0.026540981605648994,0.8816037774085999,0.0918552502989769
+apple,Apple’s OS X Mavericks release is planned for the end of October.,,217,593,2013-09-06,AAPL,0.08004307746887207,0.9008113145828247,0.019145643338561058
+apple,"Really? Apparently, campers are already lining up at the 5th Ave Apple Store two weeks before an iPhone launch which isn't even confirmed.",,99,420,2013-09-06,AAPL,0.03439822047948837,0.913199245929718,0.05240253731608391
+apple,How the NSA snoop-proofs its Macs.,,29,130,2013-09-06,AAPL,0.030315276235342026,0.9244235754013062,0.04526111111044884
+mac,14 Mac Hacks That Will Change The Way You Use Your Computer,,45,110,2013-09-06,AAPL,0.027649374678730965,0.9131950736045837,0.059155598282814026
+iphone,My appstore has been broken for a month,,18,80,2013-09-06,AAPL,0.7527394890785217,0.21406660974025726,0.03319385647773743
+apple,Apple may differentiate 'iPhone 5S' fingerprint scanning home button with silver ring,,33,59,2013-09-06,AAPL,0.01807568594813347,0.9210585355758667,0.06086575612425804
+apple,"New Apple TV software likely coming next week, but don’t expect fresh hardware (yet)",,28,49,2013-09-06,AAPL,0.012783023528754711,0.7692589163780212,0.2179580181837082
+ipad,"Calendars+ is free for a limited time. If you use Google Calendar, get this to use instead of the stock app.",,20,49,2013-09-06,AAPL,0.02672981284558773,0.9466018676757812,0.026668239384889603
+iphone,Is there a way to delete all of my music on my iphone 5 quickly.,I had to restore from a backup and every single song comes back with an error now. This makes for a good time to re organize the music i put on my phone and eliminate some stuff but the only way i can figure to delete them is go through one artist at a time. Any thoughts?,22,47,2013-09-06,AAPL,0.027847127988934517,0.9182975888252258,0.053855348378419876
+apple,"Gruber strikes back: ""Put an iPad Mini and a 3DS on a table next to each other, and most kids today will reach, if not jump, for the iPad. If you don’t see that as an existential threat for Nintendo, there’s nothing I can say that will change your mind.""",,717,982,2013-09-07,AAPL,0.09195567667484283,0.8834164142608643,0.02462785318493843
+apple,"Tip: Few people I know use the ctrl+a, ctrl+e, ctrl+d shortcuts in OS X. They're wonderful.","Hi,
+
+I've noticed for some time that few people I know use the Emacs-inspired family of shortcuts. Most people know *Command+a* but few people I interact with know about ctrl+a.
+
+For example while typing this message, if I don't like this line, I can quickly type ctrl+a to reach the beginning and then ctrl+k to kill the line, *without* deleting the text I had written above. 
+
+It gets even nicer if you change Caps lock to be Control in your Keyboard preferences.  Then your fingers don't have to stray far from home row to, say, delete some characters (ctrl+d) or to move to the end of the line (ctrl+e)
+
+
+Anyhoo, thought I would mention this.",88,615,2013-09-07,AAPL,0.04244745150208473,0.9281012415885925,0.02945123240351677
+iphone,App Store web previews now have iOS 7-shaped icons,,47,201,2013-09-07,AAPL,0.03403171896934509,0.9268185496330261,0.03914971649646759
+apple,"Apple's iMovie, Pages, Keynote apps are 'optimized for iPhone 6'",,47,188,2013-09-07,AAPL,0.022888479754328728,0.9222922921180725,0.05481922999024391
+apple,"Google Authenticator has finally been updated for iPhone 5, fixes recent upgrade issues.",,46,128,2013-09-07,AAPL,0.02219446562230587,0.8140051364898682,0.1638004183769226
+iphone,BBM submitted to Apple App Store for approval.,,36,104,2013-09-07,AAPL,0.019041189923882484,0.9336488246917725,0.047309987246990204
+apple,Design @ Apple: A 6 part series.,,3,62,2013-09-07,AAPL,0.020408250391483307,0.9301568269729614,0.04943494126200676
+iphone,A quick mockup I did with all these rumors of a redesigned home button on the iPhone 5S,,12,55,2013-09-07,AAPL,0.018119506537914276,0.8467759490013123,0.13510455191135406
+apple,"If the iPhone does get bigger next year, what size and resolution would make sense and make the change easier for developers?",I would assume they would like to keep the same aspect ratio as well.,67,42,2013-09-07,AAPL,0.01290531363338232,0.7847433090209961,0.20235134661197662
+iphone,Glad the devs have fun with their work,,2,40,2013-09-07,AAPL,0.028572209179401398,0.8359844088554382,0.1354433298110962
+iphone,iPhone 5S ringed home button shown off in concept renderings,,133,436,2013-09-08,AAPL,0.020103298127651215,0.8946030735969543,0.08529367297887802
+iphone,iPhone 5S rumor round-up INFOGRAPHIC,,225,405,2013-09-08,AAPL,0.03782334178686142,0.9202502965927124,0.041926365345716476
+apple,Do you think Apple will put a fingerprint scanner in upcoming iPads?,"With it pretty much confirmed that Apple is going to implement a fingerprint scanner in the iPhone 5S, is it likely that they will do the same with the iPads? I mean with people starting to replace laptops with iPads, I think that the added security would be warmly welcomed to the device. What do you guys think?",186,163,2013-09-08,AAPL,0.015929140150547028,0.7063980102539062,0.27767279744148254
+apple,Weekly APPreciation Thread! Tell us about your favourite apps! [8-Sep-2013],"Hello everyone. Welcome to the weekly App Appreciation thread.
+
+This is where you can tell the fine folk at /r/apple about your favourite new app.
+
+[Last week's post](http://www.reddit.com/r/apple/comments/1l1yyf/weekly_app_appreciation_thread_tell_us_about_your/) was another success, with hundreds of comments, votes, and links to great apps.
+
+***
+
+### Last Week's Top 5 (by votes)
+
+- **OpenEmu** - Best multi emulator for Mac [SNES, Sega Master System, Game Gear, Nintendo DS, NES,Game Boy, Sega Genesis/Mega Drive, Atary Lynx, Neo Geo Pocket, Sega 32X, Game Boy Advance]. Plenty more details in the [submitter's comment](http://www.reddit.com/r/apple/comments/1l1yyf/weekly_app_appreciation_thread_tell_us_about_your/cbv1myy).
+  - [OS X - Free](https://github.com/OpenEmu/OpenEmu).
+
+- **LouLou** - A simple dateplanner / poll maker for WhatsApp. [Made by a contributor](http://www.reddit.com/r/apple/comments/1l1yyf/weekly_app_appreciation_thread_tell_us_about_your/cbuyqgo) to this sub.
+ - [iPhone - Free](https://itunes.apple.com/be/app/loulou-date-planner-poll-maker/id668022577?mt=8)
+
+- **1Password** -  A full-featured password and identity manager.
+  - [OS X &amp;amp; iOS - ($50 for OS X, $8 on sale for iOS)](https://agilebits.com/onepassword)
+
+- **My Pain Diary** - Can be used to track any chronic health condition. [Made by a contributor](http://www.reddit.com/r/apple/comments/1l1yyf/weekly_app_appreciation_thread_tell_us_about_your/cbv1sck) to this sub.
+ - [iPhone - $4.99](https://itunes.apple.com/us/app/my-pain-diary/id338627856?mt=8&amp;wv=2)
+
+- **ReadQuick** - Speed reader for iOS. Helps you read very quickly by flashing the words in an article one by one.
+ - [iOS - $4.99](https://itunes.apple.com/us/app/read-quick/id515138359?mt=8)
+
+***
+
+
+### Guidelines
+- Try to feature apps that people may not have heard of.
+
+- One app per comment. Make your comment top-level for increased visibility.
+
+- Any Apple-made platform. iOS and OS X are both game.
+- Include relevant info: Price, platform, app store links...
+- Mention what the app does in a sentence or two, and perhaps how you use it.
+- Vote as much as possible. If you're downvoting, it would be great to include a reply stating why.
+- Don't mention Native/built-in apps (Reminders, Mail, etc), because everyone knows about them.",76,99,2013-09-08,AAPL,0.027816742658615112,0.9306843280792236,0.041498858481645584
+mac,TIL Spotlight intelligently detects acronyms (e.g. bbds = BlackBerry Desktop Software),,21,97,2013-09-08,AAPL,0.024151001125574112,0.928326427936554,0.047522611916065216
+apple,"With the upcoming alleged fingerprint scanner replacing the home button, how do you guys think cases like the water-proof Armour Otter Boxes will work with this?",I know we will figure it out within a few days but its still fun to speculate :),66,80,2013-09-08,AAPL,0.028014136478304863,0.9063085317611694,0.06567732989788055
+apple,Press CMD+Shift+K in Messages to manually mark the time.,You can also do **Edit&gt;Mark Transcript**,8,55,2013-09-08,AAPL,0.033382296562194824,0.9370179176330566,0.029599785804748535
+apple,"I'll take a lightning cable over this grotesquerie, thanks.",,102,53,2013-09-08,AAPL,0.025428827852010727,0.9158918857574463,0.05867929756641388
+apple,"Microsoft and Apple began their journeys together. However, a little farther down the road, they tried slamming Apple off the road entirely, and they very nearly succeeded.",,156,52,2013-09-08,AAPL,0.03815333917737007,0.8785995244979858,0.08324714004993439
+apple,Have any of you used the Apple Recycling program - how did it work out?,"As the title says, I'm curious about using the Apple Recycling program, and wanted to know if any of you used it, and how it worked out? I want to hand in my 17"" Macbook Pro and it's about 4 years old. 
+
+Sorry if this has been answered already, or is in the sidebar (on my phone).",18,51,2013-09-08,AAPL,0.03513851389288902,0.9159834980964661,0.04887798801064491
+apple,"Right In Time For iOS 7, iOS 6.1.4 Has Been Jailbroken",,180,599,2013-09-09,AAPL,0.18310920894145966,0.7832608819007874,0.03362996131181717
+apple,"Redditors, what are your ideas for future Apple iOS updates?",I think an addition of a Facetime voicemail would be an awesome idea. What are your ideas for improvements on Apple's future iOS updates?,641,575,2013-09-09,AAPL,0.03130649775266647,0.9407211542129517,0.027972351759672165
+iphone,"I'm really enjoying my lockscreen right now, thought I'd share.",,29,388,2013-09-09,AAPL,0.027204537764191628,0.9051089882850647,0.06768646091222763
+apple,John Sculley Just Gave His Most Detailed Account Ever Of How Steve Jobs Got Fired From Apple,,59,244,2013-09-09,AAPL,0.515593409538269,0.4633055627346039,0.021101033315062523
+apple,"Second biggest digital music collection, Xbox Music, coming to iOS with free streaming, app out today",,83,169,2013-09-09,AAPL,0.011046084575355053,0.8610382080078125,0.1279156506061554
+apple,My Predictions for Tomorrow's Event,"**New iPhone Lineup:**
+
+* **iPhone 5C** – 16GB Capacity, multiple colors, free on contract or $450 unlocked. A6 processor, iPhone 4S camera, HD 1.2 front-facing camera, TD-LTE compatible chipset.
+* **iPhone 5** – 16GB Capacity Only, white or black – same as today’s iPhone 5 - $99 on contract, $550 unlocked
+* **iPhone 5S** – Starting from 32GB Capacity. A7 processor, improved camera (both improvements are fairly incremental), new Gold color option, and fingerprint sensor home button. $199 on contract, $650 unlocked
+* Available for Pre-Order 9/13, on sale 9/20
+
+**Fingerprint sensor:**
+
+* Primarily to authorize 1-click iTunes purchases – no more worrying about your kid finding the password, while simultaneously making your own purchases completely frictionless.  Like that song you hear playing on itunes radio? Tap to buy, click to confirm, you’re done.  
+* Also ties in with iCloud Keychain.  Authorizes access to your personal information for Auto-Fill on websites,  make purchases in apps that have saved your CC info, etc.  With the Apple Fingerprint Sensor, you never have to type a password or your personal information in twice, ever again.  
+
+**Game controllers:**
+
+* On-Stage demos of a handful of some core and some casual games highlighting a few hardware partners who have controller accessories ready to go – some are dedicated controllers, some are controller cases, potentially some ‘hybrid’ controllers that are standalone but can snap apart and snap to the side of an iPad turning an iPad into a Wii-U GamePad (I’m expecting these won’t show up until the iPad event)
+* Apple TV update to do something to facilitate gaming there. Not necessarily it’s own app store, at this time games might only run via AirPlay streaming or something, but there will be *something* about gaming on the Apple TV even if it’s just AirPlay from an iPhone or iPad w/ a controller. 
+* Actually the Apple TV demo will probably be showing off how the controller API's support up to 4 controllers, and they will do a split-screen demo with four people playing on an AppleTV maybe.
+* Pricing and availability of controllers, which will go on sale the same day as iOS 7 is released
+
+**AppleTV software update:**
+
+* I don’t *think* there will be new hardware but you never know. Instead I expect a pretty significant software update that ties in with iCloud Keychain and allows you to take any authorized iOS device and authorize an Apple TV just by ‘tapping’ them together.  Meaning if you want to watch HBO GO on your Apple TV after bringing it home, and you’ve already authorized the app on your iPhone, you can just tap your iPhone to the Apple TV, and you can watch HBO GO.  It will probably be a single process at initial setup of the Apple TV that transfers all your credentials at once.  It will be a *really* cool feature.
+* May also announce additional TV content channels coming this fall including CW and possibly NFL
+
+**iOS 7**
+
+* Releases on 9/18 for iPhone, not iPad, 2 days before the new iPhones go on sale. 
+* Major new feature: iBeacons, BTLE API stack that allow developers to create amazing ways for your phone to interact with other phones and the real world. Watch for the tear-jerking video next WWDC of the blind guy whose life was changed by iBeacons, TILE, and amazing apps being developed today. 
+* Not available for iPad quite yet – not sure how universal binary updates are going to work for apps that require iOS 7, could be a bit messy. 
+
+
+What do you guys think?  Anything I’m missing?  Am I crazy?  Another good read: http://stratechery.com/2013/thinking-about-iphone-pricing/",270,103,2013-09-09,AAPL,0.028027458116412163,0.9281091690063477,0.04386335238814354
+ipad,"Opera releases Coast, the browser that perfectly match with iPad's usability. No interface to worry about - just touch and browse.",,35,100,2013-09-09,AAPL,0.020281298086047173,0.9089105129241943,0.07080816477537155
+apple,iCloud Clipboard,"Just an idea I had: what if Apple made the clipboard sync with iCloud. Just copy a string of text and your Mac, and when you hit paste on your iPhone, there is the text.
+
+ Obviously they will be opening up airdrop across Mac and iOS, but for a lot things I bet an iCloud clipboard would be faster and more applicable.
+
+What do you guys think? I don't think apple would do this but it's a feature I'd like to have.",56,77,2013-09-09,AAPL,0.0368383452296257,0.9293532371520996,0.03380841761827469
+apple,Colorful banners go up at Apple Town Hall ahead of tomorrow’s iPhone event,,7,75,2013-09-09,AAPL,0.018717743456363678,0.9209792613983154,0.06030295789241791
+iphone,Always a great way to discover new apps / layouts. Show us your home screen!,,175,64,2013-09-09,AAPL,0.01317502185702324,0.8978211879730225,0.08900385349988937
+apple,Apple Special Event - Live Updates!,,2040,1810,2013-09-10,AAPL,0.033867329359054565,0.9400977492332458,0.02603486180305481
+apple,"Dude, Your Phone's Ringing",,49,865,2013-09-10,AAPL,0.0902552679181099,0.8792818188667297,0.03046293370425701
+iphone,iPhone 5S STILL starts at 16GB for $199 (w/ contract). This is ridiculous.,"This 16GB starting point hasn't changed since the iPhone 4 and it's increasingly unusable as these storage-heavy features and apps continue to come out.  
+
+This is freakin' ridiculous.  With storage so cheap, it's more than that; it's an insult.
+
+Am I a lone crazy-person for having this reaction, or does anyone else agree?
+
+**Edit the first**: Additional note, starting with 16GB seems to undercut the flagship 'premium' concept of the phone.  
+
+**Edit 2**: I've taken a couple of repeated questions and answered them here to help save time.  
+
+A common recurring question is variants of  ""What could take up so much space that you'd need more than 16GB on your phone?  640K ought to be enough for anybody as evidenced by my 8GB iPhone 3GS and the fact that I've never run out of space!""  Ok, that's just a little snarky, but it's not entirely double plus unaccurate as you'll find if you read the thread.  No, I don't store much music on my phone and I make use of cloud services, but if I'm on a vacation with my family and want to take videos the 16GB is very limiting.  On the iPhone 5, I believe the rough figure for video is just under 200 megabytes per minute.  It's reasonable to expect that the new camera may record at a higher bitrate, but even if it doesn't, that's quite a chomp.  
+
+Also, as a simple cave man trying to understand this complicated world, I struggle to understand how things like these magical devices work.  Is there a little man inside the phone who draws the images on the screen?  Well, according to some people in the thread, this basic lack of understanding (and financial panthering, for that matter, because I must also be destitute) is clearly the only reason I think this is a problem.  Well, I appreciate your candor, folks.  I'm actually an iPhone developer [who writes software for helping accidental time travelers](http://timetravelreference.com/) out so I'm a little unusual already but I do actually understand the technical challenges.  Also, while I professionally develop software elsewhere too, I can understand that having a different opinion on an iPhone design decision from some of the people here could reasonably be seen as evidence that I'm an idiot but that'll just have to be my problem, I guess.  
+
+I hope this thread continues to spark spirited and worthwhile discussion.",829,771,2013-09-10,AAPL,0.0322578065097332,0.9257206320762634,0.04202163591980934
+iphone,Here We Go!,,90,612,2013-09-10,AAPL,0.042995575815439224,0.9036115407943726,0.053392913192510605
+apple,"Apple Live Event - September 10th, 2013 - live blog &amp; streaming links","**EDIT 9/10/13** - [PLEASE CLICK HERE FOR THE POST!](http://www.reddit.com/r/apple/comments/1m3r0t/apple_special_event_live_updates/)
+
+I will have a new post going (check back here for link) with live updates here on /r/apple. I keep the live updates nice, clean &amp; straight to the point. Only including the important information that you would want to know. All you will need to do is keep refreshing the post to see the updates on the post (yes, I'll have refresh buttons inside the post!). This is providing I am done with college... I should be out by 12:30pm EST, so I'll probably just stay at my campus and do the live post from there before I go home.
+
+Be sure to check back tomorrow for the post. Everything will be organized nicely and easy to understand.
+
+________________
+
+**live streaming** (event begins at 10am PT/1pm EST.) [click here](http://wheniskeynote.com) for countdown.
+
+There is no confirmed live streams yet. Here are some possibilites for streaming. Official streaming links (if any are found, will be posted in the live updates tomorrow)
+
+Apple - http://apple.com (unconfirmed*)
+
+YouNow (formally blogTV) &amp; Ustream - event attendees will usually get a live stream going, providing they don't get caught. If you can't stream directly from Apple, check out these websites. When I get the live update post going tomorrow, I'll have links to the live streams including links to working live streams on YouNow and Ustream.
+
+I have a list ready to go on the actual post for possible live streams. Will confirm working ones.
+_______________________
+
+**live blog**
+
+
+Apple Insider - http://live.appleinsider.com/#AllEvents
+
+CNET - http://live.cnet.com/Event/CNETs_Apple_Sept_10_event_live_blog
+
+Engadget - http://www.engadget.com/2013/09/10/apple-iphone-liveblog-2013/
+
+Gizmodo - http://live.gizmodo.com/
+
+Macworld - http://live.macworld.com/2013/09/iPhoneEvent/index.php
+
+The Verge - http://live.theverge.com/apple-iphone-5s-liveblog/
+
+*If you have any suggestions for good websites that will have live streaming or a live blog, feel free to leave a comment and I'll add it to the list if they're reputable.*",234,453,2013-09-10,AAPL,0.04399222880601883,0.9231358170509338,0.03287198022007942
+apple,iOS 7 will be released on September 18th,,196,382,2013-09-10,AAPL,0.048656050115823746,0.9290570020675659,0.022286992520093918
+iphone,Video: Iphone 5s hands on with finger print scanner,,173,381,2013-09-10,AAPL,0.04048512503504753,0.9223260283470154,0.03718879446387291
+iphone,Can't wait til tomorrow!!,,134,379,2013-09-10,AAPL,0.06616852432489395,0.8924325704574585,0.041398968547582626
+apple,Apple's new iPhone(s) Reaction Thread,"What are your thoughts on everything that just happened? Seemed that the rumors were spot on this year, at least. 
+
+[List of everything big that came out of today's event](http://i.imgur.com/aW42I1Z.png) credit to [theverge](http://live.theverge.com/apple-iphone-5s-liveblog/).
+
+I was personally surprised by the new M7 chip. But I like that Apple is taking that step as well.",1949,347,2013-09-10,AAPL,0.018691614270210266,0.8129638433456421,0.16834449768066406
+iphone,"Well, I guess we'll have to deal with it (iOS 7 GM)",,50,293,2013-09-10,AAPL,0.03269338980317116,0.9109326004981995,0.05637405067682266
+iphone,Go Go iPhone Rangers,,59,1737,2013-09-11,AAPL,0.018106689676642418,0.9274294972419739,0.05446387454867363
+apple,"Gruber: ""I got this one wrong…The iPhone 5C has nothing to do with price.""",,366,707,2013-09-11,AAPL,0.0919938012957573,0.8802647590637207,0.027741415426135063
+apple,Set up a new Mac on your birthday for a cupcake!,,24,512,2013-09-11,AAPL,0.01981191523373127,0.8818694949150085,0.09831856191158295
+apple,Know your iPhone 5S: Here are the real reasons Apple's 64-bit A7 chip makes sense,,157,403,2013-09-11,AAPL,0.015821091830730438,0.8933122754096985,0.09086662530899048
+apple,Side-by-Side Photo Comparison of 'Space Gray' iPhone 5s and 'Slate' iPhone 5,,74,262,2013-09-11,AAPL,0.01879662461578846,0.9210898280143738,0.060113631188869476
+apple,Smoke and mirrors: The iPhone 5C was never the ‘cheap’ version,,154,241,2013-09-11,AAPL,0.08862366527318954,0.8755060434341431,0.03587022423744202
+iphone,Regarding the iPhone 5C case—a baffling oversight (GIF),,95,241,2013-09-11,AAPL,0.02983001247048378,0.9170559644699097,0.05311398580670357
+iphone,"""non""",,71,232,2013-09-11,AAPL,0.04600156098604202,0.8752434253692627,0.07875494658946991
+apple,High-res images of the new devices,"Here's some high resolution images of the new products. I highly recommend *not* using RES inline image viewer.
+
+###iPhone 5S
+
+- [Leather Case](http://images.apple.com/iphone-5s/home/images/cases_hero_2x.png)
+- [Space Grey Camera](http://images.apple.com/iphone-5s/home/images/forward_hero_2x.png)
+- [White Side](http://images.apple.com/iphone-5s/home/images/ios_hero_2x.png)
+- [All 3 Side/Back](http://images.apple.com/iphone-5s/home/images/hero_hero_2x.png)
+- [Gold Front](http://images.apple.com/iphone-5s/home/images/smart_hero_2x.png)
+
+###iPhone 5C
+
+- [Green Bottom View](http://images.apple.com/iphone-5c/design/images/hero_2x.jpg)  
+^(see below under the ""none"" row for more)
+
+####Cases
+
+- [Empty Case](http://images.apple.com/iphone-5c/design/images/band_cases_device_front_2x.png)
+
+|Case|Green Device|Blue Device|Yellow Device|Pink Device|White Device|
+|-|-|-|-|-|-|
+|**Green**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_green_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_green_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_green_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_green_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_green_2x.jpg)|
+|**Blue**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_blue_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_blue_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_blue_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_blue_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_blue_2x.jpg)|
+|**Yellow**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_yellow_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_yellow_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_yellow_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_yellow_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_yellow_2x.jpg)|
+|**Pink**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_pink_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_pink_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_pink_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_pink_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_pink_2x.jpg)|
+|**White**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_white_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_white_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_white_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_white_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_white_2x.jpg)|
+|**Black**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_black_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_black_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_black_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_black_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_black_2x.jpg)|
+|**None**|[Link](http://images.apple.com/iphone-5c/home/images/color_green_none_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_blue_none_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_yellow_none_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_pink_none_2x.jpg)|[Link](http://images.apple.com/iphone-5c/home/images/color_white_none_2x.jpg)|
+
+###People
+- [AppleCare](http://images.apple.com/iphone-5c/features/images/applecare_2x.png)
+- [Tim Cook](http://images.apple.com/v/home/aa/images/home_keynote_hero_short_2x.jpg)",84,199,2013-09-11,AAPL,0.014353111386299133,0.8984333872795105,0.08721345663070679
+apple,this video jams the entire hour and a half Apple keynote from yesterday into just 90 seconds.,,22,164,2013-09-11,AAPL,0.053445003926754,0.9087017178535461,0.037853289395570755
+apple,A Photographer’s Take On The iPhone 5S Camera,,184,686,2013-09-12,AAPL,0.024491243064403534,0.9430561661720276,0.03245258703827858
+apple,"TIL Contrary to popular belief, Steve Jobs did donate money to charity",,244,646,2013-09-12,AAPL,0.023858947679400444,0.9186033606529236,0.05753769725561142
+apple,"Apple iPhone 5s GPU tested, twice as fast as the iPhone 5 unit",,139,556,2013-09-12,AAPL,0.01977723278105259,0.6555452942848206,0.3246774673461914
+iphone,61 HQ iOS 7 GM Screenshots,,131,439,2013-09-12,AAPL,0.07942002266645432,0.8582568168640137,0.06232322007417679
+apple,"T-Mobile Offering iPhone 5c for $0 Down, iPhone 5s for $99 Down",,154,383,2013-09-12,AAPL,0.01897411048412323,0.9195231199264526,0.06150277331471443
+apple,"Forget “Cheap”, The iPhone 5c Is Clearly The iPhone Jony Ive Wanted For iOS 7",,218,365,2013-09-12,AAPL,0.024438578635454178,0.9156476259231567,0.05991373583674431
+iphone,"Apple iPhone 5s GPU tested, twice as fast as the iPhone 5 unit",,103,349,2013-09-12,AAPL,0.01977723278105259,0.6555452942848206,0.3246774673461914
+apple,"The M7 chip is a very clever thing, that most people have overlooked.","From Apples website: 
+
+The new M7 coprocessor is like a sidekick to the A7 chip. It’s designed specifically to measure motion data from the accelerometer, gyroscope, and compass — a task that would normally fall to the A7 chip. But M7 is much more efficient at it. Now fitness apps that track physical activity can access that data from the M7 coprocessor without constantly engaging the A7 chip. So they require less battery power.
+
+M7 knows when you’re walking, running, or even driving. For example, Maps switches from driving to walking turn-by-turn navigation if, say, you park and continue on foot. Since M7 can tell when you’re in a moving vehicle, iPhone 5s won’t ask you to join Wi-Fi networks you pass by. And if your phone hasn’t moved for a while, like when you’re asleep, M7 reduces network pinging to spare your battery.
+
+I'm excited to see what can be done in the future with this especially since Apple has been snapping up transit companies recently.",126,256,2013-09-12,AAPL,0.03932828828692436,0.9270724058151245,0.033599305897951126
+iphone,"Sooo, I made my first iPhone app and it randomly hit the top charts because of iOS7...",,61,168,2013-09-12,AAPL,0.015486318618059158,0.5179936289787292,0.4665200412273407
+apple,Conan Parodies the Gold iPhone 5s,,40,150,2013-09-12,AAPL,0.03234216198325157,0.8235297203063965,0.14412811398506165
+apple,Even if someone chops off your finger they won't be able to unlock your iPhone 5S w/ TouchID - how comforting.,,194,950,2013-09-13,AAPL,0.03574427589774132,0.9293085336685181,0.03494720160961151
+iphone,"I'm really not a fan of the new Chrome logo especially when it is on the dock in iOS 7, so I rebuilt it. If only I knew how to replace the icon on the phone...",,133,567,2013-09-13,AAPL,0.01063335221260786,0.8373991250991821,0.15196749567985535
+apple,"The amount of misleading, anti-Apple bullshit on Reddit is infuriating.","How does [shit](http://www.reddit.com/r/technology/comments/1m8vme/apple_no_longer_innovates_says_the_man_who_helped/) [like this](http://www.reddit.com/r/todayilearned/comments/1mbcsl/til_steve_jobs_confronted_bill_gates_after_he/) hit the front page? When things like this get spread around as fact, it causes people to believe it as fact. And this sort of thing happens [ALL. THE. FUCKING. TIME.](http://i.imgur.com/Qd8LFnY.jpg)
+
+I hate how much hate Apple gets on Reddit. Posts like these spread misinformation to new users. As a guy that really likes Apple products, it sucks when I hear people come up to me and say, ""I heard that Apple is basically a shit company.""
+
+Where'd you hear that?
+
+""Reddit.""",549,356,2013-09-13,AAPL,0.05055809020996094,0.918518602848053,0.03092331998050213
+iphone,Walmart to sell iPhone 5s for $189 or iPhone 5c for $79,,187,218,2013-09-13,AAPL,0.02292483113706112,0.9256429672241211,0.05143216997385025
+mac,So this is how OSX depicts a PC,,43,199,2013-09-13,AAPL,0.019790543243288994,0.9103865027427673,0.06982290744781494
+iphone,What's up with Chrome's new icon? It feels really out of place.,,68,161,2013-09-13,AAPL,0.01565125584602356,0.8690989017486572,0.11524979770183563
+apple,"iOS 7's iBeacons could solve indoor mapping, make shopping better, and kill NFC",,65,151,2013-09-13,AAPL,0.017648104578256607,0.8387885689735413,0.14356328547000885
+apple,Microsoft Posts Anti-Apple Windows Phone Videos of Questionable Taste,,143,147,2013-09-13,AAPL,0.9138293266296387,0.06668460369110107,0.0194860827177763
+iphone,I took a vertical panorama!,,11,126,2013-09-13,AAPL,0.026525259017944336,0.9180594086647034,0.05541529506444931
+apple,iPhone 5s/5c LTE Band Tweaks Combine AT&amp;T and Verizon in One Model,,26,99,2013-09-13,AAPL,0.018467051908373833,0.9164930582046509,0.06503982096910477
+iphone,Scott Forstall and iOS 6 icons morphing into Jony Ive and iOS 7 icons,,173,966,2013-09-14,AAPL,0.02660927176475525,0.9270218014717102,0.046368926763534546
+apple,Carrier Wars In Japan Result In iPhone 5s Going Free On Contract,,125,518,2013-09-14,AAPL,0.024961568415164948,0.46791160106658936,0.5071268677711487
+apple,"Siri finally exits ""beta"" in iOS 7",,87,496,2013-09-14,AAPL,0.0258303415030241,0.8720260262489319,0.10214366018772125
+apple,iOS 7 GM: What's the final verdict on iPhone 4S performance?,"As the title states, now that the GM is out - what's the final say on performance of iOS 7 on the iPhone 4S?",184,232,2013-09-14,AAPL,0.03232144936919212,0.9182425141334534,0.04943609982728958
+apple,Apple had plenty of iPhone 5Cs in stock last night: Weak demand or strong supply? Only Apple knows for sure.,,135,207,2013-09-14,AAPL,0.7897822856903076,0.15571820735931396,0.05449948459863663
+iphone,"Instant webcam... super-easy to set up, just start the iPhone cam and watch the stream on any other computer/ iPad/... on local wifi.",,40,136,2013-09-14,AAPL,0.02098238654434681,0.9349290728569031,0.04408858343958855
+apple,Even the iPhone 5c's plastic is better - here's why,,119,115,2013-09-14,AAPL,0.019254039973020554,0.6808676719665527,0.2998782992362976
+iphone,Chipotle made a game for iOS. Here's the ad for it and it's surprisingly deep.,,16,88,2013-09-14,AAPL,0.019589850679039955,0.7965781688690186,0.18383193016052246
+iphone,iMessage doing this to anyone else??,,48,63,2013-09-14,AAPL,0.06949165463447571,0.9005504846572876,0.02995779737830162
+apple,Just Who is Fabricating the A7?,,48,58,2013-09-14,AAPL,0.026744607836008072,0.8777706027030945,0.09548478573560715
+apple,"iOS 7.0.1, iOS 7.0.2, and iOS 7.1 already seeing widespread testing inside Apple",,173,367,2013-09-15,AAPL,0.020518239587545395,0.5091831088066101,0.470298707485199
+apple,"I'm curious, which iPhone would you buy?",,230,342,2013-09-15,AAPL,0.014852168038487434,0.8856252431869507,0.09952256083488464
+iphone,Why STILL can't we leave group messages?,"With ios7 upcoming and this years bunch of feature goodies close at hand, I lament that, once again, Apple hasn't added the ability to leave those gigantic group messages that you don't want to be notified about for the rest of your life.
+
+Is there a reason anyone knows that this hasn't happened yet? Or am I severely overstating the scope and size of this issue?",90,199,2013-09-15,AAPL,0.054734453558921814,0.8991218209266663,0.046143755316734314
+apple,10.8.5 Update killing HDMI sound for some users.,,24,87,2013-09-15,AAPL,0.024380316957831383,0.9142168760299683,0.06140277907252312
+iphone,For those worries about iOS 7 battery life...,,61,80,2013-09-15,AAPL,0.5430058240890503,0.42053210735321045,0.03646204620599747
+mac,I created a detailed course on Organizing &amp; Cleaning your MacBook and wanted to give you guys FREE access,"This Apple community has helped me through a lot in the past, so I wanted to give back to all of you with a free promotion code for my course on organizing and cleaning a slow and messy macbook. Check it out here at : https://www.udemy.com/organize-and-clean-your-messy-macbook/ ~~and use the coupon code **REDDITMAC** to receive 100% off the course.~~
+
+**EDIT: DUE TO SUCH AN AMAZING RESPONSE, ALL 500 FREE COUPONS HAVE BEEN USED. TO ACCESS THE COURSE AT A DISCOUNT USE REDDITMAC15 AND GET IT FOR $15**
+
+This took me a while to make and covers some really cool techniques on how to properly organize documents, photos and music as well as properly deleting applications. I also throw in a bonus gift for all my students at the end.
+
+Some of the beginner stuff may feel basic but there are a lot of useful tips on tagging your files for easy search, automation, utilizing smart searches and using the Activity Monitor to your advantage. It took me a while to put together so please share it with your friends, and if you want to support the course I also made a coupon code that makes the course $15. Use it here: **REDDITMAC15**
+
+If you find it useful in anyway, a nice positive review would be greatly recommended.
+Thanks!",32,78,2013-09-15,AAPL,0.016848532482981682,0.9211931824684143,0.061958324164152145
+iphone,Are there going to be crazy long lines everywhere in the US on the 20th?,"My parents are in the US (Northern VA) right now but are flying to Europe (where I live) on the 20th. Since the stores open at 8am, is there a chance that there won't be crazy long lines everywhere around noon or so? If I ask them to check out the 5S for me, I want to make sure they won't have to wait more than half an hour or so.
+
+If you order it online at 12:01am on the 20th, you still have to wait in line, right?",56,74,2013-09-15,AAPL,0.03672528266906738,0.927251398563385,0.0360233411192894
+ios,iOS6 vs iOS7,,24,65,2013-09-15,AAPL,0.06972811371088028,0.8234652876853943,0.10680659115314484
+iphone,"With iOS7 coming out, what are some great third-party apps that match the new aesthetic of the OS?",,32,47,2013-09-15,AAPL,0.012284738011658192,0.8716818690299988,0.11603331565856934
+iphone,Q: iPhone 5 at Genius Bar,"I have an iPhone 5, which is still under warranty. I've been having a couple issues for sometime now...
+(1) My phone is constantly having wifi issues (e.g. trouble connecting, trouble maintaining connection). 
+(2) My phone's sleep/wake button hasn't been working consistently. About 50% of the time, the button doesn't work. I'll often have to push it down 3-5 times in order to sleep/wake my phone.
+When I take it to the Genius Bar, what do you think will happen? For the issues I have, do you suspect they'll go into my device and fix the issues, or will they just swap my device for a new iPhone 5 or a refurb'd one (I hope not). Thanks. 
+Edit: Thanks for all the input guys. I went to the Genius Bar today and got a new* iPhone 5. 
+*The Genius lady told me that it could potentially be a refurb, however she said 90% of the time it's a new device. She said if it was a refurb they include virtually all new internals, etc.",66,46,2013-09-15,AAPL,0.03194018080830574,0.9054500460624695,0.06260976195335388
+iphone,The Japanese keyboard on iPhone has loads of crazy emoticons. (￣(工)￣),,70,712,2013-09-16,AAPL,0.05535095930099487,0.898017406463623,0.046631645411252975
+apple,Microsoft admits last week’s anti-iPhone ads were awful after pulling them less than a day from airing.,,211,588,2013-09-16,AAPL,0.2428235113620758,0.6916250586509705,0.0655515044927597
+apple,iOS: A visual history,,52,570,2013-09-16,AAPL,0.03323753923177719,0.9395500421524048,0.02721245400607586
+apple,Apple store employees save queuing iPhone buyers from typhoon.,,39,292,2013-09-16,AAPL,0.6442283391952515,0.31021419167518616,0.04555745795369148
+apple,Rumor: Apple’s next event to be held on October 15th?,,133,212,2013-09-16,AAPL,0.036629192531108856,0.9431849718093872,0.020185844972729683
+apple,Results of the iPhone colour poll,"Last night I posted [this survey](http://www.reddit.com/r/apple/comments/1mffjl/im_curious_which_iphone_would_you_buy/) here asking people which colour and model iPhone they'd like to get.
+
+First of all I'd like to apologise for the huge delay in getting these results, and more importantly the overall rubbish format of the survey. The information is not as usable as it should have been. Smarter Redditors than I must have been cringing. If I could do it over again and add some demographic information and format the questions to provide more helpful information, I would. Again, I apologise. 
+
+I only made this poll because I spent the entire day agonising over what colour I'd want to get (clearly the problems in my life are quite serious). I thought perhaps seeing what a few other people thought would help me decide. I never expected such a huge response. At the time of posting this over 6,000 people have answered the poll. Mind boggling. ~~I hope the folks at Samsung find this information very helpful.~~
+
+*
+
+***Live results straight from Google can be found [here](https://docs.google.com/forms/d/1koBcRX_k5J4wuntFY_n9i0EkrIWsWc40BvE9zyc3Pf0/viewanalytics)***
+
+*
+
+But because I screwed up the format of the poll, that data might not really be easy to look at. I'll try to make a succinct summary of the data as of the time of writing.
+
+
+**The 5s**
+The replacement for the slate black iPhone 5, space grey, is by and large the most preferred colour. 61% of respondents at the time of writing put it as their first preference. 51% of people put white as their second preference, and 62% of respondents put gold last. 
+
+[Here is a bar chart with the data.](http://i.imgur.com/rRLMYH3.png)
+
+*
+
+**The 5c**
+When it comes to the 5C, the results are pretty interesting, and instead of me sitting here pretending to know what I'm doing I'll allow you to draw your own conclusions. I will point out how 31% of respondents put the pink 5c as their number one preference, making it the most preferred, while 39% of respondents also put the pink as their least preferred colour making it one of the least preferred...? As /u/gormster commented, the pink is clearly a polarising colour. In fact, all the colours are quite polarising. I think that's exactly why Apple chose the shades they did.
+
+I predict you'll see a lot of blue and green floating around.
+
+[here is a bar chart with the data.](http://i.imgur.com/BNpPbPc.png)
+
+^A ^note ^in ^regards ^to ^the ^question ^about ^the ^5c: ^I ^do ^realise ^that ^the ^question ^was ^too ^ambiguous ^for ^the ^first ^12 ^hours ^the ^survey ^was ^put ^up, ^and ^I'm ^kicking ^myself ^for ^it. ^Even ^so, ^and ^perhaps ^it's ^me ^being ^optimistic, ^the ^question ^**always** ^stated ^""in ^order ^preference"". ^I ^believe ^for ^most ^people ^1 ^is ^always ^first ^preference ^with ^or ^without ^the ^(much needed, but lacking) ^clarification.
+
+*
+
+In the end, the 5s is significantly more popular than the 5c, and the space grey one is looking to be the most popular.
+
+[Here is a piechart showing the most preferred iPhones overall.](http://i.imgur.com/O97QiRx)
+
+**I have to be completely honest. I don't really know much of what I'm doing when it comes to statistics and data analysis. Any advice on how to better present the information will be greatly appreciated.**
+
+Cheers!",54,188,2013-09-16,AAPL,0.036479733884334564,0.9156182408332825,0.04790203273296356
+apple,iOS 7 Review: A Major Triumph for Apple,,158,180,2013-09-16,AAPL,0.059657469391822815,0.7822872996330261,0.15805524587631226
+apple,Daniel Eran Dilger: Who says Apple ain't innovating any more? Making the case that Apple's innovation engine is still humming along.,,106,178,2013-09-16,AAPL,0.01890145055949688,0.7152133584022522,0.26588520407676697
+iphone,Disable AT&amp;T iPhone 5 throttling iOS 7,,37,152,2013-09-16,AAPL,0.02781854197382927,0.9140685200691223,0.05811293423175812
+apple,Apple has designed a demo application specific iPhone 5s demo units to show off Touch ID feature in Apple Stores.,,11,114,2013-09-16,AAPL,0.011680545285344124,0.9087644815444946,0.0795549675822258
+iphone,"Legacy iOS users, rejoice! App Store now let's you download a compatible version of an app if the newest version isn't compatible. [x-post from r/jailbreak]",,86,1177,2013-09-17,AAPL,0.016306892037391663,0.9178967475891113,0.06579636037349701
+apple,People with old iOS devices: You can now install the last compatible version of an app that works on your device!,"I just tried installing Instagram on my 2nd generation iPod Touch and got this: 
+
+http://i.imgur.com/SIGHyKE
+
+People with old devices should try installing apps that were before incompatible!",204,1143,2013-09-17,AAPL,0.029047949239611626,0.9257292151451111,0.04522285982966423
+iphone,Oh my! Check out the mount they used to capture the Burberry shoot with the iPhone 5S,,62,616,2013-09-17,AAPL,0.018113482743501663,0.9106642007827759,0.07122233510017395
+apple,Apple quietly updates iCloud to match new look of iOS 7,"I was signed into iCloud and reading my emails when I refreshed the tab and suddenly – everything looked completely different. Looks like Apple has decided to silently roll out the new look in anticipation of tonights public release of iOS 7.
+
+See for yourself: 
+
+[Login](http://i.imgur.com/WvIiqkk.png) 
+
+[Home Screen](http://i.imgur.com/LFRWxYG.png)
+
+What do you guys think?
+
+**UPDATE**: added screenshot of the home screen
+
+**UPDATE 2**: Frontpage! Now, where is my iOS 7?",126,544,2013-09-17,AAPL,0.031447771936655045,0.9306490421295166,0.03790316358208656
+apple,"On Eve Of iOS 7 Launch, Apple Starts Letting Users Install Last Compatible Versions Of Apps",,11,160,2013-09-17,AAPL,0.016633566468954086,0.9239540100097656,0.059412404894828796
+apple,I wrote a lengthy review of iOS 7; I hope you like it,,54,154,2013-09-17,AAPL,0.028775282204151154,0.9084954261779785,0.06272926926612854
+apple,Amazon Instant Video app now supports Airplay,,25,143,2013-09-17,AAPL,0.01185084879398346,0.9267513751983643,0.061397723853588104
+apple,Occipital turns your iPad into a 3D scanner.,,8,105,2013-09-17,AAPL,0.01912251114845276,0.9088521599769592,0.07202530652284622
+apple,Will iBeacons become Apple's biggest disruptive innovation EVER? The potential is there.,,52,81,2013-09-17,AAPL,0.023911308497190475,0.5493749380111694,0.426713764667511
+ipad,iOS7 on my iPad mini,"Just wanted to provide positive feedback that it is running very smoothly.  It feels more fluid than iOS6.  It's really not that big of a change but it does look very nice.  I did a full restore from my MBA/iTunes with backup from iCloud.
+
+16Gb wifi only running GM",55,80,2013-09-17,AAPL,0.014525116421282291,0.8837175965309143,0.10175731033086777
+apple,Alien Blue updated for iOS 7,,388,1544,2013-09-18,AAPL,0.02399657480418682,0.9181351661682129,0.057868216186761856
+iphone,Seems it's the end of the line for these types of apps,,152,1087,2013-09-18,AAPL,0.0392087921500206,0.9158115983009338,0.044979605823755264
+iphone,Refresh. Repeat.,,165,1056,2013-09-18,AAPL,0.03925878927111626,0.9170950651168823,0.04364617541432381
+iphone,We know.,,58,1008,2013-09-18,AAPL,0.03037811629474163,0.8965956568717957,0.07302619516849518
+iphone,Best iOS7 feature so far? Now you can put Newsstand in folders with the other junk apps!,,143,769,2013-09-18,AAPL,0.03739424794912338,0.9278386831283569,0.03476705029606819
+apple,The time when iOS 7 is released for each country!,,294,753,2013-09-18,AAPL,0.0645354762673378,0.9135820269584656,0.021882496774196625
+iphone,This blew my mind today,,106,669,2013-09-18,AAPL,0.25748059153556824,0.5556716918945312,0.18684767186641693
+iphone,Just a reminder to all of you who update to ios 7 today.,"To quit apps you swipe up in the multitasker
+
+Now you swipe up to access your tool bar
+
+Auto updates are automatically enabled 
+
+Siri can control some settings, to turn down brightness use percentages ""turn down brightness by 10%""
+
+These are just some things I wish I had known before updating, nothing major I just was slightly frustrated
+
+/u/parsable said ""You access Spotlight by swiping down on the launcher, on the icons themselves rather than from the top of the screen as you do to access notification centre.""
+
+/u/kar98_byf42 ""Instead of swiping to the right, you now swipe to the left to delete or move e-mails from your list of e-mails.
+
+And the screen can be unlocked by swiping to the right anywhere on your screen, not just in a narrow bar.
+
+I'm not sure about this, I think I had Bluetooth turned off because no reason to have it on, but after the restart with iOS7 installed, it showed to be turned on when I swiped up to reveal the control center.
+
+Tldr: Bluetooth gets turned on by default, I think.""
+
+
+/u/timforreal ""In any text message/iMessage thread, pull from right to left and hold to see the timestamp of the messages.""
+
+/u/jcxtreme ""People should mess around with the default apps a little. You may find something that you used to use an older app for, for example, swipe left in the Compass app for a level. Just spend a little bit of time in each one.""
+
+/u/i_am_your_cupcake ""Big one for me. You can block people from calling/messaging you. Settings&amp;amp;amp;amp;gt;Messages&amp;amp;amp;amp;gt;Blocked. ""
+
+/u/NotValid ""iOS 7 automatically keeps a history of all the places you go. This is on by default, but can be turned off in Settings &amp;amp;amp;gt; Privacy &amp;amp;amp;gt; Location Services &amp;amp;amp;gt; System Services &amp;amp;amp;gt; Frequent Locations.""
+
+/u/shutterswipe ""Using the beta, I found the battery life could be extended a little by turning off 'Background App Refresh' for certain apps. (in General settings).
+I don't need things like Stocks updating itself constantly in the background. I also turned off weather and others, I find they update themselves quickly enough when you open them.""
+
+Edit: I think any ios 7 users should post anything they think new users should know just to help them",354,583,2013-09-18,AAPL,0.04685322940349579,0.9223933815956116,0.030753344297409058
+apple,12 New and Hidden Settings in iOS 7,,200,550,2013-09-18,AAPL,0.022171268239617348,0.9315885901451111,0.04624013230204582
+apple,The 84 iPhones.,"US Apple Stores will release the 5c in 5 colors, 2 capacities, and on 4 networks; the 5s in 3 colors, 3 capacities, and on 4 networks, and the new smaller iPhone 4S in two colors, one capacity, and on 4 networks.
+
+
+
+Because Apple usually prepackage SIM cards in the devices, each fully stocked store will be selling 84 individual models of iPhone ~~tomorrow~~ on Friday. 
+
+
+
+Just keep that in mind while you're waiting for the salesperson to bring you yours.
+
+
+
+Stay safe everyone.",109,440,2013-09-18,AAPL,0.01751568540930748,0.9124568104743958,0.0700274407863617
+apple,iOS 7 adoption rate: 29% of Apple's customers in first 16 hours,,360,1018,2013-09-19,AAPL,0.04297993704676628,0.9313826560974121,0.025637412443757057
+iphone,Am I the only one who thinks the volume icon is even more intrusive than it was?,,114,889,2013-09-19,AAPL,0.04239192605018616,0.8774386048316956,0.08016950637102127
+apple,"IOS7 PSA, Turn off nicknames and short names on email settings.","So I asked Suri to call me ""Batman"" as a joke, you know ""im sorry Batman but I can't find that for you"" or ""its 27 degrees in Toronto Batman"".
+
+You get the idea. 
+
+Last night I upgraded to IOS7 and this morning I sent off a few emails from my phone. 
+
+Then latter today I get a call from my boss asking why Im emailing one of our most important clients as ""Batman"".
+
+
+Im not sure if I never turned on nicknames on IOS6 or if this is a new default setting in IOS7, just thought Id let you guys know. 
+
+EDIT: Sorry for the false alarm guys, it appears to show up on your device only and not third party devices.  To clarify my boss was using my phone early today to pull some files and forward some attachments off of it.  That's when he noticed. 
+
+This is a pretty big sigh of relief for me... I imagine more so for ""you fucking idiot""",114,779,2013-09-19,AAPL,0.05733701214194298,0.9035495519638062,0.03911345452070236
+apple,Rickrolled by Apple Support...,,43,721,2013-09-19,AAPL,0.04259378835558891,0.8971622586250305,0.060243941843509674
+apple,iPhone 5s slaughters quad-core rivals in performance tests despite dual-core CPU and just 1GB of RAM,,222,526,2013-09-19,AAPL,0.04546646773815155,0.5317850112915039,0.42274847626686096
+iphone,GFs iPhone email gives me anxiety ...,,96,503,2013-09-19,AAPL,0.02576589398086071,0.904495120048523,0.0697389617562294
+ipad,Is anyone else bothered by this colossal waste of screen space?,,146,414,2013-09-19,AAPL,0.11844287812709808,0.8405367732048035,0.04102037474513054
+iphone,Save battery life,,109,410,2013-09-19,AAPL,0.032510463148355484,0.9151437282562256,0.05234583839774132
+iphone,Four privacy settings you should enable in iOS 7 immediately.,,76,244,2013-09-19,AAPL,0.0127243148162961,0.9297065138816833,0.05756913870573044
+iphone,"So on ios7 do we all start saying ""no balls"" instead of ""no bars""?",,46,237,2013-09-19,AAPL,0.12394088506698608,0.851265549659729,0.024793630465865135
+iphone,It's a ducking miracle!!!,,119,2610,2013-09-20,AAPL,0.04518698900938034,0.8815120458602905,0.07330095022916794
+iphone,"It's the little things, Apple / iOS 7 ...",,125,1382,2013-09-20,AAPL,0.026279792189598083,0.937764585018158,0.03595559298992157
+apple,"Now that some of us have the 5s, can we talk about how well this fingerprint sensor works?","I'll be honest I was fairly skeptical about it at first. I thought it may take a while to read the print, I thought it might need you to position your finger in just about the same spot every time, but after playing with it for the past few hours it seems to recognize the correct finger within 1-2 seconds from many different angles and parts of the thumb.
+
+I must say I am really impressed.",332,474,2013-09-20,AAPL,0.03372291848063469,0.9084606170654297,0.05781650170683861
+apple,"Apple TV 6.0 released with iTunes Radio, AirPlay from iCloud, iTunes Music Store, more",,130,253,2013-09-20,AAPL,0.024035973474383354,0.9233013987541199,0.05266261845827103
+iphone,"A friend polled his Facebook friends about which iPhone 5 he should get. A few of our favorite contrarians said androids. This was his perfect, perfect response.",,77,240,2013-09-20,AAPL,0.01859561912715435,0.7838279008865356,0.1975764036178589
+apple,No Gold or White,"So, keeping in mind I was #4 in line so it's not like my store ran out. But they didnt have a single white or gold iPhone avaliable. I was the first person to walk out of the store with an iPhone.
+
+AT&amp;T, dunno about the other carriers.",287,239,2013-09-20,AAPL,0.027897385880351067,0.9232921600341797,0.04881046339869499
+apple,iOS 7 is the first to support multipath TCP - Allowing you to use Wi-Fi and mobile data connections at the same time,,47,226,2013-09-20,AAPL,0.012912633828818798,0.9360195398330688,0.05106787756085396
+apple,"iOS 7 Adoption Already As High As 35% In One Day, Apple And Developers Reap The Rewards",,74,224,2013-09-20,AAPL,0.02864340879023075,0.7130309343338013,0.2583256959915161
+apple,"iPhone 5's touch response 2x as fast as Galaxy S4, Moto X, Lumia",,136,222,2013-09-20,AAPL,0.016784964129328728,0.8800265192985535,0.10318851470947266
+iphone,Who the hell decided these massive ass Game Center achievement notifications were a good idea!?,,21,192,2013-09-20,AAPL,0.018949545919895172,0.39212143421173096,0.5889290571212769
+iphone,Well that was fast..,,371,1304,2013-09-21,AAPL,0.03949437662959099,0.7747970223426819,0.18570859730243683
+apple,Some thoughts on iOS 7,"First of all I am not a programmer or developer, I am just a regular person that likes apple products but am not a fanatic about it.
+
+The phrase, ""Apple may be late to the party, but is always the best dressed"" has never rang more true with this update. When they released the new design I immediately panned it thinking apple had lost it. The colors and the design looked cheap to me. I was afraid all of the new enhancements were about catching up to samsung. That didn't stop me from installing it last Wednesday.
+
+I spent most of the day looking through the redesigned apps. Trying to figure out all of the unannounced features. I found myself just staring at the home screen. Today, I spent an hour in the weather app. Then it hit me: what other operating system would a user spend that much time looking at weather?
+
+Say what you will about the new design but after 3 days of using it I am convinced that this is the most beautiful update they have ever released. Once again, I think they have set the gold standard in mobile design.
+
+There have been a lot of people nit-picking. And that's exactly what it is. Apple has set such a perfect standard, with all of their devices, that the most minuscule design or operating flaw makes headlines.
+
+That being said, I still have my hang-ups about the new iOS but, I can't imagine having a better one than this.",512,683,2013-09-21,AAPL,0.03199752792716026,0.9104440808296204,0.05755835026502609
+apple,"Camped for 11 hours and left with no gold iphone, but saw, met, and shook hands with Tim Cook!!","I camped at the University Store in Palo Alto. I was about 40th in line and they literally only had like 5 gold iPhones. I was heavily disappointed, but on my way walking to Peet's Coffee, I see a guy rounding the corner and it was Tim Cook!! I smiled at him and said ""Tim Cook right?"" And he shook my hand. 
+
+It was all over so quick and I could tell he was trying to make it over to the store and then my brain triggered that I should have asked him for a quick pic!!! So I did the only natural thing: take a stalker pic from behind....
+
+http://imgur.com/QYO2aDJ
+
+Tl;dr - disappointed I didn't get a gold iphone, but got to meet the head honcho of Apple!!!",170,534,2013-09-21,AAPL,0.035780828446149826,0.9164208769798279,0.04779824987053871
+iphone,Space Gray 5s next to the original iPhone,,29,418,2013-09-21,AAPL,0.014248471707105637,0.8589098453521729,0.1268417090177536
+apple,"In honor of iPhone5s/c and iOS7, here are some parallax wallpapers I made from my astronomical imaging work",,39,365,2013-09-21,AAPL,0.013083795085549355,0.8919689655303955,0.09494718164205551
+iphone,Am I the only one who thinks the default keyboard should have the dark theme like the Spotlight search?,,69,353,2013-09-21,AAPL,0.08119669556617737,0.8938381671905518,0.024965066462755203
+apple,“I‘m not leaving without a gold one!” Tales from the iPhone 5S line,,158,310,2013-09-21,AAPL,0.03044457733631134,0.8567892909049988,0.11276611685752869
+iphone,"Wow, gold iPhones are going for over $1,000 on eBay right now.",,135,217,2013-09-21,AAPL,0.019808990880846977,0.7101606130599976,0.2700304388999939
+iphone,"""Space Gray?"" Looking at this thing in the sunshine, I cannot fathom why Apple didn't call these colors ""silver, gold and platinum!"" Opportunity missed.",,38,182,2013-09-21,AAPL,0.02111467346549034,0.8881545066833496,0.09073076397180557
+iphone,Autocorrect now corrects it's own mistakes!,,12,159,2013-09-21,AAPL,0.055839866399765015,0.9083207249641418,0.035839419811964035
+iphone,My original iPhone has big dreams...,,111,1317,2013-09-22,AAPL,0.013872365467250347,0.8979949355125427,0.08813266456127167
+apple,So this is why I stick with Apple,"After more than a year of having issues with the iSight camera on my MBPr, having gong through 2 screen replacements, a logic board swap, and several complete reinstalls, Apple yesterday proved once again why it's a company that will keep my business.
+
+Having brought it in yet again for the same issue, the Genius tech decided that with the history of replacements, with it still not working correctly, this must be a unique issue, and swapped my old MBPr for a brand new one with updated specs, while extending my AppleCare to somewhere in 2016. They also transferred all my data to the new machine too. I was quite surprised they would actually swap out the entire machine, but kudos to them to make that call!
+
+**TL:DR;** Issues with iSight camera, got a new machine instead.",238,1116,2013-09-22,AAPL,0.014632604084908962,0.8377445340156555,0.14762292802333832
+apple,Apple surprises me yet again....,Set a timer for banana bread. Decided to abandon it to update to iOS 7 in the middle. The timer was still running after the update. Mother of god...,216,897,2013-09-22,AAPL,0.042308833450078964,0.9061669111251831,0.051524244248867035
+apple,Apple’s iPhone 5S renders 1080P video at twice the rate of the iPhone 5 and yields a Geekbench score close to a 2010 Mac Mini.,,113,500,2013-09-22,AAPL,0.01927330531179905,0.8745653033256531,0.1061614379286766
+apple,iPhone 5s fingerprint sensor gets completely misunderstood,,101,354,2013-09-22,AAPL,0.2652636468410492,0.6888217926025391,0.04591458663344383
+iphone,Is it worth it to upgrade from a 5 to a 5s? Discuss!,"I just recently upgraded from an iPhone 5 to a 5s, and I must say I can't feel the new speed at all. Usually I upgrade every two years, but I had some extra cash and decided to take the plunge. My favorite feature so far has been the burst mode in the camera. It has allowed me to get some awesome photos of my dog. This, however, is not enough to justify the cost and I'll be returning my phone. Moving from the 4S to a 5s is a no-brainier to me, but from the 5 it seems like a tougher sell. So, for those of you who moved from a 5 to a 5s, what is your experience? Is it worth it to you? Let the discussion begin!",235,261,2013-09-22,AAPL,0.01876758225262165,0.9105533957481384,0.07067899405956268
+apple,New York Police actively encouraging people to update to iOS 7 for added security.,,78,255,2013-09-22,AAPL,0.01931927539408207,0.9038980603218079,0.07678262144327164
+apple,"Apple sells out of initial iPhone 5s supply in under 2 days, shipments pushed to October.",,141,212,2013-09-22,AAPL,0.04219847545027733,0.8276340365409851,0.13016752898693085
+apple,Smashing through the media hype: iPhone 5s fingerprint reader not really “less secure” or “hacked”,,77,184,2013-09-22,AAPL,0.08836381882429123,0.8727765679359436,0.038859639316797256
+apple,Chaos Computer Club shows that TouchID can by bypassed with a Fingerprint collected from a Glass,,162,112,2013-09-22,AAPL,0.04171590507030487,0.9270084500312805,0.031275674700737
+iphone,High Quality iPhone 5S &amp; 4S Case Give-Away,"Hey reddit, 
+
+I'm a redditor myself, so you can imagine how nervous I was when my boss called me into his office and said, ""What's reddit.com?"" 
+
+Thankfully it was because our company saw our biggest day of web traffic ever from a link [someone left us in the comments](http://www.reddit.com/r/iphone/comments/1mknn1/iphone_5s_what_case_are_you_going_to_buy/cca47sv) of a post on /r/iphone last week. 
+
+To say thanks to the community [ODOYOusa](http://www.odoyousa.com/) is giving back with this give-away. (My boss now loves reddit!)
+
+
+The cases will come from a variety of our collections including the [Vivid Plus](http://www.odoyousa.com/m/29/vividplus-finely-crafted-iphone5-cases), [Slim Edge](http://www.odoyousa.com/m/27/slimedge-finely-crafted-iphone5-cases), [Sharkskin](http://www.odoyousa.com/m/30/sharkskin-finely-crafted-iphone5-cases), and[ Mosaic](http://www.odoyousa.com/m/23/mosaic-finely-crafted-iphone5-cases) collections (as well as some other series/collections).
+
+**We'll notify winners by private message on Wednesday, Spetember 25th at 8AM PST, and because we're shipping these out for free ONLY US Addresses qualify to win.**
+
+EDIT: I'm adding 15 more cases, including one 5C case. Keep it up guys!
+
+**EDIT: To align our contest with the rules of reddit, everyone who has commented is entered into the contest, and there is no need to upvote this post! :) 
+We're giving away over 30 cases, and winners will be chosen at random on Wednesday, Spetember 25th at 8AM PST. YOu have until that time to enter.** 
+
+EDIT: The Give Away is closed. All the winners have been contacted via PM already. Thanks to everyone for participating! We'll be back, because this was a lot of fun!",2432,1972,2013-09-23,AAPL,0.03674576058983803,0.9223222136497498,0.040932003408670425
+apple,Apple announces sales of 9 million iPhone 5s &amp; 5c units in first 3 days,,403,1173,2013-09-23,AAPL,0.02561780996620655,0.9263826608657837,0.04799951985478401
+iphone,You have to love their sense of humour...,,49,657,2013-09-23,AAPL,0.03488653153181076,0.9093970060348511,0.05571642890572548
+apple,"iOS 7 use overtakes iOS 6 in just 72 hours, Apple says 200 million installs",,66,310,2013-09-23,AAPL,0.021163735538721085,0.9227237701416016,0.056112486869096756
+apple,I can confirm the iPhone 5S reads my nipple-print.,That is all.,40,254,2013-09-23,AAPL,0.024780279025435448,0.8797178864479065,0.0955018475651741
+apple,"Gold iPhone 5s sells for over $10,000",,60,177,2013-09-23,AAPL,0.01511689368635416,0.8685241341590881,0.11635903269052505
+iphone,"No, that's not a phone number, my hotmail account says I have over 2 billion unread emails.",,21,143,2013-09-23,AAPL,0.030155420303344727,0.9371722340583801,0.03267233818769455
+iphone,Just got a new 5s and sometimes the wifi signal is numbers... Any idea on how to change it back?,,77,126,2013-09-23,AAPL,0.04867667704820633,0.9197502732276917,0.03157302737236023
+iphone,This is starting to piss me off.,,44,124,2013-09-23,AAPL,0.0434543676674366,0.8929140567779541,0.06363162398338318
+ios,"This is just sad, way to take advantage of those who don't know better...",,20,105,2013-09-23,AAPL,0.0864015743136406,0.8740377426147461,0.03956066444516182
+apple,"Apple launches faster iMacs with 802.11ac WiFi, Pro graphics, improved Flash",,452,874,2013-09-24,AAPL,0.01174333319067955,0.08891835808753967,0.8993383646011353
+apple,Why is nobody talking about the jaw dropping FaceTime Audio?,"After getting my new 5S yesterday I tried out FaceTime Audio for the first time with a friends iPhone 5, iPhone 4S and iPad Mini and on all three devices, the sounds quality is unbelievably impressive. 
+I am at a loss why there aren't more people talking about it. It is the equivalent experience of watching 1080P for the first time after having had a 16' cathode ray tube tele in the basement. 
+The data usage is rather minimal at 25MB per hour of talk time, but boy does it make a difference. The most stunning application to me has been talking to people in the car over bluetooth. Whereas it used to be a hot mess, especially if both parties were going over 60MPH, with FaceTime Audio, you might as well be sitting next to each other on the couch. 
+
+To me, this has been one of the most underrated features of iOS 7 thus far. Especially since everybody has it, automatically, no hassle and no ""sign-in"" necessary. This will replace many voice calls over traditional airwaves for me...",394,861,2013-09-24,AAPL,0.030629707500338554,0.9236706495285034,0.0456995852291584
+iphone,It's the little things that Apple does to their iOS that makes me happy,,164,850,2013-09-24,AAPL,0.01916820928454399,0.9186769127845764,0.06215488910675049
+apple,Gazelle saw 210% more Samsung trade-ins than normal during the iPhone 5s launch weekend.,,137,331,2013-09-24,AAPL,0.019616808742284775,0.8854494094848633,0.09493376314640045
+iphone,Getting the longest life out of your iPhone battery.,"I often see many misconceptions about iPhone batteries, and Li-ion batteries in general, so I thought I'd write a mini-guide to address this issue.
+
+iPhones have Lithium ion batteries. All Li-ion batteries have a limited life span, ie a finite number of charge cycles that they can undergo before becoming useless. The number of cycles you can achieve is determined *in part* by how you treat the battery.
+
+The two biggest enemies of Li-ion batteries are heat and over-voltage charging. The latter is mainly taken care of by charger design (ie trickle charging and cutoffs).
+
+Heat is a bigger problem. Batteries get hot when they are charging. Heat is also related to the other big reducer of Li-ion battery lifespan: Deep charge cycles.
+
+Li-ion batteries function optimally and have the longest lifespan when discharged to around 60-80% then charged to full. Full (or deep) discharges* reduce the lifespan of the battery. Full discharges are bad due to intrinsic chemistry (small permanent changes inside the battery reduce its life) and also recharging from a low charge will inevitably heat (causing more permanent chemical changes) the battery more than shorter, more frequent charges.
+
+Often people recommend infrequently fully discharging Li-ion batteries and sometimes even report better life after such treatment. This treatment of batteries is a legacy of times when Ni-Cad batteries were the predominant type and the subsequent conflation with Li-ion technology.
+
+The apparent 'improvement' results *only* from the recalibration of the electronic gauge used to display the remaining battery percentage. Directly gauging a battery's current level of charge is not actually possible. The percentage shown is an average 'expected' value based on previous uses of the battery after being monitored by software for a period of time. If the calibrated values become inaccurate the battery gauge will also be inaccurate. A full discharge will recalibrate the software gauge, often resulting in more accurate battery-level readings. This in no way affects the battery at all. All that happens is the software is more accurate at reporting the estimate charge remaining. You will get no more performance from your batter by doing a full charge even if it appears to be so (actually, by doing a full discharge, you have reduced the lifespan of your battery by a tiny amount). Apple actually recommends infrequent full discharges. My guess is that they see this as a trade off; they know they are reducing the battery life by some tiny amount, but also receive far fewer customer support complaints due to poorly calibrated battery gauges being perceived as faulty devices.
+
+\* For the purposes of this guide a 'full discharge' is defined as reaching around 5-10%. For Li-ion batteries a 'full discharge' is not truly a complete discharge. Li-ion batteries have a cutoff within the battery to prevent complete discharge. If a Li-ion battery is completely discharged it can not be recharged. So when your device containing a Li-ion battery reports the battery is empty this is the cutoff coming into play and preventing permanent damage to the battery. 
+
+**TL;DR**
+
+**DO: Charge frequently. Small, frequent charges are best. Charge your battery first if you are going to leave it unplugged for an extended period. Charge your battery in a cool spot.**
+
+**DO NOT: Let your battery get hot. Fully discharge your battery. Let your battery sit at low charge for extended periods. Believe the lie that full discharges improve battery lifespan.**",87,311,2013-09-24,AAPL,0.1499793529510498,0.8249058723449707,0.025114744901657104
+apple,This really won my respect for Apple. Owning up for something that isn't their fault.,,103,258,2013-09-24,AAPL,0.026855189353227615,0.9275782704353333,0.04556651413440704
+apple,The first big minor improvement in iOS7 I realized (Safari) --- command + T,"I use a Bluetooth keyboard with my iPad when I travel for short spurts and don't need my big 15"" MBP.  In Safari, I've always used command + T to try to open a new tab but I forgot I was on an iPad and would have to tap ""+"" to open a new tab.
+
+I upgraded my iPad to iOS7 yesterday and on my first time using the bluetooth keyboard, command + T actually opens a tab. Thank you, Apple!",28,216,2013-09-24,AAPL,0.020311491563916206,0.9005590081214905,0.07912947237491608
+apple,How to create nested folders on iOS 7,,39,174,2013-09-24,AAPL,0.019713211804628372,0.9334490895271301,0.04683768004179001
+apple,Fake Apple Ad Says iOS 7 Will Make Your iPhone Waterproof; People Fall For It,,46,170,2013-09-24,AAPL,0.0602974072098732,0.8808304071426392,0.05887219309806824
+iphone,Fly landed on notebook. The 5S camera is incredible.,,13,166,2013-09-24,AAPL,0.027773452922701836,0.8816012740135193,0.09062527120113373
+iphone,Everything You Can Ask Siri in iOS 7 [FIXED],,166,944,2013-09-25,AAPL,0.02849339134991169,0.9234254360198975,0.048081204295158386
+apple,Apple TVs can now be set up just by tapping them with an iPhone,,142,711,2013-09-25,AAPL,0.017989501357078552,0.7890340089797974,0.1929764747619629
+iphone,Folder Holder. Instructions in comments. (iOS 7.0),,75,446,2013-09-25,AAPL,0.03545321524143219,0.9329581260681152,0.031588710844516754
+apple,"If you get your iPad or iPhone replaced by Apple (under warranty or whatever), you can get iWork, iPhoto and iMovie for free","My iPhone had camera sensor issues so I took it to the Apple store just before my warranty ended. They replaced it with the same device. I got it home and it appeared like a newly activated device to the App Store and I got the paid Apple apps for free.
+
+iWork, iPhoto, iMovie and a replaced iPhone without all the wear and tear my previous phone had (higher resale value). Yesterday was a good day.",158,371,2013-09-25,AAPL,0.0489792637526989,0.8722754716873169,0.07874525338411331
+apple,"Apple's ""Skankphone"" Was The iPhone's Ugly Twin Brother: Before Apple introduced its polished phone to the world, it was a clunky tablet-size device running intentionally ugly software called Skankphone.",,37,285,2013-09-25,AAPL,0.3360541760921478,0.6459241509437561,0.018021710216999054
+apple,My God but it's ugly: Samsung counters iPhone 5S with a golden Galaxy S4,,174,274,2013-09-25,AAPL,0.018201351165771484,0.8414620161056519,0.14033667743206024
+iphone,Anyone else destroyed their ear drums yet by fat fingering the volume to max instead of hitting the skip song arrow?,,56,180,2013-09-25,AAPL,0.0566769577562809,0.9066726565361023,0.03665032237768173
+apple,"How to get iWork, iPhoto, and iMovie for free in iOS7 without having a newly activated phone.",,84,123,2013-09-25,AAPL,0.038173675537109375,0.9327313303947449,0.0290949959307909
+iphone,I was having a little too much fun with the folder in folder thing...,,19,120,2013-09-25,AAPL,0.045800432562828064,0.9237879514694214,0.03041163831949234
+iphone,Third party calendar apps very popular after iOS7 update,,64,106,2013-09-25,AAPL,0.024610742926597595,0.9408850073814392,0.034504298120737076
+apple,Mockups of the iOS 7 design applied to OS X,"[""OS XI Kehena""](http://ohsneezeme.deviantart.com/art/OS-XI-Kehena-Concept-397731504), and [an earlier concept by the same guy](http://ohsneezeme.deviantart.com/art/OS-X-Mavericks-Desktop-Concept-Revised-377748404).
+
+[OS X ""Ivericks""](http://www.studoesdesign.co.uk/work/osxivericks/).
+
+[Mail concept](http://r2ds.deviantart.com/art/OS-X-Mail-Redesign-387110681), with [2](http://r2ds.deviantart.com/art/OS-X-Mail-Redesiged-Mailboxes-390120728) and [3](http://r2ds.deviantart.com/art/OS-X-Mail-Frost-Top-Bar-386639435).
+
+[A french concept](http://mathieuchabod.fr/concept-os-x-aux-couleurs-dios-7-finder-centre-de-notifications-et-dock/).
+
+[Notification Center concept](http://dribbble.com/shots/1134533-Mavericks-Notification-Center-Concept?list=searches).
+
+[Messages concept](http://dribbble.com/shots/1113996-OS-X-Messages-UI-with-iOS-7-Visual-OS-X-Mavericks?list=searches).
+
+[""The next Mac OS""](http://www.behance.net/gallery/The-next-Mac-OS/9995849).",266,522,2013-09-26,AAPL,0.01590118370950222,0.9297906756401062,0.05430813133716583
+iphone,Apple releases 7.0.2,,162,384,2013-09-26,AAPL,0.05011977627873421,0.7559414505958557,0.19393883645534515
+apple,iOS 7.0.2 - Lock Screen flaw fixed now available,,87,348,2013-09-26,AAPL,0.22794537246227264,0.7435418367385864,0.02851281315088272
+apple,"Apple analysts and the great nine-million iPhone kerfuffle: ""Samsung doesn't get this kind of scrutiny because it doesn't tell anybody -- not analysts, not investors, not the SEC -- how many smartphones it sells.""",,84,312,2013-09-26,AAPL,0.07194431871175766,0.8818695545196533,0.046186160296201706
+iphone,This is not ok.,,32,209,2013-09-26,AAPL,0.04772032052278519,0.89804607629776,0.05423359572887421
+iphone,The slow motion abilities of the iPhone 5s are pretty cool. Here's a video of my son doing a kick flip on his skateboard.,,56,204,2013-09-26,AAPL,0.021524669602513313,0.9283707737922668,0.05010449141263962
+apple,"iOS 7 adoption rate much higher than previous releases, now approaching 60 percent overall",,52,187,2013-09-26,AAPL,0.024115661159157753,0.05618291720747948,0.9197014570236206
+iphone,My friends just made an amazing app that lets you play music off your phone and shoot a video at the same time! its also Free!,,57,170,2013-09-26,AAPL,0.018093325197696686,0.9405660033226013,0.041340675204992294
+apple,Apple's Jonathan Ive and Craig Federighi: The Complete Interview,,20,93,2013-09-26,AAPL,0.036288946866989136,0.9342799186706543,0.029431136325001717
+apple,iMessage usage?,"I have an iPhone 5 running iOS7. In my usage it shows that my iMessage has 2.5 GB saved. It gives me no option to delete it, and all of my texts are deleted. How do i get rid of this? Thank you.",17,78,2013-09-26,AAPL,0.031188037246465683,0.9229037165641785,0.04590817540884018
+iphone,Was excited for my 5s to get here tomorrow.... Well that's not happening any more,,142,1387,2013-09-27,AAPL,0.022212153300642967,0.8803637623786926,0.09742406010627747
+apple,1500 senior execs name Apple most innovative company in the world 9th year running,,194,516,2013-09-27,AAPL,0.027632685378193855,0.8077529668807983,0.16461433470249176
+iphone,"Living in a house with crappy reception, this is one of the small tweaks in iOS 7 that I enjoy",,51,346,2013-09-27,AAPL,0.03680453449487686,0.9259794354438782,0.03721599280834198
+apple,"Major update to VLC for Mac adds 4K support, improved MKV support, interface improvements and more",,79,320,2013-09-27,AAPL,0.013355397619307041,0.5115785598754883,0.47506603598594666
+apple,Alleged iPad mini 2 snaps show the tablet with a fingerprint scanner,,59,160,2013-09-27,AAPL,0.032948851585388184,0.9225065112113953,0.04454471170902252
+apple,"Inside Apple’s A7: dual-core CPU, quad-core GPU, Secure Enclave has 3MB SRAM",,22,127,2013-09-27,AAPL,0.019087718799710274,0.9207432270050049,0.06016899645328522
+apple,Found kind of a cool looking iOS 7 bug.,"This only works if you lock your iPhone from your home screen rather than an app, and your home screen and lock screen wallpapers are different from each other.
+
+Slide to unlock your iPhone, then catch it and slide back the other direction just barely before it fully unlocks.
+
+Your lock screen wallpaper will change to your home screen wallpaper but the ""slide to unlock"" text and the top/bottom bars will stay the same colors as they were before. It will stay like this until you unlock the phone fully. Can look pretty cool.
+
+http://imgur.com/a/jPqI8",27,120,2013-09-27,AAPL,0.0176407340914011,0.8662826418876648,0.11607663333415985
+ipad,iPad 5 dimensions leaked show thinner than iPhone 5/5s,,70,114,2013-09-27,AAPL,0.03926587477326393,0.7427040934562683,0.21802997589111328
+apple,Apple Feature to Turn MLB Stadiums Into Interactive Playgrounds,,6,82,2013-09-27,AAPL,0.013793906196951866,0.8791989088058472,0.10700716823339462
+iphone,I think this video really shows how amazing the slow motion camera is on the 5s. Front row center at Boston Bruins.,,33,81,2013-09-27,AAPL,0.013017937541007996,0.9053219556808472,0.08166015148162842
+apple,"So I met this guy at a conference, he liked my 5s.","Steve told a few funny prank stories, and gave his thoughts on security, technology and helping people. He was very friendly, and down to earth... I didn't want to monopolize him, (there were a few others too) but he wanted to keep chatting. Great guy!
+
+[Signed 5s!](http://i.imgur.com/M2mNDHX.jpg?1)
+
+Edit: Got a few PMs asking more about the prank stories:
+One was about re-making posted class rosters with the names/locations moved slightly around, causing chaos.
+
+Another was making a TV jammer, and making people believe the odd things they were doing would improve reception (think: standing on one leg with the antenna held up like the statue of liberty's torch).
+
+Hacking his son's computer file system, and making the kid think that his mother was responsible (Steve had her create a folder called ""from mom"" or something similar).
+
+The last one I remember was (re)hack of someone dialing into one of his systems using a illegitimate (and offensively named) account. He somehow got back into the guy's system and made things difficult for him- In the end the other guy was arrested if I recall correctly.",157,655,2013-09-28,AAPL,0.08069557696580887,0.8841296434402466,0.03517472743988037
+iphone,"If I could get this list in descending order, that'd be great.",,20,267,2013-09-28,AAPL,0.0313224233686924,0.9283807277679443,0.04029683768749237
+ipad,Best of /r/ipad,"Back by popular request, the best iPad apps, games, styluses, and cases!
+
+
+*****
+
+Guidelines to keep this working efficiently:
+
+* Sort comments by ""top"" for best effectiveness. 
+
+* Vote for (or add) Best-of-Breed you use, depend on, and recommend...**Why** do you like each, please be specific:  Best features, Key benefits?  How long have you used it?  What similar products have you tried?   
+
+* Put the App Name as the first words when nominating new apps
+
+* **One app per post**
+
+* **Search** for the app before creating a new nomination. 
+
+* **Upvote** an app title if you like it, but **please comment** (reply) if you dislike, and explain why instead of downvoting.  If possible, give alternatives you like better. 
+ 
+* Please orangered me to add a new category if you don't find one others could benefit from.
+
+* If the app only runs on the New(est) iPad, has a separate Retina version, is of the ""freemium"" model, or requires Cydia/jailbreaking, please state as such.
+
+* Please put any general **[Suggestions, Comments, Questions Here](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07kl)**, thanks!
+
+*****
+ 
+###TL;DR
+Search first, look for app, vote, then add comments.  
+
+*****   
+*****   
+###Table of Contents 
+##App categories
+  **|** [App Discovery](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch03ry)
+  **|** [Books, textbooks, comic book readers, e-readers](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch02me)
+  **|** [Business, Finance](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch02pp)
+  **|** [Clocks, Timers, Calendars](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch02vk)
+  **|** [Cloud Sharing, Collaboration, Backup, and Data Sync Tools](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch032f)
+  **|** [Cooking &amp; Dining](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch035c) 
+  **|** [Education, Reference, Science](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch038u)
+  **|** [Entertainment](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch03b6)
+  **|** [Games - Board](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch03vs)
+  **|** [Games - Casual](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch03yu)
+  **|** [Games - FPS](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch040w)
+  **|** [Games - Multiplayer](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch042z)
+  **|** [Games - Puzzle](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch046p)
+  **|** [Games - RPG](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch049p)
+  **|** [Games - Side Scrolling/Arcade](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch04df)
+  **|** [Games - Tower Defense](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch04p6)
+  **|** [Games - Other](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch04qv)
+  **|** [Graphics, Drawing Tools](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch04yw)
+  **|** [Health, Fitness, Medical](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch0528)
+  **|** [Instant Messaging / Communication](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05cz)
+  **|** [IT toolkit &amp; tech utilities](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cchtgmg)
+  **|** [Kids](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cchs9wg)
+  **|** [Lifestyle](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05ei)
+  **|** [Music (Creation / Editing)](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05iq)
+  **|** [Music Players, Discovery, Streaming)](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05n0)
+  **|** [Navigation, Travel, Maps](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05p5)
+  **|** [News, RSS, Magazines](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05sz)
+  **|** [Note Taking, Brainstorming](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch05vl)
+  **|** [Photography, Photo Editing, Picture browsing](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch0601)
+  **|** [Reddit](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch061i)
+  **|** [Shopping, Reviews, Comparing, Buying](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch065o)
+  **|** [Social Networking, Social Media](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch06fh)
+  **|** [Sports](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch06i6)
+  **|** [Time Management &amp; Personal Productivity](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch06ng)
+  **|** [Utilities, Tools, Other (not Cloud, not Productivity, just Other Tools)](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch06uj)
+  **|** [Video Players, Discovery, Editing and Streaming](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch070x)
+  **|** [Voice Notes, Recording](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch074g)
+  **|** [Voice/Video calling (over wi-fi)](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07bh)
+  **|** [Weather](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07dz)
+  **|** [Web Browsing, Web Browsers](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07ik)
+  **|** 
+  **|** and [Meta](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07kl) for discussion. 
+*****
+##Accessories
+  **|** [Cases](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07vn)
+  **|** [Styluses](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/cch07wy)",564,251,2013-09-28,AAPL,0.03697900474071503,0.9329513907432556,0.030069632455706596
+apple,Another Lock Screen Bypass Bug Found In iOS 7.0.2,,73,238,2013-09-28,AAPL,0.10985419899225235,0.8104913830757141,0.07965434342622757
+iphone,Interesting new price for the 4s from Sprint. $99.990000000000001,,13,216,2013-09-28,AAPL,0.028043746948242188,0.9076136946678162,0.06434250622987747
+apple,Why is the google search on safari in iOS7 so bad now? Especially in the image search?,,120,187,2013-09-28,AAPL,0.11203784495592117,0.8679276704788208,0.0200344268232584
+iphone,Why Apple didn't update their iWork apps with iOS7 design?,,70,181,2013-09-28,AAPL,0.03678018972277641,0.932346522808075,0.03087322786450386
+iphone,So glad I decided to eat the ETF with Sprint and jumped ship to AT&amp;T. LTE speeds in my hometown.,,104,149,2013-09-28,AAPL,0.015890251845121384,0.8739043474197388,0.11020534485578537
+iphone,iPhone 5S screen compared to iPhone 5 screen. Dark streaks running down display on my 3rd device in a row. Anyone else notice this?,,54,118,2013-09-28,AAPL,0.049775805324316025,0.9159784913063049,0.03424566984176636
+apple,Apple's new licensing for apps gives it a huge enterprise advantage,,7,116,2013-09-28,AAPL,0.00896192342042923,0.5305497050285339,0.46048837900161743
+iphone,I thought you guys might like this,,100,2057,2013-09-29,AAPL,0.035745251923799515,0.8889156579971313,0.07533912360668182
+apple,About to buy a Macbook Air...,And I have no questions as I've used the search function. Thanks everyone for responding to the questions I may have had.,200,887,2013-09-29,AAPL,0.016022110357880592,0.9281991124153137,0.05577879399061203
+iphone,Speed test comparison between all iPhones ever made since the iPhone 2G.,,59,450,2013-09-29,AAPL,0.019637543708086014,0.5639325976371765,0.41642987728118896
+iphone,At least she's honest.,,15,424,2013-09-29,AAPL,0.04826102405786514,0.6382296681404114,0.31350934505462646
+apple,Why It’s Time for Apple to Open FaceTime,,208,396,2013-09-29,AAPL,0.034349046647548676,0.9045271873474121,0.06112374737858772
+iphone,Steve Jobs wanted to offer iPhone with unlimited voice and data contracts for $49.95 a month.,,62,193,2013-09-29,AAPL,0.0153950871899724,0.9045196771621704,0.08008524775505066
+apple,Took some macro 15x shots with the new iPhone 5s!! Some are hard to focus but they are super fun. Also took some insane 720p slow motion macro videos.,"[Click here for the imgur album full resolution](http://imgur.com/a/B2int). Those burning match photos are insane!!!! It's hard to focus the 15x magnification on round objects, as you can see there is blur with the berry. Going to put together a little video of bugs in 720p Slo-Mo 15x Macro's. It's like watching A Bugs Life.. Cheers!
+
+Edit: Added a couple more lava lamp pics.  I'm using the LensMag off Amazon Prime.  $10!",36,173,2013-09-29,AAPL,0.022152220830321312,0.9375959634780884,0.04025189206004143
+iphone,After updating to IOS7 Siri seems unavailable about 50 percent of the time. Anyone else experiencing this?,,36,126,2013-09-29,AAPL,0.03891647979617119,0.9142186641693115,0.04686487466096878
+ios,Macs/iPads/iPods for my iOS development course!,,34,109,2013-09-29,AAPL,0.01817241497337818,0.9284089803695679,0.053418561816215515
+apple,iPhone 5S homescreen resizes when returning from multitasking,"Hi everyone,
+
+I was just wondering whether anyone was experiencing this issue.
+
+If you own a 5S, when coming back to the homescreen from multitasking, there is a quick fraction of a second where the screen seems to resize itself (stretches up.) It's really brief, and not too noticeable if you're not paying attention. The easiest way to see it is if you look at the carrier name (Verizon or AT&amp;T) right when you get back to the homescreen.
+
+The funny thing is, this doesn't happen with an iOS 7 upgraded iPhone 5, only on the 5S. Which makes me wonder if it's not a software thing but more of a hardware thing.
+
+It also sometimes happens when coming back to the homescreen from an app.
+
+I've gone around to Verizon, ATT &amp; Apple stores to see if it was just my phone, but all of them seem to have this problem.
+
+This happens regardless of whether the parallax motion is on or off.
+
+On a separate note, the parallax motion seems to be pretty choppy if you move the phone around and stare at the apps.
+
+
+
+
+
+Let me know if I'm crazy.",36,94,2013-09-29,AAPL,0.05875357985496521,0.9143903851509094,0.026856031268835068
+apple,"In a company-wide email, Tim Cook applauds awe-inspiring work of Apple employees and gives them the Thanksgiving week off.",,191,973,2013-09-30,AAPL,0.04109290614724159,0.9288383722305298,0.030068686231970787
+iphone,"A note appeared in my phone since I updated to iOS7, I didn't enter it, nobody else has access to my phone.",,123,511,2013-09-30,AAPL,0.05603955313563347,0.9177727103233337,0.02618771232664585
+apple,"Interbrand: Apple now most valuable brand, worth estimated at $98.3 billion",,80,484,2013-09-30,AAPL,0.01596764661371708,0.8932679891586304,0.09076442569494247
+iphone,"The new Game Center banner is extremely obtrusive, and it's really annoying. (iOS 7)",,75,366,2013-09-30,AAPL,0.03890693187713623,0.8658502101898193,0.09524283558130264
+iphone,"Some ""developers"" have no shame",,56,276,2013-09-30,AAPL,0.04260824993252754,0.9267249703407288,0.030666809529066086
+iphone,"Speaking of ""developers"" having no shame, at least they changed the icon color",,37,267,2013-09-30,AAPL,0.021084723994135857,0.813654899597168,0.16526037454605103
+iphone,This is why I hate Game Center. How can you possibly score that many points without cheating?!,,35,194,2013-09-30,AAPL,0.033080216497182846,0.8428361415863037,0.12408363074064255
+apple,iMessages bug anyone?,"Just wanted to see if I was the only one having this problem, but it seems like most of the time I send an iMessage text, it will attempt to send for a bit, nearly finish, then hang permanently.  This is strange because it was working before just fine, but now I can't hardly send ANY regardless of the iOS device I'm on.  
+
+Anyone else experiencing this? Any in particular in Oklahoma (maybe its a server...)?",75,178,2013-09-30,AAPL,0.11514324694871902,0.8489328026771545,0.03592398762702942
+apple,"Apple has been crowned the world’s most valuable brand, knocking Coca-Cola off the top spot for the first time since the influential annual measure was created 13 years ago.",,8,144,2013-09-30,AAPL,0.016614699736237526,0.1458672136068344,0.8375180959701538
+apple,Chinese iPhone buyers desperate for gold turn to $2 stickers,,19,96,2013-09-30,AAPL,0.11456851661205292,0.8085026741027832,0.07692886888980865

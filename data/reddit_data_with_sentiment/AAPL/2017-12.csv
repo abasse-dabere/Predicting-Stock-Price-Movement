@@ -1,0 +1,1119 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+iphone,This is ridiculous.,,293,3071,2017-12-01,AAPL,0.04455428570508957,0.8596145510673523,0.09583112597465515
+apple,iPhone X is the best phone you can buy right now according to The Verge,,761,2023,2017-12-01,AAPL,0.010328237898647785,0.7967196106910706,0.1929522007703781
+apple,Apple Reportedly Planning to Release Most Affordable 9.7-inch iPad Ever in Late 2018,,320,1298,2017-12-01,AAPL,0.013998000882565975,0.9203172326087952,0.06568475067615509
+apple,"Amazon Prime Video app for Apple TV beta testing by employees underway, release date still unknown.",,153,1279,2017-12-01,AAPL,0.04703069105744362,0.9275771379470825,0.025392161682248116
+AppleWatch,It's gonna be tough...,,71,1021,2017-12-01,AAPL,0.030639704316854477,0.8650153279304504,0.10434499382972717
+apple,It seems that everyone who texts a photo to me isn't aware that they've sent a Live Photo which includes audio. I've heard some very interesting things that I imagine the person who took the photo didn't know would be heard by me.,"For example, I've heard the voice of a different person in the background that if known to others would be awkward at best to explain their presence.",191,986,2017-12-01,AAPL,0.05272894352674484,0.915744423866272,0.03152669221162796
+apple,MacOS update undoes root bug fix,,214,932,2017-12-01,AAPL,0.5580350756645203,0.4214619994163513,0.020502828061580658
+apple,I've been on Android for 9 years and finally got an iPhone. My thoughts after 2 weeks...,"I’ve been exclusively using Android for 9 years, since the HTC HD2 release in 2009. I recently bought the iPhone X because I found the hardware offerings on Android incredibly compromised this year and I need to upgrade my old phone. I would have gotten the Note 8 but I swore-off Samsung 4 years ago and I won’t be going back any time soon.
+
+After 2 weeks of using the iPhone X, here’s my pros and cons of the new iPhone and of iOS in general. Sorry, it's a long one.
+
+## Hardware
+#### Pros
+- The thing just feels incredible to hold. I’ve never held a phone quite like it, it’s a very solid and beautifully designed phone. It’s a real shame to put it in a case, but the Apple leather Case happens to be the best case I've ever owned, the metal buttons are a nice touch.
+- The notch is not a big deal at all, and I’ve actually grown quite fond of it. Apps that support it look awesome.
+- I appreciate the way Apple cares about the small details, especially on fundamental things like the way buttons feel or even the vibration motor - so many phones get it wrong and you end up missing calls and messages because they use a petty little motor that you can’t feel in your pocket. The iPhone’s vibration/haptic motor is absolutely perfect, I never miss calls or notifications. 
+- The silence switch is super useful, more phones should have it.
+- For some reason 3D touch makes the phone feel really premium to me. I think it’s because there’s this extra layer of control you get that doesn’t exist on anything else, and it has a lot of utility.
+- The Camera is amazing. Great dynamic range, accurate colours, plenty of details, and finally the iPhone can handle low light situations, something I’ve noticed previous iPhone’s are terrible at compared to the competition. Here’s a [couple of photos](https://imgur.com/a/fTzIx) from last weekend - I think I took them in square mode? I’m still figuring the camera app out, but I like the features it bundles a lot.
+- The microphone quality is excellent in videos, when I compare it to my previous phones it blew them out of the water. Though I haven’t tried it in loud situations yet.
+- AirPods… holy cow they are incredible. To me, they are a legitimate reason to buy the iPhone, they are that good. I think Apple is at least another 1-2 years ahead of the competition with AirPods. 
+- Battery life started off bad, but is pretty good now. Not amazing, but good. I end up on 40% most nights at 12pm after unplugging the phone at 7.30am. My Nexus 6P used to be dead by 3pm, so that’s been nice.
+- Touch latency feels amazing, something iPhones have always been good with. I just wish it was a 120hz/Pro motion display :(
+
+#### Cons
+* Lack of USB-C is stupid in my opinion. It was really useful being able to carry one charger on trips to charge my Macbook and my Phone.
+* Although I don’t mind the Notch overall, it makes the landscape experience crappy. Videos are either heavily letter boxed, or if you zoom to fill the screen it cuts out the top and bottom of the frame AND the notch sits over the edge.
+* The charger in the box is extremely slow which can be annoying. But if it puts less strain on the battery compared to using a fast charger, I’m okay with it.
+- The camera is a bit slow with HDR on. A lot of my photos have turned out blurry because I like to keep HDR on.
+
+#### Other
+- Some people will say no LED notification light is a con, but I always found it distracting and unnecessary.  I disable as many notifications as I possible, I’m kind of militant about it. [This article](https://www.wired.com/story/turn-off-your-push-notifications/) sums up my thoughts.
+
+## Software
+#### Pros
+* I really like iOS so far. I enjoy the design, it feels very user friendly, modern and fluid, it gets out of the way for the most part. I’ve seen a lot of negativity here about iOS 11, but I haven’t had any issues. At a high level I really appreciate how well designed and coherent iOS is compared to Android due to Apple’s stringent human interface guidelines. As a designer, I cannot stand UX and UI inconsistency, and Android is in a pretty ugly state right now with its app experiences varying between Google apps, the amount of duplicate apps they have (e.g. messaging), and they can’t even get the little details right, like icons - Androids icons are a joke.
+* iPhone 3rd party apps are just better. On Android I always felt like a second class citizen because many developers tend to favour iOS before Android, we’d have to wait for iOS exclusive apps to come out on Android, or wait longer for updates to come through, often Google will even update iOS apps before Android gets them.
+- Face ID was one of the factors that persuaded me _away_ from this phone initially, but I really enjoy it now. I do find it a little inconvenient when the phone is on my desk and I kind of have to learn over it to unlock it, but otherwise it just works really well and feels effortless.
+- Something I didn’t expect, Apple lets you uninstall a lot of the pre-installed iOS apps. On Android there are very fews apps you can uninstall, some allow you to disable them. Oh, and no bloatware or duplicate apps! I owned two Samsung phones and they both had 5-15 Samsung apps that do the exact same thing as the apps already bundled in Android. Don’t get me started on carrier bloatware.
+- Apple Pay works as advertised. It feels kind of weird paying for things with my face. I will note that Apple Pay and Android Pay seem to be right on parity, they look and feel very similar.
+- Control center is really good, maybe even more useful than Androids quick settings with the use of force touch on the various panels.
+- As an Android user I naturally enjoy the lack of a physical home button. Even better is the gesture navigation, I love it and it feels totally natural now - I keep trying to use the gestures on my Nexus and being disappointed that they don’t work.
+- Minor, but this is the first phone I’ve used where auto-brightness is pretty damn good, I rarely need to manually adjust it, which is saying something because I’m a massive brightness control freak.
+- Airdrop rocks. It’s simply the best file sharing experience period. Android has PushBullet, and it’s unreliable, and it need to upload your files to a server, then download it on the recipient device, it’s stupid.
+- Night shift is wonderful. I had this feature on my Nexus for about 4 months, and then Google went and disabled it one day so I had to rely on garbage 3rd party options that don’t work properly. Nice.
+
+#### Cons
+- Safari has this “Share” icon right in the middle of the bottom nav bar. **Why** have Apple bundled actions like ‘find in page’ and ‘request desktop site’ in this share menu? It took me way too long to figure out how to find a word on a page.
+- Notifications don’t come anywhere near Android’s notification system, but they aren’t _that_ bad. Good thing I disable most notifications anyway.
+- You can’t make new folders locally in the files app? I wanted somewhere to store a few PDF files locally, but there’s no way to make a folder locally, only in iCloud. Seems like a fairly useless app to me.
+- Some more ways to customise the home screen would be nice. e.g. Allowing you to move widgets out of their prison cell on the left and free to mingle with the app icons if a user wants.
+- I cannot find a good Calendar app on iOS. Readdle’s Calendar app is the closest thing I can find to pure awesome that is Business Calendar on Android. I tried Fantastical, but didn’t like it. I just want a really powerful month view, and it doesn’t seem to exist on iPhone.
+- Quite a few of the in built iOS apps just have awful UX. I haven’t used them all, but the podcasts app in particular is downright baffling, I develop and design software for a living and I can barely figure out how to use that fucking app. I got the Apple Music 3 month trial and ended up trashing the app after an hour of being frustrated by bad the experience was. Google Play Music isn’t much better, but damn I rely on Youtube Red too much now.
+
+#### Other
+- I had high expectations for iMessage as there is _a lot_ of praise out there I had been hearing for years, but it’s really not that great in my opinion. There’s an infinite amount of other messaging competitors that ostensibly do the same thing. Also the confetti/lasers/etc messages are ridiculously pointless.
+- Not a fan of True Tone. I want my whites to be white all the time, I don’t care about the environment I’m in, I just want colours to be consistent. But it can be turned off, so it’s not an issue for me.
+
+    
+
+    
+
+
+
+**TL;DR**: Loving the iPhone X and iOS. The pros of switching from Android to iPhone have severely outweighed the cons for me. Very happy.
+
+
+
+
+Note: Apologies for any spelling mistakes, I wrote a lot of this on my iPhone while I was still getting used to the smaller screen and keyboard.",199,627,2017-12-01,AAPL,0.14811462288101515,0.7774657805760702,0.07441958785057068
+iphone,"As a recent convert to iOS, I absolutely love the Apple ecosystem.",,88,397,2017-12-01,AAPL,0.014931888319551945,0.9011756777763367,0.08389244973659515
+apple,"Apple will stop accepting 32-bit Mac apps starting January 1, 2018",,63,393,2017-12-01,AAPL,0.5972706079483032,0.3867567479610443,0.01597268134355545
+apple,AT&amp;T wants you to forget that it blocked FaceTime over cellular in 2012,,327,9612,2017-12-02,AAPL,0.09703756123781204,0.8736469745635986,0.029315518215298653
+apple,iOS 11.2 released,"iOS 11.2 just got released
+https://imgur.com/a/4Dz9G",713,2183,2017-12-02,AAPL,0.09699009358882904,0.8756903409957886,0.027319585904479027
+iphone,iOS 11.2 (Non-US Edition) Released,,127,1113,2017-12-02,AAPL,0.025001071393489838,0.9437497854232788,0.0312491524964571
+iphone,PSA: iPhone Reboot/Respring Issues Megathread,"**UPDATE: iOS 11.2 update is now available - it fixes the issue.**
+
+**What's the issue?**
+
+Lots of people on **iOS 11.1.2** *and maybe other versions* have been facing issues in the past 24 hours or so, suffering from reboots/bootloops after seconds or minutes of using their phone. *This issue may affect iPads as well (not confirmed).*
+
+Technically this is actually a ""respring"" if you see a spinning circle rather than the Apple logo.
+
+This means that Springboard (the home screen with all the icons) is reloading itself, but your entire phone remains switched on throughout. You will be prompted to enter your passcode again once Springboard has reloaded.
+
+**Some possible solutions until Apple publishes a fix:**
+*Force restart your phone after trying any of these as they may not work straight away. Remember different iPhones have different force restart methods.*
+
+*iPhone 6/s and below: home + power*
+*iPhone 7: volume down + power*
+*iPhone 8/X: press then let go volume up, press and let go volume down, hold power.*
+
+**- Senior Apple Support Reps are suggesting manually setting the date to 1 day before the problem started (thanks u/xyzeian). However, this is NOT recommended. You should be aware that an incorrect date/time can affect many other aspects of your phone. Read on for a better fix.**
+*Apple Support is currently being flooded with calls about this; please don't ring unless you have a separate issue. Their engineering team is working on a fix.*
+
+**UPDATE: If you have an app that has local notifications with repeating settings (this means apps that don't rely on a server in order to notify you, e.g. Headspace, Calm, or any other apps that use notifications that work on airplane mode) it will crash iOS Springboard, commencing Dec. 2 @ 12:15am. Disabling notifications for these apps may fix your issue.**
+
+**UPDATE 2: Don’t turn back the date. Many server calls will fail which means websites won’t load correctly or at all, apps may not update or launch (twitter, whatsapp) and calendar events, reminders, and messages won’t work.**
+
+**Best viable workaround is to turn off third-party notifications. If you’re not sure which apps employ local, repeating notifications, turn them all off.**
+
+**The soon-to-be released iOS 11.2 has already fixed this issue.**
+*You can update to the beta, but it's recommended that you wait until Apple publishes a public iOS update, which will inevitably happen soon.*
+
+**If you cannot disable your notifications, then temporarily roll back your date and time to 1 week ago, this will enable you to disable your notifications and then you can return to the current date and time without glitches.**
+
+- Changing your timezone to Honolulu, or changing your date and time to 1 week ago may temporarily fix the issue. It seems like the issue may be based on or linked to your system clock.
+
+- Some people have reported that deleting the Headspace app (if you have it installed) will solve this issue. However, there are plenty of people that never had the app and are still facing the issue so this may not work. *I have contacted Headspace support; I will update this post when I hear back.*
+
+- Disable Background App Refresh (Settings &gt; General)
+
+- Settings &gt; About &gt; Reset &gt; Reset All Settings (use as last resort, or just wait for a fix and play outside)
+
+**Other recommendations:**
+
+- Make a full backup of your device via iTunes. If your phone is doing a RESPRING, not a reboot, then you will be able to back up even whilst it resprings. Your phone is replaceable; your photos *aren't*.
+
+- If your phone is getting too hot, switch it off completely to avoid any damage, and keep an eye on this thread for a possible fix
+
+
+**What DOESN'T work (according to user reports):**
+
+- Hard reset by holding Power + Home button: doesn't fix the problem
+
+- Reinstall apps: doesn't fix the problem
+
+- Restart the phone: doesn't fix the problem",257,804,2017-12-02,AAPL,0.0802093967795372,0.8906509280204773,0.029139729216694832
+apple,Apple's had a shockingly bad week of software problems,,174,767,2017-12-02,AAPL,0.7113544344902039,0.26643478870391846,0.022210732102394104
+apple,"Hopefully after this entire mess of High Sierra and iOS 11, Apple gets its priorities straight for next year","At this point with all the bugs and delayed features, it’s kind of ridiculous",150,741,2017-12-02,AAPL,0.06112829968333244,0.8004677295684814,0.1384039670228958
+apple,Trying to make sense of faceID vs one plus 5T face recognition reviews.,"This how reviewers compared faceID on the X and facial recognition on the one plus 5T.
+
+Apple: ""we use infrared which can work in dark"" -&gt; Reviewers : “Lets test it in dark, in sun and maybe even under different types of light”
+
+One plus : ""we use RGB camera"" -&gt; Reviewers : “It works for me most of the time”. I guess testing in the dark is not needed now.
+
+Apple: “we use 30000 points plus 3D image” -&gt; Reviewers : “lets uses masks, twins and everything else we can think of”
+
+One plus says “100 points of data and a 2D image” -&gt; Reviewers : “it doesnt work with a pic, so it must be secure.”
+
+Apple : ""2D images are deleted immediately and 3D data is hashed and is in secure enclave"" -&gt; Reviewers : ”we are still worried and not sure about privacy issues“‘
+
+One plus says, well nothing -&gt; Reviewers are like, privacy? what is that? I have heard that word somewhere.
+
+Apple : ""we ditched toucID"" -&gt; Reviewers : ”well now the damn thing doesnt work on a desk""
+
+One plus : ""fingerprint sensor on the back"" -&gt; Reviewers “well it has fingerprint sensor, so it convenient in every case faceID doesn’t work” . I guess people dont keep their one plus devices on the desk.
+
+I really cannot make sense of how reviewers come up with such reviews (im not sure whether I can call these reviews at this point). Granted the X is super expensive (I personally find it hard to recommend to normal users at that price). And I personally believe one plus is a more value buy. But if you are comparing two things then have the courtesy to do a fair review. Dont call yourselves unbiased and straightforward while pulling shit like this.
+
+What is the argument to justify these reviewers? Is it that one plus is cheaper? So then someone who spends only a 500$ for the phone doesn’t deserve to be informed about what they are getting? Is the justification that one plus has a fingerprint sensor as backup? Well I hate to tell you this but your overall security is determined by the weakest link in the chain. 
+
+With all that said the only logical conclusion that I can see as the reason for such a behaviour from reviewers is that videos about Apple, clickbaity titles like “faceID fails”, conspiracy theories like “maybe a layer of oil will break faceID” (Unbox therapy) gets you more views and more clicks.",216,663,2017-12-02,AAPL,0.07520897686481476,0.8973971009254456,0.027393905445933342
+apple,PSA: iOS devices may get stuck in a respring/reboot loop once the date rolls over to Dec 2. (x-post from /r/iphone),,111,535,2017-12-02,AAPL,0.43820562958717346,0.5413923263549805,0.020402053371071815
+iphone,Google could be forced to pay £2.7bil to iPhone users for unlawfully selling their data,,22,508,2017-12-02,AAPL,0.09872296452522278,0.8751690983772278,0.026107918471097946
+iphone,"[META] In addition to the numerous “look at my iPhone X” posts, we all get that the saddle brown case ages well. I don’t need several pictures a day to show me that.",,25,420,2017-12-02,AAPL,0.01962861604988575,0.8993321657180786,0.08103924244642258
+apple,Apple's Tim Cook says developers have earned $17 billion from China App Store,,102,1372,2017-12-03,AAPL,0.025450577959418297,0.8501242399215698,0.12442512810230255
+iphone,"Apple Support on Twitter: ""Apple Pay Cash will begin rolling out early next week.""",,61,660,2017-12-03,AAPL,0.027993442490696907,0.9146998524665833,0.05730673298239708
+iphone,New Snapchat UI tour.,,130,425,2017-12-03,AAPL,0.030530959367752075,0.9231508374214172,0.04631824791431427
+iphone,"You never cease to amaze, Siri.",,39,419,2017-12-03,AAPL,0.05005428567528725,0.8967399597167969,0.0532056987285614
+mac,"You guys and your fancy mac-books, im here with my first gen Macintosh (inside is signed)",,63,416,2017-12-03,AAPL,0.0177087914198637,0.9020736813545227,0.08021745830774307
+iphone,Original iPhone review by CNET in 2007,,59,374,2017-12-03,AAPL,0.03513379767537117,0.9340261816978455,0.030839990824460983
+apple,So much for attention to detail...,https://i.imgur.com/Nzi21xR.jpg,91,358,2017-12-03,AAPL,0.032319869846105576,0.9278954267501831,0.03978467732667923
+apple,"iOS 11.2 now lets you know that wifi isn’t exactly turned off, it’s just not accepting nearby connections for a day.","[As seen here. 
+](https://i.imgur.com/QvXtO9q.jpg)",269,340,2017-12-03,AAPL,0.04061143100261688,0.8932555913925171,0.06613293290138245
+AppleWatch,This place has amazing doughnuts — and it did this!! 🍩❤️ ⌚️,,19,302,2017-12-03,AAPL,0.034375011920928955,0.8922562003135681,0.0733688548207283
+apple,It’s been a tiring week at Apple,They forgot to change [this](http://imgur.com/eRvy1Ba) with actual text and put the mock up instead,46,297,2017-12-03,AAPL,0.07811898738145828,0.8973808884620667,0.02450016513466835
+iphone,Using the iPhone X’s portrait mode and an app called Focos,,179,6666,2017-12-04,AAPL,0.01335226185619831,0.9301157593727112,0.05653199553489685
+apple,FaceID can't recognize my eyes .... lol,[deleted],362,3494,2017-12-04,AAPL,0.06615205109119415,0.9076412916183472,0.02620663121342659
+iphone,iOS Feature Request: Force Touch Bluetooth or WiFi Here to Take You to Their Settings Page to Disable,,166,2355,2017-12-04,AAPL,0.029502209275960922,0.9304460883140564,0.04005169868469238
+apple,Apple classifies 2011 Mac Mini as obsolete,,230,908,2017-12-04,AAPL,0.028096284717321396,0.9319108128547668,0.03999291732907295
+AppleWatch,100 day move streak coinciding with 100 days of not drinking!,,49,757,2017-12-04,AAPL,0.029531648382544518,0.9077268838882446,0.0627414807677269
+iphone,Putting on a screen protector,,63,652,2017-12-04,AAPL,0.07138136774301529,0.9024844169616699,0.026134232059121132
+iphone,I can’t wait for an update to the notification system. This is ridiculous.,,135,617,2017-12-04,AAPL,0.04734523594379425,0.9315751791000366,0.02107960544526577
+apple,iPhone X Early Adoption Rate Said to Beat iPhone 8 and 7 Plus Levels,,139,521,2017-12-04,AAPL,0.021083464846014977,0.06047485023736954,0.9184417724609375
+apple,PSA / TIL: Google Maps tracks EVERYWHERE you go. Here's how to turn it off.,"Didn't think it was tracking everywhere I go... If this was common knowledge, I apologize. 
+
+But anyways, here's how to turn it off:
+
+* Go to settings from menu in Google Maps
+* Go to About, terms &amp; privacy (at the very bottom)
+* Turn off Location data collection
+
+**EDIT / UPDATE**:
+
+Clearly this is something people have strong opinions over. But my intention isn't to wear a tinfoil and rave about end of the world conspiracy. I found a setting that was slightly buried and was *slightly* uncomfortable with that. I was simply sharing something I discovered, whether it was common knowledge or not. If this sounded like ""conspiracy theory"", then my apologies, that was not my intention.",316,519,2017-12-04,AAPL,0.04975266009569168,0.9043079018592834,0.04593944549560547
+iphone,Instagram updated their volume indicator to the top left corner on iPhone X. Incredibly satisfying.,,35,497,2017-12-04,AAPL,0.021057384088635445,0.8857419490814209,0.09320063889026642
+apple,"Just found out there’s an option to remove In-App Ratings requests, in the iTunes and App Store’s settings! I’m sure I’m late to the party here, but if at least one person doesn’t know this, it’s worth mentioning it.",,276,7731,2017-12-05,AAPL,0.18381084501743317,0.7903042435646057,0.025884872302412987
+iphone,Instagram updated the volume slider for iPhone X and it’s ten times better than the native one,,267,2790,2017-12-05,AAPL,0.021965298801660538,0.5880142450332642,0.3900204300880432
+iphone,A year and a half ago I asked Craig Federighi about the annoying iOS volume indicator and he responded. Ignored my follow up though.,,139,1193,2017-12-05,AAPL,0.025591490790247917,0.8922487497329712,0.08215969800949097
+iphone,"Goodnight, sweet prince",,71,813,2017-12-05,AAPL,0.05967211723327637,0.838619589805603,0.10170828551054001
+apple,Anyone found themselves constantly using spotlight for calculations instead of the calculator app on Mac?,,110,519,2017-12-05,AAPL,0.10930921882390976,0.87110435962677,0.019586440175771713
+apple,Fan made iPhone Ad — let me know what you think :),,130,400,2017-12-05,AAPL,0.015700632706284523,0.9128186702728271,0.07148074358701706
+apple,watchOS 4.2 for Apple Watch now available with Apple Pay Cash support,,81,366,2017-12-05,AAPL,0.02875201217830181,0.9388221502304077,0.03242583945393562
+AppleWatch,watchOS 4.2 now available!,,221,351,2017-12-05,AAPL,0.050084859132766724,0.9082638621330261,0.041651297360658646
+apple,iPhone X Charging Speeds Compared: The Fastest and Easiest Ways to Charge Your iPhone,,166,345,2017-12-05,AAPL,0.06181952729821205,0.5448195934295654,0.3933608829975128
+iphone,my iPhone 8 is trying to get in the Portrait Mode game,,36,327,2017-12-05,AAPL,0.022015992552042007,0.9294920563697815,0.0484919399023056
+apple,Amazon Prime Video now out on Apple TV!,,810,8114,2017-12-06,AAPL,0.037211738526821136,0.9341947436332703,0.028593506664037704
+iphone,My 'Screenshots' folder since getting the iPhone X..,,339,4858,2017-12-06,AAPL,0.038194090127944946,0.9051143527030945,0.05669155344367027
+apple,Thoughts from a former Android user,"I've been an android user for the past 6 years, and the iPhone X is my first iPhone. 
+
+&amp;nbsp;
+
+    Hardware: 
+Coming from old LG, HTC, and Samsung phones I can say that the iPhone X has the best build quality by far. I especially was pulled towards the iPhone X because it has a pretty big screen, but in a smaller form factor.
+
+* The phone feels really good to hold and really premium. 
+
+* The wireless charging I think is important since it'll be pushed quite a bit more in the near future. 
+
+* No headphone jack isn't great, but I don't really use it much as it is, I think people get hung up on that point too much.
+I don't think that lightning cable instead of USB C is that big of a deal either, but USB C would have been nice. 
+
+* The device's buttons all feel great, and I actually really like the mute switch, I feel like more phones should have it. 
+
+* The speakers on this phone are absolutely insane in comparison to most phones. The utilization of the earpiece as a speaker is really smart.
+
+* The cameras on the front and back of this phone are really amazing. I'm very impressed with low light performance, and love the moving pictures IOS takes.
+
+* Call Quality is really good, and my voice sounds clear.
+
+* I know the notch is love or hate for some people, but really I think its a good thing. I'd rather have the extra screen at the top than not at all. It feels like I have a full sized screen covering my phone, then I have important information displayed at all times at the top. My only gripe is that I want battery percentage up there in the battery icon.
+
+&amp;nbsp;
+
+    Software: 
+As far as software went I was a little concerned I would be missing some Android features, but that's not really the case usually.
+
+* My two favorite software features are the Voicemail and iMessage. 
+Reading Voicemails has to be one of the coolest things ever, and now I don't want to go back. 
+
+* Also iMessage is really amazing too. Texting from my computer is such an amazing convenience since I'm at my desk alot that I'm curious why other companies haven't found a good alternative to iMessage. (I also think texting money is really cool but its a new feature not utilized much yet)
+
+* Phone navigation for me was probably my biggest concern. 
+I thought it would be annoying not having the standard 3 on screen Android buttons. But I was completely wrong. The swipe home and multi-tasking I wasn't too worried about, but going back I thought was going to be really annoying. I'm really glad I was concerned over nothing, because once I figured out about swiping to go back I wondered why I ever pressed a button in the first place. For sure I can say that phone navigation on this thing is top notch, no pun intended.
+
+* I think the Control Center and the Notification screen are alright, but could use work.
+
+* The Control Center is nice, but I think that it should be more easily accessible with one hand. There is an option for accessibility, but I think the gesture could use some work, it's really hard to trigger. I'd also like to point out I don't like the Control Center and Notification page having different animations. 
+
+* The Notification page... Ok if there's anything I like less about this phone than my old Android phones it has to be this. Please just give me an option to group my notifications, I don't need to see 20 discord messages or 30 twitter messages on my lock screen all individually. I wish it would group them by app so I could see that I have a text message without scrolling down 500 kilometers. 
+
+&amp;nbsp;
+
+    Apple's Apps and Services: 
+I really don't have a whole lot to say about this so I'll be brief on this topic.
+
+* Apple Wallet is great when it works. There isn't support everywhere, but I like the convenience.
+
+* Apple Maps are better now, but honestly I still prefer Google Maps.
+
+* I don't use the mail app, since all my email accounts are Gmail, so I just use that app.
+
+* Ok, I didn't think I would use it, but the News App and it's corresponding widget I actually use alot. Good work Apple, I actually keep up with news now. lol
+
+* Apple music I won't use since I prefer Spotify. 
+
+* Siri is garbage, but I don't really like Google Assistant either. lol
+
+All other Apple apps aren't worth mention for me because I just flat out don't use them. I still use stuff like Alarm clock, but every phone is pretty much equal on these things.
+
+&amp;nbsp;
+
+    Third Party Apps: 
+Another brief section, but I really couldn't skip over it.
+
+
+Third Party Apps on iPhone are pretty much exactly the same.
+My one gripe though is when an App isn't optimized for iPhone X I die a little bit on the inside. I thought it wouldn't bother me, but when I'm holding my phone and about 25% of the screen isn't utilized it really hurts.
+
+&amp;nbsp;
+
+    Other Thoughts: 
+Just little things I wanted to mention
+
+
+* Long-Term Software support is amazing. I never had anything like that on Android. 
+
+* Apple Support is really good. I had some issues with logging into iMessage and the customer support was very very good in comparison to almost any other customer support I've ever used.
+
+* I don't really use 3D Touch, but I think its cool.
+
+* People talk about OLED being on Android phones for years, and that's true, I've had OLED for many years now, but I actually think that this is the best screen I've ever used. It looks amazing, the colors are fantastic, and I love true tone.
+
+* I got an Apple Leather case and can say its pretty great. The metal buttons are cool.
+
+&amp;nbsp;
+
+TLDR: iPhone X is amazing. I love the hardware, the software is also pretty good, but could use a little work. And Third Party Apps need to seriously step up their game.
+
+If I had to rate this phone I'd give it a 9/10, I'd say the hardware is all there, but the software is still lagging behind a little bit. But this is by far the best phone I've ever used. 
+
+I know this was a really long post and I don't know if it'll help anyone, but I think it might help Android users that are on the edge. 
+
+I've also edited this a couple times for formatting to make it a little more structured. Thanks for reading.",201,1102,2017-12-06,AAPL,0.026458092033863068,0.9268108606338501,0.046731049194931984
+AppleWatch,"TIL An Apple Watch will tell you, “Happy Birthday!”",,64,437,2017-12-06,AAPL,0.033986326307058334,0.8948423266410828,0.07117138803005219
+apple,Apple mistakenly starts promoting Amazon Prime Video for Apple TV ahead of release,,60,309,2017-12-06,AAPL,0.054553303867578506,0.9210590720176697,0.0243876613676548
+appletv,Prime Video is Here!,Finally!,155,299,2017-12-06,AAPL,0.02779896929860115,0.9367119669914246,0.0354890301823616
+apple,Touch ID vs. Face ID - Your opinion after 1 month of using the iPhone X,"After one month of using the iPhone X I thought it would be a good time to hear what early adopters think of the new authentication process compared to the old one. Which one do you prefer generally speaking?
+
+Here's my opinion:
+
+Although Face ID works great in most situations, even better than I had expected, it has its shortcomings. For me Touch ID is, generally speaking, the superior authentication method.
+Here's why:
+
+* Touch ID is faster, yeah it just is. If you think about the complexity of face id it's not really a surprise.
+* Touch ID works in 99% of situations compared to maybe 98% for Face ID. The most frustrating is probably when looking at your phone in bed. Either your face is partly hidden or the phone is too close to your face. It seems to get better with time though and works pretty well for me currently. Another one is when the phone is on a desk, although it works pretty well at different angles, touch ID is just more convenient.
+
+That being said Face ID has advantages over Touch ID:
+
+* Looking at the lockscreen to show the notification preview is awesome
+* In-App Face ID authentication (for passwords, logins, etc.) is superior to touch ID, no need to do anything.
+* Wet fingers! 
+
+Edit: Thanks everyone for the great feedback ! Looks like a majority favors Face ID",297,294,2017-12-06,AAPL,0.020556263625621796,0.8711012005805969,0.10834252089262009
+apple,Apple rebrands iTunes Movies with new @AppleTV account on Twitter,,66,244,2017-12-06,AAPL,0.025244835764169693,0.9441008567810059,0.030654331669211388
+apple,"Amazon Prime Video on Apple TV limited to 2.1 stereo sound, despite streaming 4K HDR video",,40,237,2017-12-06,AAPL,0.01833273284137249,0.8975509405136108,0.08411635458469391
+apple,Apple's 'The Rock x Siri' Cracks Top 10 Most Watched Ads on YouTube in 2017,[deleted],19,236,2017-12-06,AAPL,0.03279205039143562,0.8599944710731506,0.10721350461244583
+apple,Underrated iOS 11.2 feature. Calls Handoff.,,305,3660,2017-12-07,AAPL,0.04558701068162918,0.9178738594055176,0.03653912991285324
+AppleWatch,Okay Carrot. Will do.,,41,768,2017-12-07,AAPL,0.024519501253962517,0.8118845820426941,0.16359591484069824
+apple,LG hints that a deal to supply OLED screens for the iPhone X may be close,,162,662,2017-12-07,AAPL,0.027990397065877914,0.8865659236907959,0.08544367551803589
+iphone,What’s up with this huge area of unused space in the latest Apple Store app update? It used to be a thin bar and looked much nicer before.,,147,636,2017-12-07,AAPL,0.020314497873187065,0.8859549760818481,0.09373052418231964
+apple,Affinity Photo goes on sale to 9.99 USD/13.99 CAD!,,116,527,2017-12-07,AAPL,0.018023820593953133,0.8958581686019897,0.08611804246902466
+mac,This has sat unused for a decade. Has never been tuned on,,72,527,2017-12-07,AAPL,0.11198966205120087,0.8189994096755981,0.06901094317436218
+apple,Tim Cook demos iPhone X for Justin Trudeau,,83,487,2017-12-07,AAPL,0.01927725039422512,0.9174046516418457,0.06331809610128403
+apple,I wish Siri could be bilingual...,"I mean, I'd love to be able to ask her to play a song in english and then reply to my text messages in french. There are a lot of people who speak frequently in both english and their first language! I feel like this would be super interesting for them.
+
+Anyone knows if it is currently possible to do? Or if today's technology can be good enough for that?",76,440,2017-12-07,AAPL,0.015191246755421162,0.8134179711341858,0.17139072716236115
+apple,"Zero-day iOS HomeKit vulnerability allows remote access to smart accessories including locks, fix rolling out",,32,314,2017-12-07,AAPL,0.011746234260499477,0.8971877098083496,0.09106610715389252
+apple,Apple’s director of health leaving company to form his own medical records startup,,23,312,2017-12-07,AAPL,0.19693201780319214,0.7853434681892395,0.01772451400756836
+apple,Apple is acquiring music recognition app Shazam.,,873,16663,2017-12-08,AAPL,0.016007037833333015,0.9020611643791199,0.0819317176938057
+iphone,"Just found this guy, he’s even running iOS 6!",,166,1974,2017-12-08,AAPL,0.03059169463813305,0.8369958996772766,0.13241243362426758
+iphone,This carnage is what happens when your iPhone 8+ gets crushed by a hinge inside of your power reclining loveseat. 😬 Thank god for AppleCare. #hulksmash,,214,1592,2017-12-08,AAPL,0.05929465591907501,0.8916669487953186,0.04903843253850937
+iphone,So this is why the iPhone 5s has aged better than previous models. It was really close to the A8 chip on the 6.,,266,1179,2017-12-08,AAPL,0.025458766147494316,0.21211475133895874,0.7624265551567078
+apple,Shot on iPhone: This video quality unlike any phone on the market!,,245,838,2017-12-08,AAPL,0.016757028177380562,0.7707928419113159,0.21245013177394867
+iphone,You can say I’m enjoying the new Apple Pay cash feature quite nicely,,50,607,2017-12-08,AAPL,0.010921924374997616,0.6489906907081604,0.3400874137878418
+apple,Easter egg in the Apple Store App,"Search “Let it snow” in the Apple store app. 
+
+
+
+Spoiler image https://i.imgur.com/3FAYrBG.jpg",48,508,2017-12-08,AAPL,0.034753281623125076,0.9303738474845886,0.03487285226583481
+iphone,Does anyone else’s iPhone do this on YouTube or get stuck in landscape mode?,,38,469,2017-12-08,AAPL,0.5472661256790161,0.4300060272216797,0.022727860137820244
+ipad,Some of the touch targets in iOS 11 are ridiculous,,63,436,2017-12-08,AAPL,0.011593962088227272,0.9169200658798218,0.07148605585098267
+apple,LPT: Apple Pencil is weighted in a manner it won't keep rolling off your table. • r/ipad,,85,369,2017-12-08,AAPL,0.04881727695465088,0.8635174036026001,0.08766531199216843
+iphone,PSA: iPhone slow? Try replacing your battery!,"Since this post has blown up like crazy since I made it, I’m going to revise it to make it more clear and provide a better explanation. This might make some comments outdated. The original post has been archived to pastebin [here.]( https://pastebin.com/JergYngQ)
+
+First, I’ll start with Apple’s official statement on the matter:
+
+&gt;	Our goal is to deliver the best experience for customers, which includes overall performance and prolonging the life of their devices. Lithium-ion batteries become less capable of supplying peak current demands when in cold conditions, have a low battery charge or as they age over time, which can result in the device unexpectedly shutting down to protect its electronic components.
+
+&gt;	Last year we released a feature for iPhone 6, iPhone 6s and iPhone SE to smooth out the instantaneous peaks only when needed to prevent the device from unexpectedly shutting down during these conditions. We’ve now extended that feature to iPhone 7 with iOS 11.2, and plan to add support for other products in the future.
+
+Now let me clear a few things up.
+
+Who does this affect?
+iPhone 6, 6S, SE, and 7 users at the moment, but it will likely continue for all future iPhones until further notice. Something to note about the iPhone 7: with the A10 chip, it has low power and high power cores. The low power cores are used 90% of the time, and should stay at full speed, so you won’t notice any slowdown except in intensive programs such as benchmarks, demanding games, video editing, etc.
+
+Am I affected?
+Depending on the age of your phone and the amount of battery wear, maybe. You can check this for sure by using an app called CPUdasher X that is no longer free, now being $0.99. You can check this by scrolling down to CPU Frequency. The 6 is supposed to be 1400, the 6S 1848, and the 7 2350. As far as I know, there is NO OTHER ALTERNATIVE to this. You can, however, do a geek bench or Antutu test to tell you what your CPU score is compared to what it should be, but it won’t tell you your clock speed. 
+
+How do I fix this?
+You must replace your battery. You can do this in 3 ways:
+
+1.	Do it yourself. You can buy a battery for $10-$20 and follow the guide on iFixit.com to repair your device. This WILL void you warranty, and Apple will not work on your device ever again, meaning all future repairs will have to be done by you. You have been warned.
+2.	Take it to a 3rd party location, such as Experimac of Batteries + Bulbs. Anywhere is fine, but make sure they have a warranty, and check Apple’s pricing before you decide on the store. This will also void your warranty with Apple, and they will never repair it again. You have been warned.
+3.	Take it to Apple. **Apple is charging only $29 for all of 2018** ~~They charge $79 for all devices,~~ and you can take it into an Apple store with another 1 year warranty after you leave.
+
+I’m replacing my battery myself. How do I know what battery to buy?
+Don’t EVER buy an unbranded battery. If it’s generic, it’s likely to be very low quality, and might not even fix the problem. If it has a name brand, it’s probably fine. I will keep a list of brands that work here and will update it whenever someone else lists that brand.
+
+&gt;Cooligg
+
+&gt;Mobile Defenders
+
+&gt;iFixit
+
+As for WHY this happens, it's because the battery degrades over time. The cells die, and the resistance increases, thereby not allowing for peak voltage for the processor. Without slowing down your phone, the phone would just shut off at random times, once your battery would fail to support your phone at peak processor usage. By introduces this slowdown, you can potentially keep using your phone for years as long as you're fine with a slow phone. Replacing the battery will fix this, and your phone will be back up to full speed.
+
+If you are affected, I ask that you report your device model, Geekbench scores, battery voltage, and CPU clock speed if you can. It will help paint a clearer picture for the future.",1126,4582,2017-12-09,AAPL,0.09116630256175995,0.866209089756012,0.04262465611100197
+apple,"[UPDATE] I've made an app that lets you choose how long you want to read for, and then gives you a story from /r/writingprompts of that length","Hi Reddit!
+
+I posted on here about a month ago about an app I made. You pick how long you have to read (1,3 or 5 minutes) and then you will get a story of that length from the best of /r/writingprompts.
+
+Today over 50,000 short stories have been read and I'd just like to say thank you to everyone! Your feedback has been amazing and I have added many features that were requested on the original post (next story button, share feature etc). 
+
+If you haven't checked the app out I'll leave the download links below, I will try my best to add more of the features you want!
+
+Let me know what you think!
+
+Here are the links:
+
+iOS: https://itunes.apple.com/us/app/shortly-read-short-stories/id1297787796?mt=8&amp;ign-mpt=uo%3D4
+
+Google Play: https://play.google.com/store/apps/details?id=com.shortlyreading.qasim.shortly",94,1674,2017-12-09,AAPL,0.022237097844481468,0.9324381351470947,0.045324746519327164
+apple,I miss MagSafe,"Today I tripped on the cord to my girlfriend’s MacBook Pro. Cord yanked out of the adapter and now has a slight kink, Mac went flying but thankfully it was closed and only about 6 inches above the floor, and I saw my entire life flash before my eyes.
+
+I wish Apple had kept MagSafe, even if it was part of the cord with a USB-C adapter at the end.",242,973,2017-12-09,AAPL,0.03348465636372566,0.9155282378196716,0.05098705366253853
+apple,This damn Volume UI needs to go,It [haunts](https://i.imgur.com/siUPt9h.jpg) me.,112,575,2017-12-09,AAPL,0.33004963397979736,0.6241636276245117,0.045786768198013306
+apple,My girlfriends iPhone 6 is on the brink of death. I bought her an iPhone 8 for Christmas. Should I give it to her before Christmas?,"So basically my girlfriends phone sucks ass and doesn’t hold a charge at all, has cracks in he screen, it’s all pixelated looking, she carries her charger with her everywhere because of this. She’s doing an “early Christmas” with her family the 20th and she uses her phone for directions, I’m afraid her phone will just crap out on her and she’ll get lost half way through a 4-5 hour drive.
+
+TLDR- Should I give my girlfriend her iPhone 8 before Christmas?",185,535,2017-12-09,AAPL,0.1499297022819519,0.8247360587120056,0.025334293022751808
+AppleWatch,Just went for my first phoneless/wireless run! Mini review inside,,87,450,2017-12-09,AAPL,0.040907979011535645,0.9285522699356079,0.030539795756340027
+iphone,Fake iPhone X in ad (look at the status bar),,17,389,2017-12-09,AAPL,0.08856817334890366,0.8877459764480591,0.023685824126005173
+apple,So I got my iPhone X today and Face ID works much more reliably for me than Touch ID,"As someone who suffers from *extremely* clammy/sweaty hands I had huge trouble with Touch ID. I’d have to wipe my hands every time I tried to unlock my iPhone and even then it would only work around 1/5 times.
+
+Face ID has so far worked every single time and it has really made the whole experience with my iPhone much less frustrating!
+
+Just thought I’d share for any of you who have the same issue 😀",114,367,2017-12-09,AAPL,0.08563670516014099,0.8684058785438538,0.045957423746585846
+apple,Mildly interesting description of an iPod Touch at Target,https://i.imgur.com/mBlySfG,39,362,2017-12-09,AAPL,0.014369070529937744,0.8914173245429993,0.09421359747648239
+apple,Apple’s widened ban on templated apps is wiping small businesses from the App Store,,103,265,2017-12-09,AAPL,0.06424402445554733,0.9086027145385742,0.027153300121426582
+apple,TIL: The “open book” emoji has a Steve Jobs quote!,,94,3045,2017-12-10,AAPL,0.028119802474975586,0.9213865399360657,0.05049366503953934
+apple,iOS slows down CPU based on battery wear - iPhone slow? Replace your battery,,325,1758,2017-12-10,AAPL,0.04572721943259239,0.910569429397583,0.04370332509279251
+iphone,Does anyone know why “𝐍𝐚𝐭𝐮𝐫𝐚𝐥” would be autocorrecting to a different font?,,232,1753,2017-12-10,AAPL,0.039832230657339096,0.9198529124259949,0.040314823389053345
+iphone,My setup is optimized for one-handed use,,248,1259,2017-12-10,AAPL,0.027733534574508667,0.9380834698677063,0.034183017909526825
+AppleWatch,Two bands are for the weak,,49,660,2017-12-10,AAPL,0.030496753752231598,0.9304112195968628,0.03909202292561531
+AppleWatch,My first apple watch.... Love it.....,,59,467,2017-12-10,AAPL,0.016285903751850128,0.9356472492218018,0.048066817224025726
+apple,Once you start utilizing Apple musics love and dislike feature the for you section actually becomes extremely good.,,124,443,2017-12-10,AAPL,0.01133174728602171,0.8481463193893433,0.14052194356918335
+apple,3D Printed Apple Watch stand in the shape of Thing from The Addams Family,,15,382,2017-12-10,AAPL,0.01872122287750244,0.9383719563484192,0.04290683940052986
+apple,Tiny Wings updated for iPhone X!,"Love this game! No internet required, always fun. Great colors and soundtrack.
+
+I wonder what the developer is doing now- as far as I know, this is his only app but it is a huge hit.",52,377,2017-12-10,AAPL,0.014337818138301373,0.8346976637840271,0.15096457302570343
+apple,iPhone X turns everyone and everything orange,"Gallery link: https://imgur.com/a/9dUQV
+
+Yesterday I tried to create a post about why I dislike the iPhone X camera, but it ended up an incoherent, overly dramatic wall of text, which simply wasn't enough to get my point across. Today I have collected various shots of people from reviews all over the internet to prove my point - this camera will give your face a fake tan the cast of Jersey Shore would be jealous of. While in some cases the look may make sense, it is simply very far from color accuracy when compared to actual professional photography tools and often creates a really unflattering look compared to real life (refer to shots #3 with the blonde girl). I have very pale skin myself and what this phone does to my skin simply makes me look unfamiliar to other people and to myself. My sister was really excited to check out my new iPhone X and when she got to taking photos all she could say was - oh... The raw image quality and detail the phone outputs sure is top tier, but I suspect for many people the end result could be worse than something you'd get out of an entry level smartphone thanks to the completely out of wack color calibration.
+
+Enough rambling, check out the gallery which speaks for itself.",168,352,2017-12-10,AAPL,0.032274093478918076,0.919913649559021,0.04781229794025421
+apple,Every day my iPhone becomes unusable for a couple of minutes because of spam calls. There is no need for an incoming call to block access to the rest of the phone in 2017.,"This really grinds my gear. I will be doing some really important work and an incoming call (which I cannot or should not pick up) interrupts my workflow and I can't do anything about it. 
+
+Generally, 99.99% of calls from unknown numbers are spam calls which I should not pick up. If I pick up, I will get a barrage of calls for the next few hours, days and will probably last for a month. I cannot even decline a call since that also causes an uptick in number of spam calls for the next few minutes and hours. They'll just keep on continuously calling. My phone is practically useless during this time.
+
+I have been able to deal with this somewhat by creating a ""spam"" contact and blocking it but sometimes even that is not enough. It becomes a race against time. I will be racing to add the number to the ""spam"" contact but they will keep on calling. Again and Again and Again.
+
+I just want to throw out my 6S out of the window these days.
+
+TLR; Apple refuses to understand that not all calls are important and it's not always a binary decision between accepting and declining. Sometimes you have to let the calls ring through to avoid the consequences.
+
+**EDIT** - Many people are misinterpreting my desire to continue using my phone during an incoming call with ""apple should help me block spam."" I am not asking for that because I know it's difficult and every region has it's own nuances. Not one size fits all. What flies in the US for blocking spam calls may or may not work Europe or Asia. All I demand is -  **please do not let anyone else decide if I can use my phone or not for other stuff just by making a simple call to my number**
+
+**EDIT 2** - People are still conflating the spam issue with the problems of the phone app. I was just using spam to illustrate the point that how one of the most modern and expensive devices on the market used by millions around the world for purposes much more than its predecessors stops and drops everything it's doing if it gets a call. [/u/JenniOLush](https://www.reddit.com/r/apple/comments/7j1o6v/every_day_my_iphone_becomes_unusable_for_a_couple/dr2zk9m/)  and [/u/pmjm](https://www.reddit.com/r/apple/comments/7j1o6v/every_day_my_iphone_becomes_unusable_for_a_couple/dr33bt8/) have hashed this issue in a much better way than I did.
+[/u/frumperino](https://www.reddit.com/r/apple/comments/7j1o6v/every_day_my_iphone_becomes_unusable_for_a_couple/dr34qws/) also makes some good points.",1468,12421,2017-12-11,AAPL,0.05653567984700203,0.9159485697746277,0.02751573920249939
+apple,Apple Acquires Shazam,,156,1052,2017-12-11,AAPL,0.025639062747359276,0.9036258459091187,0.0707351416349411
+iphone,Wishing the control centre had a progress bar for music,,80,993,2017-12-11,AAPL,0.026247281581163406,0.9380332231521606,0.03571944311261177
+iphone,New combo 🍊,,48,875,2017-12-11,AAPL,0.0341980941593647,0.9169943332672119,0.04880755767226219
+apple,Apple donates $1M to southern California fire relief,,37,667,2017-12-11,AAPL,0.029935888946056366,0.9205698370933533,0.04949421063065529
+AppleWatch,Spicy orange just came in 🍊,,45,566,2017-12-11,AAPL,0.028417134657502174,0.8527979254722595,0.11878500878810883
+apple,Apple will confirm the Shazam acquisition today; Snap and Spotify also expressed interest,,90,530,2017-12-11,AAPL,0.01741921901702881,0.9246572256088257,0.057923514395952225
+iphone,"iPhone 6’s battery life since I upgraded to iOS11 :,(",,119,492,2017-12-11,AAPL,0.03798160329461098,0.5847930908203125,0.37722525000572205
+apple,Apple Maps Lost a Battle This Weekend,"The 2017 Dallas Marathon was held on 12/11/2017. My girlfriend ran it and throughout her run, I was following her around with some family. When the race started, I was using the official marathon app that was pretty inaccurate while using Apple maps to navigate us. Unfortunately, the GPS routes that were calculated didn’t take the blocked roads into account so turn by turn was not the most effective. 
+
+Turns out, Google Maps had the marathon accounted for. They laid down the entire path that both the half and full marathon runners take. And the GPS drew routes that didn’t cross over that trail! I was hugely impressed with that.
+
+So I spent the day using Google Maps. Too bad Apple Maps couldn’t deliver on that front. Looking forward to Apple Maps improving more and more in the future",244,491,2017-12-11,AAPL,0.04382961243391037,0.9034292697906494,0.05274112895131111
+iphone,An Explanation of iOS 11,[deleted],62,401,2017-12-11,AAPL,0.023700814694166183,0.9339969754219055,0.04230223223567009
+apple,"At some point, the iOS team really needs to look at the Reminders and Calendar App.","I mean, the Reminders App is just so ugly and devoid of features. It really needs to be re-integrated back into the Calendar, or re-designed. I get that there are alternatives out there, but with the imminent end of Wunderlist, none of them are visually appealing at all. 
+
+Edit: Well, this blew up.",312,2420,2017-12-12,AAPL,0.028048191219568253,0.9072707295417786,0.0646810382604599
+iphone,The way this border wallpaper fades in is extremely satisfying,,219,2296,2017-12-12,AAPL,0.8215355277061462,0.15192662179470062,0.0265378188341856
+apple,iMac Pro is coming on the 14th of Dec!,https://imgur.com/a/oIypY,553,1674,2017-12-12,AAPL,0.03359157592058182,0.8955449461936951,0.07086347043514252
+apple,Customer made for life,"I recently got the iPhone X, making the jump from Android because what the hell, why not? So far I’ve been enjoying the X immensely, but I developed a hairline crack on the screen. I didn’t know where it came from.
+
+So, I went to the Apple Store near me and inquired. They set up an appointment with the Genius Bar, and ten minutes later (despite a long wait schedule) I was in front of a guy. He explains that it is a scratch and thus user fault, but he went in to confirm. He came back saying that it was definitely a scratch but he’ll throw it under the warranty just for my sake. He was super cool about it.
+
+So, I come 2 hours later to pick up the repaired phone, only to find out that they had run out of the repair parts at the local facility. I was like, “man, now they’re going to have to ship it out for a repair”. Nope. They replace the phone with a brand new one, right out the box. 
+
+So now I’m walking out with a fresh X that costed me exactly nada. The process was fast and the reps were amazing. After dealing with the exact opposite with T-Mobile, this is such a breath of fresh air. Might not seem like much to other people, but Apple really just made a customer for life.",277,1371,2017-12-12,AAPL,0.024740545079112053,0.9188404679298401,0.056419048458337784
+iphone,Back on team iPhone after having an s7 for a year. I don’t know why I ever left.,,306,1146,2017-12-12,AAPL,0.04014229029417038,0.9162371158599854,0.043620578944683075
+apple,iMac Pro MKBHD,"here we go
+
+https://www.youtube.com/watch?v=h-h5Mhlt6O0",283,773,2017-12-12,AAPL,0.023496853187680244,0.9186012744903564,0.05790187045931816
+AppleWatch,Very much digging Ultra Violet!,,67,597,2017-12-12,AAPL,0.020667368546128273,0.9017249941825867,0.077607661485672
+apple,So I just dropped an AirPod 21 stories down an elevator shaft...,If anyone is looking for the ultimate AirPod drop test result look no further! The horror I felt as I watched my right AirPod roll into the crack of the elevator on the 19th floor is something I have never felt from dropping an electronic before. Luckily the two maintenance guys that helped me were super nice. We found it at the bottom of the shaft on the concrete floor. I’ve been testing the sound against the left one and they work perfectly fine. Here is the cosmetic damage [Pic 1](https://imgur.com/gallery/R0qFQ)  [Pic 2](https://imgur.com/a/QtG8I),120,562,2017-12-12,AAPL,0.060940373688936234,0.8907707333564758,0.04828892648220062
+apple,Phil Schiller talks about the gamble of dropping the Home button; says iMac Pro ‘days away’,,80,550,2017-12-12,AAPL,0.0881006121635437,0.8605469465255737,0.05135246366262436
+ipad,My 14-year-old drew this on her iPad with her finger. Think I need to upgrade her to an Apple Pencil for Xmas.,,55,465,2017-12-12,AAPL,0.026959391310811043,0.8860622048377991,0.08697833120822906
+apple,"Apple makes $1,444.76 per second",,306,3295,2017-12-13,AAPL,0.026268234476447105,0.9210111498832703,0.05272069573402405
+apple,"Apple to Invest $390 Million in Finisar, US Maker of iPhone X TrueDepth Camera Lasers",,81,1839,2017-12-13,AAPL,0.012613381259143353,0.8873357772827148,0.10005079954862595
+iphone,"I’ve had these since the iPhone 5, and today I sadly pulled them out of the dryer. Water and heat damage? Toast. I untangled them, put on some music/made a call and THEY WORK! I’m never this lucky",,203,1753,2017-12-13,AAPL,0.11654984205961227,0.8497129082679749,0.03373726084828377
+iphone,My lock screen glitched and I have to say I wasn’t mad at all.,,86,1031,2017-12-13,AAPL,0.10361745953559875,0.8555571436882019,0.04082536697387695
+iphone,Designing a Better Notification Experience for iOS,,64,599,2017-12-13,AAPL,0.020135845988988876,0.7731576561927795,0.20670649409294128
+apple,"I just discovered that when you activate Siri on a Mac, the fans will slow down to be quiet while you talk, then go back up once you finish speaking.","This level of detail and thoughtfulness (besides the recent ""root"" bug) is what Windows is missing.",62,567,2017-12-13,AAPL,0.06435483694076538,0.898666501045227,0.036978624761104584
+apple,OSX adware company threatens to sue malware researcher for finding its software works like malware,,28,516,2017-12-13,AAPL,0.6521508693695068,0.33063751459121704,0.017211610451340675
+AppleWatch,Cold in NJ carrot nailed it this morning,,95,515,2017-12-13,AAPL,0.13349606096744537,0.7148070335388184,0.15169689059257507
+iphone,Been waiting a long time to jump from my Android. Hope it will be everything I thought it would be!,[deleted],159,433,2017-12-13,AAPL,0.022654201835393906,0.7691267728805542,0.2082190364599228
+iphone,Do you use an ad blocker on your iPhone? We created a lightweight tool that blocks all ads on browsers and deactivates online trackers. And it'll block ads in other apps soon. We'll be glad to hear your feedback!,,79,432,2017-12-13,AAPL,0.029961613938212395,0.9286651611328125,0.04137323796749115
+iphone,iOS 11.2.1: Now predicting texts,,244,9884,2017-12-14,AAPL,0.03253424912691116,0.5547168850898743,0.4127488434314728
+apple,Phil Schiller: 'Face ID data isn't shared with third party developers',,243,2105,2017-12-14,AAPL,0.05511283129453659,0.9250752329826355,0.01981195993721485
+apple,"Goodbye, net neutrality—Ajit Pai’s FCC votes to allow blocking and throttling",,202,1060,2017-12-14,AAPL,0.047967102378606796,0.9115781188011169,0.04045472666621208
+apple,"Dear Amazon, thanks for the AppleTV app! I'm loving having Amazon content on it. Now, how shall I put this delicately...why is it so appallingly awful?","You had 2 years to dev this thing, and it's worse than an aTV app my 7th grade cousin released. I know, you didn't initially want to release it. But come on, you're not that stupid. You knew the minute the new aTV came out you'd have to have an app on it eventually, no matter what little pissing match you were going to try and play with Apple. You're not following Apple UI conventions, as the thumbnails don't respond to touch. The scrolling is wacky, since the selection always stays to the left, again, not following convention. It's slow as hell. Watchlist and Continue Watching are broken, no matter how many times I ""select and hold"" to remove an item, it doesn't refresh to show the removal succeeded. There's no X-Ray, no Top Row support, no ""turn off autoplay"" preference, and many other things.  
+
+You had two years. And even if you really didn't know you were going to make an AppleTV app until the announcement this year, this app feels like you forgot to do it until a week before you were supposed to release it. The PBS app is better. PBS! And they're not a bazillion dollar company.",149,917,2017-12-14,AAPL,0.04100207984447479,0.9276620745658875,0.03133581951260567
+apple,"Replaced battery on 6 Plus, instantly back to normal speed! Thanks r/Apple!","I replaced my friend's battery in his iPhone 6 Plus and it went from running at 600mhz to 1400mhz according CPUdasher64. The old battery was at 65% capacity according to coconut battery on my Macbook. I got the battery from Amazon for $25 and it took me about 20 minutes to replace. My friend would have never known this was the reason for the phone running slow had I not seen the post on here. So thank you! (Wish I could find the post with the user and thank him/her directly)
+Anyone else try replacing their battery since seeing that post?",178,594,2017-12-14,AAPL,0.06063059717416763,0.9008398652076721,0.038529615849256516
+iphone,Google Assistant likes Siri!,,14,558,2017-12-14,AAPL,0.025839433073997498,0.9084984660148621,0.06566212326288223
+apple,Amazon is selling the Apple TV and Google Chromecast again,,43,466,2017-12-14,AAPL,0.0227577555924654,0.9201841950416565,0.05705803632736206
+apple,iMac Pro now available to order (Apple Store App only for now),,298,447,2017-12-14,AAPL,0.016686372458934784,0.9299205541610718,0.05339299887418747
+apple,Final Cut Pro X introduces 360-degree VR video editing,,84,440,2017-12-14,AAPL,0.04595104604959488,0.9298354387283325,0.024213558062911034
+iphone,I was causally going to set an alarm for school tomorrow and i see this. Wow.,,32,420,2017-12-14,AAPL,0.0342840813100338,0.9247832298278809,0.04093271493911743
+apple,Face ID should try to recognise you 3 times in a row when you pick up your phone.,"I often pick up my phone to look at my private notifications (great feature) but my face isn’t quite in the right position to unlock it, so I then have to lock the screen and re-activate the screen it when I’m in the right spot just to see my notifications.
+
+Why doesn’t it just try 3 times in a row to give you a chance to get inline with the phone camera, stop yawning, reposition your glasses etc.",271,2533,2017-12-15,AAPL,0.03364192321896553,0.9333036541938782,0.0330544076859951
+iphone,Thanks Siri.,,38,1307,2017-12-15,AAPL,0.02229321375489235,0.7668964862823486,0.21081037819385529
+iphone,Siri Harakiri,,76,1082,2017-12-15,AAPL,0.030757369473576546,0.917177677154541,0.05206499993801117
+apple,Apple Maps gets indoor mapping for more than 30 airports...,,107,978,2017-12-15,AAPL,0.015322902239859104,0.8945265412330627,0.09015057981014252
+apple,iTunes Not Coming to Microsoft's Windows Store in 2017 as Promised,,157,605,2017-12-15,AAPL,0.014831969514489174,0.8877346515655518,0.09743337333202362
+apple,Apple Continues to Work on All-New Mac Pro With Upgradeable Design,,153,588,2017-12-15,AAPL,0.014076563529670238,0.8834995031356812,0.10242387652397156
+iphone,I always press the wrong one,,43,444,2017-12-15,AAPL,0.12272657454013824,0.8314419984817505,0.04583141580224037
+AppleWatch,TIL you can flash your iPhones FLASH/LED from your Apple Watch,"If you need to locate your iPhone, you can make it sound a radar sound from control center on your Apple Watch. 
+
+If you long press the same icon, NOT 3d press, just hold your finger on it, not only will your phone make a sound, it will also flash it's LED.",58,437,2017-12-15,AAPL,0.028265174478292465,0.9378665685653687,0.03386824578046799
+apple,Daring Fireball: First Impressions of the New iMac Pro,,403,434,2017-12-15,AAPL,0.01690891571342945,0.9019157290458679,0.08117535710334778
+apple,"I left Apple Notes for Google Keep, and Came Crawling Back",,127,423,2017-12-15,AAPL,0.31052452325820923,0.6069481372833252,0.08252733945846558
+iphone,"TIL if you take a screenshot with your phone plugged in to your car, it will screenshot the image on the radio as well.",,105,1344,2017-12-16,AAPL,0.022028813138604164,0.9434716105461121,0.03449959307909012
+apple,PSA : Best way to activate AirPods Double Tap function is to tap your ear from behind instead of tapping AirPods,Some people finds Double Tap function is a hit or a miss due to tapping on the wrong location of the AirPods &amp; some finds it hurts their ears. So double tap from behind the ear is easy &amp; always works without any pain in the ears.,103,1255,2017-12-16,AAPL,0.08690129220485687,0.8753907680511475,0.03770797327160835
+iphone,A few of you asked for my wallpaper. Here you go!,,20,901,2017-12-16,AAPL,0.08956371247768402,0.856645941734314,0.05379027873277664
+apple,"Having a widget in the Mac notification center showing battery percentage of devices in iCloud (iPhone, iPad, AirPods, Apple Watch etc.) like on iOS would be nice.",Excuse me for the half baked unprofessional mockup: https://i.imgur.com/zYSQU7i.png,47,891,2017-12-16,AAPL,0.02345319464802742,0.9058111310005188,0.07073569297790527
+apple,Am I the only person who actually enjoys the stock podcast app?,Seems like every time I check this sub somebody is complaining about it. I’ll even go out on a limb and say that I think the removal of the ‘episodes’ tab makes it better.,284,625,2017-12-16,AAPL,0.12027346342802048,0.8536251783370972,0.02610131725668907
+apple,"5 years in, is macOS's Notification Center another abandoned feature like ""Dashboard?""","I've never found any good widgets for it and it seems like there's little interest from either Apple or devs to make any good ones. It is starting to remind me of Dashboard where it's a good idea in theory, but there isn't enough support behind it to make it viable.
+
+The ""notifications"" tab needs work too, most of the time it's just a graveyard of notifications from weeks ago that don't clear automatically.
+
+Is it just me or are there any legitimately good widgets available for the ""Today"" view of Notification Center on macOS?",88,591,2017-12-16,AAPL,0.029831182211637497,0.9299207925796509,0.04024800658226013
+apple,Remember iCloud message sync?,That was cool,93,567,2017-12-16,AAPL,0.03128272667527199,0.9351625442504883,0.033554691821336746
+AppleWatch,I’m obsessed with saddle brown...,,49,427,2017-12-16,AAPL,0.0764460563659668,0.8306581974029541,0.0928957387804985
+apple,"Phil Schiller recounts Apple’s 2017, attributes recent software bugs to a ‘bad week’ in new interview",,129,380,2017-12-16,AAPL,0.5768347978591919,0.3984670042991638,0.02469819039106369
+apple,"Hey r/apple, I taught myself to write swift and built a game, what do you think?","[Video of app in action](https://www.youtube.com/watch?v=tmQEszSre4I)
+
+[Download Link](https://itunes.apple.com/us/app/rebound/id1319656497?ls=1&amp;mt=8)
+
+[Write up in r/iosprogramming about how I learned how to do this](https://www.reddit.com/r/iOSProgramming/comments/7hk0rx/my_first_game_just_got_published_what_i_learned/)
+
+To everyone reading this I hope you're having a great day.  I taught myself how to build apps and I built this simple game over the past few months.  I am working on a theme changer and ipad optimizations for v 4.0 and implementing the soundtrack my friend made for me. I am also building a game with singleplayer and ten person multiplayer! Here is a [preview](https://twitter.com/gavin_shrader/status/940891045906272256) of ""Stride"". If anyone has any questions about how to get started building apps or just really anything I'd be happy to answer them. Also, any feedback you have is greatly appreciated!",72,296,2017-12-16,AAPL,0.018142294138669968,0.8806945085525513,0.10116315633058548
+iphone,"I uploaded my phone background folder. ~400 backgrounds, here.",,168,6596,2017-12-17,AAPL,0.04282999411225319,0.9380221962928772,0.01914781704545021
+apple,Found the photographer who created the new iPhone 8 wallpapers on Behance his name is Shane Griffin.,,59,1642,2017-12-17,AAPL,0.01749572530388832,0.903850257396698,0.07865405082702637
+apple,"PSA: It's 'Taptic Engine' and 'Haptic Feedback', there is no Taptic Feedback","I saw this mistake made on multiple posts here.
+
+Correct me if I'm wrong, but I checked google and it backs me up.
+
+EDIT: Yeah, no one cares, but still, I'm feeling like nitpicking today
+
+EDIT 2: Damn, so salty comments, people were confused with the naming, I pointed it out. Geez, when someone corrects me I say thank you and go back to my life",232,1491,2017-12-17,AAPL,0.25652003288269043,0.7091777324676514,0.03430221229791641
+iphone,"Sorry, but I'm not able to do that.",,51,1307,2017-12-17,AAPL,0.3527577519416809,0.5583257675170898,0.08891646564006805
+apple,Apple OS / MacOS 2020 redesign - Edge to edge Macbook,,209,1060,2017-12-17,AAPL,0.016508392989635468,0.8769930005073547,0.10649857670068741
+AppleWatch,Found my original Apple Watch (series negative 1),,54,959,2017-12-17,AAPL,0.14671222865581512,0.8312788009643555,0.022008957341313362
+apple,iOS 11 document scanner in notes is under the radar greatness.,"If you select the document scanner in notes it will auto scan the page and compensate for any tilt using AR.  They showcased it at WWDC and since the release of iOS devices 11 it has quietly has gone about being Apples’s first, and thus far, only native use of AR kit (right?).  Thumbs up to this unheralded feature.",95,895,2017-12-17,AAPL,0.018163194879889488,0.9026063680648804,0.07923039048910141
+apple,Apparently Christmas demand for AirPods isn’t being met—currently not shipping until January 5th,,214,891,2017-12-17,AAPL,0.04329666122794151,0.9176495671272278,0.039053790271282196
+mac,TIL you can change the Activity Monitor icon,,34,571,2017-12-17,AAPL,0.0409839041531086,0.9334116578102112,0.02560439147055149
+apple,Sold my Fuji mirrorless camera and booked a trip to Shanghai and Seoul. Shot only with my iPhone X and couldn't be happier with the results.,"Hi guys,
+
+Ive been shooting with a DSLR for about 3 years and a Mirrorless (Fuji xt1 + xt2) for about 2. Even with the mirrorless, I found the thing to much of a hassle to bring around with me everywhere. Both cameras were also super overkill for the travel photography I was interesting in shooting. All I ever really did was post on instagram and on Squarespace now and then. I do not plan on making a dime from my photographs nor do I want to. 
+
+When the iPhone X came out I was absolutely in love with the device and started to wonder if the iPhone was capable of being my main shooter. I asked around on a few subreddits and 9/10 times people were in favor of the Fuji xt-2. Clearly, the mirrorless is better than the iPhone X. However, I don't think it was that much better in my case to warrant keeping a $2,000 dollar camera and hauling it around with me.
+
+I sold the camera and used that money to book a flight to Shanghai and then Seoul. 
+
+Here are the pictures I took - www.phaotos.com 
+
+At first, I was super nervous about how I booked a trip with the sole intentions of taking pictures and I didn't even have a good camera to capture these moments with. I was quickly proved wrong and was loving the images I was getting with the iPhone X. 
+
+All of these images are edited in VSCO cam. I own all of the packs and am a VSCO X member. However, I 80% of the time use A6. Also, starting to use the iPhone's exposure setting significantly improved my shots. 
+
+I dont think selling a mirrorless camera for an iPhone is a good idea for everyone. But I'm glad I did it. I would def keep a DSLR or Mirrorless if you take photography a bit more seriously than I do. 
+
+Enjoy :-)",112,557,2017-12-17,AAPL,0.02329375222325325,0.91523677110672,0.061469532549381256
+apple,Geekbench data confirms suspicions posted here: Apple throttles CPU speed as battery degrades,,960,4431,2017-12-18,AAPL,0.022053638473153114,0.8720895051956177,0.10585686564445496
+apple,Don’t you just love it when you remove the iPhone case and you feel the awesome apple design and a new phone kinda feel,,516,2858,2017-12-18,AAPL,0.011898066848516464,0.8104918003082275,0.17761015892028809
+iphone,UPS driver delivers $1000 iPhone X to a Florida home right on time but then returns to STEAL it two hours later,,200,2125,2017-12-18,AAPL,0.020892305299639702,0.9252969622612,0.0538107231259346
+iphone,Cydia on the iPhone X,,234,911,2017-12-18,AAPL,0.014883886091411114,0.8764656186103821,0.10865049809217453
+iphone,Me waiting for the day my iPhone automatically adjusts orientation based on the orientation of the phone to my face,,27,865,2017-12-18,AAPL,0.024166611954569817,0.9364436864852905,0.03938966989517212
+apple,Siri would be much better if it didn’t take over the whole screen.,"Why do I need to see the Siri screen when I’m asking to play music, etc.?",79,840,2017-12-18,AAPL,0.03905034810304642,0.930110514163971,0.03083914890885353
+iphone,Kills me every time I realise we have THIS compared to the Google Assistant,,163,792,2017-12-18,AAPL,0.20398662984371185,0.7621660232543945,0.033847320824861526
+apple,Caution: Don't buy the iOS version of Cuphead!,"Seems like something as huge as this can pass under Apple's radar: https://itunes.apple.com/it/app/cuphead/id1324520240?mt=8
+
+
+http://toucharcade.com/2017/12/18/cuphead-just-had-a-surprise-launch-on-the-app-store-and-it-is-available-now-for-4-99/ Toucharcade reported on this, but the devs confirmed it's a scam.
+
+
+The app was not made by StudioMDHR, is glitchy and doesn't play right. It seems that someone may have taken the assets from the full game and patched together a semi functional port for iOS. They even took the time to put up a fake site (http://studiomdhrgames.com).
+
+
+Avoid buying this game, and if you did ask for a refund. And shame on Apple for dropping the ball like this...
+
+
+EDIT: response from Studio MDHR, the developers of Cuphead: https://twitter.com/StudioMDHR/status/942762652857716736
+
+
+EDIT 2: finally Apple removed the fake app from the store.",108,688,2017-12-18,AAPL,0.14298851788043976,0.8280510902404785,0.02896041050553322
+apple,"PSA- Starting today in the US, all iPhone X models deliver the next day as Apple now has reached supply-demand equilibrium",All iPhone X models ordered online deliver the next day in the US.,98,675,2017-12-18,AAPL,0.014773458242416382,0.87904953956604,0.10617702454328537
+AppleWatch,Apple has a winner here with comfort,,123,410,2017-12-18,AAPL,0.03790442645549774,0.7080250382423401,0.254070520401001
+apple,Searching iMessage history is a complete joke,"How is it that after having a search function in iMessage for years, we're still unable to search further than 20 or so messages in each chain?",286,3748,2017-12-19,AAPL,0.06791029870510101,0.9100127816200256,0.022076888009905815
+apple,Latest 4K drone footage of Apple Park shows it's starting to live up to its name,,201,1500,2017-12-19,AAPL,0.03354431688785553,0.927967369556427,0.03848828375339508
+iphone,Anyone else gets this? The song could be halfway in and it says it’s at the beginning,,108,966,2017-12-19,AAPL,0.05993106588721275,0.8905775547027588,0.04949143901467323
+apple,LPT: while using AirPods you can tell Siri the exact volume you want. E.g 27%,"Thought I should share this. 
+
+:)",93,886,2017-12-19,AAPL,0.03016214445233345,0.9148160815238953,0.05502180755138397
+apple,I'm a bit surprised Apple hasn't changed the Messages icon on iOS devices to blue yet.,"It seems like it'd make more sense for it to be blue for continuity with iMessage, rather than keep it green for ""regular"" messaging.",126,607,2017-12-19,AAPL,0.020049788057804108,0.9001762866973877,0.0797739028930664
+apple,Shazam Updates iOS App With Offline Mode,,47,529,2017-12-19,AAPL,0.0894913449883461,0.8639710545539856,0.04653758555650711
+AppleWatch,my wife and I bought ourselves some Christmas presents.,,53,487,2017-12-19,AAPL,0.06325346231460571,0.8686478734016418,0.06809863448143005
+iphone,"Little tip: if you’re afraid of a burn-in on your iPhone X while using gps on your trip, the screen will manually sleep and wake when your turn is near.",,97,487,2017-12-19,AAPL,0.033355776220560074,0.9274252653121948,0.03921894356608391
+apple,Geekbench and Reddit think they’ve cracked why iPhones get slower over time,,115,407,2017-12-19,AAPL,0.1984507292509079,0.7566857933998108,0.04486345499753952
+apple,Ming-Chi Kuo Expects Upgraded AirPods to Launch in Mid to Late 2018,,98,319,2017-12-19,AAPL,0.018969126045703888,0.9153507351875305,0.06568018347024918
+apple,"Apple to combine iPhone, iPad and Mac apps with MacOS 10.14 and iOS 12 in late 2018",,916,6380,2017-12-20,AAPL,0.04889286309480667,0.9114899635314941,0.03961712867021561
+iphone,Genius Bar at SoHo Apple Store – September 2003,,235,2585,2017-12-20,AAPL,0.04053786024451256,0.9216493368148804,0.03781278058886528
+apple,Apple addresses why people are saying their iPhones with older batteries are running “slower”,,834,1536,2017-12-20,AAPL,0.4032496213912964,0.5516337156295776,0.04511670023202896
+iphone,Somebody help this dude out with Apple Pay,,39,1361,2017-12-20,AAPL,0.03310888260602951,0.8916380405426025,0.07525314390659332
+apple,"Apple, let Google Maps work on Carplay","Literally my one and largest gripe with the platform as a whole. I just want to use Google Maps with CarPlay like I can with Android Auto. 
+
+How does everyone else feel? Do you think this will ever happen?",202,838,2017-12-20,AAPL,0.03442768752574921,0.9363477230072021,0.02922459878027439
+apple,How far ahead of Apple Maps is Google Maps?,,362,719,2017-12-20,AAPL,0.03207765147089958,0.9348423480987549,0.033080026507377625
+apple,"Samsung reportedly hits 90% yield with iPhone X displays, Apple quadruples order",,64,438,2017-12-20,AAPL,0.06377182900905609,0.4398307502269745,0.496397465467453
+apple,iOS still has one of the smallest call log memory. My old Nokia can show me more history. I usually get around 150 calls a day and trust me I have been waiting for quite sometime,,72,386,2017-12-20,AAPL,0.07695744931697845,0.8879404664039612,0.03510202467441559
+AppleWatch,First timer here... pretty stoked.,,55,360,2017-12-20,AAPL,0.08741395175457001,0.8317010402679443,0.08088508248329163
+iphone,"CARROT Weather 4.4 with redesigned Today widget, new themes and content",,143,333,2017-12-20,AAPL,0.02374466508626938,0.9059960842132568,0.070259228348732
+apple,My Camera Roll is so much cleaner since Apple introduced screenshot sharing,,173,2435,2017-12-21,AAPL,0.021434791386127472,0.4417198896408081,0.5368452668190002
+AppleWatch,Christmas is coming up and I’ve been practicing for my “Joined the Club” post.,,81,2267,2017-12-21,AAPL,0.028857121244072914,0.8709562420845032,0.10018668323755264
+apple,"If you ask Siri ""Whose phone is this"", Face ID/Touch ID will be disabled (I am on 11.2.5 beta)",,150,1316,2017-12-21,AAPL,0.02895975671708584,0.9402468800544739,0.030793385580182076
+iphone,"Interesting Glitch, I kind of like it",,85,1015,2017-12-21,AAPL,0.027913998812437057,0.9051036834716797,0.06698226928710938
+apple,Civilization VI just released on iPad for „Free“ with $30/ $60 in-App purchase,,185,801,2017-12-21,AAPL,0.020975040271878242,0.9117724895477295,0.06725244224071503
+apple,"New Apple App Review Guidelines, loot boxes must expose odds before purchase.",Apple have updated their app review guidelines with a few notable changes including the exposing of loot box item odds!  9to5 mac have done a good job and showing the main changes here https://9to5mac.com/2017/12/20/app-store-guidelines-template-apps-vpns-more/,83,697,2017-12-21,AAPL,0.01688934490084648,0.7437233924865723,0.23938725888729095
+apple,So my iPhone X just lost an ear.,"This just happened while I was laying in bed and browsing. Flashed green lines and then black. Back to green lines as I type this. Touch input still works in that area, and the rest of the screen is unaffected. Haven’t dropped it or anything, and haven’t had any issues with it prior to 5 minutes ago. Anyone seen this before?
+
+
+Guess I’ll be making a trip to the Apple Store tomorrow. 
+
+[Album](https://imgur.com/a/q0bax)
+
+edit: I tried a hard reset and turned off/on with no luck. 
+
+edit 2/update: Visited the Apple Store today, but didn’t have an appointment and was told a 2 hour wait. Unfortunately only had an hour free so didn’t get a chance to get it looked at today. Have an appointment set up for tomorrow though so we’ll see then! Not too worried about getting this one replaced. 
+
+edit 3/update 2: Replaced! Just got home with fresh new iPhone X. Genius was pretty surprised. A few other geniuses came by to see it for themselves and hadn’t seen it before either. Anyway, glad Apple took care of me! Thanks Apple!",119,640,2017-12-21,AAPL,0.076361745595932,0.8610905408859253,0.06254767626523972
+apple,Found iPhone X!,"Hi All!
+
+I am not familiar with Apple products nor what is or is not possible.
+
+After parking at the mall I got out of my car, looked down and saw a small Louis Vuitton item. I bent down, picked it up, realized it was a cell phone, opened it up and then realized that it was an iPhone X.
+
+I brought it to the Apple store waited about 20 minutes for someone to help me, was passed off to three different people, each one did something to the phone, but as it was locked, were unable to do anything.
+
+Finally the third person told me that he is entirely too busy to deal with this and honestly there is not much that can be done and if I want to keep it, it is essentially a very fancy paper weight.
+
+Otherwise, he would take it and it would probably just sit in the back and be forgotten about.
+
+I took it back and would love to return it to it's rightfully owner. I was hoping that the owner would call it, to date a little less than 24h that has not happened.
+
+I borrowed a colleague's extra USB charging cable to keep it charged just in case the owner or a friend calls on it.
+
+Do you all have any other suggestions as to what I can do?
+
+Oh and I did stop by Mall Lost and Found and nobody was there and I couldn't wait any longer, I called them when I got home and they said they have over 200 iPhones just from this year and leaving it with them would be almost useless, they suggested the Apple Store.
+
+&amp;nbsp;
+&amp;nbsp;
+
+**UPDATE #: 1**
+&amp;nbsp;
+&amp;nbsp;
+
+
+My apologies for not being able to reply, we have a six car Motor Vehicle Accident and was operating non-stop since the patients came in. 
+&amp;nbsp;
+
+I called the local Verizon Store and spoke with the Manager and she said to bring the phone in tonight or tomorrow and she would help me out and attempt to reunite the phone with its right owner.
+
+
+**UPDATE #: 2**
+
+Sorry, was a crazy day, was unable to update with the final outcome.
+
+I went to the Verizon store last night and the Manager removed the SIM and inserted it in another handset, dialed the store, obtained the number and looked up the account in the computer.
+
+She explained to me that she would be unable to provide me any info but could give the account holder my info and I could arrange with the account holder to hand over the phone.
+
+Luckily, there was a second phone on the account and she called the number, but left a voicemail explaining that someone found the iPhone X registered to the account and to call the store to discuss further.
+
+This afternoon she called me that the main account holder did call her back and she gave him my contact info.
+
+I spoke to the iPhone X's husband, apparently the iPhone X was a gift to his wife and she was embarrassed that she lost the phone after only three days of ownership.
+
+The husband was on a work trip and she only admitted to loosing the phone yesterday as she was so embarrassed. He arranged with me to hand over the phone tomorrow after he returns from his work trip.",223,542,2017-12-21,AAPL,0.06058745086193085,0.9058624505996704,0.033550091087818146
+apple,Guys. Stop calling Apple about the low performance issue.,"Apple advisors have no idea what's going on and not allowed to comment on it. They don't know if it's true. 
+
+Please don't yell at them and accept their offer to help you.  
+
+And don't fill out the surveys. Because your negative feedback can get the person you talked to fired, not send a message to Apple. I'm not asking you to care, I'm telling you that spamming negative feedback isn't going to solve anything. 
+
+Remember. The apple advisors don't know what's happening and are not allowed to confirm if the claims of planned obsolescence is true or not. 
+
+Please stop calling them.",259,533,2017-12-21,AAPL,0.1563912183046341,0.8219442963600159,0.021664507687091827
+apple,"Amazon discontinues its iTunes Match competitor that stored up to 250,000 songs in the cloud",,70,401,2017-12-21,AAPL,0.01636534556746483,0.8865806460380554,0.09705402702093124
+apple,"As a long-time Apple supporter, they've made me feel like a fool this time around.","I don't think it's wrong for Apple to intentionally to slow our phones down to preserve older batteries, but it's wrong to do so without disclosing it to us. No one thinks to replace their battery when your phone starts slowing down, people would reasonably think they need a better processor.
+
+My degraded battery on my iPhone 6 was hardly the problem for me (I always used an external battery pack and was close to an outlet at work/home), but the fact that my phone was somehow slower than my other friends who had the iPhone 6 was what got me thinking maybe it was time to upgrade. I was planning on upgrading next month to an iPhone X, and lo and behold, this news broke out. I feel like I got played by Apple, being so close to shelling out money unnecessarily for a new phone without even considering to swap out the battery. Really feeling like a fool.",1298,3227,2017-12-22,AAPL,0.04404385760426521,0.8814803957939148,0.07447580993175507
+iphone,Apple Being Sued for 'Purposefully Slowing Down Older iPhone Models',,733,2374,2017-12-22,AAPL,0.1077788919210434,0.33973246812820435,0.5524886250495911
+iphone,Apple Now Requires iOS Games Like 'Hearthstone' And 'Clash Royale' To Reveal Loot Box Odds,,80,2263,2017-12-22,AAPL,0.02770944871008396,0.9438577890396118,0.028432752937078476
+apple,Anyone else misses Apple’s 12 days of Christmas?,It’s been four years. I always considered it fun waiting on a new free app to drop for 12 days. It’s a shame that it no longer exists.,191,2083,2017-12-22,AAPL,0.20284974575042725,0.7738490700721741,0.023301249369978905
+apple,I went to the Apple store after seeing my Geekbench results. Paid $79 and it worked.,"Just another user here confirming. Geekbench currently shows 2254 single core for iPhone 6s on their official benchmark. I did some tests last night and my phone showed 14xx or 18xx. 
+
+Went to Apple store this morning. The rep confirmed that my battery has 83% of its original capacity. I asked for a replacement anyway.
+
+It’s all done now. Ran a test just now and my single core performance is now 25xx. It’s scary that my original battery had more than 80% of its original capacity, but I was being throttled disproportionally. 
+
+And contrary to everyone saying you won’t notice during day to day. You absolutely can notice it, especially during usage of heavy apps.
+
+-----------------------------------------
+
+edit: /u/WastedCyberspace asked a good question and I figured I should include it in the top post. 
+
+If you had an Apple Store rep run battery diagnostic before, you'll know that the result comes back with a red, yellow, and green rectangle formation thingie. Because my battery still had 83% of its original capacity, it was technically ""healthy"", ie in the green box on their diagnostic result.
+
+Basically Apple's own diagnostic considers the battery ""healthy"". And my peak frequency was still throttled by more than 30%.",583,1840,2017-12-22,AAPL,0.027053046971559525,0.9024453163146973,0.0705016478896141
+apple,"Everyone says Apple wasn't telling users what they're doing, but did anyone look at the release notes?","Here's what it says for the [iOS 10.2.1 section](https://support.apple.com/kb/DL1893?locale=en_US). 
+
+&gt; iOS 10.2.1 includes bug fixes and improves the security of your iPhone or iPad.
+&gt; 
+&gt; **It also improves power management during peak workloads to avoid unexpected shutdowns on iPhone.**
+&gt; 
+&gt; For information on the security content of Apple software updates, please visit this website: https://support.apple.com/HT201222
+
+It seems pretty clear to me that they *did* disclose it. Others have pointed out that they also made press statements and had briefings about the update. As well as telling you in the Battery section of the Settings app that your battery needs to be serviced.
+
+It's absolutely untrue that they didn't tell anyone. You could make reasonable arguments that they should have sent push notifications or something more aggressive to come in for a battery replacement, but I think we all know that would have been this x10 in controversy.
+
+I can't help but think how fake concernish all this outrage feels from an ostensibly technically savvy audience. Did you know that when iOS says your battery is at 100% it is actually lying to you? Did you know when you open an app on iOS it shows you a screenshot of the last state to give you the impression that its opening quickly while it loads in the background? Where's the outrage? Apple makes these decisions in the OS all the time because no one should actually have to know how any of these implementation details. If you don't like this don't buy Apple products. In reality, this is actually *why* people buy Apple products.",483,498,2017-12-22,AAPL,0.02869539149105549,0.9238224625587463,0.04748215898871422
+apple,Switching apps on the X using the home bar is an absolute joy to use.,"All home bar gestures including reach ability and unlock give me plenty of delight. I just wish it were either invisible, or if visible, a little more animated.",58,456,2017-12-22,AAPL,0.020231405273079872,0.9381746649742126,0.04159393161535263
+iphone,It was only a matter of time until Carrot got in on the fun.,,14,411,2017-12-22,AAPL,0.04448552429676056,0.8481440544128418,0.10737039893865585
+iphone,True serenity,,62,315,2017-12-22,AAPL,0.02399730123579502,0.8985025882720947,0.07750014960765839
+apple,YouTube now properly displays vertical videos on iOS,,44,291,2017-12-22,AAPL,0.019652482122182846,0.9427957534790039,0.037551794201135635
+apple,"Days after iPhone battery fiasco, lawsuits against Apple begin to mount",,2362,15649,2017-12-23,AAPL,0.6084995269775391,0.3590255081653595,0.03247491642832756
+apple,Battery Scientist weighing in on this issue of throttling,"I've seen a lot of posts and comments on how outrageous it is to be throttling a battery while it still has 80 % of its capacity. I can speak from a scientific background, and I'd like to try and clarify some things, and hopefully lower your pitchforks slightly.
+
+Batteries don't really work in the range of what we would consider to be healthy. With posts like [these](https://www.reddit.com/r/apple/comments/7lkdur/i_went_to_the_apple_store_after_seeing_my/) it's clear that there are some misconceptions about how they age. I mean, a 20% capacity loss doesn't seem so bad right? But, while 83% may still seem high to you, typically 70-80% of the original capacity is considered to be the end of life^[1](http://shop.tarjomeplus.com/Uploads/site-1/DownloadDoc/1061.pdf),[2](http://www.sciencedirect.com/science/article/pii/S0013468617302979) (EOL) of a Li-ion battery. 
+
+They function by shuttling lithium ions between graphite and another material. Over time these materials become stressed and damaged. During this, there are dozens of internal side reactions that occur which also damage and age the cell. The main causes of cell death are:
+
+* Repeated cycling damages and cracks the graphite anode, lowering the amount of ions able to be intercalated into it
+* Lithium metal plates on the anode and can pose thermal risk, also lowers total Li-ions available for cycling
+* Passivation layers increase cell resistance past a practically useable point, and the cell cannot draw peak current
+
+The last one, especially, is why sudden shutdowns at 50% occur. Batteries are dynamic chemical systems, and they can only perform at maximum for a limited number of cycles. To be clear, 80% of original capacity is NOT the reason for the end of life, but the indicator of these other processes. For iPhones at this point, they have chosen to throttle instead of allowing for sudden shutdowns. From a scientific perspective (and without dumping a ton of graphs and images on you) this is perfectly reasonable. 
+
+I understand from a consumer perspective that you just want your things to work for as long as possible, and you don't want to know why they fail. Apple is good at hiding a lot of nitty gritty from us, but batteries are only as good as the chemistry inside them. There is no magic fix to increase cycle numbers or life, just research. Which is why scientists are so hard at work on developing new technologies. 
+
+TL;DR:
+Capacity loss is an indicator of other processes. 80% capacity is approximately the established end of life of a Li-ion battery. Performance is degraded, and unable to keep up with peak demand. Throttling as a reasonable trade-off at this point compared to sudden shutdowns. 
+
+Edit: Just for clarification, I do agree that Apple hasn’t done their due diligence in communicating this decision with the end-user. Not everyone follows /r/Apple, or their press releases.",465,2022,2017-12-23,AAPL,0.1264471411705017,0.8536790609359741,0.01987384259700775
+iphone,My good ol 3GS bloated when I charged it for the first time since 7 years passed. Wow!,,84,1392,2017-12-23,AAPL,0.0476999469101429,0.8245585560798645,0.1277414709329605
+apple,"The iPhone is Apples last product on a 500 cycle battery, the Macbooks down to the Watch are on 1000 cycle batteries",,159,828,2017-12-23,AAPL,0.017779240384697914,0.9093762636184692,0.07284446060657501
+apple,TIL the Apple AirPods case fits perfectly into the mouth of a Labrador Retriever,Lucky I caught her in time.,36,757,2017-12-23,AAPL,0.03360145911574364,0.8542444705963135,0.1121540516614914
+iphone,"Both Space Gray, can’t tell them apart.",,69,752,2017-12-23,AAPL,0.05279034748673439,0.8666062355041504,0.08060336112976074
+apple,Daring Fireball: “iOS has no concept of a mouse cursor and runs only on touchscreen devices. MacOS has no support for touchscreen devices and requires a mouse pointer. ‘One user experience’ is neither possible nor desirable.”,,147,718,2017-12-23,AAPL,0.0382397398352623,0.935035228729248,0.026724960654973984
+apple,Does anyone miss the Free App of the Week in the App Store?,"I'd always download it even if I didn't want it, because the next time I needed it for some reason, I could redownload it for free. The new App Store is interesting, but they shouldn't have removed that feature. Maybe they'll bring it back with iOS 12.",38,613,2017-12-23,AAPL,0.05295254662632942,0.8951836228370667,0.0518639050424099
+AppleWatch,Got my mom and girlfriend matching watches. Now I'll finally have someone to share activity data with.,,105,449,2017-12-23,AAPL,0.02436252124607563,0.8854225277900696,0.09021501988172531
+iphone,"I asked Siri to open the weather app and this is the worst bug I ever found on iOS (iPhone 8 plus, 11.2.1",,60,432,2017-12-23,AAPL,0.12549301981925964,0.835573673248291,0.03893338143825531
+iphone,Friend turned on his phone for the first time in a while and this happened,,606,20555,2017-12-24,AAPL,0.06417905539274216,0.8974224328994751,0.038398489356040955
+iphone,For people getting X in Christmas: iPhone X interactions as a phone background image.,,164,1965,2017-12-24,AAPL,0.04051254689693451,0.9335815906524658,0.025905828922986984
+apple,I know grouped notifications are a dream but why are individual notifications this drunk?,[Just thought this was highly amusing](https://i.redd.it/iof2jjfk0v501.jpg),212,1557,2017-12-24,AAPL,0.03068746253848076,0.7289512753486633,0.24036122858524323
+apple,TIL you can 3D Touch on the temperature in Maps and it will show you the hour by hour weather for the location (GIF in comments),GIF Link: https://m.imgur.com/gallery/ugOtW,76,1098,2017-12-24,AAPL,0.026014776900410652,0.9396036863327026,0.03438153117895126
+iphone,Got my wife a much needed upgrade as an early Christmas present! From iPhone 6 Gold 16GB to iPhone X Silver 64GB.,,108,857,2017-12-24,AAPL,0.017410913482308388,0.528283417224884,0.4543057084083557
+apple,"ProTip: Pinging your Apple Watch from Find My iPhone not only causes the watch to ring, but it also illuminates the heart rate sensor.",,32,584,2017-12-24,AAPL,0.04222976788878441,0.9007816314697266,0.056988589465618134
+apple,"Advanced TrueDepth camera, Face ID ""major drivers"" of iPhone X user satisfaction",[deleted],130,466,2017-12-24,AAPL,0.019947893917560577,0.9279548525810242,0.052097249776124954
+AppleWatch,#justjoinedtheclub,,67,439,2017-12-24,AAPL,0.054933175444602966,0.9131098985671997,0.03195696696639061
+apple,Merry Christmas everyone!!!,"Just wanted to say Merry Christmas to everyone have a happy and safe holiday to everyone especially  to everyone who has helped me out over this year!!
+
+Enjoy this time of the year, get together with family and friends and have a great time. Even if you don't celebrate do what you love and have fun, be safe and responsible as well.
+
+Have a safe and happy holidays and I look forward to 2018.  This is one thing that the Apple community has that no one else has- passion and caring!
+
+I’m just jealous I get no snow ❄️ I get rain though 😢
+
+Love you all! Have an awesome holiday!",58,422,2017-12-24,AAPL,0.03423458710312843,0.8978996872901917,0.06786571443080902
+apple,An Apple Pad I've had since ~1992,https://imgur.com/ghbjywM,40,379,2017-12-24,AAPL,0.06862103939056396,0.9023343324661255,0.029044581577181816
+apple,"Friendly Reminder: if you have to call AppleCare today, please remember they are people too","Just a reminder that those who work today at tech support, or really any profession, are people too and to be patient and courteous, and it will help out a lot. 
+
+Edit: some grammar",211,2452,2017-12-25,AAPL,0.01912739872932434,0.9098590016365051,0.07101355493068695
+iphone,1039 days,,373,2085,2017-12-25,AAPL,0.02306557074189186,0.8280469179153442,0.1488874852657318
+apple,I can't be the only one who hates the Unbox Therapy guy?,[removed],212,914,2017-12-25,AAPL,0.1092115044593811,0.8651658892631531,0.02562255971133709
+apple,Ketchapp copy my last game. What can I do ?,"Hi,
+
+My game Reverse Basket have been copied by Ketchapp (Ubisoft).
+
+Original from Honikou : Reverse Basket
+Copy from Ketchapp : Dunk hoop
+
+I'm a small developper, I have no idea what can I do to protect my idea. Normally Apple remove copycat, but what can I do ?
+
+More Information : During 2 months I increase the game retention and trying differente version of the game. I deal with voodoo and transfer the game on the voodoo account. Few days after that, I realized that ketchapp post on facebook a video of a copycat, the video had 2.4 millions views and I can't do anything... 
+
+Yuri Sanachev is the developer behind the copy.
+
+I found that terrible that big company can copy idea without any consequences.
+
+Apple's rule : 4.1 Copycats Come up with your own ideas. We know you have them, so make yours come to life. Don’t simply copy the latest popular app on the App Store, or make some minor changes to another app’s name or UI and pass it off as your own. In addition to risking an intellectual property infringement claim, it makes the App Store harder to navigate and just isn’t fair to your fellow developers.
+
+
+Edit 1 :
+Thank you for your upvote and support, it's like i'm not alone anymore ! 
+The slogan of the game put the title of reverse basket, they also rank on our name now...
+The game also copy the background color, lighting system when score, perfect system, 3 balls sometimes, the basket following the finger and the net etc...
+
+Edit 2 : The game get 2k reviews in few hours, that is really strange... More, The game don't have a button inside for rating it ! Can we report that too ? 
+Edit 3 : I will launch a tweet 28 december, I will post link here ! Thank you again for your support !",68,781,2017-12-25,AAPL,0.05383409187197685,0.9185680747032166,0.027597779408097267
+AppleWatch,"Well, she’s not wrong.",,24,654,2017-12-25,AAPL,0.043975114822387695,0.7970736026763916,0.15895135700702667
+iphone,Two types of notifications.,,29,420,2017-12-25,AAPL,0.034295834600925446,0.9279099106788635,0.03779428079724312
+AppleWatch,New addition to my Apple family! Wife got me the best gift ever! I remember thinking I would never be able to afford this when they first announced it.,,77,380,2017-12-25,AAPL,0.03032451495528221,0.825863778591156,0.14381171762943268
+apple,Does Anyone Else Feel Like Apple Pay Isn't Appreciated Enough?,"By far, my favorite part about living in 2017 is the idea of the lack of cards and cash. I just survived my first semester of college, and my university has 1 place that take Apple Pay! We have a Starbucks, and that's the extent of it. Not even our Walmart supports it! The few times I use Apple Pay, I get a lot of cashiers looking impressed that this I can pay with my phone, but this payment method has been out for a good while now. Android users have the luxury to do this virtually anywhere, yet I never see people use it. Why is this?",209,299,2017-12-25,AAPL,0.021714769303798676,0.898730456829071,0.0795547366142273
+iphone,"My wife hasn’t closed one Safari tab since... well, let’s just say it’s been a while.",,46,263,2017-12-25,AAPL,0.11483504623174667,0.8318718075752258,0.05329312011599541
+iphone,My wife's stepdad just had to upgrade once AT&amp;T told him they couldn't fix his iPhone because it was to old. Pristine condition,,28,263,2017-12-25,AAPL,0.20447853207588196,0.7617298364639282,0.03379156440496445
+iphone,Got my iPhone back thanks to Find My iPhone!,,143,4382,2017-12-26,AAPL,0.01609446294605732,0.8137432932853699,0.17016226053237915
+apple,iPhone X outsold by iPhone 8 and 8 Plus combined during first month of availability,,514,3271,2017-12-26,AAPL,0.049749236553907394,0.570298433303833,0.3799523115158081
+mac,Mom gave me her 1992 Mac Classic for Christmas,,63,1393,2017-12-26,AAPL,0.01923835277557373,0.8903082609176636,0.09045340120792389
+AppleWatch,Thanks to fellow Reddit User newtestleper79 I installed the App WorkOutDoors on my Watch. As I came from a Garmin Fenix I really missed being able to track where I had walked when out for a hike. This is really useful when walking through forests as it’s easy to get disoriented. Give it a go!!,,114,1072,2017-12-26,AAPL,0.01937919668853283,0.8662798404693604,0.11434092372655869
+iphone,I really like how this sticker turned out!,,33,921,2017-12-26,AAPL,0.02081097848713398,0.928006112575531,0.05118298530578613
+apple,Apple’s 2018 iPhones may hit gigabit LTE with MediaTek and Intel inside,,230,855,2017-12-26,AAPL,0.022213634103536606,0.8930465579032898,0.0847398117184639
+apple,One iPhone Slowdown Lawsuit is Seeking a Wild $999 Billion,,333,559,2017-12-26,AAPL,0.5459561347961426,0.4122362732887268,0.041807662695646286
+apple,"Best iOS Apps of 2017: Affinity Photo, Halide, Apollo, HQ and More",,164,472,2017-12-26,AAPL,0.014183217659592628,0.8587048649787903,0.12711192667484283
+AppleWatch,Slowly converting everyone in my family.,,33,362,2017-12-26,AAPL,0.014722751453518867,0.8193348050117493,0.16594241559505463
+apple,"The Grand Theory of Apple - Companies that listen to the consumer on features rather than ""innovate"" fail",https://www.youtube.com/watch?v=zO0b-l-u7Yk,86,302,2017-12-26,AAPL,0.030573172494769096,0.9209277033805847,0.048499152064323425
+apple,Tim Cook now required to fly private as AAPL’s 2017 performance nets him $102M payout,,613,3398,2017-12-27,AAPL,0.03184061497449875,0.9056704640388489,0.062488846480846405
+iphone,Face ID is visible when you take a picture of the iPhone X,,91,1398,2017-12-27,AAPL,0.04173834249377251,0.93160080909729,0.026660790666937828
+apple,AirPods with a smaller quartz component arriving in the second half of 2018,,382,1157,2017-12-27,AAPL,0.03109016828238964,0.8048579692840576,0.1640518456697464
+apple,This is a great PSA for iMac Pro Users,https://i.imgur.com/a7IYyAH.jpg,125,841,2017-12-27,AAPL,0.013993258588016033,0.8915438055992126,0.09446292370557785
+iphone,Checkmate atheists,,44,739,2017-12-27,AAPL,0.043497174978256226,0.904017984867096,0.05248486250638962
+AppleWatch,"Is it just me, or are the available watch faces completely underwhelming?","First time Apple Watch owner from Christmas and can't help but feel wholly disappointed about the available watch faces.
+
+I don't think there is a broad enough range and of the ones I like, I can't add the desired complications.
+
+Why is it so difficult to add FULL customisation?",114,447,2017-12-27,AAPL,0.0779801607131958,0.8851211071014404,0.036898691207170486
+apple,Daring Fireball: The iPhone X,,186,431,2017-12-27,AAPL,0.023446710780262947,0.8399233222007751,0.13662999868392944
+iphone,The upgrade is real.,,42,399,2017-12-27,AAPL,0.015331021510064602,0.7432240843772888,0.24144496023654938
+apple,A Touch Bar feature I’ve been hoping for since day one,"How about artist and track name information for playing music? Making use of little opportunities like this would really make the Touch Bar a valuable addition IMO, saving a large number of command-tab’s to my music app each day.
+
+Here’s a crudely photoshopped example:
+
+https://i.imgur.com/0EhIN2u.jpg",61,378,2017-12-27,AAPL,0.020372988656163216,0.9195767641067505,0.06005023419857025
+apple,This developer made his face invisible with the help of an iPhone X,,40,375,2017-12-27,AAPL,0.02964119054377079,0.8766198754310608,0.09373890608549118
+apple,A Message to Our Customers about iPhone Batteries and Performance - Apple,,3889,13267,2017-12-28,AAPL,0.032462041825056076,0.8851929306983948,0.08234503120183945
+iphone,Found this Qi wireless charging stand on Amazon! It also charges Apple Watch and AirPods!,,252,4362,2017-12-28,AAPL,0.01975763402879238,0.9409732222557068,0.03926914930343628
+iphone,"Apple apologizes for iPhone slowdown drama, offers $29 battery replacements.",,561,3595,2017-12-28,AAPL,0.02075105719268322,0.7891094088554382,0.1901395469903946
+AppleWatch,/r/AppleWatch starter kit,,130,1441,2017-12-28,AAPL,0.02801745943725109,0.9277104139328003,0.04427209496498108
+apple,"PSA - If you don't use the Music app, delete it. It will allow you to use any other music service/podcasts without opening the app.","I discovered this yesterday. My iPhone 5S and my new iPhone X had the same issue: If I wanted to just press play in my car controls or any other bluetooth device (or even Control Center) I had to go first to the Spotify app on my phone and then press play. It only worked without that if I was using the app a few minutes back. But after an hour, it's like the Play button ""rewired"" itself to Apple Music and because I didn't have any music there, it just didn't play anything.
+
+I got curious about what would the phone do if I deleted the app and voila! Now it stays on the last app you were listening. It's so good to start the car, press play from the wheel and start just where you left it.",87,1053,2017-12-28,AAPL,0.03192052245140076,0.9261675477027893,0.04191186651587486
+AppleWatch,Finally the Ecosystem is complete,,110,904,2017-12-28,AAPL,0.04657818377017975,0.8423548936843872,0.11106690764427185
+apple,Source code for Apple’s legendary Lisa operating system to be released for free in 2018,,47,898,2017-12-28,AAPL,0.013460736721754074,0.9381345510482788,0.04840470850467682
+ios,"Samsung, HTC, Huawei and the rest right now",,55,779,2017-12-28,AAPL,0.03277416154742241,0.9134615659713745,0.053764261305332184
+apple,"According to the Wireless Power Consortium website, the iPhone X is not Qi Certified. Here are my thoughts on why that's interesting, and how it may affect users.","If you go through my post history you'll see I've tried to raise this a few times, usually getting 20 or so upvotes and a couple of comments from people along the lines of: 
+
+*”Uh, Qi charging doesn’t work? The 7 chargers I bought off the Apple website for $79 each say otherwise!”*
+
+*”Guess I should throw out my chargers then!”*
+
+*”Apple probably didn't have it submitted for approval to maintain its secrecy before launch.”* 
+
+*”I hope all those iPhone X users who've been charging on the Mophie and Belkin Qi pads are going to return all the energy that they illegitimately received.”* ^(seriously)
+
+**I’m not saying Qi charging doesn’t work on the X**. I have one, it works, I love it. I just find it odd that it hasn’t passed certification, for the following reasons: 
+
+* The 8 is certified. If neither were it’d be no big deal, it’d suggest Apple decided against certification and is happy with it’s own internal checks  - fine. But that’s not the case - the 8 and the X are different. The 8 being tested and passing suggests to me that the X would also be tested, has it failed? Why? 
+* The 8 and the X were announced at the same time. 
+* Apple points people to the WPC website to find safe chargers to use with it’s products yet some of their own products aren’t on there. They obviously think certification holds some value, why neglect it on the X?
+* Qi Certification seems to offer some pretty legitimate device testing for strong magnetic fields. Non-certified devices reportedly have caused fires and skin burns. If the X has failed, is it a risk? On a less fear-mongering note, perhaps it isn’t a fire risk, but could it be damaging my battery? 
+* The WPC website explicitly states “No match? Not licensed!” which to me suggests confidence in their turnaround times and that the X isn’t just in pre-approved limbo somewhere. 
+* There may actually be a trademark license breach if Apple is using ‘Qi’ logos, etc. on the X without having passed certification. 
+
+[Click here for more information from the WPC on the dangers of non-certified devices and what testing entails](https://www.wirelesspowerconsortium.com/certified/) 
+
+[Click here for more information on certified products and the Qi logo](https://www.wirelesspowerconsortium.com/products/) 
+
+[Click here for the complete list of Apple’s Qi Certified devices and part numbers](https://www.wirelesspowerconsortium.com/products/search/?basic_search=&amp;product_id=&amp;version=&amp;brand_name=Apple&amp;product_name=&amp;type_number=&amp;product_type=&amp;not_licensed=No&amp;power_profile=&amp;transmitter_design=&amp;automotive_assembly=&amp;subsystem=&amp;compliant_automotive=&amp;mobile_phone_accessory=&amp;mobile_phone_accessory_description=&amp;sort=&amp;direction=asc&amp;searching=true&amp;search_type=advanced)
+
+I be interested to see more attention drawn to this and some answers. In reality it’s a minor issue, but if these things aren’t challenged they can pave the way for bigger “scandals” (like the recent CPU slowing thing). Really I just find it interesting and would like some transparency.",63,618,2017-12-28,AAPL,0.0721539556980133,0.896239697933197,0.031606391072273254
+apple,"As a current Android user, at least with Apple you CAN get an OEM battery replacement.","With all the hubbub about the iPhone battery situation, it got me thinking about the status of my batteries in my Google Pixel and my wife's Nexus 6P.  My Pixel battery seems to be lasting less and less over time and my wife's 6P really needs a new battery as the capacity is seriously reduced and shuts the phone down randomly.  Both are out of warranty.  Here's the thing: as far as I can tell, it's literally impossible to buy an actual first party OEM battery for either of these phones outside of a warranty replacement situation.  There is a 90+ page forum thread on xda developers forum with people trying to find OEM batteries for the Nexus 6p and it's literally impossible; people just go around in circles asking about arcane knowledge about which ebay vendor may or may not have a reasonably OK battery (ALL ebay batteries are listed as ""OEM"" but 0% of them actually are...).  As much as people may be pissed off at Apple for not telling people that they were throttling performance (understandably so), I have to say that as an Android user, the ability to pay Apple to replace the battery with an official OEM battery and do waterproof sealing is something I would LOVE to have in Android world.  I know there are plenty of 3rd party services to replace batteries in general, but none of them are first party and as far as I can tell none of them are guaranteed to use OEM batteries.  As much as I currently prefer Android, the ability to do a first party battery replacement service is something that I'll be seriously considering next time I choose a phone...",147,588,2017-12-28,AAPL,0.05403910577297211,0.910399317741394,0.03556150570511818
+apple,Whoever designs the hinges at Apple doesn’t get enough credit.,"I mean, snapping the AirPods case closed is one of the most satisfying things ever. It’s so tight and precise. 
+
+And the MacBook lids that smoothly open with no wobble whatsoever are pretty great too.",352,2912,2017-12-29,AAPL,0.023714087903499603,0.8120576739311218,0.1642281711101532
+apple,Take a moment to thank John Poole from Geekbench,"He was the one who came up with all the testing and exposed the throttling going on with iPhones. 
+
+It led to Apple releasing two statements and now actually acknowledging the issue and reducing the battery replacement charges. 
+
+Thank you for doing us, Apple customers, a service. We're grateful.",259,1235,2017-12-29,AAPL,0.01876019686460495,0.8691903352737427,0.11204949021339417
+iphone,"Dear Apple: Please get rid of this “No older notifications” text, it looks ugly",,98,1099,2017-12-29,AAPL,0.17216186225414276,0.7725501656532288,0.055287912487983704
+apple,As a die hard Apple Music fan...,"I was just flat out **jealous** when all my friends that use Spotify started getting their year end listening stats. Everyone was sharing, comparing, laughing, and carrying on. 
+
+I imagine this is how non-Apple users feel when we all get an app or feature that they can't use or take part in.",211,638,2017-12-29,AAPL,0.024773554876446724,0.9262217879295349,0.0490046851336956
+AppleWatch,Carrot really outdid itself this time.,,105,610,2017-12-29,AAPL,0.034246038645505905,0.9102711081504822,0.05548285320401192
+iphone,"No, The Pixel Did Not ""Outsell"" the iPhone X this Holiday Weekend",,120,482,2017-12-29,AAPL,0.1314711570739746,0.7502573728561401,0.11827150732278824
+iphone,Long time Android user just made the switch. Very happy so far!,,150,467,2017-12-29,AAPL,0.01981513760983944,0.8083466291427612,0.17183822393417358
+apple,"What to Expect From Apple in 2018: Three New iPhones and iPad Pro With Face ID, HomePod, Refreshed Macs, and More",,184,340,2017-12-29,AAPL,0.01663879118859768,0.8752058148384094,0.10815535485744476
+iphone,My Carrot Weather App really spoke it’s mind this morning...,,42,278,2017-12-29,AAPL,0.029642606154084206,0.7453927397727966,0.2249646931886673
+apple,iFixit matches or beats Apple's $29 for their DIY battery install kits for iPhone 4S and above,,184,249,2017-12-29,AAPL,0.011814074590802193,0.6255190968513489,0.3626668155193329
+apple,"How to scam $200,000 per month and get 67,882 all 5 Star reviews on the app store","I often go researching apps on the app store to see what's trending, inspiration for app ideas, look at nice UI designs etc. 
+This morning I came across this app which is currently ranked #26 in their category and had over 	67,882 all 5 star reviews. Yes, you read that right, all 5 star reviews despite only being available since September 15, 2017.
+
+As soon as I read the name and rating, my bullshit meter went ding dong and I got extremely curious on how they have acheived such high ranking? Let's dig a bit.
+
+----------------
+
+The name is ""One Night Stand - Adult Hook up Tonight"" - if Ashley Maddison's ""Have an affair"" was too bold for you, this isn't that bad. Who doesn't want to have instant sex at a moment's notice with a complete stranger right? But any how, I digress. Let's move on to the app icon. Sure beauty is subjective but I would expect such a top rated dating app to have a bit better looking icon.
+
+Let's look at the promotional text: ""Looking for someone who wanna find a dating with top hot singles and love adventures. Find the real dates online. Help you hook up with the one you interested in.""
+
+I am an immigrant and English isn't my first language. But I am pretty sure there's a ton of grammatical errors in this. App claims ""real dates"". ROFL. ""Top hot singles"" &amp; ""love adventures"". LMFAO.
+
+----------------
+
+Let's read the description. I am going to trim this down a bit because I can only handle bullshit to a limit. 
+
+*""If you are a good talker, maybe you can hookup with someone on a beautiful night. Drag your photos &amp; fill in your profile, with a click of mouse, you can check the one you like and chat with him/her directly. Start a chat freely since it’s your time to show and you may meet the one you like and hookup now.""*
+
+**Click of a mouse eh. I didn't know Apple replaced the headphone jack with a fucking mouse.**
+
+*""Get ready to a new dating with someone you like, enjoy chatting with him/her or dive into the world of passion and desire. All you need is our app One Night Stand. Search One Night Stand in iTunes now and be ready for a new life here. meet your fate one
+Still shame to share your expression with others? Wanna make yourself more attractive? Eager to meet someone you like and wanna hookup with him/her directly. One Night Stand is your best choice. With all benefits above, you can enjoy more while you wanna hookup with someone.
+Find the real one online, meet the one you like nearby &amp; One Night Stand will help you hook up with the one you interested in.
+Now, download it, and then meet the one you love!""*
+
+**MAN, I AM SOOOO GETTING LAID TONIGHTTTT!!! Just gotta buy this 1 Week at 19.99 USD in app purchase and I will make all kinds of ""love adventures"" with the ""top hot singles"". Or maybe I will go for the 3 months at 69.99 USD. 69 nomsayin ;)**
+
+*""As our app enables the display of users' locations on a map, to help you find users nearby you, and before display your information, we would request for your permission, you have right to reject it and don’t use the feature, if you turn on the location sharing, then keep an eye on unfriendly person and fake information.""*
+
+**I am no rocket scientist but I am sure this app is the definition of ""fake information"".**
+
+----------------
+
+Let's move on to the reviews. I don't like the iOS 11 app store review system, so I use Appannie to look at all the reviews.
+
+The app has received a total of 68,066 reviews since inception. 
+I sorted them to show ""5 star only"". I am a developer myself and my mind was absolutely blown with 	67,882 all 5 star reviews. Man, even Apollo for Reddit has only received a total of 3800 reviews with only 3100 5 star reviews. So this dating app must be exceptionally good. /s
+
+Let's look at the name of the last few reviewers:
+Maria84, 7Linda, 84Peter, Howard35, 61Nicola, Boyle33, Geoffrey93, Jones24, 66Celeste, Maggie42, Doyle19, 46Letitia,  18Michelle.
+
+Anyone notice a pattern in these names? It's like someone left a phone directory inside a for loop.
+
+----------------
+
+**Let's read a few of them:**
+
+*Thank you for trying your best to make one night stand a safe, fun app.Stay happy, developers! -  Betsy Scripps63*
+
+*Thank you for trying your best to make one night stand a safe, fun app.Stay happy, developers! - Gerald Watt*
+
+*Overall good app, really helps meet new people, and build relationships. - 46Letitia MacAdam*
+
+*Overall good app, really helps meet new people, and build relationships. - gZachary*
+
+*As soon as I sign up, I swipe to the cute girl. Got match. Now we planned to meet up and have dinner with. I recommended this app for all singles. -  Lennon Gunter*
+
+*As soon as I sign up, I swipe to the cute girl. Got match. Now we planned to meet up and have dinner with. I recommended this app for all singles. - 37Gwendolyn Jackson*
+
+*I likes it. I was using the app and feel great. I will use often and invite your friends to join. Thanks developers.*
+
+*date app Wonder - Bernice Rosalind*
+
+*date app app - 74Zara Kennan*
+
+*date app Great - Richard Carllylek*
+
+*date app Great - 9Sally Tours*
+
+*date app Great - Nora Hopkin88*
+
+*date app Wonder - Patricia Browning*
+
+*date app Nice - Jill Wolfv*
+
+*date app Kool - 46Elsa Lucy*
+
+*date app Nxnsn - Frances Brightk*
+
+*date app Great Stuff - Benjamin Jenkin*
+
+*date app Awesome - 50Maria Wood*
+
+*The quickest way too hook up fresh meat for the evening :) - 69Elizabeth Blume*
+
+*i got a 9 month relationship off of it* - another fake bot
+
+*tinder dating Best app ever little costly tho*
+
+*pof.com It&amp;#39;s pretty good*
+
+*tinder app This app is amazing*
+
+*tindrr Awesom!!!*
+
+*okcupid Amazing, and I&amp;#39;m loving how friendly the people are.*
+
+*free dating app Awesome*
+
+*tinder app Mee*
+
+*hook up dating Awesome app*
+
+*pof app Awesome app ig*
+
+*dating apps for teens This app is pretty decent.*
+
+*pof.com*
+
+*tinder dating Fantastic app, tons of girls. Would do again*
+
+*tider It was so great even if the 12 hours is the only time that itis free it is still worth it coz you will know a lot of girls very nice app must try it!!*
+
+*tinder app gang*
+
+*net a cougar Was a fun experience*
+
+*grinder dating Great app*
+
+*dating app cheat Very good app make me fell good*
+
+*tinder for kids Amazing*
+
+*ginder Ijgdg. Thug ytjtffb thug*
+
+*bumbles Is amazing*
+
+----------------
+
+No, I didn't make a typo pasting the same review twice. That's the same exact text, down to the typos reviewed by hundreds of different people within a few minutes. There's hundreds of reviews which start with the exact same first few lowercase characters, then a random word in upper case. There's another pattern of pasting some other popular app's name in the review - probably for ASO (App store optimization) purposes to get better ranking in the store. Some reviewers claim to get 9 month long relationships from a 3 month old **""one night stand""** app.
+
+Now, sure, there are real reviews too which are all 1 star reviews warning everyone else about the scam but 3000 1 star real reviews easily get overpowered by 67000 5 star fake ones.
+
+----------------
+
+Let's look at the screenshots. App uses pictures of attractive women as you would expect from most dating apps. However let's dig a bit deeper. I downloaded the screenshots and did a reverse google search with them. These pictures are straight up stolen from someone's instagram profile and other chive articles with titles ""Sometimes you gotta let them breathe"" with pictures of women with big tits.
+
+----------------
+
+Next let's estimate the downloads and revenue for this app. For this, we go use SensorTower. For November, it estimates 70,000 downloads and $200,000 revenue. Now I know that sensor tower estimations aren't that accurate but for an app which is #26 in the store, I won't be surprised if this number were actually close enough. Considering this app has been available since September 15th and Christmas is when apps get the most revenue, I won't be surprised if they had scammed half a million by taking advantage of gullible people.
+
+**EDIT:**
+ 
+More about accuracy of Sensor Tower estimates as explained by /u/drysart here:
+https://www.reddit.com/r/apple/comments/7mzib4/how_to_scam_200000_per_month_and_get_67882_all_5/dry1fw0/?st=jbt3zziy&amp;sh=51109789
+
+and by a Sensor Tower employee /u/dizietzz here:
+
+https://www.reddit.com/r/apple/comments/7mzib4/how_to_scam_200000_per_month_and_get_67882_all_5/dry5eir/?st=jbt67j93&amp;sh=bca18e9a
+
+----------------
+
+I downloaded the app to test it and no surprises, was bombarded with a ton of fake messages from obviously fake ""milfs"". But unfortunately, I couldn't read most of the messages as I couldn't afford to buy a $69 in app purchase. App was also filled with obvious typos, misspellings like ""Reciving info"" etc. Didn't bother wasting too much time on the app.
+
+If anyone is interested, here are 2 copies of this app. I am not sure if they are different apps or the same because my browser shows them with the same icon but slightly different names. **Be careful if you download this, it will bombard you with popups asking you to subscribe to the in app purchase. Keep your finger OFF of the home button unless you want to accidentally buy the $69 IAP and hook up with some hot singles!**
+
+https://itunes.apple.com/ca/app/one-night-stand-flirt-hookup-to-meet-locals/id1274313060?mt=8
+
+https://itunes.apple.com/us/app/one-night-stand-adult-hook-up-tonight/id1274313060?mt=8
+
+----------------
+
+If anyone is interested in screenshots: https://imgur.com/a/kIqC9
+
+Video recording: https://www.dropbox.com/s/bw9xzek2xeuq2zj/Video%202017-12-30%2C%204%2012%2023%20PM.mp4?dl=0
+
+~~I am also working on a way to download all reviews in bulk so I can recognize more similar patterns in the fake reviews.~~ **EDIT:** Check out a google docs data dump of all the reviews here:
+
+https://docs.google.com/spreadsheets/d/1wPKwLd8BIX3AFVFkSFQcPqqYMKBUd19StG_UT24s_tc/edit?usp=sharing
+
+----------------
+
+Can we all please discuss how such scam gets around the app review team when us developers often have to go through such a strict app review on our legitimate apps? Can we also please discuss the completely broken rating system and how such app has been available on the store for over 3 months despite being reported countless times and despite getting thousands of fake 5 star reviews?
+
+There were a few other posts couple months ago about apps claiming to be antivirus software but were just scam. This proves disparity in the app review system for legitimate apps vs such scam apps. 
+
+**Proposed solutions:**
+
+1.	Have some trigger which auto flags any app which is climbing up the rankings or getting too many reviews too fast and then have some human manually verify it?
+2.	Flag reviews which have the same text.
+3.	If an app has a subscription model OR very expensive pricing, pay extra attention while reviewing the app.
+4.	Pay attention when reviewing apps and shit like “click of a mouse”, “Drag photos”, “Play store” should be easy to identify scams. When I submit my apps, they go through extreme scrutiny and often get rejected for silly stuff (example: Restore button not available for IAP - even though it actually is, App was rated 9+ and should be higher even though I rated the app 17+). So I wonder how these ones get through. 
+5.	Why is reporting an app so hard on iOS? I can’t find a report button anywhere on the app page. Ended up using the support website to report it. 
+6.     iOS 11 App store has no way to sort/filter reviews. So if you look at this app, it ONLY shows you the 5 star ratings ONLY. Completely hides the 1 star reviews which deceives the consumer. The app store should have a filter for sorting by time/rating, filtering by number of stars, should let you see other reviews from the same user etc.
+
+
+**EDIT:** Check out a google docs data dump of all the reviews here:
+
+https://docs.google.com/spreadsheets/d/1wPKwLd8BIX3AFVFkSFQcPqqYMKBUd19StG_UT24s_tc/edit?usp=sharing
+
+**EDIT:** Few people are asking me why I went through such extent to expose this? I did network security in school, so this is up my alley. Plus, I am a developer and make my living off of the app store, so this kind of stuff personally impacts me. Maybe I am jealous that a shady app is taking a spot in the top rankings which could be taken by real apps and also reducing the trust of regular people in the app store and making them skeptical about legitimate apps and in app purchases too. So when they would come across one of my legitimate apps with legitimate 5 star reviews, they would be skeptical. This stuff erodes the trust in a marketplace and should be exposed. Is it bad then that I am frustrated and outraged? You tell me.
+
+~~**EDIT:** Just woke up to somehow getting banned from posting in iosprogramming subreddit without a reason. Can a moderator please explain why I was banned?~~ **EDIT** Got banned probably because one of the mods saw the title and thought it was just some spam. Contacted mods and now I am unbanned there :)",349,6786,2017-12-30,AAPL,0.040925681591033936,0.9214547673861185,0.03761954605579376
+AppleWatch,TIL you can auto-complete Scribbles on your watch.,,145,3573,2017-12-30,AAPL,0.0424475260078907,0.9183034896850586,0.0392489917576313
+iphone,My Wallpaper collection - Just in case if you're interested,,79,2460,2017-12-30,AAPL,0.038046881556510925,0.9234580397605896,0.03849510848522186
+apple,TIL: Apple's battery replacement program for iPhone 6 and above at $29 is effective immediately,Unlike previously stated to start from January 2018. Lasts through December 2018,382,997,2017-12-30,AAPL,0.0864739790558815,0.8976094126701355,0.01591655984520912
+apple,Why do we need a name of the carrier on screen?,"Hey Apple (I know you’re reading this, Tim),
+
+Have you ever questioned if it’s really necessary to show the carrier’s name on the top of the screen of iPhones? We all know what carrier we use. Some of us have a contract we would like to forget about. The way it is now, I’m basically paying $30/month to have an advertisement shown on my phone. iPhone X doesn’t do this anymore and it’s great. Now remove it from other iPhones too and keep it in the Control Center and in Settings (you know, for when we go abroad or need to be reminded who to hate).
+
+Oh and Tim, happy holidays.",218,658,2017-12-30,AAPL,0.026655791327357292,0.9137340188026428,0.05961023271083832
+apple,Disappointed when I find flaws like this with a brand like Apple,"https://imgur.com/gallery/vMbvp
+
+I know it's been moved to accessibility.
+
+This is a double whammy, first Siri should be able to do it, but then it links me to the wrong section 🙄",140,553,2017-12-30,AAPL,0.37424448132514954,0.5592103600502014,0.06654524803161621
+iphone,Apple did disclose they had made changes on the power management. Just didn’t say how it would be handled.,,58,518,2017-12-30,AAPL,0.022305374965071678,0.9207972884178162,0.05689731240272522
+apple,"""Your iPhone battery may need to be serviced"" - support.apple.com - new article",,96,505,2017-12-30,AAPL,0.04204872250556946,0.9272805452346802,0.030670786276459694
+iphone,PSA: Apple is making its $29 battery replacement pricing effective immediately,"Apple updated its apology page on its website to remove the mention of a late-January start date for the program, implying that anyone can take advantage of the $29 replacements now.
+
+Apple is reducing the price of an out-of-warranty iPhone battery replacement by $50 — from $79 to $29 — for anyone with an iPhone 6 or later whose battery needs to be replaced, available worldwide through December 2018.",238,457,2017-12-30,AAPL,0.09543592482805252,0.882677435874939,0.021886680275201797
+iphone,Mfw Samsung people won’t stop talking shit about the iPhone battery when theirs literally exploded for a year,,58,310,2017-12-30,AAPL,0.8296416401863098,0.15477703511714935,0.015581320971250534
+iphone,"Opened my new 29W fast charger for Christmas and was rewarded with someone having stolen it and replaced it with a 10W iPad charger. It was purchased on Amazon and the packaging wasn’t damaged. After letting Amazon know, they sent out a new one but, still, thanks a lot some jerk.",,253,3260,2017-12-31,AAPL,0.020850107073783875,0.8483393788337708,0.1308104693889618
+apple,I can’t be the only one who occasionally activates their Apple Watch screen with their nose ...,"Tell me you do it, too. Sitting or lying in an awkward position that lifting your wrist doesn’t activate the screen so it’s just quicker to give it a peck with the nose to see the time or whatever. 
+
+Even from a seemingly normal stance it doesnt work every once and a while, so here comes the nose
+
+Never heard anyone else talk about it, but surely I am not alone (?) 🤔",233,2529,2017-12-31,AAPL,0.06357912719249725,0.9077408909797668,0.028679966926574707
+apple,"I wish Apple would make a new, better mouse because the Magic Mouse 2’s shape honestly sucks. It’s so flat and uncomfortable to hold.",,718,2495,2017-12-31,AAPL,0.025134515017271042,0.8704776167869568,0.10438787937164307
+apple,Ad targeters are pulling data from your browser’s password manager,,156,1210,2017-12-31,AAPL,0.05041653290390968,0.9287242293357849,0.020859181880950928
+AppleWatch,"Happy New Years, r/AppleWatch",,46,732,2017-12-31,AAPL,0.04920998960733414,0.9128953218460083,0.037894684821367264
+AppleWatch,Something about Dark Olive,,46,579,2017-12-31,AAPL,0.13987793028354645,0.8036519289016724,0.05647013336420059
+iphone,Twitter telling me I hit 80%,,22,424,2017-12-31,AAPL,0.6414796113967896,0.3172820210456848,0.041238296777009964
+iphone,An iPhone X background for you guys,,49,424,2017-12-31,AAPL,0.040314868092536926,0.9353527426719666,0.02433241344988346
+iphone,iPhone X lock screen REALLY needs this option.,,35,315,2017-12-31,AAPL,0.03488941490650177,0.8629007935523987,0.10220979899168015
+AppleWatch,Watches for the fam,,43,311,2017-12-31,AAPL,0.028540197759866714,0.9105800986289978,0.06087971478700638

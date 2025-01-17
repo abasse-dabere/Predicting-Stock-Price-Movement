@@ -1,0 +1,1086 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+iphone,An iPhone X ad is being hand painted in my city,,169,5134,2018-06-01,AAPL,0.02163037285208702,0.9218262434005737,0.05654333531856537
+apple,iOS 12 will upgrade ARKit with ability for two iPhones to see same virtual object,,135,2453,2018-06-01,AAPL,0.021031681448221207,0.9137000441551208,0.06526823341846466
+apple,Latest mobile CPU benchmarks show Apple two years ahead of the competiton,,254,1164,2018-06-01,AAPL,0.031475480645895004,0.8523269891738892,0.11619755625724792
+mac,People say my MacBook makes me look like a terrorist...,,152,697,2018-06-01,AAPL,0.026539115235209465,0.9159274101257324,0.05753352493047714
+apple,macOS 10.13.5 is out!,"Changelog should be here, but Apple hasn't updated the page yet: https://support.apple.com/en-us/HT208723
+
+(Updated \^)
+
+Security updates should be here (wait for an update from Apple): https://support.apple.com/en-us/HT201222
+
+Full changelog:
+
+&gt; ""The macOS High Sierra 10.13.5 update improves the stability, performance, and security of your Mac and is recommended for all users. 
+
+&gt; This update adds support for Messages in iCloud, which lets you store messages with their attachments in iCloud and free up space on your Mac. To enable Messages in iCloud, go to Preferences in Messages, click Accounts, then select ""Enable Messages in iCloud
+
+&gt; Enterprise content:
+
+&gt; * [Variables used in SCEP payloads](https://help.apple.com/deployment/mdm/#/mdm495A6D79) now expand properly.
+
+&gt; * Configuration profiles containing a [Wi-Fi payload](https://developer.apple.com/library/content/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010206-CH1-SW30) and [SCEP payload](https://developer.apple.com/library/content/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010206-CH1-SW18) install as expected when the ""KeyIsExtractable"" key of the SCEP payload is set to ""false.""",177,568,2018-06-01,AAPL,0.02887796238064766,0.9374421238899231,0.03367996960878372
+AppleWatch,My watch thinks I’m a little lazy...,,71,530,2018-06-01,AAPL,0.09551456570625305,0.8237695693969727,0.0807158499956131
+apple,Apple Declines EU Invitation to attend a Tax Evasion and Financial Crimes Committee Meeting,,138,494,2018-06-01,AAPL,0.1743743121623993,0.8008174896240234,0.024808179587125778
+apple,I found who stole my iPhone using a personal data request from Apple,"I've made a couple of data requests to Apple over the last couple of weeks, learning more about how they respond to these. The dump of data I got this morning included AppleCare records showing that someone had rocked up at an Apple Store and paid for a repair job *on my stolen phone*. In order to do so, they had to leave a bunch of their own details with Apple.
+
+Pretty cool that a stolen phone from two years back can reappear like this; it seems likely I'll be able to get a handle on who took it, or at least who has it now.
+
+I wonder, should people who steal phones have to consent to Apple storing their data?
+
+I wrote up [what I did, and what I was sent](https://www.reincubate.com/blog/stolen-iphone-thief-identity-revealed-gdpr/) earlier today.",94,447,2018-06-01,AAPL,0.2353908121585846,0.7354479432106018,0.02916124276816845
+iphone,iPhone SE 2 Leaks are rampant,,99,424,2018-06-01,AAPL,0.7904931902885437,0.19273757934570312,0.01676924340426922
+AppleWatch,I feel it! It‘s going to be a great twentygayteen!,,29,328,2018-06-01,AAPL,0.01754354126751423,0.7825148701667786,0.19994163513183594
+apple,"The 5 Lock Button press ""Emergency Mode"" should have an option to start video/audio recording with auto cloud upload.",,102,1579,2018-06-02,AAPL,0.07321067899465561,0.8925336003303528,0.034255772829055786
+apple,Xcode 10 on macOS 10.14 has a dark mode,"/r/Apple doesn't allow direct links to Twitter, but [here](https://twitter.com/stroughtonsmith/status/1002893737037582336) is a tweet by Steve Troughton-Smith.
+
+It's unclear where this came from, but he's the one who dug into the iOS 11 GM when it leaked before the keynote last year and discovered Animoji and a lot of details about Face ID, so this is probably legit.
+
+Edit: [Follow-up tweet](https://twitter.com/stroughtonsmith/status/1002903470939230208):
+
+&gt; As usual, the spoilers came from within: Apple posted a 30-second preview video of Xcode on 10.14 to the Xcode MAS store page API (which, as videos aren't supported on the MAS, 'should' have been hidden. Guess nobody checked.). Here's the full video: https://9to5mac.com/2018/06/02/leaked-macos-10-14-screenshots-show-off-new-dark-mode-apple-news-app-xcode-10/
+
+Edit 2: [Video hosted on Apple's site.](http://apptrailers.itunes.apple.com/apple-assets-us-std-000001/PurpleVideo115/v4/6a/de/53/6ade53cf-d36a-0f2f-6b10-d0aecc417887/P53788383_default.m3u8)",200,1482,2018-06-02,AAPL,0.04087730869650841,0.9324733018875122,0.02664940245449543
+iphone,Perfect protection for going naked/not naked,,137,956,2018-06-02,AAPL,0.09508822113275528,0.8746679425239563,0.03024386428296566
+AppleWatch,The time for 🍺 is near,,39,613,2018-06-02,AAPL,0.0896495133638382,0.8649176359176636,0.04543287679553032
+apple,Remember Steve Job's 2010 Email Outlining Apple's Roadmap? Seems they nailed nearly all of it...,,173,511,2018-06-02,AAPL,0.04157554358243942,0.883573055267334,0.07485140115022659
+apple,I just want to drop in and say that Apple’s News app is fantastic and deserves more recognition.,"I can’t speak for any other News App competition, but I am in love with the iOS News App. I never thought I would ever be able to replace Flipboard back in the day!
+
+Edit: Not saying it’s perfect by any means. But it’s very solid IMO",162,477,2018-06-02,AAPL,0.039246849715709686,0.9142079949378967,0.04654521495103836
+apple,The video EverythingApplePro made yesterday showing off the leaked ios 12 features was fake.,"He deleted the video and made a new one where he apologizes and says the video was obviously faked.
+
+Link to the new video: https://www.youtube.com/watch?v=FIDHkUO8q5I&amp;t=0s",142,399,2018-06-02,AAPL,0.07022874802350998,0.8931252956390381,0.03664589673280716
+apple,"Why’s Apple taking such a long time to get Apple News in other countries? Even in English speaking countries like Canada, it’s not available.",,38,384,2018-06-02,AAPL,0.02336101420223713,0.9121782183647156,0.06446078419685364
+mac,Screenshots of macOS 10.14 and Xcode 10 with Dark Appearance Leak,[deleted],54,290,2018-06-02,AAPL,0.06547583639621735,0.9076148867607117,0.026909248903393745
+ios,Safari forgot that the iPhone X has a notch,,59,270,2018-06-02,AAPL,0.01623053476214409,0.9049614667892456,0.0788080096244812
+apple,A Third Class Action has been filed against Apple in California over MacBook Pro Keyboard Problems,,713,3796,2018-06-03,AAPL,0.6176455616950989,0.3580939769744873,0.024260511621832848
+apple,Now is the time for free iCloud storage to be increased.,,672,1786,2018-06-03,AAPL,0.027956750243902206,0.9290809631347656,0.04296225309371948
+iphone,iPhone landscape lock screen glitch made for a pretty cool bedside clock,,139,1359,2018-06-03,AAPL,0.010974690318107605,0.790342390537262,0.19868288934230804
+iphone,"3 years on, the 6S is still the best phone I’ve ever owned.","Anybody that knows me irl would consider me to be very ADD when it comes to tech. I always sell my devices to upgrade to the latest and greatest. Between 2006 and 2015 when I got the 6S, I had 12 phones - an average of one every 9 months. 
+
+But honestly, I haven’t had a reason to upgrade from the 6S. I had always heard about how long iPhones were supported (for better or worse) but I never thought after 3 years I’d have a phone on the latest OS performing exactly the same as the day I got it.  Even getting one years worth of updates is pushing it in the majority of the Android world. I had a few month low point after iOS 11 was released where I was getting awful lags, but that is long gone now. 
+
+No wonder Apple still sells the 6S and SE. This hardware seems to be rock solid futureproof. Other than the shiny newness of the iPhone X interface, I don’t have a legitimate compelling reason to upgrade anytime soon.",313,1194,2018-06-03,AAPL,0.021824225783348083,0.9052196741104126,0.0729561448097229
+apple,New Airpods seem to be announcing tomorrow...,"Checking stock on the Airpods in Toronto, a couple of days ago it showed stock in all the stores and just checked today and all shows available June 18. Seems very odd that all would go out of stock suddenly and have a new restock date. Pretty good sign a new model is coming out?
+
+EDIT: Checked again and ALL of Canada shows out of stock \(except one store\) and available June 18. US still shows in stock in stores though.",407,953,2018-06-03,AAPL,0.02678558975458145,0.8589589595794678,0.11425545811653137
+AppleWatch,"Three Years Later, S0 Is Still Great",,88,528,2018-06-03,AAPL,0.05772313475608826,0.4989638328552246,0.44331300258636475
+AppleWatch,What is this watchface? I have been seeing it a lot on the internet. How can you get it?,,62,512,2018-06-03,AAPL,0.015661315992474556,0.91973876953125,0.06459993124008179
+apple,Apple Music webplayer?!,"Ok so sometimes I use the Apple Music tools website to search a playlist that isn’t available in search (like some playlist of Skam or Norwegian rap). But this time I noticed that the player design changed a bit and after listening to a song (preview mode of 30s) I got the message asking me to log in Apple Music. 
+So I logged in and this came up: 
+
+[photo](https://imgur.com/a/JgoYTAH)
+
+It’s something like “this and other websites have access to your account, so you can listen to a full song and add it to your library”.
+
+By the way this is the website https://tools.applemusic.com/ 
+
+[video from my computer](https://m.imgur.com/gallery/WgxPHQ5)
+
+Maybe this wwdc we could see something about it.
+
+I just wanted to share it and sorry for my English .",71,450,2018-06-03,AAPL,0.04433927685022354,0.9220343828201294,0.033626340329647064
+apple,MacBook Pro refresh confirmed by Geekbench leak?,[deleted],305,419,2018-06-03,AAPL,0.028055336326360703,0.9194745421409607,0.052470166236162186
+iphone,Loving the “Denim Blue” Silicone case!,,33,408,2018-06-03,AAPL,0.029665736481547356,0.899807870388031,0.0705263763666153
+apple,iOS 12 to run on everything that runs iOS 11,,1296,9948,2018-06-04,AAPL,0.022273803129792213,0.9430902004241943,0.03463605418801308
+apple,Can we all agree that Craig Federighi is a brilliant presenter.,"I am always hooked when he is on the stage, he is very good at keeping your attention, much more so than any others. Tim is still great too! Well done Craig and the rest of the Apple Team for today!",371,2465,2018-06-04,AAPL,0.027082303538918495,0.7212173938751221,0.2517002820968628
+iphone,Proof AirPods are just dental floss,,38,1955,2018-06-04,AAPL,0.046201013028621674,0.9301170110702515,0.023681936785578728
+iphone,Grouped Notifications on iOS 12!,,239,1767,2018-06-04,AAPL,0.021055418998003006,0.9258272647857666,0.053117308765649796
+apple,Third-party password managers will be able to integrate with AutoFill in iOS 12!,,152,1745,2018-06-04,AAPL,0.013795213773846626,0.9227866530418396,0.06341806799173355
+iphone,So close yet so far.,,109,1498,2018-06-04,AAPL,0.15411226451396942,0.6212327480316162,0.2246549129486084
+apple,Here is everything Apple announced at WWDC today!,"* [iOS 12 introduces new features to reduce interruptions and manage Screen Time](https://www.apple.com/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/)
+
+* [iOS 12 includes new Animoji characters, ‘Memoji’ avatar design feature](https://9to5mac.com/2018/06/04/ios-12-includes-new-animoji-characters-memoji-avatar-design-feature/)
+
+* [Apple announces third-party map support for CarPlay, improvements to Stocks, Books, Voice Memo](https://9to5mac.com/2018/06/04/apple-wwdc-app-updates/)
+
+* [Apple unveils new first-party ARKit Measure app that can auto-detect dimensions of objects](https://9to5mac.com/2018/06/04/apple-unveils-new-first-party-arkit-measure-app-that-can-auto-detect-dimensions-of-objects/?pushup=1)
+
+* [Apple unveils AR Kit 2](https://www.apple.com/newsroom/2018/06/apple-unveils-arkit-2/)
+
+* [watchOS 5 adds powerful activity and communications features to Apple Watch](https://www.apple.com/newsroom/2018/06/watchos-5-adds-powerful-activity-and-communications-features-to-apple-watch/)
+
+* [Apple introduces new Apple Watch Pride band, available today](https://9to5mac.com/2018/06/04/apple-introduces-new-apple-watch-pride-band-available-today/)
+
+* [Apple TV 4K delivers highest quality cinematic experience with tvOS 12](https://www.apple.com/newsroom/2018/06/apple-tv-4k-delivers-highest-quality-cinematic-experience-with-tvos-12/)
+
+* [Apple announces tvOS 12 with immersive Dolby Atmos audio, iTunes content upgraded for free, more](https://9to5mac.com/2018/06/04/apple-announces-tvos12-wwdc/)
+
+* [Apple unveils macOS 10.14 Mojave with dark mode](https://9to5mac.com/2018/06/04/apple-unveils-mac-10-14/)
+
+* [Apple details redesigned Mac App Store with new editorial content, major apps coming this fall](https://9to5mac.com/2018/06/04/apple-details-redesigned-mac-app-store-with-new-editorial-content-major-apps-coming-this-fall/)
+
+* [Safari Browser in iOS 12 and macOS Mojave to Feature Enhanced Privacy Tools](http://www.macrumors.com/link/639612/)
+
+* [Apple gives a sneak peek at multi-year project to bring UIKit iOS apps to the Mac](https://9to5mac.com/2018/06/04/apple-gives-a-sneak-peek-at-multi-year-project-to-bring-uikit-ios-apps-to-the-mac/)
+
+* [New apps added in macOS Mojave: Apple News, Stocks, Home, and Voice Memos](https://9to5mac.com/2018/06/04/new-apps-added-in-macos-mojave-apple-news-stocks-home-and-voice-memos/)",767,1343,2018-06-04,AAPL,0.017471425235271454,0.9261466264724731,0.056381937116384506
+apple,Now it makes sense why Apple acquired the company behind Workflow!,"I am **really** looking forward to the new Shortcuts app. I always felt Workflow’s potential was limited due to the iOS API, I’ve always wanted them to access system-level stuff. 
+
+I’ve already heard people criticizing it saying “since Siri can’t find out what you want, just go do it yourself” as if that’s a bad thing or something. I AM SO GLAD I CAN DO IT MYSELF. Too many people are becoming *dependent* in a way and this sense of control makes me really excited for iOS 12. Yes, it’s a shame that Siri can’t keep up but I have a feeling Apple is going to use all of these user-created shortcuts to improve Siri overall, it’s just a matter of time!",162,1206,2018-06-04,AAPL,0.07200627028942108,0.8939960598945618,0.03399767726659775
+apple,iOS 12 performance is seriously impressive.,"So I've got an iPad mini 2 and I pretty much declared it dead a while ago. The loading times and performance were just horrible, and I deemed it unusable.
+
+Fast forward to today, running the latest beta and I am shocked. This thing is practically new. The OS is snappy, apps load up a lot faster, and it really feels like it has gotten a second life. Thanks, Apple.",274,1184,2018-06-04,AAPL,0.013004310429096222,0.779462456703186,0.20753324031829834
+mac,First Start Prompt,,107,1027,2018-06-04,AAPL,0.03704198822379112,0.9354180097579956,0.0275400560349226
+apple,Apple Confirms Mojave is the Last macOS Release to Support 32-Bit Apps,,548,3006,2018-06-05,AAPL,0.028117645531892776,0.9173363447189331,0.05454600602388382
+iphone,Measured my cat with iOS 12’s Measure App,,155,2608,2018-06-05,AAPL,0.01786726713180542,0.8727177381515503,0.10941507667303085
+apple,Apple revised App Store rule after rejecting Valve’s game streaming app Steam Link. Probably means it’s coming very soon to iOS,,154,2157,2018-06-05,AAPL,0.385319322347641,0.5344474911689758,0.0802331417798996
+apple,Apple CEO Tim Cook: 'Privacy is a Fundamental Human Right',,198,1789,2018-06-05,AAPL,0.024103479459881783,0.9312818646430969,0.04461466521024704
+iphone,Can we ban pictures of boxes?,"There have been more than enough posts that are just ""I got a new iProduct today!"" And the actual post is just a picture of box. That's it. Just a picture of a box. Why don't we just make a new sub called /r/pictureofabox or /r/iBoxes or something?",122,1762,2018-06-05,AAPL,0.022893428802490234,0.9079694151878357,0.06913711875677109
+apple,New App Store guidelines: Apps will now be forced to clearly describe new features in update notes,"&gt; 2.3.12: Apps must clearly describe new features and product changes in their “What’s New” text. Simple bug fixes, security updates, and performance improvements may rely on a generic description, but more significant changes must be listed in the notes.
+
+[Link](https://developer.apple.com/app-store/review/guidelines/#accurate-metadata)",166,1746,2018-06-05,AAPL,0.02494429051876068,0.9285035729408264,0.04655211791396141
+apple,Apple CEO Tim Cook says data tracking is 'totally out of control',,149,1121,2018-06-05,AAPL,0.3117567300796509,0.38539883494377136,0.30284440517425537
+apple,Face ID in iOS 12 can now recognize two different people,,222,1027,2018-06-05,AAPL,0.06145046278834343,0.9124366044998169,0.026112966239452362
+apple,Full res MacOS Mojave wallpaper:,,40,1009,2018-06-05,AAPL,0.0315542072057724,0.9218490719795227,0.0465967170894146
+AppleWatch,"Please Apple, add the ability for my watch to tell me when I left my phone somewhere.",They could easily add it so when the watch looses Bluetooth connection with the phone. It will give 3 quick vibrates with a little notification or something. I would really love this feature so I never have to worry about leaving my phone at a restaurant or something ever again.,73,808,2018-06-05,AAPL,0.03352290019392967,0.9221397042274475,0.0443374402821064
+iphone,Finally got my first pair of AirPods!,,389,24047,2018-06-06,AAPL,0.01798276975750923,0.7411266565322876,0.24089060723781586
+iphone,"Mods are asleep, upvote iphone 3G",,100,3643,2018-06-06,AAPL,0.026449022814631462,0.9170449376106262,0.056506022810935974
+apple,iOS 12 screentime will definitely create akward situations.,"[As seen here](https://i.imgur.com/Zu2MoDv.jpg), screentime displays some websites in its list. It’ll be fun when you show to your friends how you spend time on your phone and pornhub and similar appear with dozens of hours.
+
+Edit: for science, I tested incognito mode. It doesn’t charge anything. [It also track all your websites.](https://i.imgur.com/OEGVIv6.jpg)",464,2658,2018-06-06,AAPL,0.04176483675837517,0.9320489168167114,0.026186222210526466
+apple,A new era of Apple,"I really feel like with this past WWDC Apple really turned a corner in getting back to what made them great to begin with. Listening to the professionals but making the experience for everyone which Tim even said himself.
+
+It speaks volumes that iOS 12 Beta 1 feels better and more reliable than the last version of 11.4.
+
+I’m really looking forward to the next lot of hardware revisions. I think they will prove this return to form with new MacBook Pro’s and the new Mac Pro. The iMac Pro has already been a hint at their intent. 
+
+I’ve gone from nearly looking outside the Apple Ecosystem to doubling down on them for the future. 
+
+Nice work Tim.",593,1910,2018-06-06,AAPL,0.015257720835506916,0.7699664831161499,0.21477572619915009
+iphone,I recreated The Brady Bunch intro out of the new Memojis,,74,1612,2018-06-06,AAPL,0.04724898561835289,0.9032769203186035,0.04947414621710777
+apple,Trials for Paid Apps Come to App Store,,133,1334,2018-06-06,AAPL,0.013445665128529072,0.9313927292823792,0.05516158044338226
+iphone,Toy phones are finally embracing the notch,,36,1081,2018-06-06,AAPL,0.031934164464473724,0.8165640234947205,0.1515018194913864
+AppleWatch,I really like how these match!,,74,744,2018-06-06,AAPL,0.02198841981589794,0.8885544538497925,0.08945707976818085
+apple,Introduction to Siri Shortcuts,,104,617,2018-06-06,AAPL,0.04095935449004173,0.9216606616973877,0.03737999498844147
+apple,"In iOS 12, you can use AirPods as hearing aids.","In the control center settings, add “hearing” to “include”.",96,613,2018-06-06,AAPL,0.02244975045323372,0.9287314414978027,0.04881878197193146
+apple,Apple strips Facebook &amp; Twitter integration from macOS Mojave,,463,7264,2018-06-07,AAPL,0.06003297492861748,0.9039772748947144,0.03598980978131294
+iphone,Samsung AR Emoji vs. Apple Memoji,,363,6844,2018-06-07,AAPL,0.018896566703915596,0.8366625308990479,0.1444409340620041
+apple,WWDC Insight: How dropped frames are finally being fixed in iOS 12,"While for many of us WWDC may feel like it's over, the keynote is only the simplified consumer focused overview of the new software. The actual meat and potatoes comes from the many dozens of dev sessions (like mini keynotes) where Apple developers and engineers will dive deep into the specific low level changes that make the new software tick. 
+
+---------------------
+
+I wanted to focus on one that took place yesterday titled ""[Session 202: What's New in Cocoa Touch](https://developer.apple.com/videos/play/wwdc2018/202/)"". Cocoa Touch is the low level framework that controls all touch events and their subsequent UI response/animation throughout iOS. Most notably: scrolling. After reading that iOS 12 was supposed to feature ""smoother animation and scrolling"" on the info page from Apple's website, I was interested to hear what the actual engineers had to say about this. In this session, Josh Shaffer confirmed that Apple has gone through a **full audit** of all native Apple apps within iOS and used those as a testing ground to profile for any areas the core animation frameworks are experiencing bugs and bottlenecks. 
+
+
+
+I'm pleased to report that this session **directly** targeted three major reasons that we've had persistent frame drops throughout iOS despite the exponentially more powerful hardware we get year over year. This has been going on for many years and described in all kinds of ways from countless users on this sub: ""hitching"", ""jank"", ""stutter"", ""judder"", etc. Regardless of verbiage, iOS has been failing to maintain 60FPS consistently during scrolling since ~iOS 7, and it sounds like iOS 12 is finally **finally** addressing this. These improvements will not only benefit the native apps, but should also extend to improving the scrolling/animation performance of third party apps as well without any extra work on the developer's part. Should make a lot of users here ([especially Chris Pirillo!](https://docs.google.com/document/d/1TDCVavaqDJCFjcQxZsL6InzHxPEYWwMMMh9QtfRGjbY/edit)) quite happy.
+
+------------------------------
+
+
+I'm going to do my best to summarize the three major fixes below, but the video linked above is definitely the best way to get a full understanding of what's changing if you're interested. I've grabbed the slides from the presentation and placed them throughout the explanations where appropriate to help visualize what's being discussed. (the little comments in white are my own) Without further ado: 
+
+1.	**An oversight within the [Cell Pre-fetch API](https://medium.com/capital-one-developers/boost-smooth-scrolling-with-ios-10-pre-fetching-api-818c25cd9c5d) causing dropped frames has been fixed**. This was an API introduced in iOS 10 intended to help solve frame drops, particularly those that were the result of [loading heavy data within an upcoming cell during a scroll](https://i.imgur.com/sTNRcAF.png). The idea was that you could pre-load the data (say, a large image coming up before it's made it to the screen upon scroll) in the background so by the time the cell is on screen, the data is already loaded and the CPU performance of the active scrolling thread remains unaffected. While this works much of the time and did in fact reduce dropped frames, Apple has identified a bug in the implementation. Instead of running the pre-fetch *after* the current cell is finished loading and visible on screen, sometimes the pre-fetch will incorrectly start loading future data at the *same time* as the current cell was already loading in on screen! This meant that the CPU was handling not only the scroll, but [also the pre-fetch for future data while there was already data in the process of loading in](https://i.imgur.com/5fEYNV8.png). Essentially, the pre-fetch was a bit ""too ambitious"" and would fetch too early requiring the CPU to load *two* large elements concurrently, often causing frames to drop due to the exact kind of spike in CPU usage this API was designed to reduce. In iOS 12, they [have adjusted the pre-fetch API so it now loads more intelligently](https://i.imgur.com/9a1OVsN.png), vastly reducing the chance that it will try to fetch data too early and prevent a slam to the CPU. 
+
+2.	**Apple has identified and corrected an issue in the CPU performance controller causing dropped frames even when there was very little background load.** This one is an even bigger win for performance in iOS 12. Previously, when an app would alert the system that there was a big load coming up during a scroll and it needed more CPU performance, [the CPU was quite slow to respond and increase its clock speed.](https://i.imgur.com/EXSDvax.png) In fact, by the time the CPU was at a higher speed state, it was often too late and the frame was already dropped. This has been fixed, and is actually what Craig was referring to at the main keynote. Essentially, when an app needs more CPU performance to prevent a frame drop, [the CPU will now respond instantly and rocket right up to its high clock speeds](https://i.imgur.com/MxCxlLZ.png), and more quickly drop back down to idle. (all mobile CPUs idle as often as possible to maintain battery life, only going to max speed when required)
+
+3.	**The auto-layout framework has been heavily optimized to substantially increase performance.** Auto-layout is what allowed Apple to begin targeting different screen sizes and shapes in iOS. It controls how most UI elements, text, and content are laid out on the display by automatically controlling spacing for the many different iDevice screen sizes, without requiring the developer to completely redesign an app to support a new screen size. It has been in active use since iOS 8 when the iPhones went big. As it turns out, [Apple discovered that the performance impact of the Auto-layout framework](https://i.imgur.com/A2uqXD7.png) was actually [scaling at an exponential rate with iOS 11](https://i.imgur.com/qFCWP1Y.png) (and quite likely, iOS 8/9/10) so the performance penalty for using it in more complex ways was quite severe. In iOS 12, they have gone through and heavily optimized the auto-layout framework so the performance impact of it is far more linear, which should free up the CPU and GPU substantially when rendering apps. 
+
+
+-----------
+These are the three primary improvements and fixes for avoiding dropped frames introduced in iOS 12. Josh mentions that there are even more than this, but these are the three that have brought the largest increase in scrolling performance and have dramatically reduced frame drops on old and new devices alike. Chances are the work described above is still on-going so the beta builds of iOS 12 may not reflect the full improvement we can expect, but hopefully when we're installing the final build of iOS 12 this September we can finally see a return to the locked 60FPS experience (and now 120FPS on iPad Pros) we once had in the early days of iOS. 
+
+----------------------
+
+**EDIT:** I feel inclined to tack on a disclaimer. I'm writing this to inform the wider community that Apple is detailing their efforts to smooth out animation in iOS 12, but I don't work for Apple and I don't make any guarantee that the frame drops WILL be fixed. I'm just acting as a messenger here. 
+
+These are improvements that are in active development for iOS 12, and they are making the promise that it will help massively reduce frame drops in both first party and third party apps. As the only iOS 12 we have access to today is very early beta software, we cannot expect the current version to have these improvements fully implemented. We must reserve judgement on whether these endeavors were successful in solving the problem, or not, only when we have our hands on the final version of iOS 12. 
+
+They've spent a year focusing a majority of engineering on optimizing low level frameworks to fix this and many other issues (I can do another write-up if anyone is interested, the new session videos dropped tonight). Quite frankly, if iOS 12 ships and the issue isn't solved/massively reduced on modern hardware (A9 and forward)... *I think we can safely abandon all hope that it ever will be.*
+
+EDIT 2: Made some clarifications regarding the first point on pre-fetch. 
+
+EDIT 3: I’ve never had the honor of making the fabled “Thanks for the gold!” edit for myself. Some said it was always a long shot, some said I just wasn’t born for gold.  But I’ve made it, here I am!  Thanks for the gold!!",253,2944,2018-06-07,AAPL,0.08774011209607124,0.8718826472759247,0.04037723410874605
+apple,MKBHD and his tendency to state incorrect facts,"Edit: I would like to do a little post-discussion explosion additions here. In all honesty I went into this expecting a small group of comments and this post to disappear after a small amount of time. Because of this, my phrasing and terminology were much more lax than what I would have used if I knew this post would cause such a rift. I agree my post sounds a bit aggressive and some people have called me out for back tracking, which is fine I see what they’re saying, but essentially my reply to Marques is closer to what my feelings are. Were this a conversation between him and I, it would have been very casual and superficial. I genuinely feel bad that I likely came off as a bit insulting and appeared to be gas-lit and looking for validation. No one is perfect and that’s fine this was just something I had though about today. Sorry dude I meant no harm.  
+
+
+
+
+Over the past few years, I have watched MKBHD videos a lot. Throughout that time, I’ve noticed a very frequent occurrences of him (seemingly) blatantly missing details about things he has talked about or simply giving incorrect information in almost every video focused on Apple products. 
+
+
+In his most recent video of the [Top 5 iOS 12 Features ](https://youtu.be/RROs-zCrSko), he was flat out wrong about multiple things he had mentioned in the video. As an example, when he mentioned the addition of grouped notifications, he stated that while it was a nice feature, he wished Apple would implement a way to complete an action on a notification without entering the app. Anyone who has used iOS at all knows full well that we have had that ability for years yet he seems to have somehow not known about the actions apps present when you 3D Touch them. He said he hoped they would add it, but apparently it seems like it would be years from now, which is weird and absurd.
+
+
+From his HomePod review video, he also stated that he thought it was very stupid that the HomePod can only be chosen as an output on the iPhone and NOT the Mac, Apple TV, or anything else. He went as far to say something along the lines of “classic Apple” which of course gave a field day to those in the comment section who enjoy cementing their distaste for Apple and their products. 
+
+
+I think he is a good YouTube personality and his videos are always of excellent visual quality, but is quite baffling to me how little effort he puts into fact checking or (it seems) even doing a quick look into the settings/googling something he decided to put into the video. I currently chill in the Apple ecosystem with an iPhone and a Mac, but I like android a lot and keep up with that side of the fence just as much as Apple’s. It’s somewhat frustrating to watch a video of his where he states incorrect facts more than once in some videos with no history or intention of ensuring what he’s saying is true/back tracking to correct misinformation. 
+
+
+I’m in no way trying to start some silly fanboy war, I was just curious about what this community felt about the topic.",629,2735,2018-06-07,AAPL,0.10949426144361496,0.8639982342720032,0.02650749310851097
+apple,All the people Apple just pissed off to better protect your privacy,,262,1491,2018-06-07,AAPL,0.049564383924007416,0.8234609365463257,0.1269747018814087
+iphone,iOS 12's Measure app is about to ruin some guys lives.,,60,531,2018-06-07,AAPL,0.3110042214393616,0.6651901602745056,0.023805659264326096
+iphone,Apple proved this week that it's not trying to force you to buy a new iPhone,,133,491,2018-06-07,AAPL,0.5329495072364807,0.36197197437286377,0.10507848113775253
+mac,PSA: MacOS Mojave will not let you install safari extensions that aren't approved by apple,,119,466,2018-06-07,AAPL,0.03307883068919182,0.9186400175094604,0.048281192779541016
+apple,"In 1995, Apple promised us Dark Mode. I'm looking forward to them finally delivering!",,47,442,2018-06-07,AAPL,0.013661892153322697,0.703518271446228,0.28281983733177185
+apple,iOS 12 definitely speeds up your iPhone,,78,417,2018-06-07,AAPL,0.012580294162034988,0.8299943208694458,0.1574253886938095
+apple,"When macOS Mojave comes out, do us a favor: use Safari.","As many of you may have heard, [Apple is making a big push to making Safari a more powerful privacy tool](https://www.fastcompany.com/40581691/all-the-people-apple-just-pissed-off-to-better-protect-your-privacy) by anonymizing your data as much as possible. Basically, they're restricting what information about your machine companies can see by only allowing Safari to show them the most bare-bones basic info about your Mac. It's like the difference between a report describing ""a dark, glossy blue Ford Fusion with tinted windows and numberplate *555-LOL*,"" and ""a dark Ford sedan."" It won't stop companies from tracking you, or trying to at least, but it will make it harder to personally identify you in particular.
+
+I watched the WWDC keynote, but it didn't really click until today that Mojave's Safari is [basically implementing something similar to TOR-style anonymizing](https://www.torproject.org/about/overview), minus the triple-encrypted routing to a separate node. The biggest thing about TOR's effectiveness (and the reason it was made public): [the more people that use it, the more that everyone using it blends in](https://youtu.be/mUP0tx7Ib2w?t=2m18s). Same case with Safari's ad-fingerprint disabling, the more people who use it, the more everyone using it blends in, because the more the people using it, the more they look like everyone else using it.
+
+So Mac users, please do us a favour, when Mojave is released, switch to Safari if you haven't already. For your sake and that of everyone else using it.
+
+TL;DR: Safari's ad-tracking disabling works better when more people use it, so if you're on macOS Majave, you can help make Safari's ad-tracking disabling more effective just by using Safari.
+
+_____
+
+Holy hell this blew up. I did not expect to get this much attention. Glad to help!
+
+_____
+
+This post is on the Front Page. Welp, I could retire from reddit happy now.
+
+Also, RIP my inbox.",905,4627,2018-06-08,AAPL,0.04641249403357506,0.9205528497695923,0.033034663647413254
+iphone,It’s actually insane how much better iOS 12 beta 1 is to iOS 11.4.,"I have a iPhone 7 and my god this thing is so much faster and smoother. I made a backup of 11.4 just Incase I run into any bugs but so far so good. iOS 12 feels so much better. 
+
+Edit: I have no idea why this is flaired as a question.",256,1559,2018-06-08,AAPL,0.01292003970593214,0.6361793279647827,0.3509006202220917
+AppleWatch,My Apple Watch is one of the most important weapons in my weight loss tool kit. 75 lbs down in 4 months.,,135,1420,2018-06-08,AAPL,0.023096399381756783,0.8857637643814087,0.09113984555006027
+apple,In iOS 12 you can now swipe around on the home screen while apps are being minimized,"[Shown here in the developer session - Designing Fluid Interfaces](https://twitter.com/vincentriemer/status/1004880123617857536?s=12)
+
+You can also dismiss an app while it's launching, or even interrupt it and go into multitasking.  And you can even interact with the app while it's coming into view.  This is pretty neat stuff.  Glad Apple is paying attention to these little things that can really make using the device just *feel* more responsive.",87,640,2018-06-08,AAPL,0.015743212774395943,0.9111769199371338,0.07307987660169601
+AppleWatch,Nice find at target,,50,606,2018-06-08,AAPL,0.019922703504562378,0.8114807605743408,0.168596550822258
+apple,"Apple Watch to get touch-sensitive solid-state buttons that use Taptic Engine to simulate clicks this or next year, buttons may act as health sensors",,100,439,2018-06-08,AAPL,0.02822483330965042,0.9261996746063232,0.04557551443576813
+apple,"Apple's attention to the small details — The inside of this year's Apple Watch 'Pride Edition' Band is labeled ""Pride 2018"" instead of ""Woven Nylon""","I just noticed that the inside of this year's Pride Edition band is labeled ""Pride 2018"" instead of the typical ""Woven Nylon"" that is usually inside the woven bands, including last year's Pride Edition. Hopefully this means these are going to be a yearly tradition.
+
+[Pride 2017 Band on Top. Pride 2018 Band on Bottom.](https://i.redd.it/9yc1wq2j8t211.jpg)
+
+If nothing else, I wouldn't mind Apple specifying the colour name of the band on the non\-special edition bands. It would be more useful information than saying that it's ""Woven Nylon"" imho.",72,408,2018-06-08,AAPL,0.03807779401540756,0.9352957010269165,0.026626527309417725
+apple,iCloud should offer Time Machine in the cloud and end-to-end encryption for storage and backup,"Currently Time Machine only works with an external hard drive or a local time capsule, NAS or similar. There is no possibility to use an external, off-site server, let alone iCloud. For the iOS devices however we have the possibilities of iTunes sync and iCloud backup. I don’t see why we shouldn’t have a similar option for macOS backups. It would be a great selling point for Apple to offer great backups out-of-the-box with a backup on a local device of yours, such as a time capsule, and an off-site backup in the iCloud.
+
+Further, to make iCloud more attractive, unique and ultimately more secure against data breaches, the iCloud storage and backups put there should be truly end-to-end encrypted such that not even Apple could access the data. Currently this is only the case for a small amount of data, such as keychain elements, home data, payment data and iMessage in the cloud (if you do not perform iCloud backups). Of course, not backing up the keys used to encrypt your data runs a risk of permanently losing access to your backups and data, which is a problem I have no good solution to propose for. I am however sure Apple could come up with a clever way to solve this. 
+
+What do you think? I’d be first in line for such a service.",81,377,2018-06-08,AAPL,0.07398299872875214,0.9006927013397217,0.02532423473894596
+iphone,"Cool AR app created with ARKit 2: ""Control your iPhone with your eyes. Just look at a button to select it and blink to press. Powered by ARKit 2.""",,18,354,2018-06-08,AAPL,0.015321537852287292,0.9308812022209167,0.05379723012447357
+ios,Why is 12 battery life is so good- iPad charges without being plugged in!,,45,332,2018-06-08,AAPL,0.011082150973379612,0.6952940225601196,0.2936239242553711
+apple,iOS 12 includes support for reporting unwanted texts &amp; calls as spam,,463,8566,2018-06-09,AAPL,0.10195521265268326,0.8763588666915894,0.021685859188437462
+iphone,A little gore for y’all,,127,1712,2018-06-09,AAPL,0.044949766248464584,0.8505202531814575,0.10452993214130402
+AppleWatch,WWDC Pin for doing an Apple Watch Challenge,,42,1276,2018-06-09,AAPL,0.02508954145014286,0.9296790957450867,0.04523138701915741
+iphone,"Okay, on a 32GB iPhone, this is getting outrageous.",,290,952,2018-06-09,AAPL,0.04703909903764725,0.5291759967803955,0.42378491163253784
+ios,iOS 1.1 running on a 1st Gen iPod Touch,,112,651,2018-06-09,AAPL,0.013801135122776031,0.9029203057289124,0.0832786038517952
+apple,"New iPhones To Use Next-Generation Of Face ID With Much Batter Reliability, As Dual-SIM will be Exclusively Available For iPhone X Plus",[deleted],169,545,2018-06-09,AAPL,0.013697046786546707,0.908211350440979,0.07809161394834518
+iphone,Do you think the Iphone X will be a good choice to keep for 3-4 years?,"I had an Iphone and it got destroyed. I am looking for an upgrade,but also keep the phone for more than 3 years. Do you think it will last? if so, will it be up to date?
+
+Cheers!",178,453,2018-06-09,AAPL,0.0388583168387413,0.8786671161651611,0.08247455954551697
+ipad,"Not sure if iPad art is encouraged here, but here’s my Procreate portrait of the wonderful Noname, from my iPad Pro!",,22,320,2018-06-09,AAPL,0.016469944268465042,0.923348605632782,0.06018143147230148
+iphone,iPhone X left in hot sun,I’m in Germany on an exchange program and left my phone in the hot sun for about and hour while tanning. When I woke up and grabbed it and it said I had to let it cool down. I brought it inside and it only took a couple minutes to cool down and let me into the phone. There was only a couple percent lost and it seems like no damage to the phone at all. Could I expect there to be any lasting damage though from this?,69,277,2018-06-09,AAPL,0.4070062041282654,0.5412517786026001,0.05174199864268303
+mac,"Now your laptop will sleep when you fall asleep, instead of autoplaying YouTube or Netflix till you wake up and close it!",,19,218,2018-06-09,AAPL,0.07488135248422623,0.8804482221603394,0.04467041790485382
+iphone,"5yrs ago today, iOS 7 was announced at WWDC 2013, making it the first complete redesign of iOS since 2007 — A giant leap from Steve Jobs' and Scott Forstall's iconic skeuomorphic design.",,244,1986,2018-06-10,AAPL,0.018981290981173515,0.8715693354606628,0.10944943875074387
+apple,The changes to iOS’ ‘fluidity’ in iOS12 are amazing.,"Being able to interact with the OS even when apps are closing or launching is great and really makes the phone feel way faster than it was on iOS 11. 
+
+Some neat things I’ve noticed/read about:
+
+You can launch an app and start scrolling within the app even before it fills the screen. 
+You can launch an app and then dismiss it even before the app has fully opened. 
+You can close and app and instantly open another app from the home screen before the closing animation has finished, if you do it quick enough you can even see the closing animation and opening animation of each app playing at the same time. 
+If you exit an app to a folder, you can exit the folder instantly without having to wait for the closing animation to finish. 
+You can close an app an instantly start swiping on the home screen (although I think this may have been in iOS 11)",326,1642,2018-06-10,AAPL,0.02468343824148178,0.9081127643585205,0.06720385700464249
+apple,"macOS Mojave Wallpapers for iPhone, iPad, and Apple Watch",,122,1420,2018-06-10,AAPL,0.02759198285639286,0.9101991057395935,0.062208957970142365
+iphone,Apple says iPhone battery life is not improved by closing apps,,249,1091,2018-06-10,AAPL,0.015400740318000317,0.029563145712018013,0.9550361633300781
+apple,"5yrs ago today, iOS 7 was announced at WWDC 2013, making it the first complete redesign of iOS since 2007 — A giant leap from Steve Jobs and Scott Forstall's iconic skeuomorphic design.",https://www.youtube.com/watch?v=4xzLr7xSr-g,152,778,2018-06-10,AAPL,0.018981290981173515,0.8715693354606628,0.10944943875074387
+apple,iOS 12's Books dark background is pure black on the iPhone X.,This seems like such a small detail but it really bugged me that iOS 11's Books had a near-black but not FULLY black background. I really hope that more pure-black backgrounds come to iOS alongside dark mode.,50,542,2018-06-10,AAPL,0.027280420064926147,0.9380344748497009,0.03468509018421173
+apple,Introducing MapKit JS: MapKit JS brings Apple Maps to your website.,[deleted],149,463,2018-06-10,AAPL,0.020782126113772392,0.9387051463127136,0.04051270708441734
+apple,Apples conferences/events are so well put together.,"I know it’s different industries, but watching E3 yesterday and seeing EA’s conference, all I could think about is how disorganized and bad it was. It made me appreciate Apple and their well put together shows all the more. Now I’m sure Microsoft and Sony will be much better than EA during E3, but my main point was just that Apple really puts on some great organized events.",59,403,2018-06-10,AAPL,0.015149487182497978,0.625235915184021,0.35961461067199707
+AppleWatch,Why can't we have these iPod Nano 6 watchfaces? Some of my favorites.,,73,291,2018-06-10,AAPL,0.02852318435907364,0.93684983253479,0.034626953303813934
+ios,Texted my mom about dinner at 5 and this popped up after 5,,42,288,2018-06-10,AAPL,0.05699963867664337,0.9032368659973145,0.03976355493068695
+apple,"Samsung rejects $539M Apple patent infringement verdict, demands a retrial",,372,2962,2018-06-11,AAPL,0.26505914330482483,0.6905708909034729,0.044369976967573166
+apple,"Instagram has a full-featured web app, yet there's still no native iPad app. How is this possible?","Instagram's web app has everything built in except direct messages, yet Facebook has refused to release a proper iPad app. 
+
+There are so many content creators that use iPads and share their work on Instagram, yet iPad users only option is to use the web interface or the iPhone app (which does not matches iPad screen resolution, thus looking terrible)! 
+
+Instagram is one of the biggest social networks, yet iPad users are forced to use an enlarged and pixellated iPhone app.
+
+EDIT: /u/Hunkir confirmed that **native iPad support is already built into the app,** but it’s disabled by default. Simply [replacing a number in a configuration file](https://reddit.com/r/apple/comments/8q5gab/_/e0hoo8m/?context=2) enables proper iPad support instead of the terrible 2x enlarged iPhone 4 app the rest of the users have to endure. So the app is already ported to iPad, yet Facebook refuses to release it?!",227,1858,2018-06-11,AAPL,0.10440028458833694,0.8706734776496887,0.02492627128958702
+mac,TIL you can use your iPhone as an input audio device on your Mac,,95,997,2018-06-11,AAPL,0.013414612039923668,0.9286016225814819,0.05798378586769104
+iphone,Apple should introduce a free-trial period for iOS games,"Basically, you get a free-trial where you can try premium games/apps for a certain period set by the developers e.g. 1 day, 3 days or 1 week. 
+
+Let's face it - people aren't willing to spend money on premium games. And I can understand why, as I've regretted spending money on premium games because it was different to what I expected, or I just didn't like it. 
+
+Introducing a free-trial period would support premium games more as it would allow iOS users to know if the game is worth spending money on. 
+
+It's a shame that iOS is littered with poor quality F2P games that have in-app purchases, a P2W mechanism, or an energy/time system. 
+
+The loot-box rule (the one where new apps must now disclose odds of loot boxes) they introduced last year was a step in the right direction for iOS gaming. But that is not enough, we iOS players want more quality games.",96,760,2018-06-11,AAPL,0.018574468791484833,0.9199634790420532,0.061462078243494034
+iphone,Washed iPhone X in washing machine accidentally......,"I'm an idiot. Accidentally ran my phone through the washer for half a cycle. Realized it maybe, 20 minutes after it began. I couldn't find my phone, then it clicked that that's where it might be. The floor is soaked, but I found my phone lol.
+
+So far, calls work, facetime works, cameras work, performance seems to work, i'm just worried something will come up. Thank god for Apple Care.
+
+Any tests I should run to check if all is well, or just wait it out? Has anyone else done anything this stupid and want to make me feel better? 
+
+EDIT: One day later, everything is well. Sound working, calls working, cameras working. Absolutely flawless. I'll keep updating.
+
+EDIT: Two days later.....not even one thing is wrong with this phone haha still flawless.
+
+EDIT: Day 3........nothing.",150,486,2018-06-11,AAPL,0.10141921788454056,0.8673062920570374,0.031274497509002686
+apple,"The Elder Scrolls Blades is a first-person, free, mobile RPG",,57,477,2018-06-11,AAPL,0.015038736164569855,0.8447769284248352,0.14018434286117554
+AppleWatch,Fuuuuuuuuuuuuuuuuuuuuu,[deleted],73,464,2018-06-11,AAPL,0.050602082163095474,0.8863006830215454,0.0630972608923912
+apple,Lost iPhone X somehow survives weeks-long river adventure and finds owner [Video],,80,436,2018-06-11,AAPL,0.03636503219604492,0.7996272444725037,0.1640077829360962
+iphone,What's the best car phone mount you have used so far?,"There are too many cell phone car mount options out there, what is the best one you find?
+
+For me I found the best one is the [MagMount Qi from PITAKA](https://www.ipitaka.com/collections/magmount-qi?utm_source=reddit&amp;utm_medium=lily&amp;utm_term=MagMount%20Qi),  It is the only one I can find that has magnetic and wireless charging working at the same time in a proper way. Best of all, not like other car mounts,  it can automatically align the charging position, just need to simply attach my phone on and it starts to charge my phone, very convenient imo. Besides, I like their [MagCase](https://www.ipitaka.com/?utm_source=reddit&amp;utm_medium=lily&amp;utm_term=MagCase), probably the thinnest protective case in the world! Yes I'm a huge fan of PITAKA lol.",206,416,2018-06-11,AAPL,0.014167051762342453,0.903990626335144,0.08184236288070679
+ios,iOS12 now puts 2FA sms codes into your autocomplete. Neat!,,33,320,2018-06-11,AAPL,0.027970347553491592,0.9258545637130737,0.04617513343691826
+apple,Apple quietly banned developers from selling and sharing users’ contacts,,96,3716,2018-06-12,AAPL,0.622006356716156,0.34139248728752136,0.036601077765226364
+apple,Supply Chain Rumor Claims Apple will switch to USB Type-C in its Series of 2019 iPhones,,570,3162,2018-06-12,AAPL,0.03018190711736679,0.9219009280204773,0.047917161136865616
+iphone,iPhone Rumored to Adopt USB-C Ports Next Year,,260,1049,2018-06-12,AAPL,0.011287267319858074,0.8670262098312378,0.12168645858764648
+apple,Apple Updates App Store Guidelines Prohibiting Data Harvesting,,93,946,2018-06-12,AAPL,0.04080606624484062,0.9172900319099426,0.04190387949347496
+mac,Mojave's dynamic wallpapers make for a gorgeous timelapse video,,44,915,2018-06-12,AAPL,0.023364027962088585,0.9288983345031738,0.04773755744099617
+iphone,iOS 11.4 brings battery life problems to some iPhone users,,187,825,2018-06-12,AAPL,0.8615114688873291,0.12311399728059769,0.015374514274299145
+apple,7 months later since the launch of the iPhone X and still no sign of OLED burn-in.,"I really have to give Apple credit. They did an amazing job with the OLED implementation on the iPhone X. I have the screen on a lot so there's a lot of instances where there are static UI elements onscreen. 
+
+Including one really weird experience where I accidentally fell asleep with my phone, I think Face ID kept scanning my face thinking I was looking at the iPhone and the screen stayed on the entire night! Even after that, still no burn\-in!
+
+Whatever hardware techniques Apple employ through iOS to prevent burn\-in is clearly working and Apple should be commended for that. This also further buttresses their philosophy about not being first to release new tech but making it best.",97,540,2018-06-12,AAPL,0.03153114393353462,0.9042065143585205,0.06426233053207397
+AppleWatch,Happy Tuesday,,128,530,2018-06-12,AAPL,0.06802311539649963,0.8252114653587341,0.10676539689302444
+apple,iOS 11.4 is killing battery life on some iPhones,,173,493,2018-06-12,AAPL,0.03172222524881363,0.856050968170166,0.11222682893276215
+apple,Want Spotify and Podcasts on your Apple Watch? WatchOS 5 will allow Audio Apps.,,78,486,2018-06-12,AAPL,0.021621201187372208,0.940933346748352,0.03744541481137276
+apple,Apple to Close iPhone Security Hole That Police Use to Crack Devices,,331,3563,2018-06-13,AAPL,0.7050294876098633,0.2747402489185333,0.020230190828442574
+apple,Shortcuts: A New Vision for Siri and iOS Automation,,202,1459,2018-06-13,AAPL,0.02208062633872032,0.8978914022445679,0.0800279974937439
+iphone,Apple Confirms Plans to Disable Law Enforcement Access to iPhone via Tools Like GrayKey Box,,112,1373,2018-06-13,AAPL,0.012192055583000183,0.8871018290519714,0.10070613026618958
+iphone,Bright Orange Leather case looks awesome,,147,1357,2018-06-13,AAPL,0.012636153027415276,0.7699702382087708,0.21739362180233002
+AppleWatch,Wayback Wednesday - The first Apple Watch for fitness,,47,905,2018-06-13,AAPL,0.02838432602584362,0.9271939992904663,0.044421639293432236
+apple,And another great idea stolen..,"Again Apple was not the first, but arguably the most successful:
+
+https://i.imgur.com/W539kl6.jpg",66,720,2018-06-13,AAPL,0.010040144436061382,0.727798342704773,0.2621614933013916
+apple,Apple finally has the right attitude about notifications in iOS 12,,142,663,2018-06-13,AAPL,0.02252071723341942,0.8148658275604248,0.16261345148086548
+mac,"PSA: Please, please, please enable your firmware passwords!","Recently had my MacBook Pro stolen — left alone in a uni library for 5 mins whilst I went to the loo, though it'd be OK but alas. Anyway, that's stupidity on my behalf.
+
+Thing is: I had Find My Mac enabled. I got back 5 mins later to a laptop that was missing, so had a look for it. Nothing registered. 30 mins later and my device didn't show in FMM — weird.
+
+Looking into this, it seems likely the thief knew what they were doing. You can boot into recovery, clear the NVRAM (single line in terminal is all it takes) and that will prevent your Mac from communicating with Apples servers with regards to FMM. If they then wipe the hard drive, reinstall Mac OS and quickly login to iCloud with their own account, it will completely overwrite your ownership in iCloud. You won't be able to trace the Mac, or do anything to do. Apple won't help.
+
+At this point you're at the mercy of law enforcement finding it and matching a serial number - a very unlikely scenario.
+
+---
+
+Lesson? ENABLE YOUR FIRMWARE PASSWORDS! If you do this in recovery, thieves can't wipe the HDD meaning even if NVRAM is cleared, the device is useless to them. If they don't, they can't wipe it either so eventually the Mac will ping when it connects to internet somewhere and you can track the device.
+
+It's too late for me, but don't make the same errors. Don't leave your device unattended at all, ever. Enable firmware passwords. Enable find my Mac. Make a note of your serial number.
+
+--
+
+On a side note: I'm gutted that Apple doesn't have a solution whereby the serial number alone can trigger alerts when the device is reported as stolen. Having all FMM data stored in NVRAM seems far too easy to overcome.",116,488,2018-06-13,AAPL,0.11344489455223083,0.8588531613349915,0.02770191617310047
+iphone,"Our iPhones Have Different Headings, Coordinates and Elevations",,81,484,2018-06-13,AAPL,0.026455800980329514,0.9410742521286011,0.0324699841439724
+apple,2018 iPhone lineup will bring even faster charging,,108,455,2018-06-13,AAPL,0.010722661390900612,0.1570596843957901,0.8322176337242126
+apple,All Apple Park employees getting standing desks because ‘sitting is the new cancer’,,572,3958,2018-06-14,AAPL,0.09807071089744568,0.822424054145813,0.07950522005558014
+iphone,Finally found a way not to lose my pods,,127,2147,2018-06-14,AAPL,0.20184820890426636,0.45947885513305664,0.3386729657649994
+iphone,Apple to Close iPhone Security Hole That Police Use to Crack Devices,,81,916,2018-06-14,AAPL,0.7050294876098633,0.2747402489185333,0.020230190828442574
+AppleWatch,Metroid Watch face.,,53,538,2018-06-14,AAPL,0.04198430851101875,0.926981508731842,0.031034138053655624
+apple,AirPods: battery degradation update after 18 months,"Thought this would be helpful for anyone currently using, or considering buying AirPods.
+
+Background:
+
+I received my AirPods on December 20th 2016 after preordering on Day 1. In early April 2017, I got my right AirPod replaced due to unresponsive sensors. I am a heavy AirPods user. For the past 18 months, I have used them anywhere from 2-8 hours every day for: listening to music/podcasts and phone calls. I use them exclusively in the gym, and have completely drained the batteries many times during long conference calls.
+
+Degradation after 18 months:
+
+- AirPods (together) drain about 25% per hour while listening to music and podcasts. I have noticed they drain slightly faster when the volume is louder. 
+- The left AirPod (original) drains about 65% per hour on phone calls. This drains noticeably faster (as much as 5-10% more per hour) if I am speaking through the mic for most of the call.
+- The right AirPod (replaced after 4 months) drains about 55% per hour on phone calls. I don't notice this one draining much when I'm speaking a lot.
+
+So taking all of the above data into consideration, one can conclude that my AirPods will last around 4 hours per charge on music, and about 92 minutes per charge on phone calls (more if I manage both AirPods during calls). We're looking at about 20-25% degradation after 18 months of heavy use. 
+
+My conclusion? This is about what I expected. I continue to use and enjoy my AirPods every day. So well done, Apple.",97,443,2018-06-14,AAPL,0.05112605169415474,0.9160740375518799,0.03279991075396538
+mac,My first Mac ever. Got it for $600 from a friend (specs in flair),,63,349,2018-06-14,AAPL,0.013487077318131924,0.7848830819129944,0.2016299068927765
+apple,Report: Grayshift may have already found a way around USB Restricted Mode in iOS 12,,118,329,2018-06-14,AAPL,0.02746763825416565,0.8801215887069702,0.09241074323654175
+apple,Dark mode in macOS Mojave shows just how much the Windows one sucks | iMore,,63,326,2018-06-14,AAPL,0.025066740810871124,0.889133095741272,0.0858001783490181
+apple,On The Sad State of Macintosh Hardware,,333,315,2018-06-14,AAPL,0.02907729148864746,0.9216525554656982,0.049270112067461014
+apple,Face ID mirror fun,Just lined up 3 mirrors and managed to get the infrared sensors to reach my face and unlock my phone around a corner.,38,314,2018-06-14,AAPL,0.018092483282089233,0.9029505848884583,0.07895688712596893
+apple,PSA: Apple Maps is Down for Many Users as 'Directions Not Available' Right Now,,371,1857,2018-06-15,AAPL,0.014481324702501297,0.9158504009246826,0.06966833025217056
+apple,"Not Only Is the Mac Mini Outdated, It’s No Longer Mini",,530,1827,2018-06-15,AAPL,0.4631944000720978,0.37260547280311584,0.164200097322464
+apple,Apple’s Spike Jonze-directed HomePod ad wins ‘advertising excellence’ award at AICP show,,72,1797,2018-06-15,AAPL,0.013665560632944107,0.27574974298477173,0.7105847001075745
+iphone,"Reading on an iPhone X [TIP: use reduced white point, low-med light, and black background or smart invert if not available]",,101,1747,2018-06-15,AAPL,0.041580986231565475,0.9056786894798279,0.05274027958512306
+apple,"Don’t update to Messenger 170.0 on iPhone X running iOS 11.4, as it crashes every time you switch to the app.","As the title says. After it crashes it will launch again, but then will consistently crash when you relaunch it after moving away.
+
+EDIT: Update is out to fix.",283,1026,2018-06-15,AAPL,0.7008479833602905,0.28377267718315125,0.015379316173493862
+iphone,Got this sweet bamboo case at the Sydney farmers market,,45,852,2018-06-15,AAPL,0.022592760622501373,0.8912733793258667,0.08613389730453491
+AppleWatch,My Star Wars watch face!,,72,667,2018-06-15,AAPL,0.04290131852030754,0.9235843420028687,0.033514365553855896
+mac,Photo of our families mac/I device collection. (Taken 2016),,57,652,2018-06-15,AAPL,0.021390050649642944,0.9403703212738037,0.03823962062597275
+iphone,iPhone 3GS will go back on sale soon in South Korea; a stock of unopened units was discovered in a warehouse owned by SK Telink.,,49,512,2018-06-15,AAPL,0.023904329165816307,0.9196957945823669,0.056399840861558914
+mac,"After reaching age 5 my company gave me a 2012 MacBook Pro as a write off. 1TB HD, 16gb ram, 2.5 i5.",,55,382,2018-06-15,AAPL,0.014389674179255962,0.8930279612541199,0.09258239716291428
+apple,I wish more companies or even Apple themselves made AirPlay a little more universally accepted.,"For example, Apple only sells the Apple TV (over $200 in Australia) which then allows the device it's plugged into to be AirPlay ready.
+What I propose is an ""AirPlay dongle"" that you plug into your TV (at a fraction of the cost of an Apple TV) that then grants that device with basic AirPlay capabilities.
+The amount of times I'm at my partners house and want to watch a movie I've purchased on iTunes yet he doesn't own an Apple TV.
+I understand that I could just HDMI my MacBook to the TV itself, but this would be an easier solution that would grant multiple TV's in your household the ability to AirPlay.",237,1761,2018-06-16,AAPL,0.013477589935064316,0.8931034207344055,0.09341892600059509
+apple,I started building an Apple Music web player with MusicKit JS,"I've started building started building an Apple Music web player with MusicKit JS. It's available at [https://music.zacharyseguin.ca](https://music.zacharyseguin.ca).
+
+It's still early in development, but the code is available on GitHub: [https://github.com/zachomedia/apple-music-webplayer](https://github.com/zachomedia/apple-music-webplayer).",206,1261,2018-06-16,AAPL,0.011411516927182674,0.9124939441680908,0.07609450072050095
+iphone,Just finished charging my iPhone 7+ for the second time today..,..now I can rest assured it will last till the end of day,265,860,2018-06-16,AAPL,0.023560242727398872,0.7562392950057983,0.22020046412944794
+iphone,Everything Apple products gets scammed again with a supposedly unopened iPhone 3GS,,140,726,2018-06-16,AAPL,0.018950441852211952,0.9203060269355774,0.0607435442507267
+apple,"Sooo, I just had pizza delivered and this showed up on my phone... 🤔","https://imgur.com/gallery/35KADXa
+
+Is this just a coincidence? 
+
+My wife placed the order from her iPad. 
+
+I didn’t text, email or speak to anybody on the phone about dinner. 
+
+We normally eat dinner at around 6:00 throughout the week 
+
+Any guesses on how this works? 
+
+ Edit- this is on iOS 12",163,571,2018-06-16,AAPL,0.03794959932565689,0.9311779737472534,0.03087245114147663
+AppleWatch,You can make a watch face as an app with Xcode and SpriteKit,,64,547,2018-06-16,AAPL,0.02914535067975521,0.9323955774307251,0.038459133356809616
+AppleWatch,My best clearance find yet - Saddle Brown Leather for $44.98! Thanks Target!,,45,435,2018-06-16,AAPL,0.01826610416173935,0.81397545337677,0.16775839030742645
+apple,An open source app to replicate macOS Mojave's dynamic wallpaper feature using sunrise-sunset times(Beta),,64,295,2018-06-16,AAPL,0.027137722820043564,0.9332994222640991,0.039562877267599106
+AppleWatch,My Joey Gallo watch face...,,36,273,2018-06-16,AAPL,0.08380342274904251,0.8649818897247314,0.05121468007564545
+iphone,This iPhone 150mb limit is fucking stupid,"We seriously need to look at this feature and get the attention of Apple on this. I don’t think I’ve seen a more useless feature ever. It’s a senseless limitation for the sake of it. Maybe this was useful for like 2000-2004 when 3G was all we could get and all data plans had like a 1G limit. This is 2018 where mobile carriers are nearly putting out more MBS then our land line cable companies. Seriously, I got 4 different explanations about how it’s there to keep me from going over my limit... Well that’s obsolete because unlimited data plans. The other explanation I got was because it was faster... that’s not right because I get 100mbs on cellular and only 25mbs on my own in home WiFi. Third was, It’s so that it doesn’t interrupt the downloads.. wrong again you can manually do that ALL you want by simply pausing the download or activating airplane mode. The fourth one was because someone said the network towers couldn’t handle it and wrong again because android phones do this with ZERO problems. This seems like a ploy by Apple to push internet sales. Further more is just flat out stupid and has arguably ZERO use. Somebody needs to say something to Apple. I have, I know you guys aren’t a personal army, not begging anyone to be one. Just saying this is extremely stupid. 
+
+Edit: here is the Apple feed back Incase you guys want to submit without having to dig for it.
+
+[Apple feedback](https://www.apple.com/feedback/iphone.html) 
+
+Edit: Just to be clear on my stance on this, this NEEDS to be a feature we can pick and chose with. Majority of the users this effects which should be the vast majority of those of us who live in places where we can get unlimited data. This isn’t up for Apple to decide for us. This should be for us to decide if we want this on or not. There needs to be an off switch for this.",201,259,2018-06-16,AAPL,0.06869219988584518,0.9050964713096619,0.026211339980363846
+apple,Apple should reward people who contribute to Apple maps,"I know it’s not very Apple ways to do something like crowded sourcing, but I think that’d be the only way maps can improve. Because no matter how many people they hired to add information to maps,they can’t cover everything. 
+
+Google has the same thing called “Local guide”.  it’s program that gives point to people who contribute to Google maps and at a certain point you can have 1TB of free storage
+
+I think Apple should do this too so their service will improve at a faster rate. They could do something like give 1TB of iCloud storage for free to people who contribute to a certain point too. 
+
+What do you guys think ?",422,2868,2018-06-17,AAPL,0.013999179936945438,0.9104529023170471,0.07554788142442703
+AppleWatch,"Hey, r/AppleWatch! Michael here.",,54,1089,2018-06-17,AAPL,0.042988020926713943,0.9221826791763306,0.0348292738199234
+apple,Apple expects its budget iPhone to be the most popular 2018 model,,280,838,2018-06-17,AAPL,0.011536466889083385,0.8464280366897583,0.14203549921512604
+iphone,EVERY iPhone COMMERCIAL In history | 2007-2017 | TimeLine,,31,780,2018-06-17,AAPL,0.038540590554475784,0.9239973425865173,0.03746209666132927
+ios,"Why, Apple?",,41,610,2018-06-17,AAPL,0.05310986563563347,0.8601030111312866,0.08678712695837021
+apple,How to shoot on iPhone. Apple provided tips on how to get the best out of your iPhone camera. Well worth checking out!,,17,408,2018-06-17,AAPL,0.020650474354624748,0.8699246644973755,0.10942479968070984
+iphone,Any way to remove an iCloud account on a lost and found iPhone 6?,"This is going to sound suspicious but I promise it is perfectly innocent.
+
+My girlfriend found an iPhone 6 at her work, it got put into lost and found, as per the hotels lost and found procedure they ran a check to see if it had been reported lost or stolen and it had not, they advertised it all over social media and contacted guests it may have belonged to and no one came forward
+
+After 16 weeks because no one came forward and again it was never reported lost or stolen they let my girlfriend keep it.
+
+Weirdly enough there's no contacts, texts or call logs and only a 5 second clip of a spongebob episode on it so I assume it belonged to a small child or something
+
+I emailed the email address attached to the account but I've had no reply so now I'm just looking to sell it but obviously I can't remove the iCloud account with a password. Is there a away around this?",114,251,2018-06-17,AAPL,0.22996681928634644,0.7486165761947632,0.021416623145341873
+apple,TIL : In iOS 12 you can search any opened website tab by just type keyword related to URL.,Today I come across when i was using safari where more than 100 tabs opened then I pull it down completely and find there is search option at the top where I had typed keyword to find specific website.,42,249,2018-06-17,AAPL,0.022235054522752762,0.9314965605735779,0.04626838490366936
+apple,Should Apple enforce a designated format for pop-ups?,"I am so sick of iOS apps with pop-up ads designed to make it difficult to not accidentally click the ad when pressing the X  button to close. This is due to it being extremely tiny with a small touch area and it being in a difficult to reach area.
+
+Should Apple create a designated format for these ads to reduce frustration, but not have them go away entirely?",42,246,2018-06-17,AAPL,0.12413757294416428,0.853844165802002,0.02201826125383377
+apple,"Is the macOS UI still considered ""Aqua?""","While there are still some original Aqua elements as of High Sierra, it seems the interface has changed enough that it isn't really Aqua anymore. But I'm curious if Apple has ever retired the name?",58,195,2018-06-17,AAPL,0.02667088247835636,0.93563312292099,0.037695955485105515
+apple,iPhones on iOS 12 Will Automatically Share Precise Location Data During 911 Calls in United States,,457,14164,2018-06-18,AAPL,0.029398320242762566,0.9436197876930237,0.02698187343776226
+iphone,Here’s how to zoom in forever if you ever want to.,,101,1624,2018-06-18,AAPL,0.04510575532913208,0.8958215117454529,0.059072691947221756
+iphone,"The iPhone X was released more than 8 months ago. Since that time, Inbox by Google has had 14 updates. Yet for some reason, it *still* doesn't support the IPX's edge to edge display.","The excuse from Google was that the UI does crazy ""one off"" stuff, so it's taken longer than other apps. But it's still frustrating when almost all of their other apps have been updated.
+
+[http://www.idownloadblog.com/2018/04/26/google-inbox-iphone-x-support-explanation/](http://www.idownloadblog.com/2018/04/26/google-inbox-iphone-x-support-explanation/)",142,1482,2018-06-18,AAPL,0.0846780315041542,0.8740890622138977,0.041232891380786896
+AppleWatch,"Just got a Series 3. On the left is the battery of a 4 hour workout on my S0, on the right is the battery of my S3 after the same workout. This is amazing!",,68,721,2018-06-18,AAPL,0.019266748800873756,0.9127176403999329,0.06801566481590271
+mac,"After using both for a bit, macOS feels much more modern than Windows 10","Lately Apple has been (very deservedly) criticised of letting macOS rot a bit, in terms of user facing features. Sierra was a relatively minor update, and High Sierra focused more on frameworks and behind-the-scenes tech that didn't impact day-to-day activities much.
+
+Because of this and other compatibility reasons, I started doing some of my work on Windows 10. I do have to agree the newest parts of Windows 10's UI are nice and really rival macOS.
+
+However, I eventually abandoned using W10 altogether.
+
+Here are just a bunch of things that macOS handles without issue but trip up W10:
+
+**Deleting directories with many files.**
+
+I work on very large Github projects, some with over 100+ Node dependencies, resulting in folders that are tens of thousands of files in size.
+
+On Windows, trying to move this folder to the Recycle Bin takes ages, with Explorer slowly crunching through each file before it gets moved. Then it takes even longer when you actually try to empty the Recycle Bin.
+
+macOS handles moving this directory to the Trash literally instantly. Emptying the Trash does take a bit longer, but nowhere near as long as Explorer takes.
+
+**The Finder is so much more advanced than Explorer. **
+
+Quick Look (especially on the Mojave beta) is really capable in that it can preview almost any file out of the box (pictures, videos, JSON, etc), quickly markup stuff and can be added to using plugins. Mojave's quick actions are really sweet too.
+The new Finder dark mode looks absolutely sick too, much better than Explorer's white text on complete black.
+
+**PDF support**
+
+I find it really common that I have to combine PDFs, split PDFs, add pages/images to PDFs, re-arrange PDFs, copy pages between PDFs, bookmark a page in a PDF, etc. All this can be done stupidly easily in Preview, and it handles it flawlessly. No need to upload it to some dodgy web service. Preview has no issue handling 600+ pages documents either. Scrolls through them super smoothly.
+
+Edge is good at viewing and marking up PDFs... that's about it.
+
+**Just plain shutting up**
+
+W10's notifications just don't stop...
+
+""Activate Cortana!!!""
+
+""Download Edge for iOS!!!""
+
+""Download Continue on PC for iOS!!!""
+
+""Download Cortana for iOS!!!""
+
+""Windows Defender found no issues!!!""
+
+""Can we pleeeeeease restart to update???""
+
+""We've pinned Candy Crush to the start menu again!!!""
+
+macOS just shuts up. The only warning it ever gives me is a low battery alert.
+
+**Crash Protection**
+
+I know this is an odd topic, but both macOS and Windows 10 have stuffed up before.
+
+I installed the 1709 feature update, and that left my W10 partition in a constant BSOD reboot loop. Only way to fix it was to nuke the partition and re-install (I spent a good amount of time trying to salvage it because I had stuff set up the way I wanted).
+
+On macOS, I ended up breaking the OS when I tried to jump from the Public Beta -&gt; Stable. It still booted, but the update failed to install and the App Store no longer worked. Quick reboot into Internet Recovery, in-place reinstall of the OS, and everything was up to date and completely working again. All my files and Homebrew packages were untouched.
+
+Also, if you force shutdown macOS while you have a bunch of unsaved stuff open, it'll most likely still be there the next time you log in. Some W10 apps like Office do try and recover your stuff, but most apps do not 😒.
+
+If you're running an EFI update and manage to get a corrupt BootROM because the update was interrupted in some way, macOS will restore a working copy. I suspect this is a hardware feature though, as some business PCs have it too. The PCs I work on don't do this though, so I'm terrified every time I have to update the firmware.
+
+I could probably go on for a lot longer, but these are the things that made themselves apparent in my use of W10 over the past few months.",231,552,2018-06-18,AAPL,0.07867608964443207,0.8945014476776123,0.02682242915034294
+apple,"After using both for a bit, macOS still feels so much more modern than Windows 10","Lately Apple has been (very deservedly) criticised of letting macOS rot a bit, in terms of user facing features. Sierra was a relatively minor update, and High Sierra focused more on frameworks and behind-the-scenes tech that didn't impact day-to-day activities much.
+
+Because of this and other compatibility reasons, I started doing some of my work on Windows 10. I do have to agree the newest parts of Windows 10's UI are nice and really rival macOS.
+
+However, I eventually abandoned using W10 altogether.
+
+Here are just a bunch of things that macOS handles without issue but trip up W10:
+
+**Deleting directories with many files.**
+
+I work on very large Github projects, some with over 100+ Node dependencies, resulting in folders that are tens of thousands of files in size.
+
+On Windows, trying to move this folder to the Recycle Bin takes ages, with Explorer slowly crunching through each file before it gets moved. Then it takes even longer when you actually try to empty the Recycle Bin.
+
+macOS handles moving this directory to the Trash literally instantly. Emptying the Trash does take a bit longer, but nowhere near as long
+as Explorer takes.
+
+**The Finder is so much more advanced than Explorer.**
+
+Quick Look (especially on the Mojave beta) is really capable in that it can preview almost any file out of the box (pictures, videos, JSON, etc), quickly markup stuff and can be added to using plugins. Mojave's quick actions are really sweet too.
+
+The new Finder dark mode looks absolutely sick too, much better than Explorer's white text on complete black.
+
+
+**PDF support**
+
+I find it really common that I have to combine PDFs, split PDFs, add pages/images to PDFs, re-arrange PDFs, copy pages between PDFs, bookmark a page in a PDF, etc. All this can be done stupidly easily in Preview, and it handles it flawlessly. No need to upload it to some dodgy web service. Preview has no issue handling 600+ pages documents either. Scrolls through them super smoothly.
+
+Edge is good at viewing and marking up PDFs... that's about it.
+
+**Just plain shutting up**
+
+W10's notifications just don't stop...
+
+""Activate Cortana!!!""
+
+""Download Edge for iOS!!!""
+
+""Download Continue on PC for iOS!!!""
+
+""Download Cortana for iOS!!!""
+
+""Windows Defender found no issues!!!""
+
+""Can we pleeeeeease restart to update???""
+
+""We've pinned Candy Crush to the start menu again!!!""
+
+macOS just shuts up. The only warning it ever gives me is a low battery alert.
+
+**Crash Protection**
+
+I know this is an odd topic, but both macOS and Windows 10 have stuffed up before.
+
+I installed the 1709 feature update, and that left my W10 partition in a constant BSOD reboot loop. Only way to fix it was to nuke the partition and re-install (I spent a good amount of time trying to salvage it because I had stuff set up the way I wanted).
+
+On macOS, I ended up breaking the OS when I tried to jump from the Public Beta -&gt; Stable. It still booted, but the update failed to install and the App Store no longer worked. Quick reboot into Internet Recovery, in-place reinstall of the OS, and everything was up to date and completely working again. All my files and Homebrew packages were untouched.
+
+Also, if you force shutdown macOS while you have a bunch of unsaved stuff open, it'll most likely still be there the next time you log in. Some W10 apps like Office do try and recover your stuff, but most apps do not 😒.
+
+If you're running an EFI update and manage to get a corrupt BootROM because the update was interrupted in some way, macOS will restore a working copy. I suspect this is a hardware feature though, as some business PCs have it too. The PCs I work on don't do this though, so I'm terrified every time I have to update the firmware.
+
+
+
+
+I could probably go on for a lot longer, but these are the things that made themselves apparent in my use of W10 over the past few months.
+
+
+edit: formatting",266,514,2018-06-18,AAPL,0.08244122564792633,0.8908470869064331,0.026711734011769295
+apple,"Slide for Reddit is now in Beta Testing, and we need your help revolutionizing the Reddit experience on iOS! Introducing the feature-packed, ad-free, open-source, and beautifully designed Reddit app that has been loved on Android since 2015 and has been written from the ground up for the App Store","Hello [r/apple](https://www.reddit.com/r/apple) users!
+
+My name is Carlos, and I am a university student that has been developing one of the most popular third party Reddit apps on Android, Slide for Reddit, for a little over three years now. In this time, Slide has gained a reputation for being ad-free and open-source, feature-packed, and beautifully designed, and I have spent the last year or so delving into the Apple ecosystem to bring the same features and a fresh, new design to iOS! Slide brings something totally unique to Redditing on iOS devices, and I am extremely excited to announce that Slide iOS is now accepting applications for public Beta Testing on TestFlight! If you are interested in becoming a tester or contributing code to Slide, there is more information about this test at the bottom of the post.
+
+Slide on iOS has been designed from the ground up to be fast and feature packed, with a fresh and *unique* Material Design inspired UI that is simple to use and extremely customizable (thousands of theme and layout combinations). Slide is fully offline-capable, which means you can cache your favorite subreddits and comments for when you are offline, and Slide supports your favorite content sites such as Streamable.com, v.redd.it videos, Imgur albums (for free), and Gfycat.com links, just to name a few.
+
+Slide is also **fully open-source** under an Apache 2 license, with a repository on Github that is actively accepting contributions!
+
+# What makes Slide unique?
+
+For starters, Slide iOS is based off of the design and feature set of Slide on Android ( [r/slideforreddit](https://www.reddit.com/r/slideforreddit) ), which has been built over years and has had extensive testing, evolution, and user feedback. This means that you can expect a sizable feature set that feels intuitive to use and learn, and a tried and tested design that has been modified to feel right at home on iOS.
+
+[Here are some promotional images for Slide](https://imgur.com/a/f9kGbHl) that will be featured on the App Store when Slide exits Beta!
+
+Some other features include:
+
+* Make each subreddit unique with its own theme colors and accents, and automatically pull these colors from supported subreddits
+* Reply to comments and submissions **inline** without opening a reply window, and upload images anonymously to Imgur straight into to your submissions/comments
+* Most feature-rich and easy to use moderation suite on iOS, with support for mod mail, and per-subreddit mod queues
+* Many view types including compact mode for dense information display and beautiful card layout for enjoying photos
+* Gallery and shadowbox modes give you a new way to view your favorite subreddits
+* Extensive data-saving options, with quality modes and WiFi toggle
+* Sync your Slide settings between all your iCloud devices
+* Theme choices include a beautiful true black AMOLED theme, sepia theme, blue theme, and white theme
+* Powerful filter system to block out what you don’t want to see, including content types (ex. filter gifs from [r/all](https://www.reddit.com/r/all)) and domains
+* View and delete your browsing history, or turn off history completely to go incognito
+* “Casual” subscriptions that won’t show up on your frontpage
+* Multi-account support
+* Ad-Block in websites using the built-in web view
+* Optimized for iPad viewing with configurable columns and popup comment views
+* Automatic caching for your morning commute
+* Automatic night theme with custom activation hours
+* Powerful drafts system
+* Multireddit support
+* 7 fonts to choose from, and submission titles/comments can have different fonts
+* Link url/content type previews to make sure you don't click on anything too risky
+* Default post sorting per-subreddit
+* User tagging (like RES)
+* Lightweight and blazing fast
+* Always ad-free and open source
+* Much more that you will fall in love with
+
+**If you would like to help beta test Slide for iOS,** [**please fill out this form**](https://docs.google.com/forms/d/e/1FAIpQLSdv1K2_kLQhLaRrCuF6JIT0dy2VoFIAvtSZYw0WWTuLwWk8yg/viewform)**!** The application will close tomorrow, and 300 testers will be chosen on a first-come-first-serve basis. TestFlight applications will close after this, and I will not be accepting new beta testers until further notice. These testers will also remain active for future Beta builds once Slide is released publicly.
+
+**If you are a Swift developer and want to contribute to our open-source project**, [please check out our page on GitHub](https://github.com/ccrama/Slide-ios), and join us on our Discord server (in the README)!
+
+Thank you for reading, if you have any comments or suggestions I would love to hear your feedback! **Make sure to subscribe to** [r/slide\_ios](https://www.reddit.com/r/slide_ios) **for more information about the beta test, in-development features, and interact with our community!**
+
+EDIT: Wow, there are a lot more responses to this than I had anticipated, and we are well over 300 applications for beta testing. I will be looking into expanding the beta testing pool (maybe multiple waves?) and will keep you in the loop through your email addresses and/or the r/slide_ios subreddit. My goal is to get it into as many hands as possible without making the beta unmanageable!",212,508,2018-06-18,AAPL,0.029889171943068504,0.9300288558006287,0.0400819918140769
+ios,Siri's unfathomable logic,,29,346,2018-06-18,AAPL,0.02869829349219799,0.907920777797699,0.06338091194629669
+AppleWatch,Come on Siri.,,50,284,2018-06-18,AAPL,0.033548664301633835,0.8830596804618835,0.08339168131351471
+iphone,"Slide for Reddit is now in Beta Testing, and I need your help revolutionizing the Reddit experience on iPhone! Introducing the feature-packed, ad-free, open-source, and beautifully designed Reddit app that has been loved on Android since 2015 and has been written from the ground up for the App Store","Hello r/iphone users!
+
+My name is Carlos, and I am a university student that has been developing one of the most popular third party Reddit apps on Android, Slide for Reddit, for a little over three years now. In this time, Slide has gained a reputation for being ad-free and open-source, feature-packed, and beautifully designed, and I have spent the last year or so delving into the Apple ecosystem to bring the same features and a fresh, new design to iOS! Slide brings something totally unique to Redditing on iOS devices, and I am extremely excited to announce that Slide iOS is now accepting applications for public Beta Testing on TestFlight! If you are interested in becoming a tester or contributing code to Slide, there is more information about this test at the bottom of the post.
+
+Slide on iOS has been designed from the ground up to be fast and feature packed, with a fresh and *unique* Material Design inspired UI that is simple to use and extremely customizable (thousands of theme and layout combinations). Slide is fully offline-capable, which means you can cache your favorite subreddits and comments for when you are offline, and Slide supports your favorite content sites such as Streamable.com, v.redd.it videos, Imgur albums (for free), and Gfycat.com links, just to name a few.
+
+Slide is also **fully open-source** under an Apache 2 license, with a repository on Github that is actively accepting contributions!
+
+# What makes Slide unique?
+
+For starters, Slide iOS is based off of the design and feature set of Slide on Android ( [r/slideforreddit](https://www.reddit.com/r/slideforreddit) ), which has been built over years and has had extensive testing, evolution, and user feedback. This means that you can expect a sizable feature set that feels intuitive to use and learn, and a tried and tested design that has been modified to feel right at home on iOS.
+
+[**Here are some promotional images for Slide**](https://imgur.com/a/f9kGbHl) that will be featured on the App Store when Slide exits Beta!
+
+Some other features include:
+
+* Make each subreddit unique with its own theme colors and accents, and automatically pull these colors from supported subreddits
+* Reply to comments and submissions **inline** without opening a reply window, and upload images anonymously to Imgur straight into to your submissions/comments
+* Most feature-rich and easy to use moderation suite on iOS, with support for mod mail, and per-subreddit mod queues
+* Many view types including compact mode for dense information display and beautiful card layout for enjoying photos
+* Gallery and shadowbox modes give you a new way to view your favorite subreddits
+* Extensive data-saving options, with quality modes and WiFi toggle
+* Sync your Slide settings between all your iCloud devices
+* Theme choices include a beautiful true black AMOLED theme, sepia theme, blue theme, and white theme
+* Powerful filter system to block out what you don’t want to see, including content types (ex. filter gifs from [r/all](https://www.reddit.com/r/all)) and domains
+* View and delete your browsing history, or turn off history completely to go incognito
+* “Casual” subscriptions that won’t show up on your frontpage
+* Multi-account support
+* Ad-Block in websites using the built-in web view
+* Optimized for iPad viewing with configurable columns and popup comment views
+* Automatic caching for your morning commute
+* Automatic night theme with custom activation hours
+* Powerful drafts system
+* Multireddit support
+* 7 fonts to choose from, and submission titles/comments can have different fonts
+* Link url/content type previews to make sure you don't click on anything too risky
+* Default post sorting per-subreddit
+* User tagging (like RES)
+* Lightweight and blazing fast
+* Always ad-free and open source
+* Much more that you will fall in love with
+
+**If you would like to help beta test Slide for iOS,** [**please fill out this form**](https://docs.google.com/forms/d/e/1FAIpQLSdv1K2_kLQhLaRrCuF6JIT0dy2VoFIAvtSZYw0WWTuLwWk8yg/viewform) **(if you get an error, try reloading the page)!** The application will close tomorrow, and 300 testers will be chosen on a first-come-first-serve basis. TestFlight applications will close after this, and I will not be accepting new beta testers until further notice. These testers will also remain active for future Beta builds once Slide is released publicly.
+
+**If you are a Swift developer and want to contribute to our open-source project**, [please check out our page on GitHub](https://github.com/ccrama/Slide-ios), and join us on our Discord server (in the README)!
+
+Thank you for reading, if you have any comments or suggestions I would love to hear your feedback! **Make sure to subscribe to** [r/slide\_ios](https://www.reddit.com/r/slide_ios) **for more information about the beta test, in-development features, and interact with our community!**
+
+EDIT: Wow, there are a lot more responses to this than I had anticipated, and we are well over 300 applications for beta testing. I will be looking into expanding the beta testing pool (maybe multiple waves?) and will keep you in the loop through your email addresses and/or the [r/slide\_ios](https://www.reddit.com/r/slide_ios) subreddit. My goal is to get it into as many hands as possible without making the beta unmanageable!",72,267,2018-06-18,AAPL,0.029657386243343353,0.9301041662693024,0.04023844003677368
+apple,Apple CEO Tim Cook says family separations at US border are ‘inhumane’ and ‘need to stop’,,10,9004,2018-06-19,AAPL,0.21384252607822418,0.7378690838813782,0.04828840494155884
+apple,"Apple, please, for the love of all that is holy, get rid of the Yelp requirement in iOS 12 Apple Maps","I know I'm not alone with this desire, and we've been waiting for this to happen for *years*. I don't use Yelp. I don't *like* Yelp. It wouldn't be so bad if the Yelp app was not *required* to view any reviews longer than a short thought, or even view photos, let alone post reviews. To be honest, this is one of the very few reasons why I still use Google Maps over Apple Maps.
+
+Why the decision was made to begin with is almost beyond me - I suspect it was contractual. Here's hoping that contract runs up for the release of iOS 12.
+
+Yes, I have submitted feedback on multiple occasions. I suggest others follow the trend.
+
+https://www.apple.com/feedback/
+
+Edit: rip my inbox but good to know I'm vastly not alone",386,3762,2018-06-19,AAPL,0.04064064100384712,0.9194557070732117,0.039903637021780014
+apple,In MacOS Mojave You Can Now Mess Up Your Desktop!,"On MacOS, if you go to your desktop and secondary-click, you can see the option to ""Clean Up"", which neatens up the placement of your icons. What's new in MacOS Mojave is the ability to mess up your icons!
+
+Simply secondary-click and hold option down to reveal the new functionality!
+
+Here's a demonstration:
+
+https://twitter.com/ChrisMorrisOrg/status/1007624246103715841",244,1369,2018-06-19,AAPL,0.014700329862535,0.9047964811325073,0.0805031806230545
+iphone,Apple Seeds Second Beta of iOS 12 to Developers,,169,897,2018-06-19,AAPL,0.016573959961533546,0.9170633554458618,0.06636271625757217
+apple,iOS 12 Developer Beta 2 is out!,https://twitter.com/iosreleases/status/1009119999057891329?s=21,193,481,2018-06-19,AAPL,0.029648158699274063,0.9115899801254272,0.05876188725233078
+AppleWatch,Finally hid the time on the upper right hand corner!,,47,329,2018-06-19,AAPL,0.047681424766778946,0.8760460615158081,0.07627250999212265
+ios,iPhone X,,19,307,2018-06-19,AAPL,0.024125386029481888,0.8946402668952942,0.08123438060283661
+apple,Apple Pay is now available in Poland,"I just managed to add my mBank card to both my iPhone and my Apple Watch. When I opened Wallet on my iPhone, the Apple Pay section just kinda slided in after a second and on the Watch app I had to force quit and open it again. The whole process of adding a card was very easy and simple!
+
+News article in Polish:
+http://media.mbank.pl/pr/394260/apple-pay-juz-dostepne-dla-klientow-mbanku",102,282,2018-06-19,AAPL,0.020906012505292892,0.9353446960449219,0.043749336153268814
+apple,iOS 12 beta 2 includes references to new Apple Watch models,,151,256,2018-06-19,AAPL,0.013983514159917831,0.9305528998374939,0.05546358972787857
+AppleWatch,Marine Green sport band color comparison,,24,220,2018-06-19,AAPL,0.018923645839095116,0.9269751906394958,0.054101161658763885
+apple,Tim Cook drops 43 places in employee approval ratings of CEOs,,418,2822,2018-06-20,AAPL,0.4228866994380951,0.5188397169113159,0.05827363580465317
+iphone,ARKit business card concept,,67,1230,2018-06-20,AAPL,0.022061705589294434,0.9384551048278809,0.039483197033405304
+mac,"Mojave Midnight, the Mojave wallpaper a bit darkened. Thought you might like it.",,36,810,2018-06-20,AAPL,0.06726714968681335,0.8647266030311584,0.0680062472820282
+AppleWatch,Just in case you forgot where it was,,19,769,2018-06-20,AAPL,0.12409133464097977,0.7736347317695618,0.10227388888597488
+apple,Apple is literally ready for AR Glasses 👓 !!!,"I just sliding through Twitter and saw [THIS. ](https://twitter.com/hturan/status/1005470052920037376?s=21)
+
+[And this is insane considering how good and fast it can track movement](https://twitter.com/hturan/status/1005541085068873728?s=21).",141,754,2018-06-20,AAPL,0.15121325850486755,0.6551777720451355,0.19360892474651337
+apple,Apple Releases Safari Technology Preview 59 With Intelligent Tracking Prevention 2.0,,12,378,2018-06-20,AAPL,0.017860138788819313,0.9258299469947815,0.056309912353754044
+AppleWatch,Still loving my series 0 SS black.,,76,265,2018-06-20,AAPL,0.015828832983970642,0.7974809408187866,0.18669016659259796
+apple,"Apple Granted 37 Patents this Week covering Touch Controls for AirPods, Nickel-Chromium-Phosphorus Metallic Glass &amp; more",,31,245,2018-06-20,AAPL,0.03536691516637802,0.8990404009819031,0.0655926764011383
+apple,TvOS beta 2 allows setting HomePod as a permanent audio out,"It’s found in [video and audio settings](https://imgur.com/gallery/XptSn1V). Asking Siri something or turning the tv off does not lose the connection either.
+
+Since the HomePod isn’t updated, doing this will break music playback via Siri on the HomePod.",59,201,2018-06-20,AAPL,0.030318664386868477,0.9322686195373535,0.03741273656487465
+apple,Apple Pay available in Norway,"Got released today, supporting only a few banks as of now. Hopefully more banks will get support very soon.
+News article in Norwegian:
+https://e24.no/naeringsliv/apple/apple-pay-lanseres-i-norge/24374873",83,196,2018-06-20,AAPL,0.015559929423034191,0.8883723616600037,0.09606772661209106
+apple,I freaking love the silence switch.,"I had a lot of phones, not just only iPhones.  
+But back when I had an Android, the thing I missed the most was the silence switch.
+
+Being able to silence my phone by the flip of a switch at anytime, during a meeting for instance, is priceless to me.  
+No need to unlock anything, to type passwords, to lay my finger on the fingerprint scanner, to show my face, yada yada...  
+Just _tik_ and that's it.
+
+I hope they'll keep it in their future phones.",368,2452,2018-06-21,AAPL,0.029548168182373047,0.9246728420257568,0.0457790307700634
+apple,Apple invests $25 billion in 5-nanometer node technology for future A-series chips.,,240,2026,2018-06-21,AAPL,0.021356577053666115,0.9155088663101196,0.0631345584988594
+apple,IOS Tips and Tricks,"So after being an iOS power user for 8 years and learning a lot about it, both from discovering things myself and from browsing this sub reddit, I decided to share this information with you guys, hope you find any bit of this information helpful!
+
+#**3D Touch:**
+
+Let's start with the basics, apart from 3D Touching any app for shortcuts, photos for peak and pop, links for a quick preview, or control centre toggles for more options, here are some more uses for it:
+
+* 3D Touch any folder with a badge on it to quickly jump into whatever app has notifications within that folder.
+* 3D Touch on any notification (lockscreen or notification centre) to quickly interact with it (if the app supports that).
+* 3D Touch on any tab in Safari to quickly preview that tab.  
+* 3D Touch on the x button in the notification centre to dismiss all notifications.
+* 3D Touch on the keyboard for a cursor to precisely edit your text.
+ * Bonus tip: after the initial press, you can press harder again and this will allow you to select text, it goes like this:
+
+          1) Finger on keyboard
+
+          2) Hard press, Taptic feedback tells you you're now moving the cursor
+
+          3) remove most of the pressure without removing your hand
+
+          4) hard press again, it should select the word the cursor is over.
+
+          5) you can either repeat 3 and 4 to select a paragraph, or drag the cursor around to select arbitrary sections.  (credit goes to /u/onegamerboi and /u/Dirty_Socks)
+
+
+* 3D Touch on the left side of the display for quick access to the app switcher (iPhone 6s,7,8 and their Plus counterparts only).
+* You have the ability to change the sensitivity of your 3D Touch by going to Settings &gt; General &gt; Accessibility &gt; 3D Touch. 
+
+
+#**Home Screen**
+* You can move multiple icons if you're on IOS 11 (or higher) by going into wiggle mode, holding down an icon, and with your other hand select other icons by tapping on them.
+* Similarly, you can move icons between different pages by holding the icons in one hand, while swiping to a different page with your other hand.
+* If you swipe down anywhere on the homescreen you open up spotlight search, nothing new there, but, did you know that you can use it to do a quick calculation, a quick currency conversion, checking the weather and more, and you don't have to type a full sentence to do so, you can just type ""weather"" and it will give you the weather based on your current location, similarily, you could type something like ""350 usd"" and it will automatically convert them to your currency - again, based on your current location, if, you would like to convert to another currency, then you can simply type ""3 usd to cad"" and it will work too.
+
+
+#**General Tips**
+* You can open a recently closed Safari tab by going into tab view, and holding on the + button.
+* You can choose to reload a website without content blockers by holding the refresh icon and selecting the option to do so.
+* Similarly, you can request a desktop version of the website by holding the same refresh icon and clicking on request desktop site.
+* You can close all tabs by holding on the tab view icon in Safari.
+* If you have any text copied and you want to look it up, go into Safari and hold the url bar, and you will get a ""Paste and Search"" button, and if the text happens to be a website, the button will be a ""Paste and Go"" one instead.
+* If you want to find text on a page in Safari, you can click the url bar, type the word that you want, and select the last option ""On this page"".
+* You can search between your open tabs in Safari by clicking on your tab view, tapping the status bar or just scrolling all the way up, and then sliding down.
+* You can open a link in the background in Safari by tapping it with two fingers. (credit goes to /u/randomyzee)
+* Ever had trouble opening control centre when you have a keyboard open? The solution is simple, simply pull up and hold from the bottom of the screen and voila.
+* Do you have multiple Wifi networks and your device is always connecting to the wrong one? You can prevent this from happening by going into Settings &gt; Wifi, once there, tap the blue ""i"" next to the network that you DON'T want your device automatically connecting to, and turn off ""Auto-Join"".
+* If you're on a device other than the iPhone X and still wondering how to get notifications to only show up once you unlock the device, you can do so by going into Settings &gt; Notifications &gt; Show Previews and then select the option that says ""When Unlocked"", now, notifications content will only be viewable by you, by simply resting your finger on your Touch ID sensor.
+* On IOS 11, you can enable Type to Siri by going into Settings &gt; General &gt; Accessibility &gt; Siri and then enable Type to Siri.
+* If you use iMovie on your device and would like to export 60 fps videos, you can enable this by going to Settings then scrolling all the way down until you see iMovie, tap it and then from there you can enable 60 fps exports.
+* I only found out about this a few days ago, but if you would like to make the colors on your device pop more (I know I know Apple calibrates their devices to be color accurate, but it's still nice to have as an option), to do so, go to Settings &gt; General &gt; Accessibility &gt; Display Accomodations &gt; Color Filters, once there, enable Color Filters, and choose ""Blue/Yellow Filter"", don't forget to change your intensity settings at the very bottom, I find that anywhere from 5-15% is about perfect for me, personal preference.
+* Ever handed your phone to someone to show them a picture and then they suddenly feel like they're on Tinder and keep swiping? You can prevent this with ""Guided Access"", but it requires a bit of a setup for the first time. To do so, go into Settings &gt; General &gt; Accessibility &gt; Guided Access and turn that on, make sure to set a passcode for it, and enable the switch at the bottom ""Accessibility Shortcuts"", once that's done, leave and open any app, triple tap the home button and now you're in guided access mode, click on Options and disable touch, I hope you're still with me, the initial setup is done! Now whenever you want to hand your phone to someone you can simply triple click the home button to start a guided access session, and triple tap whenever they're done, no more sneaking on your personal pictures.
+* If you ever find yourself in need of a bubble level, you have that built into your phone right in the compass app, simply open it and swipe to the right page.
+* If you want to delete multiple photos, go into the photos app, click select in the top right corner, and slide your finger across the pictures that you want to delete, you can select a lot of pictures really fast with this method, and then simply hit delete when you're done.
+
+
+That's it for now, I will update this thread if I remember anything or if any of you guys have a tip that you want to share.
+Apologies for any spelling, grammar or formatting errors, English isn't my first language.
+
+Edit: Adding some more tips from the comments and a few that I remembered:
+
+* Shake your phone while typing in order to undo. (credit goes to /u/WallBrown)
+* Swipe the number screen in the calculator in order to erase the last digit. (credit goes to /u/kamilman)
+* You can swipe down in the updates page in the App Store in order to refresh. (Was added after iOS 11 I believe)
+* You can have Siri announce calls by going into Settings &gt; Phone &gt; Announce calls and selecting whatever option you want.",137,1300,2018-06-21,AAPL,0.03664389252662659,0.9327187240123749,0.030637450516223907
+AppleWatch,Who else is rocking a sweet tan line this summer? 💁🏼‍♂️,,34,988,2018-06-21,AAPL,0.04981964826583862,0.8244239091873169,0.1257564276456833
+iphone,It’s here!,,110,807,2018-06-21,AAPL,0.0,0.0,0.0
+apple,Live Wallpaper - why ...,"What is the point for having live/dynamic wallpapers if they're not live unless we push hard on the screen ? I think it's a bad design choice. We almost never get a chance to actually enjoy thoses animated wallpapers.
+
+Why can't we have some basic options, like ""pulse"" ""slow"" etc that would loop thoses beautiful live wallpapers ?
+
+If you agree you know what to do : 
+https://www.apple.com/feedback/iphone.html",110,694,2018-06-21,AAPL,0.029206855222582817,0.9377956390380859,0.032997578382492065
+AppleWatch,"Someone started (unjustifiably) yelling at me at work earlier, and in the midst of the verbal onslaught I found it oddly calming and disassociating to have my vital signs reported back to me",,78,627,2018-06-21,AAPL,0.0899689793586731,0.782886803150177,0.1271442025899887
+mac,5760x1080 Mojave Wallpaper I made for those using Triple Monitors!,,30,545,2018-06-21,AAPL,0.021654851734638214,0.9374229311943054,0.040922168642282486
+iphone,Has anyone ever noticed their earbuds randomly get much quieter a a few months down the road?,"I’ll just plug em’ in one day and they’re just a lot quieter than when I first got them. This has happened a few times in the past as well. Does regular use cause them to become faulty? Are my ears just getting clogged? Paying to replace them every few months or so gets old. Does anyone else have this problem?
+
+Update for anyone who cares: The soapy water and toothbrush method worked like a charm. Thanks for the help everyone.",162,515,2018-06-21,AAPL,0.1780688315629959,0.7900168895721436,0.03191426023840904
+apple,Texts sent using Siri should be marked as such,I use Siri to send texts all the time when driving but there are definitely some words lost in the voice translation. It would be nice if in Messages you could see if a message was sent via Siri so people can immediately start interpreting the text differently.,68,504,2018-06-21,AAPL,0.03675924241542816,0.9368863701820374,0.026354370638728142
+iphone,After many months of hard work i was finally able to afford this iphone x box,,308,6207,2018-06-22,AAPL,0.017819207161664963,0.5302426815032959,0.45193806290626526
+apple,Keyboard Service Program for MacBook and MacBook Pro,,751,3130,2018-06-22,AAPL,0.02789042703807354,0.9383128881454468,0.03379666432738304
+apple,"The “Good Morning” lockscreen feature in iOS 12 is gorgeous! If this is any indication for the redesigned homescreen in iOS 13, I can’t wait!",[Example](https://imgur.com/a/ibLv7yz),280,1615,2018-06-22,AAPL,0.02512837015092373,0.9268593192100525,0.048012278974056244
+mac,Apple finally fixing MacBook / Pro keyboards for free / providing refunds!! 🙌,,126,864,2018-06-22,AAPL,0.025941019877791405,0.8602266907691956,0.1138322576880455
+iphone,Finally upgraded from an iPhone 5 to an 8 plus!!! Very happy so far!,,195,767,2018-06-22,AAPL,0.010868299752473831,0.316901832818985,0.6722298860549927
+AppleWatch,OK Then,,27,633,2018-06-22,AAPL,0.04772032052278519,0.89804607629776,0.05423359572887421
+apple,Apple's next-gen 'A13' iPhone and iPad chipset will remain 7nm,,120,357,2018-06-22,AAPL,0.020078979432582855,0.9136804342269897,0.066240593791008
+apple,'Fallout Shelter' studio sues 'Westworld' publishers for cloning iPhone game,,84,353,2018-06-22,AAPL,0.036387328058481216,0.9256978034973145,0.03791482374072075
+apple,TIL Apple still sells photo prints from the Photos app.,"I have an old low resolution photo of my grandparents. It's maybe 2x2"" at best. I ordered a few same size photos, and some that were 4x4"". They even said that some sizes wouldn't work as it would distort the image. Paid $5 ($1 for 6 prints plus $4 shipping). I can't wait to see how they turn out. 
+
+Edit: I'm sorry, I made this while away from my Mac. It was in one of the menus ""Get Prints"". You can probably go to Help, then do a search for that.",72,351,2018-06-22,AAPL,0.03153533861041069,0.9228228330612183,0.04564186558127403
+apple,"""Simple Space"" high-quality wallpaper and watch face collection for Apple Devices","Let's just step right in.
+
+I made and collected a consistent wallpaper collection for many different Apple Devices. It's called *""Simple Space""*.
+
+[\\""Simple Space\\""](https://i.redd.it/lto0ryjc8i511.png)
+
+All of the wallpapers follow a similar style and they are all related to space. The wallpapers have been OLED-optimised for iPhone X and Apple Watch users in order to maximise battery life. As Mac's don't have OLED displays (yet), the Mac wallpapers are not OLED-optimised and don't use true black colour in order to look better on LCD displays.
+
+The optimised device list includes (This means that the wallpapers will be very ""crisp"" on those devices but may be blurry on others):
+
+*  Apple Watch (All models)
+*  iPhone (4.7"", 5.5"", X, X Plus)
+*  iMac (Regular, 5K, Pro)
+*  MacBook (Air, Pro)
+
+The iPhone wallpaper is the only *""static""* one as there is no slideshow, rotating or dynamic option like there is on the Mac and the Apple Watch. The Apple Watch watch face will rotate and change between different planets each time you wake the screen or tap it, giving it a more *""alive""* feeling. The best I could do with the Mac was to create three wallpapers meant to slideshow. My recommended slideshow timing is 5 minutes.
+
+**Instructions to re-create this watch face for the Apple Watch:**
+
+1. Download the .ZIP file from the link at the end of this post.
+
+2. Move the contents of the *""Apple Watch*"" folder to your iPhone by using AirDrop or sending a message to yourself via Telegram (Make sure to select *""File""* or *""No Compression""* if the Telegram method is used).
+
+3. Go to your Photos app and select the new Apple Watch wallpapers then create a new folder. Recommended name is *""Planets""*
+
+4. Open the *""Watch""* app on your iPhone then go to *""Face Gallery""* and finally *""Photos""*.
+
+5. Select *""Custom""* then navigate to the *""Planets""* album and select all pictures in said album.
+
+6. Select *""Top""* under *""Time Position""* and finish off by setting *""Below Time""* in *""Complications""* to ""*Off""*
+
+7. Press the *""Add""* button and the watch face should show up on your wrist after a short delay.
+
+# [Download via Dropbox](https://www.dropbox.com/s/qqsoj8b8077mbrb/Simple%20Space.zip?dl=0)",53,296,2018-06-22,AAPL,0.030330974608659744,0.9358696937561035,0.03379935026168823
+apple,Got 11k? iMac Pro with 128GB RAM hits the Refurb Store.,,480,2930,2018-06-23,AAPL,0.024485349655151367,0.8995578289031982,0.07595682144165039
+iphone,PSA: iOS 12 now randomizes your music collection - rather than simply selecting the first track in your collection - when your car starts.,"As someone who’s first album is “1000 Nursery Rhymes”, this is the greatest feature enhancement ever.",196,1652,2018-06-23,AAPL,0.02707507275044918,0.9058131575584412,0.06711173057556152
+iphone,TIL: You can select any symbol while holding down the “123” key and release to go back to alphabets,Really useful when typing email addresses.,136,1592,2018-06-23,AAPL,0.021254973486065865,0.9290154576301575,0.0497296117246151
+apple,How Two Factor Authentication Screwed Me,"I got robbed a few nights ago, had my car, phone, wallet, laptop and more stolen from me.  I was held at knifepoint and told to remove the lock on my phone, which I did.  When I got home and was able to work on getting back into the account, I had discovered that the thief had changed my trusted phone number and password.
+
+If I try to go through the forgot password process, it asks me for that new phone number.  I've spoken to Apple numerous times and had several requests sent to an ""engineering"" team including serial numbers of my devices, credit cards used in the past to make purchases, police reports, and my recovery key when I had initially setup two factor authentication.
+
+Every request I send in gets denied, I'm effectively locked out of my 10+ year old Apple Account, with my photo library, iMessage on the cloud, and tons of other sensitive information.
+
+I have a few devices at home still including my Apple Watch and Apple TV but those are useless when it comes to recovering a two factor authenticated account.
+
+After having submitted multiple requests to engineering and having everything denied, I sent an email to Tim yesterday in hopes that he may see it.
+
+Hoping that by posting this that anyone who has gone through this before can share their experience.  This is also a warning to not keep multiple devices that can authorize two factor in the same place.",241,720,2018-06-23,AAPL,0.058278638869524,0.9097921848297119,0.031929172575473785
+AppleWatch,3 days old apple watch - I think I’m sending it back,,87,585,2018-06-23,AAPL,0.05009898915886879,0.9021489024162292,0.04775209352374077
+AppleWatch,My Apple Watch on Watch OS 5 is helping me break records,,51,380,2018-06-23,AAPL,0.049618203192949295,0.7456520795822144,0.20472976565361023
+apple,Now Is the Worst Time to Buy a MacBook,,145,374,2018-06-23,AAPL,0.06969460844993591,0.8570866584777832,0.0732186958193779
+apple,Why do some iPhone users think that closing every app in the app switcher saves resources? Are there any design changes Apple could and should do to make it clearer you don't have to do that?,,292,292,2018-06-23,AAPL,0.055478911846876144,0.8961359858512878,0.04838506504893303
+apple,iMessage needs an option to reply to individual messages like WhatsApp,"It would make it much easier to follow threads, especially where multiple conversations are occurring simultaneously.",71,258,2018-06-23,AAPL,0.06501361727714539,0.9049810767173767,0.03000534698367119
+mac,A quick word about the 2012 MacBook Pro,"Recently I've seen a lot of posts on various forms (not just Reddit) asking ""Is the 2012 MacBook Pro worth buying in 2018/for college/for software development,"" and I'm honestly shocked at some of the feedback/answers that our community is giving. I have read countless responses of:
+
+* ""if they're asking more than $50-100, I wouldn't do it"" 
+* ""I mean it'll be 'okay' if all you're planning on doing is browsing and *small productivity*""  
+* ""Spec-wise that machine is an obsolete relic compared to the new 2016/2017 models""
+* ""Good luck compiling and debugging code""
+
+Seriously? I feel like there's a strange sense of elitism within the community revolving around owning the newest product and blinding proclaiming that any product not made within the last 12 months is automatically obsolete and inferior. As a 2012 MB Pro Retina owner, I can easily debunk all of the above claims. I'm currently a student triple majoring in Applied Mathematics, Cybersecurity, and Computer Science so modeling and software development is my life. So far this machine has been able to handle everything my course work has thrown at me *and then some*. Sure, I've tweaked out the specs on this machine (16GB RAM + 256 GB SSD), but that's just another great feature exclusive to older MB's (being able to upgrade internals). Not to mention, I also don't **hate** typing with my keyboard like many of the new MB owners do. If I'm being honest, I think this machine is one of, if not the best, MB's that Apple has made to date. The only reason I would ever recommend anyone to get a newer model is because eventually, Apple will phase out support/updates for their older machines. I just wish  my beloved MB would just get the love and respect that it deserves &lt;3.
+
+/rant",130,256,2018-06-23,AAPL,0.04952045902609825,0.91274493932724,0.03773459419608116
+iphone,iPhone 4 was released 8 years ago today. By far the finest phone design ever to be created by Apple,,455,3430,2018-06-24,AAPL,0.013645444065332413,0.522095799446106,0.46425870060920715
+apple,Game Devs Express New Fears Over Future of Mac Gaming as Apple Deprecates OpenGL and OpenCL in macOS Mojave,,758,1711,2018-06-24,AAPL,0.031544093042612076,0.9154796600341797,0.05297623202204704
+apple,"PSA: Using Adobe software? Constantly running low on disk space? Check your ""Media Cache Files"" folder.","I was running low on storage space all the time and today I finally learned why. For some reason the Manage Storage tool from Apple didn't show me this, the files were ""hidden"" in the System section which is not accessible.
+I had over 30GB of old, garbage cache files from using various software from Adobe. The folder's location: user&gt;Library&gt;Application Support&gt;Adobe&gt;Common&gt;Media Cache Files",55,1125,2018-06-24,AAPL,0.04121195524930954,0.9248167872428894,0.03397126868367195
+mac,I draw a daily comic strip using MacPaint and System 6. The prettiest OS ever made.,,43,531,2018-06-24,AAPL,0.029065240174531937,0.933756411075592,0.0371784046292305
+iphone,PSA: Prevent (hopefully) iPhone thieves from making changes to your Apple account (should you happen to be robbed and forced to disclose your passcode),"First of all, I included the word “hopefully” because this is not a foolproof measure (as I will discuss later in the post) so I really hope Apple will do something about it.
+
+So, a few weeks ago I came across a post here where an iPhone was robbed and the owner was forced to disclose his passcode. He later learned that his Apple account was compromised because the robber was able to change his trusted device and thereby change his account password. Then just today the same problem was faced by u/advil0 as posted [here](https://reddit.com/r/apple/comments/8tbvtb/how_two_factor_authentication_screwed_me/). This is a serious security issue and it left me wondering what could be done to protect my account from being ‘hacked’.
+
+The only additional security setting that is currently available to thwart such an incident is to set Restrictions in the Settings:
+
+Settings &gt; General &gt; Restrictions &gt; Accounts
+
+You set a restrictions PIN (something different from your normal phone passcode) and ‘dont allow changes’ for ‘Accounts’. This will effectively prevent anyone who might know your phone passcode from making changes to your Apple Account from that particular phone. To make changes later you will need to disable Restrictions first using the PIN that you had earlier set.
+
+Now it should be noted that thieves might be aware of this trick and may force you to also divulge your Restrictions PIN. But until Apple introduces some counter-measure in their upcoming updates, then we can only hope iPhone thieves are left in the blind regarding this issue.
+
+Hopefully, this may help someone from losing their account should they ever be in a similar situation. 
+
+Also, I tried to post this on r/apple but the moderator bot somehow deletes it for violating *“Rule 11: No posts or comments relating to buying, selling, trading, giveaways or asking for advice about any of those topics.”* Go figure.
+
+**TLDR: Set a Restrictions PIN in Settings &gt; General &gt; Restrictions &gt; Accounts to prevent thieves from changing you Apple account details should you ever be forced to disclose your iPhone passcode.**
+
+**Edit 1:** As highlighted by /u/BruteSentiment I have failed to inform you that you should be careful to not *ever* lose the Restrictions PIN. Take note:
+
+&gt;	IF YOU FORGET YOUR RESTRICTIONS PASSCODE, YOU WILL LOSE ALL DATA ON YOUR DEVICE IF YOU EVER MOVE TO A NEW DEVICE OR NEED TO RESTORE OR REPAIR.
+
+&gt;THIS INCLUDES BACKUPS, BOTH ON ICLOUD AND ON ITUNES.
+
+&gt;THERE ARE NO PASSCODE RECOVERY OPTIONS AVAILABLE, EITHER THROUGH THE WEBSITE, THE STORES, OR CALLING TIM COOK HIMSELF.
+
+**Edit 2:** Spellings.",87,507,2018-06-24,AAPL,0.10622934997081757,0.87051922082901,0.023251408711075783
+iphone,"Yo, this new YouTube interface is great.",,17,236,2018-06-24,AAPL,0.013198817148804665,0.9202834367752075,0.06651771068572998
+apple,It’s time for dynamic iOS homepage,I keep changing locations of icons on my 8+ with the preference for the most often used in the right lower corner. I wish for an option to “Set homepage icons automatically” - that would put my most often used apps in the most accessible spots. Simple version would be to have just recent apps sorting -  but there could be an AI option for iOS to predict the apps I’m going to use at a specific time. I know about Siri suggestions but I wish I had this on the homepage. And if this is too much then at least give us an option to put the apps where we want them! Now if I make a page with just a few apps those would be in the top left corner that is the least preferable place on a big screen.,91,213,2018-06-24,AAPL,0.02030627429485321,0.925550639629364,0.054143063724040985
+apple,Screen Time + App Limits is pretty useful (and eye-opening!). I've now limited some apps to 30 mins/day .. including this one,"Picked Up Phone = Once every 4 minutes.
+Wait, what? 
+OK - this habit needs to change! 
+
+Time to go for a walk and listen to a podcast instead!",58,202,2018-06-24,AAPL,0.04082266613841057,0.9264377951622009,0.032739557325839996
+appletv,Dolby Atmos confirmed to be rolling out and working on Apple TV 4k (tvOS 12 beta 2)!,,39,173,2018-06-24,AAPL,0.01512527372688055,0.9168843626976013,0.06799037754535675
+apple,Apple comments on erroneous reports of iPhone brute force passcode hack,,27,155,2018-06-24,AAPL,0.07827526330947876,0.8989700675010681,0.022754663601517677
+apple,Store employee: sexual abuse,[deleted],1002,3146,2018-06-25,AAPL,0.8899098634719849,0.09611345082521439,0.01397670153528452
+apple,iOS 12 Public Beta is Live On The Apple Beta Site!,"https://imgur.com/a/0oeieIt/
+
+Link to Beta page: https://beta.apple.com/sp/betaprogram/
+
+If you already have the iOS 11 Beta Profile installed on your phone, remove it and then navigate to the above URL and download the iOS 12 Profile, install and check for updates",538,1740,2018-06-25,AAPL,0.06427253037691116,0.9168689250946045,0.018858591094613075
+apple,"Apple to Unveil High-End AirPods, Over-Ear Headphones For 2019",,350,978,2018-06-25,AAPL,0.03618825972080231,0.9271407127380371,0.036671046167612076
+iphone,"Apple to Unveil High-End AirPods, Over-Ear Headphones For 2019",,172,773,2018-06-25,AAPL,0.03618825972080231,0.9271407127380371,0.036671046167612076
+mac,This 2008 MacBook with it’s battery removed makes me think someone at Apple watched a lot of Knight Rider as a kid,,87,739,2018-06-25,AAPL,0.1554991453886032,0.7817596197128296,0.06274127960205078
+AppleWatch,A moment of despair,,65,525,2018-06-25,AAPL,0.051105841994285583,0.8975824117660522,0.05131174996495247
+iphone,Apple Releases First Public Beta of iOS 12,,124,506,2018-06-25,AAPL,0.02104314975440502,0.9393011331558228,0.03965577110648155
+apple,"Reminder: For everyone running the iOS 12 beta, use the Feedback Assistant app",Apple doesn't check this side (nor does /r/apple allow posting of bugs). Help Apple fix everything you find and make iOS 12 the best version we can!,39,406,2018-06-25,AAPL,0.051720865070819855,0.9077770709991455,0.04050210490822792
+AppleWatch,Slick combo,,23,306,2018-06-25,AAPL,0.04382280260324478,0.8784598112106323,0.0777173787355423
+apple,A year of Monument Valley 2,,36,277,2018-06-25,AAPL,0.042299699038267136,0.8521542549133301,0.10554604977369308
+iphone,I did a thing with Live Photo,,178,12889,2018-06-26,AAPL,0.033582575619220734,0.9271617531776428,0.03925566002726555
+apple,iOS 12's performance is phenomenal,"Holy cow I didn't expect this at all. Installing iOS 12 the moment the public beta went live thinking all sorts of things will go wrong, but boy was I wrong. 
+
+The performance is smooth and fast, and so far, after 20 hours with it, I feel like it's just an improved iteration of iOS 11. 
+
+I haven't encountered any problems so far; but a few minor imperfections should be noted: I saw people mentioning Apple Store downloading status is stuck in the *spinning wheel*, and yeah I faced that as well, but it's minor; downloading and updating work just fine. Some lines in apps are distorted; but I guess that's not iOS 12's fault; optimization from app developers would fix the problem. 
+
+Here's to hoping that iOS 12 will be this great for the next 3 months till the final published version is available because I installed it on my main and only phone. 
+
+Kudos to Apple. iOS 12 is just perfect, in my opinion. 
+
+(My device: 7 Plus, 256 GB)",584,2072,2018-06-26,AAPL,0.048923980444669724,0.9035844802856445,0.04749155417084694
+apple,Someone at Apple had a bit of fun with the iOS beta site,"[Image](https://i.imgur.com/7hDqAsv.png)
+
+See for yourself: https://beta.apple.com/sp/betaprogram/redemption#ios
+
+Placing an image recursively within itself is known as the [Droste effect](https://en.wikipedia.org/wiki/Droste_effect)
+
+[Credit to u/UniquePebble](http://reddit.com/r/iphone/comments/8txndm/whoever_thought_of_this_deserves_a_vacation/)",123,1878,2018-06-26,AAPL,0.03542071580886841,0.91414475440979,0.05043455585837364
+apple,Apple finally updated the iTunes Remote for iOS to support the iPhone X display only 7 months and 23 days after the iPhone X got released,"[App link](https://itunes.apple.com/eg/app/itunes-remote/id284417350?mt=8)
+
+Edit: I’m actually not complaining but why the gold for such a lame post? 
+
+Edit 2: Okay a second gold? :3 I never understood why I got the first one so to have a second one is crazy xD",131,1694,2018-06-26,AAPL,0.027116291224956512,0.9123079776763916,0.060575686395168304
+apple,"The next AirPod case should have a tiny speaker that beeps when you tap a corresponding ""Find my AirPods"" icon on the Apple watch or iPhone control center.",For the love of all that is holy.,113,1162,2018-06-26,AAPL,0.019239813089370728,0.9074789881706238,0.07328120619058609
+mac,MacOS Mojave's dynamic wallpaper also works with the MacOS Mojave icon! Just a fun tidbit,,110,1020,2018-06-26,AAPL,0.030674025416374207,0.9246188402175903,0.04470714554190636
+iphone,I did a thing with Screen Capture,,132,892,2018-06-26,AAPL,0.04553857445716858,0.9273068904876709,0.02715456858277321
+AppleWatch,I’d love to know the algorithm that suggests watch faces,,20,605,2018-06-26,AAPL,0.02175203710794449,0.8986683487892151,0.07957962900400162
+apple,"My iPhone 4, 8 years old and still going strong","[Photo](https://i.redd.it/wbkjvy1tzc611.jpg)
+
+I bought it on the day of release 8 years ago: June 24 2010. 
+
+I'm not against getting a new phone, I've maintained that I would simply get an update when this one dies on me or is no longer functional on a day-to-day basis. 
+
+It's been working perfectly ever since. Even the battery life is fine. iOS is 7.1.2. 
+
+AMA!",166,432,2018-06-26,AAPL,0.016839364543557167,0.8185824751853943,0.16457821428775787
+apple,macOS Mojave Public Beta is out!,https://beta.apple.com/sp/betaprogram/welcome,151,421,2018-06-26,AAPL,0.050012774765491486,0.9096052646636963,0.04038196802139282
+iphone,It would be great if the sound effect for taking a screenshot didn’t sound like I was taking a photograph.,It would’ve saved me being slapped in the face on the train this morning. Just saying.,316,3607,2018-06-27,AAPL,0.023291045799851418,0.8811071515083313,0.09560178220272064
+apple,Seamless &amp; Notchless — A Collection of iPhone X Wallpapers for Seamless Notch hiding,"Hey Folks!
+
+I recently put together a whole bunch of simple gradient wallpapers that ""hide"" the Notch on your iPhone X! [There was already something like this](http://www.idownloadblog.com/2017/11/19/minimal-gradient-wallpapers-to-hide-the-iphone-x-notch/), but there were basically two colors, which I didn't really like to be honest so I made around 12 with different colors!
+
+[Preview](https://i.redd.it/vxsa51fhvl611.png)
+
+[Check them out and download them here!](http://notchless.helloshivam.com)
+
+**EDIT 2**: Links are updated with @3x and P3 Gamut settings. Wallpaper should look much better now! Sorry for the amateur mistake at my part!
+
+**EDIT**: I've updated the website with @2x images links. The download all folder has both 1x and 2x now included.",185,1719,2018-06-27,AAPL,0.024630766361951828,0.9356328248977661,0.03973640874028206
+apple,The long exposure effect for Live Photos is really underrated.,"https://imgur.com/gallery/l2gopl2
+
+Here’s what I managed to get on my iPhone 7 a couple of days ago. 
+
+Edit: For those asking how it’s done. Swipe up on a Live Photo and it’ll show a selection of effects. Click on Long Exposure to convert the image. 
+
+Edit 2: Apple’s information page on these effects https://support.apple.com/en-gb/ht207310",198,1699,2018-06-27,AAPL,0.041677076369524,0.9316594004631042,0.02666350267827511
+apple,macOS Mojave: A visual tour of Dark Mode and other major features,,110,723,2018-06-27,AAPL,0.029339738190174103,0.937624990940094,0.0330352745950222
+apple,I don’t know why people say the MacBook Pro keyboards are bad...,"[This seems totally fine...](https://i.imgur.com/lGWUOWV.jpg) /s
+
+So my day started by picking up my laptop to clear some dust and the space bar just *fell out*. Just right in to my lap. Nothing looked broken, but it wouldn’t re-seat even after a light blast of compressed air to clear out any crumbs or skin cell clumps.
+
+*Edit: So this story ended with me rushing to a nearby Apple Store and they replaced the key and re-seared the new space bar for me. So I guess I can’t totally complain. But still, super disappointed that it happened in the first place.*",207,362,2018-06-27,AAPL,0.05939611792564392,0.8698480129241943,0.07075588405132294
+AppleWatch,Kind of wish Apple would implement a activity ring shut-off for times when you're ill or recovering...,,97,333,2018-06-27,AAPL,0.04067258536815643,0.90482097864151,0.05450642853975296
+AppleWatch,Quick look at the new ‘live Sports Scores’ tile in the new ‘Grey’ Siri Watch face on WatchOS 5.,[deleted],50,222,2018-06-27,AAPL,0.018939636647701263,0.9332984685897827,0.047761935740709305
+iphone,AT&amp;T is screwing customers by almost tripling a bogus fee,,48,171,2018-06-27,AAPL,0.22091946005821228,0.7342840433120728,0.044796422123909
+iphone,"Android Switchers Represent 15-20% of iPhone Buyers, Tend to Opt for 'Plus' Models",,65,153,2018-06-27,AAPL,0.026819543913006783,0.8291503190994263,0.1440301537513733
+ios,"[News] Shortcuts app available this fall, according to Apple Developer",,33,146,2018-06-27,AAPL,0.030698027461767197,0.9368594884872437,0.03244251385331154
+apple,"Today I received a new notification ‘you have a 2014 memory’. iOS 12 had created a video called ‘My life in Bogota’ with music, photos and clips. Always thought these things were gimmicks, but it was totally unexpected and done so well, really emotional and brought a tear to my eye. Thanks apple",,258,2944,2018-06-28,AAPL,0.018350886180996895,0.855309009552002,0.12634016573429108
+apple,"LPT: if you’re looking for a movie to rent/watch, you can pull down the search bar on your home screen, enter the name of the movie, and the search results will tell you every app you can watch the movie in, even if the app is not currently installed on your phone.",,141,2032,2018-06-28,AAPL,0.03519898280501366,0.9359675049781799,0.028833484277129173
+iphone,LG Display to Supply Apple With 2-4 Million OLED Panels for This Year's 'iPhone X Plus',,231,1096,2018-06-28,AAPL,0.013238002546131611,0.8994375467300415,0.08732440322637558
+AppleWatch,Watching the last 9 minutes of Germany vs Korea match,,52,1021,2018-06-28,AAPL,0.028058651834726334,0.9328258633613586,0.03911548852920532
+apple,"Apple working on one subscription for all media, say reports",,169,975,2018-06-28,AAPL,0.02563839964568615,0.9143720269203186,0.0599895641207695
+iphone,"Just wanted to spread the word that in IOS 12 beta, it currently has the time you spend watching porn listed as “games” for screen time.","This shit ain’t a game, Apple!",67,564,2018-06-28,AAPL,0.05555928498506546,0.9200770854949951,0.024363623932003975
+apple,Dr Dre hit with $25m bill for Beats headphones,,116,460,2018-06-28,AAPL,0.03550799563527107,0.8895576000213623,0.07493440806865692
+apple,"iPad Pro concept with Face ID, slim bezels, rounded display, and 'iPhone app' multitasking",,150,377,2018-06-28,AAPL,0.018001843243837357,0.9261242151260376,0.055873919278383255
+apple,LG Display to Supply Apple With 2-4 Million OLED Panels for This Year's 'iPhone X Plus',,71,199,2018-06-28,AAPL,0.013238002546131611,0.8994375467300415,0.08732440322637558
+AppleWatch,When traveling internationally.... 25 hours of stand,,13,183,2018-06-28,AAPL,0.017688484862446785,0.9178727269172668,0.06443872302770615
+apple,Apple is rebuilding Maps from the ground up,,942,7067,2018-06-29,AAPL,0.030097905546426773,0.8957443237304688,0.07415781170129776
+iphone,A lot of people showed off their perfect collection so I thought of showing the collection of clumsy me,,143,2990,2018-06-29,AAPL,0.028722859919071198,0.8708779215812683,0.10039916634559631
+apple,"Apple pay in Poland - 200k in 10 days, Google pay - 300k in 1.5 year","We just got the first numbers for Apple Pay users count. Before I share them, let me introduce you to market shares of iOS and Android in Poland:
+
+**95~% - Android**
+
+**2.32% - iOS** 
+
+Statistics says, that there are 64% users of Smartphones in Poland, which would translate these numbers in:
+
+**22.800.000 Android users**
+
+**556.800 iOS users**
+
+Android pay (now Google pay) has been introduced **somewhere in 2016 (roughly 1.5 year ago), gaining 300k users.**
+EDIT: Just for clarity, Google allows for HEC, which means banks can use NFC to support their payments. Counting these in, its 1mln, still much, much lower than how Apple solution adopted!
+
+Apple pay, introduced **10 days ago**, has a reported user count **from 175k to around 200k.**
+
+This is really huge and really shows a HUGE adoption rate for iOS (almost 50%!!) and almost none for Android (1.31%). 
+
+Hopefully Apple will notice us more now, we're still lacking Siri support and official apple store lol
+
+Source (use google translate lol) https://www.tabletowo.pl/2018/06/29/apple-pay-statystyki-uzytkownicy/",100,570,2018-06-29,AAPL,0.04594670608639717,0.9093748927116394,0.044678397476673126
+AppleWatch,Looking at this devastated Apple Watch honestly makes my heart hurt. Posted by Casey Neistat on Twitter,,132,541,2018-06-29,AAPL,0.04175609350204468,0.8725494146347046,0.08569450676441193
+mac,MacPaint is remarkably usable for software older than most peoples cars.,,38,537,2018-06-29,AAPL,0.024083320051431656,0.9170305132865906,0.05888618901371956
+AppleWatch,"Australian Siri can't pronounce ""hours"" any more.",,64,462,2018-06-29,AAPL,0.05274805426597595,0.9131003022193909,0.03415161743760109
+iphone,Apple is rebuilding Maps from the ground up,,77,368,2018-06-29,AAPL,0.030097905546426773,0.8957443237304688,0.07415781170129776
+ios,"11 years ago today, Apple introduced the original iPhone",,47,323,2018-06-29,AAPL,0.010290902107954025,0.8849356174468994,0.10477355867624283
+apple,When you restore a phone it brings back apps in the order of most frequently used. How helpful for impatient people like me!,,19,322,2018-06-29,AAPL,0.02549370937049389,0.9214563965797424,0.0530499592423439
+apple,A new and fantastic dark mode extension for Safari to suit Mac OS Mojave's new dark theme!,,39,305,2018-06-29,AAPL,0.015838198363780975,0.8920698165893555,0.09209200739860535
+iphone,"So, if you have a resting bitch-face, Animoji will catch that: when I bring my emotionless face into view (right image) it makes me look angry by scrunching up my face.",[deleted],122,1752,2018-06-30,AAPL,0.26648592948913574,0.706538200378418,0.026975849643349648
+apple,iPhone X Users: Use Memoji as contact photos,"[Like I've done here](https://imgur.com/a/NFszdfL)
+
+I think it looks better than the default contact photo placeholder, and is more dynamic looking than just a circular frame.",137,770,2018-06-30,AAPL,0.02163681574165821,0.9278516173362732,0.05051153898239136
+apple,Mark Gurman suggests that AirPower will cost $150,"Though not any sort of official report, [this tweet](https://twitter.com/markgurman/status/1013099200748220416) seems to imply that he's heard it will cost $150 (probably $149).
+
+Honestly, this is less than what I've come to expect—recent speculation had led me to believe it would likely be $199, so while this is expensive for a charger, it is much more reasonable than what it could be.",364,709,2018-06-30,AAPL,0.033965159207582474,0.8965370655059814,0.0694977343082428
+apple,"Based On A Comment On Another Post, wouldn't it be amazing if MeMoji were randomly animated in contacts to look around and yawn and make faces and stuff.","https://i.imgur.com/6zbS7kv.jpg
+
+Would really add another layer of depth and encourage people to use it! I know that it would definitely add a +1 to my list of reasons to buy an iPhone X. 
+
+What do you guys think? 
+
+EDIT: Or at least make it optional for those who dont want it",50,481,2018-06-30,AAPL,0.028729740530252457,0.9261876940727234,0.04508260637521744
+iphone,"If anybody was curious, here’s the final product of the hand painted iPhone X ad",,24,431,2018-06-30,AAPL,0.018540022894740105,0.9364578723907471,0.045002155005931854
+iphone,"So Apple is reportedly going to use LG as a secondary supplier for 2-4 million displays for the 2018 set of iPhones. Historically, LG has not had good smartphone OLED displays (ex. Pixel 2). What do all of you think of this decision?","I know it’s meant to cut the strong tie with Samsung to get lower prices and so the consumer can then get lower prices increasing demand, but the random 2-4% of people (approx.) getting LG OLED displays could very well be disappointed and I think that’s unfair to the consumer to not know which they are purchasing. They had the same with TSM and Samsung making their chips but those two make very similar performing chips while Samsung is obviously better at displays than LG.",142,417,2018-06-30,AAPL,0.022875266149640083,0.7679219245910645,0.20920279622077942
+AppleWatch,Sunflower vs Spring Yellow,,24,333,2018-06-30,AAPL,0.033853255212306976,0.8962370157241821,0.06990979611873627
+apple,My family had a few 1st gen and 2nd gen iPads laying around. We found a creative way to put them to good use.,"Here's the final result: 
+https://imgur.com/a/CUdO3oS
+
+We went to a photo studio and had them framed, glass on the front and everything. The back side can be opened so we can change the picture on display every few days. 
+
+We bought 6ft 30-pin cable extensions to feed them permanent power. Some pictures of the process inside.",84,312,2018-06-30,AAPL,0.014126824215054512,0.9190282821655273,0.0668448805809021
+apple,Apple Can Claim the iPhone X Shoots 'Studio-Quality Portraits': Regulator,,24,307,2018-06-30,AAPL,0.01719835214316845,0.9158768057823181,0.06692482531070709
+apple,Drake’s Scorpion breaks Apple Music’s single-day streaming record with over 170 million streams,[deleted],122,234,2018-06-30,AAPL,0.02446717768907547,0.7123888731002808,0.263143926858902

@@ -1,0 +1,1115 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+iphone,"Two early iPhone prototypes (called ""Wallabies""), back when the software keyboard was in development",,80,1785,2017-07-01,AAPL,0.013303779065608978,0.9115862250328064,0.07510995864868164
+apple,"Someone hacked into my two-factor account, turned on Lost mode and demanded 75$ in Bitcoins","**Want to save yourself from this? Check out this comment:**
+https://www.reddit.com/r/apple/comments/6kmtsz/someone_hacked_into_my_twofactor_account_turned/djojnju/
+
+---
+
+**HOW TO UNLOCK YOUR DEVICE IF YOU GOT HIT TOO!**
+
+----
+
+
+Ok, There are a lot of comments and everyone that comes here with a similiar problem will not have time to get through them - so I'm adding a small section of how to deal with it if you got hit too.
+
+First of all - **if you didn't have 2FA**, keep in mind that the person that accessed your account **had also access to the keychain with all your other passwords and all the photos and docs in the iCloud drive**. 
+
+
+Secondly - as far as I understood from the comments, **if he set up a passcode on your phone (because you never had one), then you'll have to wipe your device anyways.**
+
+So, the resolution - I assume your account was automatically on lockdown by apple, if not just skip the steps with password reset:
+
+----
+
+1 Open up https://www.icloud.com/#find
+
+2 Log in
+
+3 (Most likely) You'll be prompted to reset your password, you can do that here:
+https://iforgot.apple.com/password/verify/appleid
+
+4 Enter your email, the code from the image, then you'll be asked to answer a few questions and enter your 
+backup phone number
+5 Enter new password after going through the above step
+
+6 Log in again to https://www.icloud.com/#find
+
+7 Find your device on the list
+
+8 Turn off the Lost mode
+
+---
+
+Then CHANGE YOUR PASSWORD AND NEVER REUSE PASSWORDS, Don't be a dumb ass like I was.
+
+------
+
+Original post
+
+
+**tl;dr someone hacked into my two-factor protected account, put into lost mode, demanded 75$ or he'll wipe iCloud**
+
+Yesterday when I was heading out to a party I noticed a strange message on my iPhone asking to send an email - and I suddenly realized that my phone was put into lost mode. 
+
+http://imgur.com/a/IRSWO
+
+I quickly jumped onto my inbox and found out that two devices were put into that state out of nowhere, and shortly after that Apple blocked my account (phew). To translate - Red arrows are the ""Device was put into lost mode / Device has been found"", Blue are ""Your account has been accessed from a web browser"", whilst the green one is ""Your apple ID password has been reset"". 
+
+http://imgur.com/a/SFEcv
+
+Yes, after I changed my password he was able to AGAIN change the lost mode status!
+
+I mailed that account (obviously from a disposable email) to check what's going on, and I got an automatic response:
+
+http://imgur.com/a/kXnqp
+
+I don't hold anything in the iCloud thankfully (at least nothing important or shameful), so this doesn't really bothered me. But still, could anyone explain how the heck he was able to get around two factor auth?
+
+Also, it seems no one paid yet, since the bitcoin wallet is empty
+https://bitref.com/19FHZjdTSB6uts9DsLB4QrbarEvVTvB6G7
+
+Moreover, I posted this on a polish social reddit-like page, and it turned out someone had similiar situation 3 hours later. Maybe someone else on this subreddit was also affected?",423,1454,2017-07-01,AAPL,0.17088714241981506,0.8032052516937256,0.025907672941684723
+apple,MacOS Terminal - Alternative to antivirus,"With the recent hack thread here some people may feel more concerned about their security and privacy than usual. Before you go and install an antivirus, here are some terminal commands that I use to monitor my system for any suspicious behavior:
+
+* use `lsof` to check software connecting to the internet. in terminal, type: `sudo lsof -Pn -i4`. This will display all IPv4 connections on the system numerically. Pay attention to the listings that include an arrow (-&gt;) as they show an outgoing connection (connection to the internet)
+
+* `nettop` is also a utility to monitor network usage, which I personally use to measure how much data is moving through that connection. Nettop requires your terminal be maximized to see its full output. To see the speed of the connection press d. Press c to only show the program and link, and e to re-expand it.
+
+* `top`. Top is something like a simpler activity monitor that runs in your terminal. I prefer it to activity monitor since it's less of a resource hog so you can get a clearer picture of what is eating up your CPU. To list it from highest CPU usage to lowest press o, then type cpu and press enter.
+
+* Codesign. Codesign is a utility built into OSX and one of my favorite commands on the system. Codesign lets you check and verify the code signature on a program, that way you can see whose signature is on the code and if the signature is valid. This is an important tool to keep in mind with the rash of attacks on open source software. Check the signature on everything you install and if it doesn't look correct or if its changed, DON'T INSTALL and email the developers. Usage: `codesign -dvv /path/to/file` for the full signature information including developer info. `codesign -vv /path/to/file` to verify a file. Codesign works on .app files and some .dmg files too.
+
+* `shasum` is a program to check the hash of a file. This is useful for things like ISOs and unsigned applications to verify their authenticity. To use, type `shasum -a &lt;type&gt; /path/to/file`. &lt;type&gt; should be the algorithm type such as 1 or 256. 1 is less secure than 256 but is more widely used.
+
+* `pkgutil --check-signature` can be used to verify the signer of a .pkg without opening it.
+
+* `pkgutil --expand /path/to/file.pkg /path/to/destination` to extract a .pkg into a folder. You can then analyze the contents of the .pkg. Some .pkgs will just contain the .app it means to install, and this way you can just drop the app into /Applications/ without having to enter in a password.
+
+
+* **Scripts**
+
+You can use the features of the Terminal's shell bash to get an even clearer picture. Here are some of my favorites:
+
+* `ps axo %cpu,comm | sort` This is a quick and dirty way to get a listing of all processes sorted by their CPU usage %. Uses even less cpu than top
+
+* Codesign scripts:
+
+for i in \`ps axo pid\` ; do codesign -dvv $i 2&gt;&gt; codesign.log ; printf . ; done ; grep Authority codesign.log | sort -u
+
+This uses codesign to check the signature of every program running on the system, then output the developer information. Repeats are omitted. 
+
+for i in \`ps axo pid\` ; do codesign -v $i ; done
+
+Verifies the signature of every software running on the system. If there is no output then all the software running is OK. It will probably give an error about ""No such process"" and ""PID: No such file or directory"" since I'm too lazy to work those kinks out. If it gives other errors, run the number in ps (""ps &lt;number&gt;"") to see what the problematic software is and go from there.
+
+**Additional steps**
+
+* `spctl --status` will check the status of your Mac's first line of defense, the gatekeeper. Having it disabled is very bad security and there are other workarounds to running software that may be blocked by it rather than completely disabling it.
+
+* Check software running at startup. There are several folders that you can check. /Library/LaunchAgents /Library/LaunchDaemons /Library/StartupItems are 3 to check. The best way to check them is with `ls -la` in the terminal. ls to list the files in a folder, -l will do a 'long' listing with more detailed information and -a will show all files including hidden ones. Important if an attacker added a startup item but made it hidden from Finder.",86,1311,2017-07-01,AAPL,0.06338166818022728,0.9048216342926025,0.031796688213944435
+AppleWatch,Unstoppable.,,28,828,2017-07-01,AAPL,0.03341807797551155,0.9261919856071472,0.04038996621966362
+iphone,"My naked 7 Plus Jet Black after 7 months of use. No drops or dents, just wear on the finish.",,188,760,2017-07-01,AAPL,0.04279381409287453,0.9053294658660889,0.05187669023871422
+apple,Is anyone else really annoyed with the phone being unusable during an incoming call?,"I can't stand being in the middle of a video, game, article, book, etc. and my screen shutting off when I get an incoming call. It completely disrupts what I'm doing to the point where sometimes I pick up the phone frustrated. 
+
+I understand the point of the iPhone is first and foremost a phone, but I feel it has evolved to handle so much more. So much so, that having an incoming call should be received as a normal notification like a text message. 
+
+(Yes I know do not disturb does this)",140,492,2017-07-01,AAPL,0.049647748470306396,0.9151142239570618,0.035237956792116165
+apple,iOS 11 easier notification dismissal,"In iOS 11, if you force touch a notification and drag down right away, it will dismiss the notification. Sorry if this is old news, but I hadn’t heard about it. Makes the new lock screen experience at least a bit better. 
+
+http://imgur.com/a/QmUmp",42,332,2017-07-01,AAPL,0.07456191629171371,0.5127552151679993,0.41268280148506165
+apple,What are some iOS apps that you can't live without?,[deleted],154,201,2017-07-01,AAPL,0.025602875277400017,0.9346967339515686,0.03970040753483772
+apple,Apple Care Plus wins again!,"I found a hairline crack in the center of my iPad Pro (1st Gen) screen a few days ago. It was only 1/8th inch long and I have no idea how it got there, but I called Apple and explained what I was seeing.
+
+Long story short, I went to the Apple store explained the issue I was seeing, and then I'm walking out with a new iPad Pro (same model, not the newer one).
+
+I just had to share this because I've never experienced customer service like this.
+
+What are your Apple Care stories?
+
+Edit: I don't understand the down vote. I was ecstatic about this.
+
+Edit 2: To everyone saying that you pay for this service and this is nothing special, that is obvious. The point I was trying to make was how easy it was to get through this process. Every other time I get some type of insurance with an electronic and want to use the insurance, the service employees always give me a hard time and leave me more stressed than I should be. This process was extremely seamless!",61,154,2017-07-01,AAPL,0.053515758365392685,0.9090931415557861,0.0373910591006279
+apple,Sent my watch in and they gave me a newer model,[removed],128,103,2017-07-01,AAPL,0.02213790826499462,0.9096507430076599,0.06821130961179733
+apple,Airplay 2 can play music while you take a phone call,"If you didn't know, airplay 2 will keep the music going while you take a phone call, listen to a voice message or other system sounds. For me, this is crucial for start using airplay instead of chrome cast. If you want to see more about it start viewing at 28:40 on [this video](https://developer.apple.com/videos/play/wwdc2017/501)",162,901,2017-07-02,AAPL,0.024921320378780365,0.9330040812492371,0.042074546217918396
+AppleWatch,Confirmed: Lemon is alive.,,67,869,2017-07-02,AAPL,0.05752052739262581,0.8568956851959229,0.08558370172977448
+apple,Best Safari Extensions for 2017,Last time this was posted was 2 years ago. Any must haves?,179,589,2017-07-02,AAPL,0.012981442734599113,0.769647479057312,0.2173711210489273
+iphone,Found these in a drawer- my black AirPods!,,49,515,2017-07-02,AAPL,0.029889008030295372,0.9185060262680054,0.05160500109195709
+apple,Screenshots in ios11 - perfectly implemented . Any other secret gems you have found?,"I am trying out the beta and love how they have down screenshots. For those unfamiliar with it, when you screen capture, it is show on the screen like a picture in picture shot. If you tap on the small window which is the screen capture it lets you edit it, send it, and gives you the option after to save to photos or delete it.
+
+What other new features not well publicized have you discovered in iOS 11",199,460,2017-07-02,AAPL,0.01595623418688774,0.9066773653030396,0.07736638188362122
+apple,Another cool ARKit demo. Color changing Tesla.,,48,337,2017-07-02,AAPL,0.040078405290842056,0.7994679808616638,0.16045360267162323
+AppleWatch,Confirmed: Cat is alive.,,20,320,2017-07-02,AAPL,0.05978168919682503,0.8753842711448669,0.06483399868011475
+apple,Apple continues Asia expansion with its first retail store in Taiwan,,34,266,2017-07-02,AAPL,0.010740850120782852,0.6848657131195068,0.304393470287323
+apple,Music controls persist on Watch with iOS 11 + WatchOS 4 + AirPods when listening to music,"I haven't seen this discussed yet but a recent change I noticed is that when playing audio on my iPhone, the music controls stay on the screen of my Apple Watch, allowing me to easily change tracks or volume for my AirPods without having to use Siri or navigate to the music app on my watch. Your watch returns to your normal watch face when not listening to audio.
+
+I remember discussing this as a wishlist item for how they can make using buttonless AirPods easier to use by passing the controls over to the watch, and was very excited to discover it.  It's not limited to Music either, but also works on Audible and I assume any other media app.",46,181,2017-07-02,AAPL,0.019130028784275055,0.9283292889595032,0.05254069343209267
+iphone,Anybody have this wallpaper?,,25,177,2017-07-02,AAPL,0.04588041827082634,0.9153642654418945,0.038755301386117935
+apple,"KGI: iPhone 8 features highest screen-to-body ratio in industry, but no Touch ID in screen",,985,1328,2017-07-03,AAPL,0.013074473477900028,0.834433376789093,0.15249218046665192
+iphone,"You may have seen the iOS Stock Wallpaper Collection. Here is the highly requested sequel, the macOS Stock Wallpaper Collection.",[deleted],22,611,2017-07-03,AAPL,0.009335433132946491,0.8125134110450745,0.1781511753797531
+apple,Apple reportedly paying LG to exclusively devote OLED production lines to iPhone orders,,136,601,2017-07-03,AAPL,0.016816815361380577,0.910686731338501,0.07249638438224792
+apple,Apple Tests 3-D Face Scanning to Unlock Next iPhone,,303,441,2017-07-03,AAPL,0.012066155672073364,0.874075710773468,0.11385808140039444
+apple,"All 2017 iPhone Models Said to Include Standard 5W USB-A Adapter, With Wireless Charger Sold Separately",,152,291,2017-07-03,AAPL,0.01772158220410347,0.9343081116676331,0.04797033220529556
+apple,How well-kept was the secret/information about the first iPhone before Steve Jobs announced it? Were there leaks about that phone in the same way we have leaks about every iPhone nowadays?,,72,158,2017-07-03,AAPL,0.028719210997223854,0.9241941571235657,0.04708663374185562
+iphone,TIL there is a Belkin Lightning Audio + Charge section in Settings when the accessory is plugged in.,,17,148,2017-07-03,AAPL,0.02953975461423397,0.9313941597938538,0.03906608745455742
+AppleWatch,Fitting the theme,,22,121,2017-07-03,AAPL,0.03882160782814026,0.8394701480865479,0.12170819193124771
+apple,"Bloomberg: iPhone 8 will replace Touch ID with 3D facial detection, ProMotion possible",,99,120,2017-07-03,AAPL,0.018892427906394005,0.9015803337097168,0.07952731102705002
+apple,Post a picture of your desktop!,"Hello! 
+
+It's always fun to see how other people have their desktop/dock setup. And good for inspiration.
+
+This is mine right now, trying to get it as minimalistic as possible with only a few apps in the dock. 
+http://i.imgur.com/7CXMBvL.png",259,112,2017-07-03,AAPL,0.02140743099153042,0.9222201108932495,0.0563725046813488
+apple,Insane Apple Store Experience,"Hi Everyone,
+
+Preface: An insanely POSITIVE experience on friday.
+
+I purchased a 2016 15"" tbMBP on March 1 of this year. That's roughly 4 months from this past Friday where this took place. For some reason, one of the ports on my laptop blew (straight up was fried, no water damage, seemed to be not my fault :P).
+
+Took it to the Apple store this past Friday and saw a Genius techie. He told me that while my device was under warranty, they'd unfortunately need to replace the whole logic board (a 3-5 business day endeavor). At this point I was pretty satisfied, didn't have to pay a dime, minor inconvenience, no biggie. However, after seeing so many stories on reddit about Apple's generosity I decided to casually ask: ""Any way I can get a loaner or a replacement machine?"" Now note, I was really kind and open about this, didn't press at all. Unfortunately, the techie said he didn't have that kind of authority, and since it's past the 14 day return window (4 months!!!) there was probably nothing they could do. However, he told me he'd ask a sales rep/manager just to see. 
+
+Next, the sales rep lady came over, I told her the same story (very gently) and told her how important this laptop was for me. She told me she felt sorry, but like the Genius said, it's past the 14 day window so nothing they could do. She also added that she didn't have the power to do something like that anyways. As with the genius, I said okay nbd, thanks so much for trying and left it at that. However, she decided that this was worth the managers attention, and after 30 mins she was able to get a hold of him.
+He comes over, same story by me, same reaction by him. 14 day return window, blah blah. I told him no worries, just wanted to ask since I've heard people getting upgraded for free. He told me yeah that mainly happens for 2012 MBP's w/ faulty batteries. At this point I was totally okay, I was able to talk to the manager, I tried, no biggie. He walks away.
+
+10 seconds later he comes back and tells the sales rep, ""You know what, let's take care of him. She'll handle the transaction"" and walks away. At this point I'm like what, no way, but alas, I get a FULL refund on my nearly maxed 15"" tbMBP, and I have 2 gift-cards of said value waiting to be spent on a 2017 model :).
+
+Has anyone else had this happen to them? I feel like most posts are with respect to the 2012 replacement battery, but this was a 4 month old machine!! Crazy experience, thanks apple!",296,1006,2017-07-04,AAPL,0.05029730871319771,0.9016801118850708,0.04802251607179642
+iphone,iOS 11 ARKit Let's You Check Out Tesla Model 3 In Your Driveway,,75,842,2017-07-04,AAPL,0.01567886769771576,0.9406832456588745,0.04363784193992615
+apple,Why is the default Podcasts app bad?,"I'm a very light podcast listener (3 shows that release one episode a week), so the built in podcast app works for me. I always see so much hate around it so it made me wonder if I'm missing something in it that others do well. Will it even matter for how little I use it?",427,616,2017-07-04,AAPL,0.34786343574523926,0.6274528503417969,0.024683672934770584
+apple,Use Apple Pay at the Apple Store and help donate to US National Parks,,37,457,2017-07-04,AAPL,0.015269621275365353,0.9110745787620544,0.07365574687719345
+AppleWatch,Just 200 days to go...,,43,352,2017-07-04,AAPL,0.06304487586021423,0.913688600063324,0.023266460746526718
+apple,How satisfied are you with your Apple Watch?,"Mention which Series it is please. Thinking about getting one and would like to know the high points of owning one
+
+Edit: I read and will continue to read all of these (thank you!) so if I don't reply just know I read it!",281,334,2017-07-04,AAPL,0.02622682973742485,0.9102753400802612,0.06349784880876541
+apple,Apple Disrupts Silicon Valley With Another Eye-Catcher: Its New Home,,60,324,2017-07-04,AAPL,0.03721187636256218,0.9066872596740723,0.05610084906220436
+apple,"Apple cuts iPhone, iPad prices in India following tax reforms",,43,314,2017-07-04,AAPL,0.9042454361915588,0.06232507526874542,0.03342955559492111
+apple,Unhappy with 'iPhone 8' rumors? Apple will still offer new iPhones with Touch ID this fall,,313,262,2017-07-04,AAPL,0.010995885357260704,0.8762354850769043,0.11276858299970627
+apple,To those who feel facial recognition couldn't possibly replace Touch ID.,"One thing we don't know exactly is *how* effective the rumoured facial recognition technology could be.
+
+Imagine (and this is by no means an informed prediction, just a thought experiment) that the new iPhone can:
+
+1. Identify your face from an angle of 45º - which means it can identify your face, even if you're looking straight at it and tilting the phone away at an angle of 45º.
+
+2. Can tell whether you're looking at it or not - by tracking your eyes so that it can tell if you're looking away, even while you're facing it.
+
+Let this sink in, because this would be **huge** – 
+
+You might be on Reddit at a desk right now and your phone might be sitting nearby, imagine that just by glancing at it, it wakes and shows the lockscreen. Now imagine that as soon as you pick it up or tap on it, accelerometers trigger and the phone unlocks itself. 
+
+Maybe you're holding your phone right now, after reading this try putting it in your pocket and pulling it back out. Imagine that as soon as you turn the phone to face you, it automatically wakes and you need only Force Touch *anywhere* on the screen and it unlocks.
+
+For this to happen you need a camera that can
+
+- Recognise your face from a wide 45º angle using a convex lens.
+- Recognise your face in darkness using some sort of infrared sensing.
+- Recognise your face with enough fidelity, to tell it's actually you and whether your eyes are looking at it or not.
+
+Not easy things to overcome, but not something out of science fiction either.
+
+Do I personally believe this is possible on the next iPhone? No - only the staunchest optimist would think this kind of technology is ready for mass production - we're not quite there yet. But the prospect of having devices that can unlock and turn on just by looking at them is extremely exciting and opens up a world of possibilities.",327,208,2017-07-04,AAPL,0.026217442005872726,0.9332602620124817,0.040522314608097076
+apple,Spotify now supports scrubbing audio from the lockscreen,"http://imgur.com/a/mHvsX
+
+Looks like the latest update enabled scrubbing a track from the lockscreen and control center! This is on iOS 10, despite my iOS 11 wallpaper",201,1206,2017-07-05,AAPL,0.015973102301359177,0.9031252861022949,0.0809016227722168
+apple,Little Snitch 4 is now available in final and stable version,,191,1017,2017-07-05,AAPL,0.04657291993498802,0.9206294417381287,0.032797671854496
+iphone,Found iPhone,"Found an IPhone 7+ today while cycling. Phone was  iCloud locked, so I could not figure out who the owner is from contacts etc. After quick research, I took out the SIM and called the carrier trying to identify owner using the phone serial number. They refused to help...  told me to put up a sign, where I found the phone or turn it in a local store. I then plugged the SIM into my own phone and got a 4th of July text message immediately from what transpired to be the owner's sister. Few calls later I was able to return the phone. Posting this as I am kinda proud of the resolution and also sharing the switching SIMs idea, which I did not find online but worked in the situation. I was also able to identify the number of the phone via caller ID once I put the SIM in my phone.",117,1016,2017-07-05,AAPL,0.02529715932905674,0.9311196804046631,0.043583158403635025
+AppleWatch,Best notification I've received on my Apple Watch so far.,,25,449,2017-07-05,AAPL,0.02463635616004467,0.5983795523643494,0.3769841194152832
+apple,I'd just like to direct you to this discussion of the HomePod over in /r/audiophile,,166,442,2017-07-05,AAPL,0.04099128767848015,0.9253078699111938,0.03370080143213272
+iphone,[Discussion] Anyone else likes to match icons/wallpaper by color? Share your unusual springboard setups!,,56,371,2017-07-05,AAPL,0.02913350984454155,0.936281144618988,0.034585367888212204
+apple,Question for you iOS 11 folks....,[deleted],77,272,2017-07-05,AAPL,0.037938740104436874,0.9202109575271606,0.041850291192531586
+apple,"Annoyance: Spotlight doesn't prioritize apps based on use. Want Chrome: Cmd-Space, ""ch"", return. Whoops! Guess I'm playing Chess now.","Small annoyance, but given how otherwise excellent Spotlight is -- and how often this particular thing hits me -- it's annoying. My usage of Chrome vs. Chess is pretty much 1000:1. Actually probably closer to 1000:0; I don't think I've actually played Chess in years.
+
+edit: Hmmm... Opened it up and selected Chrome from the list instead of chess, repeated this 3-4 times, now Chrome is showing up first when I type ""ch"".
+
+Verdict: I accidentally opened Chess enough that it sorted that to top based on frequency. 
+
+tl;dr: Spotlight works, I r dum.",57,255,2017-07-05,AAPL,0.06281014531850815,0.8977107405662537,0.039479028433561325
+apple,Reality Check on Face Recognition,"Face recognition is extremely unlikely on the next iPhone. I know everyone is excited, but....
+
+* The rumor source is an analyst, KGI. In my years of following Apple rumors, analysts are rarely right on anything major like this. Sometimes they hedge like ""an apple watch is coming with heart rate sensor, one day"" other times its an outlandish claim, or just common sense. Face sensing is not going to be on the iPhone. Some rumors are believable, others are not.
+
+* Apple has spent years getting the public and banks to trust Touch ID and get it to the speed/state it is today. To switch to face ID completely, with their flagship phone model, no backup touch ID, and split their lines with a second form of biometrics would be risking the experience of their best customers. 
+
+* Apple seems pretty focused on AR, and it seems their best tech is in the rear camera. I doubt it will make it to the front camera. There is no indication that the rear camera has the 3D sensing abilities required to scan a face in detail.
+
+* Apples most advanced camera, the rear camera, can finally do AR with 3D sensing cameras that can find planes. To expect the lower quality, smaller, space contstrained front camera to have multiple IR sensors, lasers, and the ability to see faces from 180 degrees/angles is unrealistic. It makes more sense to have this on the rear camera as well if they are adding this ability. It would make AR kit and tagging people/photos more accurate.
+
+* Apple has patents to make the front of a display a camera, or having imaging performed through a display. This means a larger, more accurate, thinner, touch ID area, since it doesn't have to fit in a button and can have a bigger sensing area.  There has also been talk of ultrasonic sensing. I think this is more likely than making a 3D scanning multi IR sensor front camera that fits near the speaker (or behind the whole display). In addition, a through display camera is going to be more accurate when the image is pressed against it, as opposed to when it is capturing a whole environment.
+
+* To unlock using touch, you have to physically choose to open the phone. This is more secure than automatically being unlocked when you are within view of the camera. People could buy stuff or unlock phones just by holding it up to your face...an image is a lot different than a fingerprint in terms of legality and ease of acquiring (for police and public). It also means the camera turns on every time you open the phone, which is a security issue that touch doesn't have. 
+
+*  Some people say there may be touch ID on the side button. I can't imagine Apple adding touch ID and keeping accuracy with a small bar as opposed to a round, full button, but hey, its possible.
+
+*  It makes far more sense to add face sensing to the laptop and desktop line, where there is always a camera with room for more sensors aimed directly at your face, the image won't be moving or have all sorts of lighting conditions, and 3D scanning could could be used for modeling and sending 3D objects to your iPhone/AR kit. Users could also continue to use Touch ID for authentication until the face scanning tech was small and good enough to put in your phone. Some may ask why didn't touch ID start on laptops ? It was far more needed on phones then and Apple wanted people to do mobile purchasing.
+
+Some Apple decisions are believable. Ditching Magsafe (they had been changing it updating it already, and it was limiting thinness), switching to USB-C (they love simplifying ports, and a universal port has been their goal for a while), and contactless or inductive charging (simpler, less ports) all have reasons. I was pretty sure they were going to do touch ID on their laptops for years, and was wondering why it took so long (imagine shopping on your laptop with touch ID and never entering a CC number again). But to switch to face recognition on iOS makes no sense at at all. 
+
+edited for clarity",65,151,2017-07-05,AAPL,0.03355956822633743,0.9316290616989136,0.034811388701200485
+apple,Wish me luck-- I am about to walk into an interview with my local apple retail store!,[removed],63,138,2017-07-05,AAPL,0.02948245033621788,0.8830873370170593,0.0874302089214325
+apple,"Facetime in iOS 11 should work the same as taking a screenshot. When I press the home button, put it in pip.",,151,1135,2017-07-06,AAPL,0.030659819021821022,0.9389311671257019,0.030409054830670357
+iphone,Is it really true?,,91,676,2017-07-06,AAPL,0.025668805465102196,0.8319574594497681,0.1423737108707428
+iphone,I've been using this type of home screen layout for several years. I like the bunched colors.,,137,668,2017-07-06,AAPL,0.023978862911462784,0.9246313571929932,0.051389820873737335
+apple,Samsung Will Supply NAND Flash Chips for 2017 iPhones to Ease Shortage,,120,643,2017-07-06,AAPL,0.048037439584732056,0.7023476958274841,0.24961484968662262
+apple,"Apple reportedly preparing three new iPhone models for 2018, all with OLED displays",,175,626,2017-07-06,AAPL,0.010687321424484253,0.8595353960990906,0.12977732717990875
+apple,"Facebook's update, version 100.0, is 50MB smaller. Maybe they heard the complaints.",,156,540,2017-07-06,AAPL,0.03256719186902046,0.9176855087280273,0.049747295677661896
+apple,Found locked iPhone - what I did to return it.,"I found a locked iPhone in the road. No Medical ID contact number. But I was pretty amazed at the info I could glean from the locked phone. So I thought I'd share tips. Many people probably know these things already, but just in case.
+
+I swiped down to reveal notifications. Found an email notification from ICE Name... I figured it was a close family member. Googled the name and came up with an email address. Sent off a note from my phone.
+
+Swiping left I was able to see an Apple maps widget with last address (this turned out to be the house they were renting on vacation). So I could have tracked them down that way.
+
+Kicker was when I realized I could force touch reply to a text message that came in. Responded that I found the phone and gave them my number to pass along. He called me right away and coordinated getting in touch with the owner.
+
+Handed off the phone within about 6 hours of having it.",72,317,2017-07-06,AAPL,0.03353843465447426,0.9134832620620728,0.052978355437517166
+apple,"As iPhone 8 facial recognition expected, Apple patent describes bringing this &amp; more to Macs",,122,261,2017-07-06,AAPL,0.016234437003731728,0.820755660533905,0.1630098670721054
+ipad,"Wallpaper tip: Create a blurred out version for your home screen to spot app icons without distractions, but keep it sharp for your lock screen. (+ blue color tinted version of the ocean wallpaper)",,30,194,2017-07-06,AAPL,0.02342013642191887,0.923159658908844,0.05342020466923714
+apple,Qualcomm seeks to ban imports and sales of Apple iPhones in new lawsuit,,96,184,2017-07-06,AAPL,0.035175666213035583,0.8766010999679565,0.08822327852249146
+apple,Apple Predicted to Become Trillion Dollar Company Within 12 Months,,269,2428,2017-07-07,AAPL,0.010735590010881424,0.8596789836883545,0.12958543002605438
+apple,This is why I am ditching S8 for iPhone as soon as the new one comes out,"Just take a look: https://imgur.com/kXKcs0A
+
+Soon you will have to suck someone off when buying a house to get a key from the second floor because your skill level is not good enough.",393,1187,2017-07-07,AAPL,0.016828609630465508,0.8186406493186951,0.16453073918819427
+apple,VLC Alternative: IINA is so much better - try it out,"Despite being in early stages, the developers have released a stable version with autoupdate and it's so much faster and better than VLC, imho.
+
+[https://lhc70000.github.io/iina/]
+(https://lhc70000.github.io/iina/)
+
+Give it a try. I'm sure you'll appreciate the speed and the UI. I for myself have finally kicked VLC from my desktop. 
+
+PS: Love the extra controls and equalizer on IINA.
+
+What do you think about it? Any other alternatives I should look into?
+
+
+PPS: Forgot to mention: if you install the Chrome or Safari addon (File - Open URL - then hit the links below the box) then you can also watch youtube videos or basically anything else in IINA... like the app ""helium""... just in IINA
+and All in One solution. EDIT: Netflix doesn't work because of login credentials",330,936,2017-07-07,AAPL,0.019795017316937447,0.9071348309516907,0.07307010143995285
+iphone,"Someone left me a voicemail in Spanish, the transcription is hilarious.",,43,670,2017-07-07,AAPL,0.08395271003246307,0.8863707780838013,0.0296765323728323
+apple,Have app developers lost their minds with subscriptions?,"I feel like every week now there's a story of another app joining the subscription bandwagon. And while personally I have no problem with app subscriptions themselves, so many apps are playing fast and loose with the numbers. Apps like [Day One](https://forums.macrumors.com/threads/journaling-platform-day-one-transitions-to-a-subscription-service.2054054/) or [Enlight](https://www.theverge.com/2017/7/6/15927404/enlight-2-photofox-photo-editor-ios-features-subscription) that were once cheap $3-5 purchases now have subscription models that total $40-50 a year. That's an insane markup, especially when you factor in that app developers are now paying Apple *less* when they retain subscribers for a year.
+
+I bought into the app developers need recurring revenue argument but I kind of find it hard to defend the practice now that developers are basically jacking up their annual price many times over.
+
+What do you guys think?",290,350,2017-07-07,AAPL,0.10078898072242737,0.8715587258338928,0.027652278542518616
+apple,Battery level of all devices should show up in the Batteries widget,"I really like the batteries widget that lets me see the battery level of my iPhone, watch, and AirPods all at once. I wish they would add some kind of iCloud sync or something where that widget would also show the battery level of my Mac and if I had other iOS devices, those too. That way I could view my battery levels across all my devices. Thoughts?",56,348,2017-07-07,AAPL,0.013964805752038956,0.9259660840034485,0.060069117695093155
+apple,"Google Calendar gets an iOS widget, nearly three years after widgets launched",,67,284,2017-07-07,AAPL,0.04212354123592377,0.9216526746749878,0.03622375801205635
+mac,Inside body of Macintosh SE - You can see signatures of people,,15,268,2017-07-07,AAPL,0.03734492138028145,0.9299275875091553,0.032727520912885666
+apple,iOS 11 Automatically Creates ZIP Archives When Sharing Folders Via Email,,20,215,2017-07-07,AAPL,0.02401064522564411,0.949027955532074,0.026961367577314377
+apple,The official reddit app now supports handoff!,"Pretty much the title. When visiting reddit on safari on your macOS, the reddit app shows on your iphone/ ipad.",48,207,2017-07-07,AAPL,0.01803230121731758,0.9197938442230225,0.06217383220791817
+apple,Steve Jobs and the missing “Intel Inside” sticker,,394,1561,2017-07-08,AAPL,0.18104518949985504,0.7848711013793945,0.034083735197782516
+iphone,Replaced my 6 month old case. Old and new Saddle for comparison.,,146,462,2017-07-08,AAPL,0.06970199942588806,0.7913240790367126,0.13897393643856049
+AppleWatch,Embarrassed by the headspace app today.,,31,443,2017-07-08,AAPL,0.053212713450193405,0.8772496581077576,0.06953759491443634
+apple,Apple patent filing hints at AirPods with biometric capabilities,,42,330,2017-07-08,AAPL,0.02344544045627117,0.9127205014228821,0.06383398920297623
+apple,Discussion: When do you think we'll see the first legal battle to use health data as evidence?,"I was just wondering about health data collected on an AppleWatch. We have all sorts of data, including the fact that you're running, a change of heart rate etc..
+
+This could be circumstantial evidence in a trial, no? I mean if a crime has been committed and the accused has a sudden HR spike at the same time, including a running session recorded just after the crime etc... I know it's not proof on it's own, but can you see it being used in the future?",96,319,2017-07-08,AAPL,0.041663091629743576,0.9295523762702942,0.028784533962607384
+iphone,ESPN uses iPhone 7 for 9th annual 'Body Issue' cover shoot,,68,305,2017-07-08,AAPL,0.017543017864227295,0.9468434453010559,0.03561348840594292
+apple,"Man, I can't wait for Messages in iCloud.","I have about three computers, an iPhone and an iPad. 
+
+I'm tired of things sometimes not syncing :(",85,282,2017-07-08,AAPL,0.04304230585694313,0.922237753868103,0.034719984978437424
+iphone,"2018 iPhones Will Sport OLED Displays, Say Goodbye To LCD Screens For Good: Report",,100,256,2017-07-08,AAPL,0.024294696748256683,0.36331066489219666,0.6123946309089661
+AppleWatch,3D-printed Airpods holder for the Apple watch.,,50,176,2017-07-08,AAPL,0.024830365553498268,0.9352887868881226,0.03988082706928253
+iphone,"Apple iPhone 8's wireless charging may be late for launch, report says",,73,174,2017-07-08,AAPL,0.023120880126953125,0.8410251140594482,0.1358540654182434
+iphone,Best upgrade of my life,,191,1592,2017-07-09,AAPL,0.011536800302565098,0.5455781817436218,0.44288507103919983
+apple,I've gotten so used to the haptic feedback on my 7+ in apps that liking pictures on Instagram (where there's no feedback as of yet) feels weird and empty.,,144,1496,2017-07-09,AAPL,0.03509582206606865,0.9122200608253479,0.05268403887748718
+apple,"BEWARE: Snapnator ""USB-C MagSafe adapter"" is Garbage","I was hopeful to support a startup company with a very desirable product. Unfortunately the following occurred when I ordered the product...
+
+* Lead time on the product seems to be 2-3 weeks minimum. I didn't realize this at first, and it is my fault, but pretty crazy IMO. It's not made clear it's drop shipping from china to the US which obviously plays into this.
+
+* The email response for order status was painfully slow.
+
+* The tracking info didn't show up in the tracking system for days after I was given it.
+
+* **Horrible quality** When the product arrived, the packaging and everything about the product itself was extremely sub-par. Cracked, uneven, rough, chipped, scratched, oddly textured materials were all that I could see all over both sides of the adapter. There was glue visibly oozing out of certain areas. Absurdly bad.
+
+* The product did not match what was pictured on their website.
+
+* When I installed the USB-C ""Magsafe"" side into the Mac (against my better judgement I wanted to at least test-fit it because I didn't think it'd fit, it didn't.) it failed to sit even close to flush with the housing of the MacBook Pro.
+
+* When I brought these issues to the attention of the company, in addition to the fact that I could have ordered something from Amazon for the same price and had a guaranteed quality product, and then demanded a refund, all that I received in reply to the photos and facts I outlined was ""we never sell it on Amazon"".
+
+That's it. Nothing apologizing, or addressing the quality issues. Just an improperly capitalized/punctuated 6 word reply without so much as a salutation or goodbye. 
+
+Buyer beware, this company is a scam and doesn't give a shit about delivering a quality product. I disputed via PayPal and my money was refunded.
+
+EDIT: Here's a few photos. https://imgur.com/gallery/rYZaP",146,935,2017-07-09,AAPL,0.08581815659999847,0.8896470069885254,0.02453485131263733
+apple,iOS 11.1 Software Update Will Unlock Wireless Charging on iPhone 8,,192,459,2017-07-09,AAPL,0.011004392057657242,0.7631189823150635,0.22587664425373077
+apple,Report: iPhone 8 to come in four color choices including new ‘mirror-like’ model,,134,348,2017-07-09,AAPL,0.011292221955955029,0.8474826812744141,0.14122514426708221
+apple,They're still replacing 2012s with new models!,"Just got mine, I'm so happy :D apparently the mid tier 2015 was out of stock also, so they gave me this brand new one, basically just announced when i brought my 2012 in for repair haha proof: https://i.imgur.com/Nwj4lwQ.jpg
+
+Edit: full infos about the procedure here: https://www.reddit.com/r/apple/comments/6kjlz2/successful_2012_rmbp_replacement/",290,229,2017-07-09,AAPL,0.015202933922410011,0.8452327847480774,0.13956430554389954
+AppleWatch,Gold &amp; Black,,18,195,2017-07-09,AAPL,0.026334863156080246,0.9233512282371521,0.05031396076083183
+apple,Apple says graphics partner is lying about when they broke up,,27,143,2017-07-09,AAPL,0.26128309965133667,0.6666358113288879,0.07208110392093658
+apple,iMessage Spam Detection with CoreML,,3,138,2017-07-09,AAPL,0.024473505094647408,0.9210695624351501,0.054456863552331924
+apple,Pen(cil) Battle: iPad Pro (2017) versus Surface Pro 2017,"As the title says, a reviewer decided to take slow motion video of the pen tracking speeds for the new iPad Pro and Surface Pro 2017 models.
+
+The iPad Pro is the clear winner -- and it's a huge difference in terms of input lag.
+
+https://youtu.be/G9GRfLGKSYU?t=278",76,134,2017-07-09,AAPL,0.023213185369968414,0.8775699734687805,0.09921681880950928
+apple,Apple Seeds Third Beta of iOS 11 to Developers,,529,994,2017-07-10,AAPL,0.016306530684232712,0.9113263487815857,0.07236703485250473
+apple,Every Default macOS Wallpaper – in 5K,,66,961,2017-07-10,AAPL,0.031484488397836685,0.9329636096954346,0.03555193915963173
+iphone,Got my Retro Slickwrap and loving the look :),,69,883,2017-07-10,AAPL,0.0219473484903574,0.8698753118515015,0.10817728191614151
+iphone,"The iPhone changed fashion. The iPhone 6 was so much larger than older models that it didn't fit in women's pockets, forcing designers to add or enlarge pockets in clothing appearing in stores in fall 2015 (new clothing designs typically takes one year to appear in stores).",,80,709,2017-07-10,AAPL,0.0362592488527298,0.9226502776145935,0.041090451180934906
+apple,It would be neat if iOS compiled a list of all the links shared with another person through iMessage like it does with photos,,15,462,2017-07-10,AAPL,0.040347177535295486,0.931807279586792,0.027845606207847595
+iphone,Just a reminder for everyone that Spotlight is a built in unit converter. You don't need to use Siri to do it.,,51,432,2017-07-10,AAPL,0.018884066492319107,0.9085495471954346,0.07256640493869781
+apple,The new Siri voice on iOS 11 is really nice.,I’m actually really enjoying the new voice. It’s subtle but sounds a lot more natural. It’s especially noticeable when navigating the voice directions sound really nice and clear,78,317,2017-07-10,AAPL,0.014222631230950356,0.8405457735061646,0.14523158967494965
+iphone,See what your browser is leaking,,10,208,2017-07-10,AAPL,0.06920183449983597,0.8761072754859924,0.054690882563591
+ipad,"Comparing Notability, Goodnotes, OneNote, Nebo, Noteshelf and Note plus. (perspective of a college student)","Update 1 (16 July 2017) : Added some of the alternatives mentionned in comments.
+
+#A bit of background:
+
+I have had an iPad since the first one ever came out. For a long time, I wanted the iPad to replace my pen and paper (my preferred way of processing information) and it’s only been since the iPad Pro came out that I could see myself rely more on the iPad. I spent a lot of hours testing different note taking apps on the iPad, always eager to find **the one**. Unfortunately for me, I haven’t found one that had everything I wanted for a paperless experience yet, but a few have come close. As you'll notice in my write-up, I have a workflow that involves GoodNotes, Notability and OneNote. Not ideal, but it works for me.
+
+The research, writing and organization of this text post have been done exclusively on my 1st generation 9.7 iPad Pro, but formatting this for Reddit required a computer.
+
+**Analog to paperless comparison**
+
+	GoodNotes: a file cabinet containing your notebooks
+	Noteshelf: a bookcase with your notebooks (can't organize further)
+	Noteplus: a bookcase with your notebooks (can't organize further)
+	OneNote: a big (infinite) whiteboard, pinboard.
+	Notability: a binder with dividers, adding more “loose sheets”, most similar to Livescribe (voice recording linked to ink)
+	Nebo: your assistant typing your handwritten notes into Word
+
+**Note plus**
+
+[Some Pros and Cons](http://imgur.com/I6LyNpA)
+
+I mostly used Note+ before I owned the iPad Pro. Its palm rejection was the most powerful in my opinion. Note plus developer took too long to support the Apple Pen and while its ink engine was probably the best, it now feels laggy and limited. I have long since moved onto other apps. Note plus stays very relevant for those who own regular iPads and are using non bluetooth enabled styluses.
+
+**Notability**
+
+[Some Pros and Cons](http://imgur.com/N5esboS)
+
+Its voice recording linked to ink is the deal maker here. If you think you are going to need it, I feel that this single feature is worth all its shortcomings. It’s, to my knowledge, the only app to offer this on the iPad. Notability is very powerful indeed, with a strong organization scheme. As I don’t really use voice recording, Notability is my app of choice when doing my math/phys/chem etc homeworks. Its infinite scrolling feature works very well for this. I use Notability as I would loose sheets.
+
+**^Edit**^: ^Moving ^pictures/pdf ^after ^the ^fact ^can ^be ^done ^by ^pressing ^on ^T, ^then ^tapping ^on ^the ^image. ^Thanks ^/u/rkraupa ^!
+
+**GoodNotes**
+
+[Some Pros and Cons](http://imgur.com/Js7ZlFl)
+
+The other powerhouse for note taking. This is my main app for taking notes at school. I like that my handwriting is searchable (“What does eigenvalue mean again??”) and it’s very easy to add titled bookmarks. That way, I can go into bookmark mode and have a complete outline of all my notes - very useful when reviewing or studying for an exam. You can also have multiple notebooks loaded, navigating between them by tabs. On a 9.7 iPad Pro, I leave it on landscape mode to simulate the width of regular paper and having to manually change page feels too clunky for doing homework for my taste.
+
+**^Edit**^: ^More ^detailed ^pros ^[here](https://www.reddit.com/r/ipad/comments/6mgol8/comparing_notability_goodnotes_onenote_nebo/dk2ddk7/) ^by ^/u/goldarkrai ^such ^as ^custom ^templates/pens. 
+
+**Nebo**
+
+[Some Pros and Cons](http://imgur.com/FBeiyB1)
+
+One of the new kids on the block. The MyScript team has outdone themselves. This app allows you to write everything with your Apple Pen and then convert into a fully formatted typed document. Their gesture-based editing engine is powerful and makes the lack of additional buttons on the Apple Pen (and eraser) almost a non-issue. Must try to see a note app done right. I haven’t found any use for it in my current workflow, but I can see a lot of people using it for things that need to be transcribed later. My main gripe with Nebo is that you can’t title any of your notes. 
+
+**Noteshelf**
+
+[Some Pros and Cons](http://imgur.com/kIkKVJ0)
+
+The alternative to GoodNotes, IMO. 
+It has a ton of templates. The ink engine is better than average. If I wasn’t already so comfortable with using GoodNotes, it would be a strong alternative for me. It could also replace Notability, but since Noteshelf is also a Notebook based note taking app, I’ve decided to compare apples to apples. It also allows for adding stickers which I think can be useful to highlight important sections of your notes. No smart shapes though.
+
+**OneNote**
+
+[Some Pros and Cons](http://imgur.com/h10gkhp)
+
+While not as good as its PC version, OneNote still has a strong place in my workflow. Its infinite canvas allows me to process a lot of information without feeling constrained by page size. It’s my favourite way to build cheat sheets for studying, keep useful information that I find on the web or just to organize my thoughts. In fact, I am currently writing this with OneNote open in split view. However, there are a lot of QoL features either missing or really unintuitive, such as restyling ink after the fact. Ever since Evernote switched its free service to the 2 device limit, I switched to OneNote for those web clips, notes/research gathering, information to remember (build orders for Offworld Trading Company, belt balancing designs for Factorio, locations of korok seeds for Zelda: BotW...). OneNote is the app I use when I want to clip out important theories or examples from my textbooks.
+
+#A few comments:
+
+- The Undo button on the right is annoying for someone who is right-handed. While you are writing with your right hand, your left hand is free. Please put the undo button on the left (or better yet, user toggling for left/right) so that your other hand can easily reach popular buttons. However, in the occasions where you can only use one hand, the undo button on the right is sweet. YMMV.
+- Color is your friend when taking organized handwritten notes. If it takes more than 3 taps to change colors, it becomes very tedious.
+- While I understand the design behind single page note taking, it feels like trying to force the paper way onto a paperless device. Infinite scrolling when editing, and single page scrolling for reviewing would be the sweet spot IMO.
+
+#Organization type:
+
+Notebooks | Binder/loose leaf
+---------------|-----------------------
+GoodNotes*|Notability*
+Note plus|OneNote*
+Noteshelf|Nebo
+^*Also ^has ^categories/folders/dividers ^to ^organize ^further
+
+#Features:
+
+Handwriting recognition|Voice Recording|PDF/Image cropping*
+-------------------------------|----------------------|---------------------------
+GoodNotes|Notability (linked to ink)| GoodNotes
+OneNote (when synced back to PC) | OneNote (can't write and record at the same time) | Notability
+Nebo | Noteshelf | 
+Note plus (conversion) | Note plus
+
+*^Let’s ^say ^you ^have ^one ^of ^the ^past ^finals ^which ^were ^meant ^to ^be ^done ^in ^an ^exam ^booklet. ^You ^don’t ^have ^enough ^space ^to ^start ^solving ^on ^the ^PDF ^itself. ^How ^about ^you ^crop ^out ^each ^questions ^individually? ^As ^simple ^as ^using ^the ^lasso ^tool ^to ^select ^the ^question, ^copy ^and ^then ^paste. ^Then ^no ^need ^for ^split ^screen ^anymore. ^On ^apps ^that ^do ^not ^support ^these ^features, ^I’ve ^been ^using ^iAnnotate’s [^built-in ^screenshot ^tool](http://imgur.com/3oBK3C9). ^It ^is, ^AFAIK, ^the ^only ^PDF ^app ^to ^offer ^this ^feature.
+
+#Some Commenters' recommended alternatives
+Handwriting Support | Typing Only
+----------------------------|-------------
+Whink | Standard Notes (offers encryption)
+Penultimate | Milanote (OneNote for creative workflow)",79,207,2017-07-10,AAPL,0.04371902532875538,0.9246726334095001,0.03160833287984133
+apple,Maps now supports one-handed zoom in iOS 11,[Video.](https://gfycat.com/SadGoodnaturedBlobfish),47,174,2017-07-10,AAPL,0.013867336325347424,0.9286085963249207,0.05752405524253845
+iphone,T R I B U T E,,81,1705,2017-07-11,AAPL,0.03468165174126625,0.9160600900650024,0.04925820231437683
+apple,Smart Invert Colors in iOS 11 is developing into a fully-fledged dark mode,"In beta 3, Smart Invert Colors now does not invert album art in music, emojis and more across the system. This is in addition to existing app icons, photos in the Photos app and toggles from previous betas.
+
+There’s still stuff that doesn’t support it, like images in Safari and of course, third party apps, but it seems that Apple are using Smart Invert Colors to develop Dark Mode in what appears now to be in some sort of alpha state. 
+
+By the time iOS 11 is released alongside iPhone 8/DE/Edition with the OLED screen, we could well see this feature relaunched as ‘Dark Mode’.",110,1074,2017-07-11,AAPL,0.01686457358300686,0.9066012501716614,0.07653418928384781
+apple,"Isn't the ""rumored"" dark mode in iOS 11 supposed to save battery life on OLED display ONLY if the blacks are true blacks #000000? As a UI designer, I never ever use true blacks or true whites for backgrounds as they are extremely harsh on eyes. Then they won't really save battery life?","**EDIT:** I am editing this post text as I am unable to edit the actual title. **I was wrong in my original conception that only true blacks save battery on OLED.**
+
+**About the power consumption debate**
+
+I had the misconception that OLED displays save power only when the pixel is pure black. I assumed it to be binary - ""either pixel is emitting light or it isn't"". This falacy also seems to supported by online sources which aren't too reliable as pointed out in the comments. Not everything on the internet is true.
+
+After reading the discussion here and inputs from more reliable sources, it appears I was wrong.
+
+I am going to paste a few extracts from the discussion in the comments:
+
+Quoting /u/ikjadoon
+
+From anandtech:
+http://www.anandtech.com/show/9394/analysing-amoled-power-efficiency
+
+And this chart:
+http://images.anandtech.com/doci/9394/luminance-curve_575px.png
+
+High brightness is where black vs white matters on AMOLED. If you go from white to dark gray, you save 780mW. If you go white to black, you save 880mW.
+You can get 89% of the power savings with just dark gray.
+
+Quoting /u/Xanthyria
+But one thing to remember, pure whites in OLED actually have higher power usage than LCDs. A bright video or bright screen will cost more on OLED. A dark video or dark mode will cost less. At some point, I'm guessing it'll just balance itself out for the most part.
+
+**About whether pure white text on pure black background is harsh on eyes**
+
+NOTE that we are talking about ""PURE"" whites and blacks. Not grays or dark grays.
+
+Pure White text on Pure black background is actually harsh on eyes for many people: ""People with astigmatism (approximately 50% of the population) find it harder to read white text on black than black text on white. Part of this has to do with light levels: with a bright display (white background) the iris closes a bit more, decreasing the effect of the ""deformed"" lens; with a dark display (black background) the iris opens to receive more light and the deformation of the lens creates a much fuzzier focus at the eye.
+Jason Harrison – Post Doctoral Fellow, Imager Lab Manager – Sensory Perception and Interaction Research Group, University of British Columbia""
+
+**Design reasons for not using pure black and pure whites**
+
+It has to do with many reasons caused due to the contrast difference between the background color and the content color. Note that these are also affected by factors such as room ambient lighting, screen brightness etc.
+
+1. Black overpowers everything. Usually the focus of an app is the content. However if you make the entire background pure black, the focus is sort of lost.
+2. If you use true #FFFFFF on true #000000, it's more straining your eyes.
+3. Too much black can be overwhelming and evoke feelings of emptiness, gloom and sadness.
+
+""However, most studies have shown that dark characters on a light background are superior to light characters on a dark background (when the refresh rate is fairly high). For example, Bauer and Cavonius (1980) found that participants were 26% more accurate in reading text when they read it with dark characters on a light background.""
+
+These are worth reading:
+https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes
+https://ianstormtaylor.com/design-tip-never-use-black/
+https://uxplanet.org/design-principle-black-and-white-c8b4a43e65fe
+
+You can mitigate the straining effects of white (#FFF) on black (#000) by simply lessening the contrast like using a light gray (#EEE, #DDD, #CCC) on a dark background (#111, #222). This still gives considerable battery gains.
+
+All this aside, I can actually give you stats from my own app. I had a workout app which was using pure black and white text which had less user retention than after I changed it to a light gray on dark background. My users had also complained that the initial theme was too ""gloomy &amp; depressing"".
+
+**Thank you all for the discussion.** There's a few comments asking to delete this post. My post was supposed to be a question. Even though it might have been based on a misconception (many others believe it too in the comments), it was still a question. So I won't delete the post as the discussion here is valuable.",210,499,2017-07-11,AAPL,0.036587104201316833,0.9326913952827454,0.030721481889486313
+apple,"Siri is most used smart assistant by 2x in US, study confirms what Apple said during keynote.",,255,436,2017-07-11,AAPL,0.013469930738210678,0.8966612815856934,0.08986878395080566
+apple,Apple might allow you to livestream your screen in iOS 11,,40,277,2017-07-11,AAPL,0.015256179496645927,0.9273881316184998,0.05735566467046738
+apple,"The Defiant Ones on HBO starts with the story of Apple buying Beats, and how Dre’s friend almost blew it. Told by Jimmy Iovine, Snoop, and others.",I watched like five minutes and was hooked in.,25,197,2017-07-11,AAPL,0.05152162164449692,0.9019821286201477,0.04649623855948448
+AppleWatch,Apple Offering Free Repairs of First-Generation Apple Watches With Detached Back Covers,,57,185,2017-07-11,AAPL,0.024128086864948273,0.9099653363227844,0.06590660661458969
+apple,"As a web developer, Safari performance on iOS 11 is phenomenal","""This webpage encountered an error and had to be reloaded"". 
+
+Ever seen that before? It's my nightmare. 
+
+I'm designing a media-heavy site with lots of integrated videos and images. Currently, iOS 10.3 Safari gets overwhelmed easily and crashes when displaying lots of video content. I know most of my users will be on iPhones and it has been a struggle trying to optimize my content to target iOS 10.
+
+When I installed the iOS 11 public beta and loaded my site..... my jaw dropped.
+
+So smooth. Scrolling is 10x smoother, and no crashes. It handles Javascript animations much more smoothly, even on the iPhone 5s. 
+
+I can't wait for iOS 11 to hit the public!",68,181,2017-07-11,AAPL,0.11953877657651901,0.8443374037742615,0.03612383082509041
+apple,Alleged iPhone 8 back panel leaks,,163,177,2017-07-11,AAPL,0.24192750453948975,0.7284472584724426,0.02962520904839039
+apple,iOS 11 Beta: 3D Touch Multitasking works when VoiceOver activated,"Source:
+
+https://www.youtube.com/watch?v=9qrYvKd__28",30,161,2017-07-11,AAPL,0.020360400900244713,0.9353310465812683,0.04430853947997093
+apple,"Apple adds PayPal as payment option for the App Store, iTunes Store and Apple Music",,312,2780,2017-07-12,AAPL,0.020314175635576248,0.9340555667877197,0.045630306005477905
+apple,Funny Steve Jobs story from Scott Forstall,"Steve and I would go to the cafeteria at Apple all the time, and he would insist on paying. I was like, Steve you’re paying me enough that I can afford the $8 lunch, but he’d always want to pay, if he got his food before me he’d wait at the line for me to get up there and Steve would pay with his Apple badge like all the other employees.
+
+You'd come up there and you’d badge, and lunch would be directly withdrawn from your paycheck. I was like, ‘Steve, I feel like an ass when you’re sitting up there waiting for me and I can’t get any long-cooking food.’
+
+Steve just said ‘No, no, no, this is great. I only get paid $1 per year. I don’t know who’s paying every time I badge!’ He was a multi-billionaire... scamming his own company over pizzas and salads.",256,1800,2017-07-12,AAPL,0.05074772983789444,0.918371856212616,0.030880441889166832
+iphone,"Luke, I am your Pizza.",,48,761,2017-07-12,AAPL,0.047123704105615616,0.868527352809906,0.08434893190860748
+apple,"Woohoo, Back to School sale has finally begun! (free Beats)",,328,471,2017-07-12,AAPL,0.0330868735909462,0.7770735025405884,0.18983963131904602
+iphone,iOS 11 Public Beta 2 is out!!,,125,467,2017-07-12,AAPL,0.02774222008883953,0.9360038638114929,0.0362539067864418
+apple,Today the Mac mini is 1000 days old,,150,346,2017-07-12,AAPL,0.0289996936917305,0.9280497431755066,0.04295056685805321
+apple,Apple Releases Second iOS 11 Public Beta to Beta Testing Group,,188,328,2017-07-12,AAPL,0.020820816978812218,0.9416625499725342,0.037516601383686066
+apple,I really wish Apple made in-ear air pods.,"Similar to their in ear buds, a hybrid between AirPods and in-ear would be amazing. The current AirPods do not fit my ears at all, even when sitting down. I would buy it instantly. The fact the current doesn't fit is the only reason why I won't buy it. 
+
+
+Apple pls",116,326,2017-07-12,AAPL,0.014514456503093243,0.8804844617843628,0.10500111430883408
+apple,"Why can't I treat a GIF on my iPhone, wherever it appears, like a regular picture? Move it around, store it in my photos, post it to Twitter, email it to people, etc.",,63,198,2017-07-12,AAPL,0.04389752075076103,0.9326555132865906,0.023446939885616302
+iphone,Crazy Golf in ARKit,,14,193,2017-07-12,AAPL,0.04173560440540314,0.9073464274406433,0.05091794580221176
+iphone,Would you like to have RGB LED notifications in your iPhone?,,217,1240,2017-07-13,AAPL,0.018539275974035263,0.9115132093429565,0.06994746625423431
+apple,'Baby Driver' cut in real time with Avid on Apple's 15-inch MacBook Pro,,85,1107,2017-07-13,AAPL,0.034251824021339417,0.9212268590927124,0.044521331787109375
+apple,"Apple Park drone footage may be ending, with security forces seeking to cease flights",,306,862,2017-07-13,AAPL,0.790107250213623,0.16968311369419098,0.04020966216921806
+apple,"1Password: ""you need not worry about 1Password 7 for Mac, either, as it will continue to support standalone vaults just like version 6 does today""",,290,317,2017-07-13,AAPL,0.02265290357172489,0.9265741109848022,0.05077298730611801
+AppleWatch,The Family,,40,250,2017-07-13,AAPL,0.05073349550366402,0.858322024345398,0.09094444662332535
+apple,The circle of life: iPhone killers come and go,,150,200,2017-07-13,AAPL,0.05340753495693207,0.8980243802070618,0.04856814071536064
+apple,Is Apple experimenting with an extra row of app icons on iPad in iOS 11?,"Occasionally on the latest public beta, I get [this bug](http://i.imgur.com/8yhGoW7.jpg) which moves my app icons closer together to allow for another row, but when I try to populate it they all slide back down again. I personally would love to be able to have an extra row of apps per home screen, especially on a 12.9” iPad!
+
+EDIT: Since people were asking, [here’s a link to my wallpaper](http://i.imgur.com/O1yUwXb.jpg)",47,194,2017-07-13,AAPL,0.016369380056858063,0.8639650344848633,0.11966553330421448
+apple,PSA: user passwords are useless -- always set a firmware password and activate FileVault on your Mac products,"Long story short. My house was burglarized and part of what was stolen was my MacBook. As I have learned, user passwords are useless. There are countless resources on the topic, but just know that user passwords, no matter the complexity, are easily defeated using recovery mode. That means if someone steals your laptop and you don't have a firmware password or FileVault activated, that your information will be susceptible for identity theft. 
+
+A firmware password is a lot tougher to defeat, and FileVault will ensure that the data saved on your hard drive is encrypted. 
+
+TL;DR always set a firmware password and activate FileVault.",107,184,2017-07-13,AAPL,0.08383090049028397,0.8887364864349365,0.027432536706328392
+ipad,"12 hours on my new iPad Pro 12.9"" with Apple Pencil and Procreate. Absolutely loving these artist tools!",,23,182,2017-07-13,AAPL,0.012362498790025711,0.8197033405303955,0.1679341346025467
+apple,Don't throw anything at me... but Beats Solo3 are actually pretty decent headphones,"Ordering a new MacBook, I had my reservations about Beats because of the old Studios that I have. But to be honest, the W1 chip works beautifully, battery life (so far) seems to be awesome, and the sound quality, albeit it's quite bassy, seems pretty decent. I definitely can't use these in the studio. But for on-the-go, especially listening to EDM, I think I'll really enjoy using these.
+
+EDIT: I'm not considering the price, which may be a big factor for many people - but they were included with the MacBook :)
+
+EDIT 2: FORGOT TO MENTION! Siri works. No idea where the mic is, and I haven't tried calling yet, but Siri works pretty well.",181,177,2017-07-13,AAPL,0.018750112503767014,0.886349618434906,0.0949002057313919
+apple,Macintosh - Lego Edition,,50,1725,2017-07-14,AAPL,0.024239692836999893,0.9301351308822632,0.04562511295080185
+iphone,That's a Welcomed Glitch (iOS 11 B3),,80,1662,2017-07-14,AAPL,0.031228799372911453,0.9174661636352539,0.05130503699183464
+apple,Rare photo of Steve Jobs wearing Beats headphones from The Defiant Ones on HBO,"http://imgur.com/a/4tiLy
+
+According to the documentary, one of Jimmy Iovine's strategies for selling Beats headphones would be to have every person he knew try them on. While someone had them on, he would snap a photo.",160,997,2017-07-14,AAPL,0.06335179507732391,0.9107576608657837,0.025890538468956947
+iphone,"Damn, Apple got me","I've recently bought an iPhone 7 plus because I never tried iOS nor Apple product and I wanted to upgrade from my lagging phone. I'm a long-time Android user (Pixel, before that I was using severals Samsung phone and even before I was with Blackberry!)
+
+Anyway, got this iPhone 7 a few days ago and I'm starting to understand why people tends to choose Apple as ecosystem. It's godamn effective, everything is there, snap and fast. I already subbed to iCloud and Apple Music (I couldn't stand this fucking Google Play Music) and I have everything I need
+
+I never really considered it but I'm also starting to think about switching my PC for an iMac. 
+
+Apple got a new customer, good job for making my life easier would pay even moar",281,456,2017-07-14,AAPL,0.026940790936350822,0.88652104139328,0.0865381509065628
+apple,Why do we still have to manually reset cellular data stats?,"Android has had this for several years now.  What good is cellular data stats if you need to remember to manually reset it monthly when your plan resets?  Apple, please allow us to set the day when our plan resets so we can reliably look at what we've used each month!",93,396,2017-07-14,AAPL,0.02079031802713871,0.9118907451629639,0.06731896847486496
+apple,iOS 11 Will Expand Your iPhone's NFC Capabilities Beyond Apple Pay in Several Ways,,145,360,2017-07-14,AAPL,0.009105753153562546,0.18267673254013062,0.808217465877533
+apple,Want to support a smaller app? Review it every time it updates.,"As a developer for a smaller app, one of the most frustrating aspects of the App Store process is the reviews. The App Store, by default, shows you the ratings and reviews for the most recent version of a given app. Yes, you can click ""all versions"" to see older reviews, but most people don't. 
+
+For apps with millions of users, this is no problem - they get plenty of reviews for each version. But for a smaller app? The App Store doesn't even show a star rating for apps that have fewer than five reviews on the most recent version. This means that if I have 5+ good reviews, I am demotivated from updating my app (fixing bugs, adding cool features) because it will ""wipe"" my good rating until people rate the newest version. 
+
+Apple is aware of this problem, and [will be fixing it around September](https://techcrunch.com/2017/06/07/ios-app-developers-will-be-able-to-keep-app-store-ratings-when-releasing-an-update/). Until then, support your favorite indie developer by writing a new review when their app updates! :)",17,307,2017-07-14,AAPL,0.02726968191564083,0.8968501687049866,0.07588014751672745
+AppleWatch,"I try to have a watch face for everything. From left to right: Work, Gym, Driving, Bedtime",,53,276,2017-07-14,AAPL,0.05042697861790657,0.9109558463096619,0.03861722722649574
+AppleWatch,The Best Third Party Apple Watch Bands,,21,192,2017-07-14,AAPL,0.012332079000771046,0.8385834097862244,0.14908450841903687
+apple,"The iPhone Spotify app now has full screen album art on the ""now playing"" screen. Also, a short demo of scrubbing from the lock screen.","This looks pretty nice, IMO.
+
+Here is a video:
+
+https://drive.google.com/file/d/0BybPCwehMAUBTVR6SkdtLTk4TGM/view?usp=sharing
+
+EDIT-
+
+IMPORTANT NOTE: This is only happening on my ""Release Radar"" playlist.",81,184,2017-07-14,AAPL,0.024608230218291283,0.9326140880584717,0.04277770221233368
+apple,Favorite unexpected iOS 11 feature thus far...password auto-fill for apps,"http://imgur.com/3ATNkeb
+
+In the back of my mind, I knew about this feature. However, I thought I'd have to wait until apps rolled out support for it. Today, I opened the Amazon app, only to discover that I'd been logged out again for no reason. I was about to launch 1Password when I saw the password icon in the keyboard. Within seconds, I was logged in. Also tried it in a few other apps. Works great!",132,1200,2017-07-15,AAPL,0.019439619034528732,0.8908736705780029,0.08968675136566162
+apple,Apple Cracking Down on VPN-Based Ad Blockers That Work in Third-Party Apps,,204,842,2017-07-15,AAPL,0.0451449379324913,0.9178948402404785,0.03696024417877197
+iphone,One year old SE 'too old' to add a card to wallet?,,42,482,2017-07-15,AAPL,0.031090613454580307,0.8908092975616455,0.0781000629067421
+apple,PSA: students who bought new devices within the last 30 days might still be eligible free Beats,"The official policy is that if you bought a device within 14 days of the back-to-school sale, you are eligible for free Beats. That's the line I was told by Apple's phone and online support.
+
+BUT if you go back to the Apple Store (assuming you bought it there), managers are able to authorize an ""open box return"" within 30 days of purchase. They then effectively sell your own device back to you, making you eligible for the deal. YMMV but I got my pair 29 days after purchase and they didn't even raise an eyebrow.",133,432,2017-07-15,AAPL,0.020596791058778763,0.9145548343658447,0.0648484155535698
+AppleWatch,Ever wondered how the plug-in to charge face looks like?,,39,244,2017-07-15,AAPL,0.08704403042793274,0.8687229156494141,0.044233113527297974
+iphone,How could my 2 year old iPhone 6 battery have got this hole in it? Apple say it will cost more to repair than to buy a new phone.,,50,240,2017-07-15,AAPL,0.13348940014839172,0.6236200928688049,0.24289049208164215
+apple,[POLL] Do you guy like the new iOS 10-11 UI design?,"Personally I loved the iOS 7-9 era because of its elegant, minimal, and glass-like interface. Now iOS is more of a IN YOUR FACE, bubbly, cartoonish UI that really is not my taste. What do you guys think? Comment why if you can.
+
+http://www.strawpoll.me/13441748",170,190,2017-07-15,AAPL,0.014729906804859638,0.9003641605377197,0.0849059671163559
+AppleWatch,"It started raining near the end, but my dad and I completed the challenge ^.^",,48,164,2017-07-15,AAPL,0.18781445920467377,0.6584146022796631,0.15377096831798553
+apple,"What is the ""delete Windows32"" of MacOS?",New to MacOS and wondering if there is a comparable meme or anything to make sure I absolutely do not delete.,110,149,2017-07-15,AAPL,0.016653994098305702,0.9316065907478333,0.05173936113715172
+apple,When do you think we will see a new appletv?,"It's been what. A year and a half since the 4th gen came out? I know there's not really a product release cycle timeline for Apple TV, but are there any rumors or guesses when a new one might come out? Preferably with apple jumping on the 4K gravy train?",138,148,2017-07-15,AAPL,0.01647527702152729,0.883343517780304,0.10018123686313629
+iphone,Measuring the area of a room using Apple's ARKit,,114,1425,2017-07-16,AAPL,0.01355813443660736,0.9164650440216064,0.06997682899236679
+apple,Apple aims to get an iPad in the hands of every hospital patient,,261,1378,2017-07-16,AAPL,0.009736104868352413,0.8778106570243835,0.11245317757129669
+apple,Apple 1 at Museum of Scotland,,50,979,2017-07-16,AAPL,0.028526490554213524,0.9255161285400391,0.04595739021897316
+ipad,"Photo retouch on iPad Pro (Pixelmator with Apple Pencil, camera: iPhone 7 Plus)",,25,327,2017-07-16,AAPL,0.01826968602836132,0.9131523370742798,0.06857800483703613
+apple,Why did Apple have such a devoted fanbase even when the company was doing poorly in the 90's?,,141,316,2017-07-16,AAPL,0.7335218787193298,0.0910375565290451,0.17544060945510864
+iphone,"Found an iPhone 6s, took it home with intentions on figuring out how to contact the owner...",[deleted],68,228,2017-07-16,AAPL,0.04854947328567505,0.8938801884651184,0.05757028982043266
+mac,MacBook just caught fire,,115,186,2017-07-16,AAPL,0.07526345551013947,0.8309152722358704,0.09382134675979614
+iphone,People ask why I have an iPhone,,46,172,2017-07-16,AAPL,0.0892174020409584,0.8600650429725647,0.05071757733821869
+apple,Dark Mode for /r/Apple?,"Was wondering if there were any plans on making a optional ""dark mode"" theme for /r/Apple? It would be easier on everyone's eyes. Just my 2 cents! 
+
+...or a ""smart invert"" mode lol
+
+Add-on: I know there is RES and triple tap in the app, I was meaning like on the browser for regular people who don't want to install and mess with things. Just a simple toggle in the side-bar that people can click away at.",46,141,2017-07-16,AAPL,0.032780297100543976,0.9328210949897766,0.03439866751432419
+AppleWatch,"Bummer this doesn't count for the National Park stickers, no way I could do 3.5 miles after.",,34,127,2017-07-16,AAPL,0.03394751623272896,0.9116752743721008,0.054377153515815735
+apple,Apple previews new emoji coming later this year,,355,1526,2017-07-17,AAPL,0.01687883771955967,0.9182382822036743,0.06488286703824997
+iphone,These emojis coming to iOS later this year.,,175,1174,2017-07-17,AAPL,0.031233958899974823,0.9302479028701782,0.03851817548274994
+apple,Runescape announces it's coming to iPhone,,124,1057,2017-07-17,AAPL,0.03940564766526222,0.8623164296150208,0.09827791154384613
+apple,A Refreshed iOS Weather App,"***Disclaimer: This post is meant to be an open discussion about Apple’s current Weather app and features we’d all like to see in it, though I’ve provided and detailed my own personal ideas mainly to kick-off the discussion. This was not meant to be a self-promotion nor was it intended to be made into a third-party application (although it may happen). Thanks for all the kind words on my personal ideas and thanks for the discussion!***
+
+Hello r/apple,
+I’m the one who made a concept a while back for a refreshed Weather App. The concept wasn’t well-thought, so I took another shot at it.
+
+In this second draft, it focuses on customization and follows the iOS 10/11 design language. Bold headers—I know—but it’s better than fragmented design. It also uses tabs which hasn’t been used in the Weather app before and can be potentially useful.
+
+*The link shows two variations of the concept side-by-side, as well as two full-sized images (fit for iPhone 7 screen) so you can download and view them full-screen.*
+
+https://imgur.com/a/qdkbq
+
+**Glance**
+
+First of all, you can customize your layout depending on how you use the app. A lot of users said they didn’t like what Apple offered at a single glance, so I’ve made a tab called “Glance” that allows you to rearrange the order in which your Weather information is displayed. Each section of information is split up and the indicator for the different sections is the bold headers and “≡” icon. If you tap and hold the “≡” icon, you can drag the entire section around and place it in between other sections as you wish.
+This not only allows more customization, but it targets and almost solves the issue of users not being able to see the information relevant to them. This is the “Glance” tab’s biggest feature.
+
+Here’s a couple images to show how the rearranging would work.
+
+https://imgur.com/a/CCc0T
+
+Another handy feature is the 3D Touch integration. 3D Touch will allow you to see *much* more information. 3D Touch on the “Today” widget to see all of the possible Weather information for today. 3D Touch on a day in “10 Day Forecast” get derailed information on that day’s Weather.
+
+A smaller but nice feature is that if there’s images of your location provided for certain types of weather, the background will be your city or location matching your current weather conditions. As you can see, rainy New York weather shows a rainy New York in the background. If there is no images of your city *yet*, you will get the regular stock Weather app’s backgrounds.
+(Aside if that, a smaller feature that is already in the Weather app but may be hard to notice is the option to add multiple locations and swipe between them. If you look at the top left corner, the dots are relocated up there to better fit with iOS 10/11 and due to there being a new tabs bar at the bottom.)
+
+Here is an updated design of the Glance tab
+https://i.imgur.com/FeDGFbG.png
+
+**Radar**
+
+Many users have complained that Apple doesn’t offer a radar for their native Weather app, and this concept also targets that. Along with the new tabs bar along the bottom, you get a tab called “Radar”.
+Radar is exactly what it sounds like, a weather radar built right into the native app.
+Now why does it have its own tab you ask? Because with its own tab, this allows for it to be very interactive. Pinch-to-zoom to see more or less area on the radar’s map, and tons of useful features alike.
+Additionally, you can add a “widget” radar to your “Glance” tab. You can also drag that radar widget wherever you please.
+
+Here is the updated design of the Radar tab
+https://i.imgur.com/nqcRgQI.png
+
+**News**
+
+The News tab is also self-explanatory, it’s weather-based news. It pulls information from news sources pertaining to relevant Weather information such as climate change, extreme weather across the globe, etcetera.
+This is not a necessity but it is definitely convenient and allows for world-wide weather exploration and keeps you up-to-date on all weather-related happenings.
+
+Here is the updated design for the News tab
+https://i.imgur.com/C2OJ78Z.png
+
+**Alerts**
+
+The Alerts tab is a very basic tab that stores all local weather-related alerts and also has a predictive feature that warns you of possible weather hazards based on the current weather information (e.g. 100% precipitation for the whole day = “Possible flood warning later today”; This helps to prepare you in advance rather wait until a flood is starting to issue a warning).
+
+Here is the updated concept for the Alerts tab
+https://i.imgur.com/fIpVA0m.png
+
+I wrote this very quickly, so I may have poorly worded some segments.
+Remember this is just a concept and can evolve for the better if enough discussion is made.
+As always, ask questions, give criticism, and discuss! :)
+
+Thank you.
+
+*Edits for formatting and other various corrections/additions.*",175,1044,2017-07-17,AAPL,0.055551936849951744,0.9184114038944244,0.026036612689495087
+iphone,the crack on my iphone case is pretty cool.,,54,990,2017-07-17,AAPL,0.01849324069917202,0.7462822198867798,0.23522451519966125
+apple,Subway Refreshing Store Designs With Self-Order Kiosks That Support Apple Pay,,133,366,2017-07-17,AAPL,0.015110120177268982,0.8903700709342957,0.09451986104249954
+apple,What's your unpopular Apple opinion?,I think the Magic Mouse is the best mouse on the market. It's by far the best looking and most functional,1066,271,2017-07-17,AAPL,0.026117924600839615,0.9003837704658508,0.07349837571382523
+apple,iOS 11 supports .MKV files system wide.,[deleted],123,250,2017-07-17,AAPL,0.012873202562332153,0.8994266390800476,0.08770010620355606
+apple,"Apple, you're so generous.. free Siri storage on iCloud",[removed],117,229,2017-07-17,AAPL,0.03233572095632553,0.9259932637214661,0.04167099669575691
+iphone,"If you press the power button 6 times in ios 11, you will get a emergency sos slide",,36,214,2017-07-17,AAPL,0.21670643985271454,0.7571205496788025,0.026172973215579987
+apple,"Can we all give Apple some praise for not adding ""stories"" to iMessage?!",[removed],310,2404,2017-07-18,AAPL,0.020758919417858124,0.9014921188354492,0.07774894684553146
+apple,Apple has no plans to refresh the iPhone SE,,436,1308,2017-07-18,AAPL,0.020469998940825462,0.9152511358261108,0.06427883356809616
+apple,"According to Connected (podcast), when Apple Geniuses just replace your product when it breaks with the newest model for free (many of those stories exist on this sub), it's so they can send it back to HQ to be reverse engineered so the problem won't exist in future products.",,78,628,2017-07-18,AAPL,0.060803335160017014,0.8974049091339111,0.04179178923368454
+iphone,Asked Siri about Galaxy phones,,62,414,2017-07-18,AAPL,0.09368491917848587,0.7551026344299316,0.1512124240398407
+apple,Daring Fireball: Apple's Risky Balancing Act with the Next iPhone,,160,336,2017-07-18,AAPL,0.025234846398234367,0.9227803945541382,0.051984719932079315
+apple,Apple gave me a brand new 2017 MacBook Pro,"I had a 2012 rMBP 15"" with the warning message ""Service Battery"". This was bothering me a lot because the battery was draining very fast. Sometimes my Mac was shutting down at 30% of battery. On June 15 I went to the Apple Store here in Brazil to replace my battery. I knew I would spend a lot of money. Turns out due to battery top case supply shortages, they offered me a brand new MacBook Pro for FREE.
+
+After some emails and calls, on July 14 (yeah 1 month wait), 1 day before my birthday, I received what you can see here: https://imgur.com/a/6VL7g
+
+I know this is old news at this point, but I still can't believe I'm the owner of this powerful and beautiful Mac. Best birthday present ever. 😱😱😱",246,265,2017-07-18,AAPL,0.03191486373543739,0.8449072241783142,0.1231779232621193
+apple,Why is macOS Messages behind iOS,"How is Apple okay with screen effects like fireworks and lasers not showing on macOS messages? Instead the recipient sees (Sent with Fireworks) Like how is that acceptable for over a year? And how is stickers not on High Sierra either?
+
+I would understand that maybe they ran out of time before last years wwdc and pushed the macOS message effects to high sierra but it's still not there. You would think it would be in this year's operating system since there are basically no new front facing new features in high sierra and they could be all like hey look what's coming to high sierra, but nope. 
+
+It's so lame.",125,261,2017-07-18,AAPL,0.02083825133740902,0.8802980184555054,0.09886376559734344
+apple,Spotify prompted me to rate the app. I obliged and it became a Spotify versus Apple Music comparison. I hope it's helpful for those trying to choose.,"Below is a copy-and-paste of my App Store review. For background, I have bounced back and forth between Spotify Premium and Apple Music since AM's inception. I currently have both with a student discount. I have an 8k track iTunes library carefully groomed and maintained over the past ten years. Anyway, here we go:
+
+
+
+I will briefly compare Spotify and Apple Music, more as holistic services than just applications. 
+
+Spotify is still the best at curation. It possesses some great features that Apple Music doesn't, such as the ability to make a radio station from a whole album or playlist, allowing for a more specific and accurate radio station. The 6 daily mixes are excellent, striking a pleasing balance between the familiar and exploration. Discover weekly is nuanced and intimate and I almost always love it. Spotify has a web player where Apple Music forces desktop users to use iTunes. Sorry Linux users. Spotify offers an additional notch for audio quality (and therefore more granular management of data and storage use) which allows the user to find a happy medium in data and quality, which is preferable to Apple's binary ""low"" and ""high"" quality settings (96 and 256 Kbps respectively). 
+
+However, a few things still lack: One cannot sort an artist's albums chronologically. One cannot view an artist's albums from within the artist view. The inability to add more than 10,000 tracks to one's library is a bummer and an even greater offense is the inability to exceed 3,333 tracks stored locally across all devices. Apple Music features scan-and-match/upload so the user can bring his entire library with him in one app. 
+
+So which is for you?
+
+If you are interested in insightful, curated playlists and you listen to music in singles and radio stations, Spotify is for you. 
+
+If you are a collector, if you wish to store a lot of music offline or you just have a lot of music in general, if you have a preexisting library on your computer you wish to seamlessly match/upload, if you listen more to albums than playlists or radio (AM has radio but it's not quite as nuanced), then you want Apple Music. 
+
+As for me, my heart is torn. There are exclusive features of both that I value equally. I think that I will pay for Apple Music and use Spotify's free tier for daily mixes. But ask me in a week and I'm sure I'll have changed my mind.
+
+Hope to have helped.",172,251,2017-07-18,AAPL,0.031857118010520935,0.927810549736023,0.04033233970403671
+apple,Transmit 5 for macOS. Now available,,85,215,2017-07-18,AAPL,0.022726768627762794,0.9286725521087646,0.04860071837902069
+apple,JigSpace With ARKit Gives You AR Manuals For Just About Anything,,20,202,2017-07-18,AAPL,0.027774544432759285,0.9018315672874451,0.07039393484592438
+apple,LPT: Update your Mac with the softwareupdate command line tool for a much faster experience,"Updating macOS through the App Store can take a very long time — for me it's typically around 30 mins of rebooting and waiting.
+
+macOS has a built in `softwareupdate` utility, which is much faster. It also allows you to use your Mac while it updates (the updates seem to be applied while it's powered on, and the reboot takes much less time than if it's triggered by an App Store update).
+
+To use it, open Terminal and run one of the following commands:
+
+`softwareupdate -l` to list available updates
+
+`sudo softwareupdate -i &lt;name of update from the above command&gt;` to install one specific update
+
+`sudo softwareupdate -i -a` to install all available updates
+
+I usually do `softwareupdate -l` to check for updates and `softwareupdate -i -a` to install them.
+
+To give a rough time estimate, it took around 10 mins to install the latest version of macOS 12.6 just now, and my MacBook Pro was only unusable for about 2 mins while it rebooted.",169,2022,2017-07-19,AAPL,0.042532142251729965,0.9275623559951782,0.029905490577220917
+apple,"J.P. Morgan: OLED iPhone 8 will arrive on time in Sept. in small quantity, ASP of $1100",,736,1058,2017-07-19,AAPL,0.037391677498817444,0.9070685505867004,0.055539779365062714
+apple,Public Service Announcement: You Should Not Force Quit Apps on iOS,,462,856,2017-07-19,AAPL,0.5582651495933533,0.41630810499191284,0.0254267156124115
+apple,Mildly interesting: when you send an email on an iPhone while wearing headphones the swoosh sent message tone a fades from left to right.,,62,579,2017-07-19,AAPL,0.09160920977592468,0.8792035579681396,0.029187209904193878
+apple,iPhone smuggler caught with 102 phones strapped to her body,,100,531,2017-07-19,AAPL,0.0676146075129509,0.8650803565979004,0.0673050582408905
+iphone,"Today I learned you can say, ""Hey Siri, Shazam this"" without having the Shazam app installed.","Edit: I should have been more specific. I do not have Apple Music or iTunes installed on my phone. Whenever I used to ask Siri what song was playing she would always say something like, ""I'm sorry I can't do that because I can't find the 'Music' app"". Now I can use the command above and she does what I ask. All without Apple Music, iTunes, or Shazam apps installed.",63,508,2017-07-19,AAPL,0.03345151245594025,0.9377195835113525,0.028828920796513557
+iphone,Apple Releases iOS 10.3.3 With Bug Fixes and Security Improvements,,85,458,2017-07-19,AAPL,0.03879289701581001,0.9277341961860657,0.03347283601760864
+apple,Apple Releases iOS 10.3.3 With Bug Fixes and Security Improvements,,135,395,2017-07-19,AAPL,0.03879289701581001,0.9277341961860657,0.03347283601760864
+iphone,"I wish Apple updated more of their apps regularly through the App Store like the way pages, keynote and numbers get updates there. Surely apps like Apple Music and podcasts don't have to wait for updates annually with a new iOS release","Or maps, notes, reminders",77,310,2017-07-19,AAPL,0.03331062197685242,0.9291771054267883,0.03751223906874657
+apple,Apple launches Machine Learning Journal,,25,195,2017-07-19,AAPL,0.032276701182127,0.9103582501411438,0.0573650561273098
+apple,AAPL again declared the most profitable company in the world,,314,1485,2017-07-20,AAPL,0.0704161524772644,0.7957902550697327,0.13379356265068054
+apple,Apple sends top privacy executives to Australia to lobby the government over its proposed anti-encryption law that will make phones and secure messaging apps available for inspection by police and spy agencies.,,157,733,2017-07-20,AAPL,0.02774820104241371,0.8961266279220581,0.07612515240907669
+apple,Changes to iCloud Put Apple on Collision Course With Governments Seeking Access to Encrypted Messages,,126,628,2017-07-20,AAPL,0.03325466066598892,0.9117714166641235,0.05497392639517784
+iphone,"Public Service Announcement: In Real Life, Closing Apps Does Save iPhone Battery Life. I proved it with actual tests using Xcode.",,180,522,2017-07-20,AAPL,0.019462406635284424,0.94295734167099,0.03758028894662857
+iphone,Public Service Announcement: You Should Not Force Quit Apps on iOS [Daring Fireball],,177,464,2017-07-20,AAPL,0.18888774514198303,0.7874715924263,0.023640666157007217
+AppleWatch,Beautiful❤️,,11,300,2017-07-20,AAPL,0.040420424193143845,0.8696960210800171,0.08988351374864578
+apple,TIL Apple links Flight information in iMessage,"If you send or get sent a flight number iMessage gives you a ""Flight Preview"" 
+That's so cool
+http://i.imgur.com/ya0A5Iu.jpg 
+
+And the Flight Preview 
+
+http://i.imgur.com/9IF9Cpq.png",29,267,2017-07-20,AAPL,0.017105672508478165,0.9234240055084229,0.05947033315896988
+iphone,Why can't I download anything over 100mb when I have unlimited data ?,,87,255,2017-07-20,AAPL,0.05596161261200905,0.9243261218070984,0.019712261855602264
+apple,Why does everyone have a 2012 MacBook?,"On this subreddit, it seems like basically everyone and their grandma has a 2012 MacBook. Was it a really next generation device at the time? Did Apple give them out for free? Was there a secret reservoir of them discovered underground in the Sierras?",157,230,2017-07-20,AAPL,0.02055608108639717,0.9116553664207458,0.06778847426176071
+apple,PSA: Google Play Music now works in Carplay as of today,"Now, just give us Google Maps!",76,187,2017-07-20,AAPL,0.02071462757885456,0.926331102848053,0.05295424163341522
+iphone,Apple should change the button “Buy” to something like “Get” or “Download” when downloading free apps to prevent confusion.,,94,3338,2017-07-21,AAPL,0.03770476579666138,0.9241819381713867,0.03811332955956459
+apple,"My daughter just finished Apple Camp, and I thought you guys might like to see the cool logo on her shirt!",http://i.imgur.com/0hdcs9Q.jpg,206,1511,2017-07-21,AAPL,0.01398416142910719,0.8399620056152344,0.14605386555194855
+apple,iTunes now scales correctly on high DPI displays on Windows 10!,"As of iTunes 12.6.2, iTunes is now DPI-aware on Windows 10 (I have not checked on previous versions of Windows) and looks crystal clear instead of blurry like non-optimized apps. Kudos to Apple for thinking of us Windows users. iTunes now looks fantastic on my Dell XPS 15's 4K display!
+
+[Screenshot.](http://i.imgur.com/MovPo8h.png)",174,967,2017-07-21,AAPL,0.015011820010840893,0.8669618964195251,0.1180262416601181
+apple,"Apple Maps + ARKit...This is the future, right?","Andrew Hart (iOS dev) just posted these demos [(1)](https://twitter.com/AndrewProjDent/status/886916872683343872) [(2)](https://twitter.com/AndrewProjDent/status/888380207962443777) to Twitter. 
+
+Of all the ARKit demos I've seen, this has got to be the most tangibly useful. It isn't a game or a gimmick—it's a real problem that only good AR can fully solve.
+
+I honestly can't wait to see what devs do with this in the coming months.",127,612,2017-07-21,AAPL,0.02617313712835312,0.8959556818008423,0.07787115126848221
+AppleWatch,Won an Apple Watch at my work raffle!,,18,543,2017-07-21,AAPL,0.045377328991889954,0.901066243648529,0.05355639383196831
+apple,The 'iPhone 8' is a true mystery-- that's pretty cool.,"Think about it...
+
+We don't know what it will be called, the price, the release status, what face-scanning will actually do, what the supposed AR features will be, how the interface will work on unusual display shape, how the home button will work, how it will handle wireless charging, or whether Touch-ID will be display-embedded or included at all.
+
+For a non-first gen product, less than two months out, Apple has done an unusually great job keeping the details of this product under wraps.",207,505,2017-07-21,AAPL,0.013143731281161308,0.7998982071876526,0.1869579702615738
+apple,"The 3D Touch cursor movement feature on the iPhone is so good, I don’t think I could use a phone without it now. Are there any other small 3D Touch features that I’m missing out on?","I was using it today, moving the cursor and easily selecting/copying pieces of text and it hit me how much easier this was compared to what I previously had to do on older iPhones/Android phones.
+
+I take it for granted now but if I used a phone without this feature for long it would suck lol.
+
+So are there any other amazing 3D Touch features like this that I’m missing out on?",99,452,2017-07-21,AAPL,0.02151002734899521,0.9042827486991882,0.07420720160007477
+apple,"You can use the Touchbar to skip all Youtube ads, apparently",The video scrubber built into the Touchbar allows you to also [scrub through advertisements as well](https://youtu.be/ys0kb_-f11U).,118,303,2017-07-21,AAPL,0.031197957694530487,0.9439899325370789,0.024812104180455208
+AppleWatch,"Today is the day. I finally received my continuous glucose monitor, it's the reason I purchased the AW.",,42,247,2017-07-21,AAPL,0.011743771843612194,0.8747286796569824,0.11352755129337311
+apple,Apple patents discreet 911 calling tech for iPhone,,76,230,2017-07-21,AAPL,0.036282774060964584,0.9239910244941711,0.03972616791725159
+iphone,Tell Siri “I see a little silhouette of a man”,,134,1215,2017-07-22,AAPL,0.058684661984443665,0.904021680355072,0.037293676286935806
+apple,"Foxconn insider team here. We are going to be issuing a massive report on the latest units for iPhone X, Apple Iris and MacBooks. We want your questions!","Items the report will cover:
+
+iPhone X pilot production units
+Apple Iris updated units
+2018 MacBooks with updated dynamic keyboard
+
+Verified by mods.
+
+To the Apple employees messaging me, I know.",864,1156,2017-07-22,AAPL,0.03122899681329727,0.942840039730072,0.025930918753147125
+apple,A little appreciation for Apple's dedication to true colors.,"I just spent the last 30 minutes trying to adjust my LG tv to get it as close to reality as possible (thanks ATP and THX app). Had to turn off a bunch of useless settings and change a bunch of overblown color options. 
+
+I can't say how much I appreciate Apple just going as hard as they can at getting screens to be as true to life as possible.",55,431,2017-07-22,AAPL,0.01884281635284424,0.8896104693412781,0.09154663980007172
+apple,What are amusing examples of features getting huge applause at keynotes that we take for granted today?,"A few that come to mind:
+
+- [PowerBook G4 backlit keyboard](https://youtu.be/5iOWA2wEFPE?t=5459)
+- [Scrolling on the iPhone](https://youtu.be/vN4U5FqrOdQ?t=992)
+- [The save modal on Mac OS 10.0](https://youtu.be/6-fkYFV7rOY?t=301)",193,383,2017-07-22,AAPL,0.018878944218158722,0.9252038598060608,0.05591718479990959
+apple,Iphone falls off plane and keeps on filming: found untouched.,,40,247,2017-07-22,AAPL,0.027782943099737167,0.8614241480827332,0.11079288274049759
+AppleWatch,I might have a problem....🤷‍♀️,,19,179,2017-07-22,AAPL,0.07814499735832214,0.7720849514007568,0.14977002143859863
+apple,Putting the AirPods Battery Level in the TouchBar,,10,115,2017-07-22,AAPL,0.02643325738608837,0.9102309346199036,0.06333579868078232
+apple,Is there a way to disable Google AMP on Safari iOS?,I had hoped that there would be a safari extension but couldn't find anything.,76,109,2017-07-22,AAPL,0.03767814114689827,0.9153161644935608,0.04700566083192825
+apple,"Why doesn't ""request desktop site"" RARELY work?","I know there's a workaround which requires to change the user agent, but shouldn't it work as it's originally intended?
+
+Edit: MY BAD FOR SHIT GRAMMAR ON TITLE :D",56,107,2017-07-22,AAPL,0.17482076585292816,0.8015669584274292,0.023612311109900475
+mac,Putting the AirPods Battery Level in the TouchBar,,20,98,2017-07-22,AAPL,0.02643325738608837,0.9102309346199036,0.06333579868078232
+iphone,Never knew about this one,,58,1017,2017-07-23,AAPL,0.0777590423822403,0.8834816813468933,0.038759298622608185
+apple,/u/Foxconninsider's WWDC report card,"Based on excellent [summary](https://www.reddit.com/r/apple/comments/6f21c7/everything_ufoxconninsider_reported_today/) by /u/Paige4o4
+---
+
+TL;DR -. More evidence needed. 
+
+---
+
+
+##Siri Speaker
+
+- No recent information. Last design seen was similar to trash can Mac Pro, but smaller
+
+ - Correct-ish: The HomePod looks kind of like a Mac Pro, but at the same time, he was by no means unique in saying this. With *actual* leakers saying [similar things](https://www.macobserver.com/news/rumor/apples-siri-speaker-might-look-like-miniature-mac-pro/) before him.
+ 
+- Expected announcement at WWDC, but not shipping until end of 2017 due to delays
+
+ - [December](http://i.imgur.com/Z8z4iuA.png)* and it's correct but again, [Bloomberg reported it](https://www.bloomberg.com/news/articles/2017-05-31/apple-said-to-ready-siri-speaker-in-bid-to-rival-google-amazon) days before /u/Foxconninsider popped up.
+- Will use a modified A9 SoC
+
+ - [A8*
+](http://i.imgur.com/dQw8TPq.png)
+
+---
+
+
+##iMac
+
+- Incremental update in 2017. Full redesign in 2018
+
+ - eh, even by Apple standards and ignoring the iMac Pro, the [latest update](https://9to5mac.com/2017/06/05/imac-update/) is a tad more than just incremental (incremental being a spec bump and nothing else). 
+
+
+SIDENOTE: The person seemed to indicate that the new design was for an updated iMac, not necessarily a Pro model. But even if he is speaking about that, then he's got it wrong; iMac Pro is just regular iMac aluminium with different anodisation for Space Gray. Nothing similar about it compared to Thunderbolt Display. 
+
+---
+
+##MacBook Pro
+
+- Bring back glowing apple logo
+
+       - Nope.
+
+- 32GB ram option for 15"" model. 
+       - Uh, [nope](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch). And also, Intel Kaby Lake chips [do not support LPDDR4](http://www.loopinsight.com/2016/10/31/more-detail-on-the-reason-the-macbook-pro-is-limited-to-16gb/) which is what is needed for 32GB of RAM.
+
+
+- No changes to the current 4X Thunderbolt ports
+ - Accurate
+
+---
+
+##MacBook 12""
+
+- Not much information. Updated SoC for 2017, but no major changes.
+ - Accurate apart from the second generation butterfly switch keyboard (thanks /u/asoksevil)
+
+---
+
+
+Most of the leaks where he was accurate on were either previously reported by another publication and/or predictable such as lack of changes to port configurations. He doesn't present a single original point that was correct apart from things like incremental speeds bumps.",156,530,2017-07-23,AAPL,0.10347004979848862,0.8683949112892151,0.02813499979674816
+apple,ROCKxSiri - A film by Apple featuring The Rock is out tomorrow,"Link: https://twitter.com/TheRock/status/889187172905103360
+
+http://www.youtube.com/Apple
+
+**EDIT: It's a commercial: https://twitter.com/TheRock/status/889237522127003648**",81,436,2017-07-23,AAPL,0.02397666685283184,0.9399067163467407,0.036116670817136765
+apple,Retry passcode in 47 years.,"Hey guys,
+
+I have an iPad I haven't used in about a year, it's just been off the entire time as far as I know. 
+I went to reset it to factory settings and I was printed to try my pass code again in 24,685,390 minutes.
+
+Has anyone seen this or have any idea why?
+Is there a work around?
+
+Picture here. https://imgur.com/gallery/vjfuD
+
+Thanks. 
+
+
+Edit: alright guys. See you in a few decades.",75,427,2017-07-23,AAPL,0.03992995619773865,0.9002532362937927,0.05981682986021042
+apple,What in your opinion is Apple's most overpriced product?,And why?,632,386,2017-07-23,AAPL,0.04259490594267845,0.913109302520752,0.04429582506418228
+apple,TIL you can Peek/3D Touch tabs in iOS Safari,"This may have been obvious to some, but due to the vertical/Rolodex-esque layout of open tabs in Safari, I never really thought about trying it before today. 
+
+It's way more convenient to check a tab's contents using 3D Touch than having to open/reload it. Especially if you're like me and have dozens of forgotten tabs open",39,267,2017-07-23,AAPL,0.019330313429236412,0.9186179637908936,0.06205175817012787
+apple,Apple partners w/ Dwayne ‘The Rock’ Johnson for new movie co-starring Siri,,58,148,2017-07-23,AAPL,0.02783508040010929,0.911166787147522,0.060998063534498215
+apple,Apple’s Privacy Pledge Complicates Its AI Push,,37,120,2017-07-23,AAPL,0.022567179054021835,0.9352402091026306,0.04219263419508934
+AppleWatch,Put up a fence in my backyard today (Don't worry I got my stand goal too) What's your PR's?,,42,114,2017-07-23,AAPL,0.02330273762345314,0.9059625267982483,0.07073475420475006
+apple,Beat X on sale for $99 till midnight,"Typically I never check these emails but I noticed one from best buy that caught my interest. They are having a ""black friday"" sale in July. I found and bought a pair of beat x for $99 + tax. $50 savings is not bad. Thought I would pass it on. It ends midnight 7/22
+
+http://www.bestbuy.com/site/promo/beats-x-071917",64,107,2017-07-23,AAPL,0.06482060998678207,0.8671912550926208,0.06798817962408066
+iphone,Siri engineers are aware of its limitations,,203,4573,2017-07-24,AAPL,0.02117222175002098,0.8205307722091675,0.15829692780971527
+apple,The Rock x Siri Dominate the Day,,250,1339,2017-07-24,AAPL,0.050349682569503784,0.8142209053039551,0.13542938232421875
+apple,I just want to give a shout out to Preview,"Preview perfectly embodies what I love about macOS and hate about Windows: built-in software that works great and doesn't require me to waste time searching for 3rd party solutions on the web.
+
+* Preview can open damn near any file type.
+
+* Preview can combine/edit/draw/rotate PDFs like a champ. Meanwhile I just spent 30 minutes on my Windows 10 machine trying to simply combine two PDFs and re-order the pages (it turns out you can't do this with either the W10 app OR Adobe without paying for adobe premium).
+
+* Preview is highly customizable and lets me put whatever buttons I want at the top, in any order I want.
+
+* Preview lets me open multiple files in the same window.
+
+* Preview lets me easily add my signature to documents.
+
+* Preview does a whole bunch of other great stuff I can't think of right now.
+
+* Three cheers for Preview!",270,1236,2017-07-24,AAPL,0.02100871130824089,0.9261476993560791,0.05284357815980911
+apple,Apple releases iOS 11 beta 4 to developers,,317,976,2017-07-24,AAPL,0.025189904496073723,0.9326809644699097,0.04212917760014534
+apple,Forbes have new leak about iPhone 8 - Screen looks much better!,,479,818,2017-07-24,AAPL,0.008989944122731686,0.21086882054805756,0.780141294002533
+apple,Swipe feature on Notifications in the lock screen is back in iOS11 Beta4. Thank you Apple! 🙏,,102,624,2017-07-24,AAPL,0.018815549090504646,0.9034651517868042,0.07771927118301392
+apple,I still miss the old Mac OS X 'Welcome Videos',"They were pretty amazing. It was absolutely magical opening my first MacBook Pro and watching that video. 
+
+For those who don't know (Leopard/Snow Leopard intro - the one I saw on my first MBP) https://www.youtube.com/watch?v=FPTp-YInbJ0",97,496,2017-07-24,AAPL,0.028462763875722885,0.9311513900756836,0.04038577899336815
+apple,"Apple developing its own OLED technology to reduce dependence on Samsung supply, according to report",,57,375,2017-07-24,AAPL,0.014917165040969849,0.5801373720169067,0.404945433139801
+apple,"JCPenney Now Accepts Apple Pay Nationwide, Integrates With Own Credit Card and Loyalty Program",,25,321,2017-07-24,AAPL,0.014162717387080193,0.9014909863471985,0.08434627205133438
+iphone,"Thanks Siri, that was very... useful.",,12,289,2017-07-24,AAPL,0.019255079329013824,0.7206484079360962,0.26009654998779297
+apple,Adobe Announces Flash Player Distribution and Updates to End,,272,2045,2017-07-25,AAPL,0.03591189533472061,0.9226177930831909,0.041470274329185486
+apple,iOS 11 prevents your iPhone from automatically connecting to patchy Wi-Fi,,91,906,2017-07-25,AAPL,0.2057909369468689,0.7759919762611389,0.01821708306670189
+iphone,"TIL that when you get a notification from YouTube, you can slide down and it will show a short gif of the video. Kinda useless but it's cool finding out new things.",,19,615,2017-07-25,AAPL,0.04011682793498039,0.9217723608016968,0.03811073675751686
+apple,Here are some more ways to bring MagSafe charging back to your USB-C MacBook Pro,,173,570,2017-07-25,AAPL,0.024899128824472427,0.9124402403831482,0.06266061216592789
+iphone,I think Mashable is getting ahead of themselves.,,67,529,2017-07-25,AAPL,0.03135150298476219,0.807883083820343,0.1607653945684433
+apple,Real-world performance of Night Shift in iPhone SE,"Edit: The main data is found here: http://i.imgur.com/oMv56vy.png
+
+I work in an industry that allows me access to special scientific equipment. I often work with light sensitive materials, so I was curious as to how much benefit I would get out of always having my phone in Night Shift mode at work. 
+
+To do this, I measured the true light output of my phone using a spectral radiometer. For these measurements, I used Safari. A page load was stopped so as to give me a pure blank white screen, the phone was place directly face down on the sensor, and the spectrum was captured for the light output of the screen both with and without Night Shift. In full disclosure, I do have a tempered glass screen cover, but it seems unlikely that this would have any major effect on the measurements. 
+
+You can find a plot of the data here: http://i.imgur.com/oMv56vy.png As you can see, the RGB pixels of the phone peak at approximately 450 nm (blue), 540 nm (green), and 605 nm (red). Since Night Shift can't actually change the wavelength of light put out by a pixel, it works by dimming the individual outputs of red, green, and blue. In Night Shift with the warmest setting available, the red pixel output remains unchanged while the green output is reduced by nearly 60% and the blue output is reduced by nearly 90%. Your results will likely vary with phone, screen manufacturer, and Night Shift settings. Either way, I thought this was a fun little experiment to run in a short moment between projects. Let me know what you think.",20,440,2017-07-25,AAPL,0.0878920704126358,0.8545175194740295,0.05759039521217346
+apple,Apple attracting more Android switchers; 4 out of 5 U.S. iPhone sales are iPhone 7/Plus: CIRP,,295,423,2017-07-25,AAPL,0.024810509756207466,0.9002776741981506,0.07491180300712585
+apple,"Stop what you are doing and say to Siri, ""I see a little silhouette of a man.""",,113,400,2017-07-25,AAPL,0.1015877053141594,0.8598503470420837,0.038561973720788956
+apple,Apple Releases Third iOS 11 Public Beta,,120,342,2017-07-25,AAPL,0.01663888432085514,0.9399330019950867,0.04342808201909065
+apple,Trump claims Tim Cook has pledged Apple will build three ‘big’ U.S. manufacturing plants,,49,235,2017-07-25,AAPL,0.013393116183578968,0.5385869741439819,0.44801995158195496
+iphone,Is it too much to ask for for the ability to custom name BT connections?,,163,1907,2017-07-26,AAPL,0.018972527235746384,0.9328017830848694,0.04822571575641632
+apple,Apple and Cochlear team up to roll out the first implant made for the iPhone,,97,1561,2017-07-26,AAPL,0.012679941952228546,0.8953531980514526,0.09196685999631882
+apple,Apple's Tim Cook speaks out against President Trump's ban on transgender soldiers,,18,500,2017-07-26,AAPL,0.1638433337211609,0.7542527914047241,0.08190382272005081
+apple,"Apple’s earbuds were inspired by the dark side, says chief designer Jony Ive",,57,424,2017-07-26,AAPL,0.03396755829453468,0.893550455570221,0.07248195260763168
+apple,Why did Apple dumb down Disk Utility and make it near useless?,"So this morning I was in a bit of a hurry -- I wanted to throw some MP3 files on a flash drive for my drive to work. [On TWO of my Macs I was getting this error message.](http://i.imgur.com/SNzFHrV.png)
+
+So I installed a hacked version of Yosemite's Disk Utility. Worked on the first try. But you have to disable SIP to use it. Great.
+
+[And don't get me started on resizing partitions.](https://i.imgur.com/eXl08DJ.gif)
+
+What's Apple's line of thinking exactly? Why remove features and bork the surviving ones? **Average users don't even know what Disk Utility is, let alone use it.**
+
+I wasn't really buying in to the whole ""Apple software is getting worse"" grumbling until I encountered this.
+
+/rant over
+
+*PS. if someone knows of an alternative to Disk Utility, please share!*
+*And yes ... I have submitted feedback to Apple :-)*",205,419,2017-07-26,AAPL,0.05567029118537903,0.9026325345039368,0.041697222739458084
+apple,"Sorry space cats, this interactive A-Ha video is the best use of ARKit we’ve seen",,40,349,2017-07-26,AAPL,0.019274529069662094,0.8567513823509216,0.12397404760122299
+AppleWatch,"25 lb down, thanks to 600 cal move goal and freaking achievement system on the activity app",,41,239,2017-07-26,AAPL,0.01416104193776846,0.7961000204086304,0.1897389143705368
+apple,"Someone was able to use CoreML to make ""SeeFood"" app from Silicon Valley",https://i.redd.it/7yis6n5udtbz.gif,44,226,2017-07-26,AAPL,0.021974831819534302,0.9349282383918762,0.04309692978858948
+apple,"Foxconn officially announces new $10B LCD factory in Wisconsin, expected to create 3k jobs",,47,208,2017-07-26,AAPL,0.03781430050730705,0.878154456615448,0.08403123915195465
+apple,Now get ready for a plethora of rMBP 2012 replacement reject stories...,[removed],59,181,2017-07-26,AAPL,0.05849871039390564,0.9130122661590576,0.028488973155617714
+iphone,LPT: Use Text Replacement to easily put in your email in less than 2 letters,,394,5581,2017-07-27,AAPL,0.06998426467180252,0.8982100486755371,0.03180569037795067
+apple,"Unlike Roomba, Apple confirms it won't upload, share or sell your home data from HomePod",,383,3440,2017-07-27,AAPL,0.02244076505303383,0.9154932498931885,0.06206600368022919
+apple,Apple removed the iPod nano and iPod shuffle from its website,,345,946,2017-07-27,AAPL,0.48201239109039307,0.4995240867137909,0.018463462591171265
+AppleWatch,Any other nerds out there?,,58,277,2017-07-27,AAPL,0.04735631123185158,0.9161112308502197,0.03653240203857422
+apple,Any idea why the corners in iOS11 are so weird? Designspecific question... sorry if this is wrong here.,"Hello, I'm new here and I just started designing for iOS devices recently. 
+
+Now i just got the templates for the iOS11 beta from the official apple UI design resources page (for sketch). There I found that the round corners are not always round (like a quarter-circle). 
+
+Before, I already tried to figure out the right radius for the corners from a screenshot. But I just could not do it with the Radius-option for the corners. It would just never really fit.
+
+Now in the Templates for the ""UIElements+AppTemplates+Guides.sketch"" I found ""Views/Action Sheet/_Resources/Cancel Button"" – a cancel-button with a Radius of 14 for it's corners. Finally a reproducable value. So far, so good.
+
+But now I checked a little more on other templates and in ""HIG-QuickAction-Menu"" I found that weird corner again. It looks almost like the ""Radius-14-corner"" but it just isn't. When I looked closer I found that it is actually made out of 12 single bezier-curves:
+
+http://imgur.com/gallery/uxD6k
+
+Is there a reason for these corners? Will they be gone after the beta? If not, how can I reproduce them? And why?
+
+I'm confused why apple would do something like this... Thank you for your help in advance!",38,202,2017-07-27,AAPL,0.04388654977083206,0.9139738082885742,0.04213962331414223
+apple,"MacPaw acquires The Unarchiver, will keep it free.",,48,195,2017-07-27,AAPL,0.031143004074692726,0.9229845404624939,0.04587245732545853
+apple,ARKit's A-HA Moment,,62,181,2017-07-27,AAPL,0.03210810571908951,0.8860229849815369,0.08186884224414825
+mac,Something you don't want to wake up to...,,31,180,2017-07-27,AAPL,0.09221034497022629,0.862144947052002,0.04564473032951355
+apple,"Apple Adjusts iPod Touch Prices and Storage: 32GB For $199, 128GB For $299",,60,165,2017-07-27,AAPL,0.02868930995464325,0.9316352009773254,0.03967549651861191
+apple,Leaked part could show Apple's 'iPhone 8' wireless charging coil assembly,,113,122,2017-07-27,AAPL,0.01659894920885563,0.9415566921234131,0.041844386607408524
+apple,Apple reportedly paying LG $2.7B for OLED production line exclusively dedicated to iPhone screens,,163,1487,2017-07-28,AAPL,0.01111825555562973,0.8862662315368652,0.10261555761098862
+apple,Wallpaper from apple retail store,"Walked into apple retail store and saw this artwork:
+http://imgur.com/a/ESQ1P
+First of all, what app they used in here?
+Second, is there any chance to find a wallpaper made from this artwork/something similar to what they got in apple stores?
+Thanks!",111,668,2017-07-28,AAPL,0.016605718061327934,0.9118542075157166,0.07154009491205215
+iphone,This she can answer,,62,551,2017-07-28,AAPL,0.04940309002995491,0.8863251805305481,0.06427174061536789
+apple,Today in Apple history: Apple acquires the company behind Touch ID,,68,512,2017-07-28,AAPL,0.013660834170877934,0.9034131765365601,0.0829259529709816
+apple,I. Love. Swift.,"I cannot get over it. I've only used for over a year now but holy crap is it magical. I understand people's complaints, it's still pretty young. I just never had so much ""fun"" using Java, C, Python, VBA, SQL, or Bash. It's in the little things like optional variables and the heavy use of closures. It does allow for the most readable code I've ever seen. 
+
+I'm interested in what people don't like about it though, please share your experiences! 
+
+Ending the fangirl rant now.",193,291,2017-07-28,AAPL,0.07190722227096558,0.8922387361526489,0.03585406765341759
+apple,iPod Mini Appears on Apple's Online Store Due to Glitch in the Matrix,,26,288,2017-07-28,AAPL,0.0189707912504673,0.909078061580658,0.07195113599300385
+apple,Apple Listing Select Movies as 4K and HDR in iTunes Purchase History,,67,254,2017-07-28,AAPL,0.017960168421268463,0.9318715333938599,0.05016825348138809
+iphone,iPhone 8 SIM card removal diagram leaks...those are some thick bezels,,103,218,2017-07-28,AAPL,0.08530525118112564,0.8799395561218262,0.034755151718854904
+iphone,New for Insiders in the W10 PC Fast ring: Windows now lets you link your iPhone and PC!,,21,201,2017-07-28,AAPL,0.014541899785399437,0.9073987007141113,0.07805934548377991
+apple,Alleged iPhone 8 packaging insert shows off bezel-less ‘notch’ screen design,,122,200,2017-07-28,AAPL,0.026421217247843742,0.9411404728889465,0.03243834897875786
+apple,Saw this guy at the Apple store yesterday,,362,5762,2017-07-29,AAPL,0.03533007204532623,0.9096998572349548,0.054970066994428635
+iphone,What iOS is this eraser running ?,,86,1342,2017-07-29,AAPL,0.054374467581510544,0.9171350598335266,0.028490502387285233
+apple,TIL Apple still sells an adapter from the original iPhone to their original Bluetooth headset,,114,1085,2017-07-29,AAPL,0.021803900599479675,0.892214298248291,0.08598174899816513
+AppleWatch,Two years down...,,31,295,2017-07-29,AAPL,0.057409968227148056,0.892392098903656,0.05019795149564743
+ios,Siri nailed it,,6,276,2017-07-29,AAPL,0.03358480706810951,0.9063208699226379,0.06009425222873688
+apple,Apple removes VPN apps from the App Store in China,,155,272,2017-07-29,AAPL,0.8171112537384033,0.1691131293773651,0.013775641098618507
+apple,The fact that the TouchBar isn't affected by Night Shift shows me that Apple doesn't actually understand their own feature,"As you probably noticed, the TouchBar isn't affected at all by Night Shift. To me, this isn't just a simple oversight. It means that most of the people who were overseeing the new MacBook (including all the execs) don't actually understand the Night Shift feature.
+
+Night Shift isn't just something people use for fun to make their screen yellow. It's genuinely helps (some) people sleep better, by cutting down the blue light. It works for me, and it works for many other people. That's why a lot of us used [f.lux](http://justgetflux.com), long before Apple copied the feature.
+
+Which is great. I'm glad Apple added Night Shift, so we can have a native iOS solution.
+
+But not having Night Shift affect the TouchBar display (for two MacBook generations, now) isn't just a simple mistake.
+
+It pretty much negates the very benefits I'm trying to get when I activate Night Shift.
+
+What's the point of having Night Shift turned on, if there's still harsh white/bluish light coming from the TouchBar? (Yes, it's matte and it's not in your face, but it still matters.)
+
+Not to mention, it creates a jarring contrast between the screen and the bar. When Night Shift is activated, one is yellow, the other is harsh white. On a purely aesthetic level (even not counting the benefits that Night Shift is supposed to provide) this is a mistake.
+
+The whole point of getting an Apple device is that all the pieces are supposed to be working together. There's no excuse for having the TouchBar be exempt from Night Shift.
+
+**TL;DR**
+
+The TouchBar matches perfectly with the display when it's daylight (both are white).
+
+It would make sense for it to match in the evening / night as well.",265,244,2017-07-29,AAPL,0.035307627171278,0.9176579713821411,0.047034408897161484
+apple,"Goodbye iPod, and Thanks for All the Tunes",,33,164,2017-07-29,AAPL,0.03787893056869507,0.7682860493659973,0.1938350647687912
+apple,Official r/Apple Discord - now live.,"###Hello r/Apple!
+
+We've been hard at work on something, and it's our pleasure to now announce it!
+
+We've created the **Official r/Apple Discord**, ready to go for the entire sub to come together to share discussion on all things r/Apple[.](http://i.imgur.com/5UELnUIg.png)
+
+-
+&gt;###You can join with the invite at - https://discord.gg/9YrQTMJ
+-
+
+This is a result of our recent survey asking r/Apple what chat client they would like to use. The overwhelming response was Discord. Discord is fantastic for live discussion, and supports all manner of rich attachments and channel categorization making it perfect for r/Apple.
+
+Thanks for your support as we potentially go through any teething issues. We hope you like it - see you inside!",50,161,2017-07-29,AAPL,0.016234390437602997,0.9044891595840454,0.0792764350771904
+AppleWatch,Joined the club!,,43,140,2017-07-29,AAPL,0.07911556214094162,0.8962779641151428,0.024606425315141678
+apple,Do you use Apple Pay?,Why or why not?,786,1145,2017-07-30,AAPL,0.03562591224908829,0.9387487173080444,0.0256253182888031
+apple,TIL you can make your iPhone flash it’s LED when you ping it with Apple Watch just by holding the ping button,,77,669,2017-07-30,AAPL,0.03386848047375679,0.9379710555076599,0.028160460293293
+iphone,We got there eventually,,47,595,2017-07-30,AAPL,0.024357639253139496,0.8947511911392212,0.0808911994099617
+apple,TIL that Safari in macOS will automatically rename tabs if they contain the same word to differentiate between them.,"This is just another example of attention to detail that they didn't need to do, but implemented nonetheless.
+
+[Here's how it looks.](https://thumbs.gfycat.com/SneakyInexperiencedHoopoe-size_restricted.gif)",50,542,2017-07-30,AAPL,0.035831186920404434,0.9258960485458374,0.03827275335788727
+iphone,First Jet White iPhone 8 images surface,,166,319,2017-07-30,AAPL,0.012382103130221367,0.9023132920265198,0.0853046178817749
+apple,Looks like uBlock Origin is on the macOS Safari Extension Gallery,"edit: Might not be available everywhere. I can get it in the U.S. The version installed from the gallery is 1.11.3b1 from March 10, 2017.
+
+https://safari-extensions.apple.com/?q=ublock%20origin
+
+Does this mean I will get updates and not have to re-install the extension every time I open Safari?",48,318,2017-07-30,AAPL,0.019857993349432945,0.9306380152702332,0.04950397461652756
+apple,How far are you willing to go to save your AirPods?,"This might as well be in the /TIFU subreddit but I figured it could also be a word of caution and durability report. 
+
+While using the gentlemen’s restroom I stumbled upon a video and wanted to listen to it (deliding a CPU if you must know). While reaching for my AirPods and loading the first one into my ear, it slipped.... 
+
+It fell straight down into the toilet I had already soiled. With a quick “sh@$!” I jumped around and plunged my hand into the sultry waste and retrieved the AirPod, beating the automated flush!
+
+While wiping my hand off and looking at this soaked AirPod with dog treats all over it, I cleaned everything as best as I could, then cleaned it some more with some germicide I took off a janitors cart. The AirPod appears clean and like-new again and functions perfectly.
+
+A fine built product by Apple indeed.
+
+Be  extremely cautious when using those little buggers.",68,298,2017-07-30,AAPL,0.10019271075725555,0.8683680295944214,0.031439244747161865
+AppleWatch,blue orbit nike air vapormax + blue orbit nike apple watch band,,24,284,2017-07-30,AAPL,0.022409219294786453,0.938512921333313,0.03907777741551399
+iphone,"[Guide] Downloading videos from YouTube, Instagram, Facebook (and more) to your Camera Roll","Just recently, I learned that it's quite easy to download and save videos from sites like YouTube, Instagram, FB, &amp; Vimeo to your iOS device. All you need is a file downloading app and an online video downloader, such as [PickVideo](https://pickvideo.net).
+
+In case you don't know how it works, here's a short guide:
+
+* **Step 1:** First install a web browser from the App Store that has file downloading capability, such as [this one](https://itunes.apple.com/app/browser-and-file-manager-for-documents/id979401801?mt=8)
+
+* **Step 2:** After it's installed, open the app and go to [pickvideo.net](https://pickvideo.net).
+
+* **Step 3:** Choose the site from where you want to download videos (such as YouTube, Instagram, FB, etc.)
+
+* **Step 4:** Paste the video's link and press the download button.
+
+* **Step 5:** The site displays all the download links for that video. Tap and hold on any one of the download links and choose 'Download'.
+
+* **Step 6:** Once the video is downloaded, go to the Files tab in the app, tap on the ellipsis icon (three dots) next to the video and choose 'Open In'.
+
+* **Step 7:** Now choose 'Save Video' from the Sharing Sheet.
+
+And that's it. The video should be saved to your iPhone's Camera Roll. Once you get the hang of it, it should be pretty easy and quick to download videos using this method.",33,258,2017-07-30,AAPL,0.02366904355585575,0.9378224611282349,0.03850850462913513
+apple,LPT: print anything to PDF via build in print command on iOS,"Just figured this out via accident. If you go to any app that supports the build in Apple print, click on print, use two fingers to pinch zoom, hit share and you'll be sharing a PDF of whatever you printed. 
+
+No more printer pro or any third party PDF print apps required.",26,258,2017-07-30,AAPL,0.02214374952018261,0.9445319175720215,0.03332437574863434
+apple,"GIF of Apple's Website from May 8, 1998",,193,2733,2017-07-31,AAPL,0.03285250812768936,0.9408316016197205,0.026315832510590553
+apple,HomePod’s firmware reveals the existence of upcoming bezel-less iPhone,,638,1311,2017-07-31,AAPL,0.03636083006858826,0.919974684715271,0.04366451874375343
+apple,"Former Google exec Vic Gundotra praises Apple iPhone 7 Plus camera, says Android photography years behind",,410,1124,2017-07-31,AAPL,0.018940404057502747,0.8301414847373962,0.15091805160045624
+iphone,HomePod Firmware may reveal inductive and fast charging on iPhone 8,,99,492,2017-07-31,AAPL,0.015061518177390099,0.8676837086677551,0.1172548457980156
+apple,"Spotify preps to go public with 60M subscribers, outpacing Apple",,206,381,2017-07-31,AAPL,0.020638836547732353,0.9116535186767578,0.06770764291286469
+iphone,Ex-Google VP says iPhones are better than Androids for photography,,55,330,2017-07-31,AAPL,0.02601478435099125,0.8829428553581238,0.09104236960411072
+apple,"PSA: the new 2016 MBPs blow air out the bottom of the hinge, not the top anymore. Cooling is very easy to obstruct on any soft surface such as your bed, or laying down with your laptop on your stomach.","I wish I knew this before I purchased. I use my laptop predominantly laying down with it on my chest, and the air ports get blocked since the air exhausts out the bottom now which makes my laptop super hot and slow.
+
+Old design: https://i.stack.imgur.com/Ex8RE.jpg
+
+new design (hard to see, but the gap on the bottom has been made larger): https://9to5mac.files.wordpress.com/2016/11/macbook-pro-vs-macbook-pro.jpg?quality=82&amp;strip=all&amp;strip=all
+
+more pics: http://imgur.com/a/VCAI1
+
+I'm very curious why they switched. The only advantage I can think of is now you can use your laptop when the lid is closed with an external monitor. It was a tradeoff.",110,196,2017-07-31,AAPL,0.04072246700525284,0.9150776267051697,0.04419996589422226
+apple,"Using iTunes 10.6, You can really see how bad iTunes is today.","Booted my snowleopard virtual machine with iTunes 10.6  today, and I was amazed on how easy it was to select media to manage, like music, and movies.
+
+This blows the iTunes version I have on sierra out of the water.
+Especially  when it comes to playback.",147,191,2017-07-31,AAPL,0.038964442908763885,0.9044440984725952,0.05659140273928642
+AppleWatch,"Things I did with my Watch this summer: Tough Mudder, climbed Mt Rainier, triathlon. // Ways I scratched my Watch this summer: walking past my kitchen counter.",,42,185,2017-07-31,AAPL,0.0317542627453804,0.9216484427452087,0.04659728705883026
+AppleWatch,Pretty happy with this modular face on my series2,,48,180,2017-07-31,AAPL,0.036666713654994965,0.9114084839820862,0.05192484334111214

@@ -1,0 +1,967 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,"Apple advertises the iPad as being a computer replacement, and yet, if I forget my passcode, it requires a computer to reset.","Per Apple, if you have forgotten the passcode necessary to log in to your iPad, you must connect the device to a computer running iTunes.
+
+https://support.apple.com/en-us/ht204306
+
+&gt;Connect your iOS device to your computer and open iTunes. If you don't have a computer, borrow one from a friend, or go to an Apple Retail Store or Apple Authorized Service Provider. 
+
+This seems like a rather significant oversight on Apple's part, particularly when the company has recommended the iPad as a replacement for a computer.
+
+For example:
+
+Assume you are on a business trip, and bring your iPad with you. You stay in a hotel that has Wi-Fi, but you've never connected to it before. You recently changed your passcode to log in on your iPad, but have forgotten it. Without access to a computer, there is nothing you can do. 
+
+Working in an environment where I work with iPads daily, imagine how ridiculous it must seem to have to explain to someone that they have to have access to a computer to reset a forgotten passcode. It's insane to me that this capability isn't available without the need for a computer.
+
+-----
+
+**EDIT:** I know erasing via Find My iPad exists, but for it to work, you have to have a Wi-Fi connection, which may not be an option if you can't unlock the iPad to connect. Additionally, this is not what Apple recommends.
+
+**EDIT 2:** I think the best solution would be the ability for the iPad to remotely boot to an Internet-based version of iOS, [like macOS Internet Recovery](https://support.apple.com/en-us/ht201314) mode. This would enable the ability to restore an iPad without access to a computer. [See this screenshot](http://media.idownloadblog.com/wp-content/uploads/2016/02/OS-X-Internet-Recovery-Mode-Mac-screenshot-002.jpg) for an example of what this looks like on macOS.
+
+**EDIT 3:** It doesn't have to be limited to passcode issues. For instance, on the Mac, if macOS is experiencing an issue, you can reinstall macOS from the recovery partition OR via Apple's Internet Recovery servers. On iOS, however, if you need to reinstall the software, you have to connect to a computer and do so via iTunes. Wouldn't it be nice if iOS had the same Internet Recovery functionality as macOS so you could troubleshoot your device without the need to have to use a computer? Particularly when Apple is positioning the iPad as a device to replace computers?",801,7754,2018-07-01,AAPL,0.06368272006511688,0.9092006683349609,0.027116652578115463
+iphone,Portrait mode glitch in iOS 12,,110,3942,2018-07-01,AAPL,0.03281450644135475,0.936894416809082,0.030291084200143814
+apple,Why does the snooze function go to 9 minutes and not 10?,[removed],127,466,2018-07-01,AAPL,0.05529671162366867,0.9094991683959961,0.03520413860678673
+apple,Anyone else frustrated with current Apple computer offerings?,"I just feel like, after being a power user for as long as I can remember, justifying the price for a 256GB hard drive, 8GB of ram, etc is out of control.  I LOVE my iPhone, I LOVE Apple TV, I LOVE family sharing, I love the whole eco system, but the computing piece either needs to keep up tech wise to warrant the price or drop the price...anyone else having a harder and harder find justifying the computer cost?",291,344,2018-07-01,AAPL,0.06743551045656204,0.8960023522377014,0.03656213730573654
+AppleWatch,"Ugh, Apple and their impossible monthly challenges...",,71,329,2018-07-01,AAPL,0.06231905147433281,0.8903063535690308,0.047374606132507324
+mac,From those of us who don't have time to bootcamp or use VMWare,,93,312,2018-07-01,AAPL,0.06648316234350204,0.9016170501708984,0.031899746507406235
+ios,Thanks Siri,,13,299,2018-07-01,AAPL,0.02229321375489235,0.7668964862823486,0.21081037819385529
+apple,Anyone else who wishes that Apple would make a 4.7 iPhone with no bezels?,[deleted],129,297,2018-07-01,AAPL,0.01721007190644741,0.9262572526931763,0.05653272569179535
+apple,Why iOS will never replace my Mac,"So a friend gave me an audiobook in mp3 format that I wanted to listen to on my iPhone/iPad. Fine I thought, I'll just upload it to iCloud drive and play it in iBooks (Music has no progress, this audiobook is 12 hours)
+
+OK, iBooks can't open the mp3 files from iCloud Drive. Fair enough. I'm used to weird random limitations on Apple software.
+
+Apparently you can sync audiobooks via iTunes. OK, drag mp3 files into iTunes on my Mac, connect my iPhone via USB-A to USB-C dongle, done. Not quite, my iPhone is already synced with my other MacBook, so it will delete my whole music library. No-go.
+
+OK, plan B, let's try some audiobook apps from the App Store. Download 4 of them that could to iCloud Drive sync.
+
+1 app kept displaying ads I couldn't close, next.
+
+Another app could only transfer a single file via iCloud drive at a time, and the transfer was via Internet, so it was really slow (400 MB audiobook in total)
+
+Another app provided an in-app web server I could connect to via my MacBook, tried that. Could also only handle 1 file at a time, no go. After 1 file, it would disconnect.
+
+Another app also had a web server, and accepted a zip file, so I had to compress the files and upload them. But the tracks were in the wrong order. Fuck that, don't want to drag 40 files around. I want to listen NOW.
+
+Few more free apps had similar problems...
+
+In the end, I gave in and bought Bound for $4 (45 DKK), which worked, supported transferring multiple files at a time from iCloud drive and sorting worked.
+
+All in all, about 45 minutes of effort and $4 spent just to listen to a SINGLE AUDIOBOOK and I'm ready to throw my iPhone at the fucking wall right now.
+
+And I work as a software engineer! If I gave my mom a  USB stick with an audiobook and tell her to play it on her iPhone, she would never, ever make it.",128,283,2018-07-01,AAPL,0.06997814774513245,0.9050002098083496,0.025021608918905258
+AppleWatch,Happy Canada Day!,,26,276,2018-07-01,AAPL,0.043245285749435425,0.8530750870704651,0.10367964208126068
+iphone,The single best new feature in iOS 12.,,602,8531,2018-07-02,AAPL,0.02389475703239441,0.6108904480934143,0.3652147948741913
+apple,PSA: Edison Email app has the ability to read user emails. Employees have read approximately 8000 user emails to improve their smart reply feature.,,429,2322,2018-07-02,AAPL,0.012795080430805683,0.8946029543876648,0.0926019549369812
+apple,Apple's mini 18W USB-C charger may be real after all,,439,1790,2018-07-02,AAPL,0.02953469567000866,0.9183644652366638,0.052100859582424164
+apple,Free Stanford course on iOS development,"https://web.stanford.edu/class/cs193p/cgi-bin/drupal/
+
+This is great for people who already know the fundamentals of programming and want to learn iOS development. Craig Federighi also recommended it in an interview a few years ago.",68,1051,2018-07-02,AAPL,0.01954673044383526,0.9189351797103882,0.06151808798313141
+iphone,This ad I found in Instagram. Seems they dont know how to focus on an Iphone,,90,627,2018-07-02,AAPL,0.09059860557317734,0.8849700689315796,0.024431351572275162
+apple,"Dear Apple, please stop putting the omw text replacement for “On My Way!” every time I update iOS","Maybe it’s just my phone, but I purposely delete the text replacement for omw so that I don’t sound like a giddy school boy when I’m On My Way! somewhere.  But every time I update the iOS I always have to go in and delete it again after sending a few messages where I sound way too excited to head somewhere.  I can’t be the only one annoyed with this right?",77,610,2018-07-02,AAPL,0.14426636695861816,0.8310728073120117,0.02466079778969288
+iphone,Sooooooo when do we get ACTUAL live wallpapers...?,"Android phones now have the capability for setting VIDEOS as their wallpaper. And then there’s Apple. Where you have to physically press and hold the screen to even get a live wallpaper to start. So I still don’t understand why Apple is being a fucking shit lord. I mean come on, it’s 2018 and 6 years ago I was able to have a live wallpaper with my shitty ass HTC EVO 3D.",149,422,2018-07-02,AAPL,0.05428878962993622,0.912917971611023,0.03279326856136322
+iphone,Got tired with all the long complicated “how to play YouTube with screen off” videos on YouTube so I made one that’s under a minute and doesn’t require installing any apps,[deleted],49,355,2018-07-02,AAPL,0.049884505569934845,0.9158598780632019,0.03425561636686325
+apple,Alleged 2018 iPhone benchmark shows a gain of 10% in performance and 4GB of RAM,,197,326,2018-07-02,AAPL,0.027522122487425804,0.7858819365501404,0.18659599125385284
+apple,Apple Maps got a huge update in India,"I just noticed that India Map in Apple Maps is actually a Map and no longer some random lines inside the India Map. Up until now, Apple Maps is a garbage to Indian Users. After reading the latest news about ""Apple rebuilding Maps from the ground up"" I thought it wouldn't change anything right away (definitely not India Map), but out of curiosity I opened the Apple Maps and I was shocked with the changes Apple had made to India Map. Everything got changed, those random lines got corrected and it's getting on par with the Google Maps. But still need some accuracy and features like navigation, locations, etc. 
+
+I'm glad that Apple is focusing on India. Apple Maps is so much better than a couple of days earlier, Voice recognition is getting better on Siri.
+
+And if by any chance Apple officials are reading this please bring Apple Pay to India.",97,319,2018-07-02,AAPL,0.028157910332083702,0.8926699757575989,0.07917212694883347
+iphone,Now I understand why my grandfather always told me he had an iPhone,,56,2399,2018-07-03,AAPL,0.02767522633075714,0.881706714630127,0.0906180739402771
+apple,Thousands of Apps Leak Sensitive Data via Misconfigured Firebase Backends (iOS and Android apps),,137,1310,2018-07-03,AAPL,0.10730718821287155,0.8729628324508667,0.019729960709810257
+iphone,Just got my new cover,,56,1057,2018-07-03,AAPL,0.03584548830986023,0.8906024098396301,0.07355207949876785
+mac,Bought this for $75 today. Building a hackintosh inside,,161,961,2018-07-03,AAPL,0.016753511503338814,0.8285238742828369,0.15472258627414703
+AppleWatch,Took my shirt off yesterday and my s3 screen came with it...,,108,477,2018-07-03,AAPL,0.01504082977771759,0.8435536623001099,0.14140556752681732
+apple,‘Coffee Lake’ chips could give 2018 MacBook Pro a jolt,,295,411,2018-07-03,AAPL,0.012251353822648525,0.5632354617118835,0.42451316118240356
+apple,"iOS 12 Beta 3 Download Of OTA, IPSW Links Released For iPhone And iPad",,111,384,2018-07-03,AAPL,0.021316803991794586,0.930645227432251,0.048037998378276825
+apple,PSA: Don't shut the end of your charger inside your MacBook Pro,Because [this](https://i.imgur.com/zn80qXh.jpg) might happen.,123,329,2018-07-03,AAPL,0.05440036207437515,0.8993898034095764,0.04620976373553276
+AppleWatch,Hmm that can’t be right,,36,261,2018-07-03,AAPL,0.08549652993679047,0.847945511341095,0.06655796617269516
+iphone,iOS 12 Beta 3 adds support for editing RAW images in Photos on iPhone,,31,254,2018-07-03,AAPL,0.0117282560095191,0.8706222176551819,0.11764950305223465
+apple,Anyone feels that Siri on iOS should stop taking up entire screens?,I think it would be sufficient to just make it like Siri on macOS. Fullscreen Siri just feels intrusive and makes you lose a sense of what you were doing.,278,3648,2018-07-04,AAPL,0.07446812838315964,0.8959416151046753,0.029590247198939323
+apple,Apple's First MacBook Pro With Retina Display is Now 'Vintage',,502,2606,2018-07-04,AAPL,0.01879175379872322,0.9298885464668274,0.05131974816322327
+iphone,3D Printed Headphone adapter keychain for those like me who cant seem to keep track of theirs,,66,499,2018-07-04,AAPL,0.08690311759710312,0.888575553894043,0.024521367624402046
+AppleWatch,Wrist charging my Apple Watch while walking the dog [Dev Beta 3 Bug],,60,409,2018-07-04,AAPL,0.01846683956682682,0.9371793270111084,0.04435386881232262
+apple,Apple's HDR implementation on most iOS devices is broken. Here's why.,"I wanted to bring up an issue that I noticed with HDR implementation on the iPhone 8 Plus.
+
+As you may know, Apple supports HDR on the iPhone 8, iPhone 8 Plus, iPhone X, iPad Pro 10.5-inch and 12.9-inch (2nd generation). There's also the Apple TV 4K but that's irrelevant to this discussion. All the aforementioned iOS devices support both, HDR-10 as well as Dolby Vision. However, out of these, only the iPhone X has an HDR display, making it the only one of the bunch to support HDR in both, hardware and software. The rest of the mentioned devices only support HDR in software.
+
+If you don't know about HDR, this might be a good time to look it up. The gist is that HDR content has a wider dynamic range and also wider color gamut. HDR displays need to be able to do both of those things and also have generally higher peak brightness level compared to standard displays, with 1000 nits being generally the recommended minimum for an ideal experience.
+
+Now, the reason I only specified the iPhone 8 Plus in the first line is because that's the only one of the five supported devices currently in my possession. However, I'm pretty sure the implementation is identical on the other three devices, with the iPhone X having a different and hopefully a better implementation due to its HDR display.
+
+What Apple does on these devices that only have HDR support in software and not hardware is announce them to all the apps that the device supports HDR. Then it manipulates the content make up for the limitations of the display and make it look like it's HDR. I have tested this with iTunes content as well as Netflix, as they are the only apps I know of on iOS that offer HDR content (both HDR-10 and Dolby Vision).
+
+What I have noticed is that when HDR content is played on my iPhone 8 Plus, the video has significantly crushed shadow detail. The screen below a certain luminance level just turns black, rendering all the detail there invisible even at the highest brightness level. Some of the colors also look a bit weird and not exactly how they should look. The overall image just looks like someone turned the contrast and saturation dials way up.
+
+To demonstrate this I played the same Jessica Jones S02E01 on both the iPhone 8 Plus and an iPhone 7 Plus. On the iPhone 8 Plus the video is playing in Dolby Vision while the 7 Plus gets the standard feed. The images are in the Imgur link below. In every image, the iPhone 8 Plus is ABOVE and the 7 Plus BELOW.
+
+As you can see, the 8 Plus has significantly crushed shadow details in all the examples. And no, this is not due to the camera being used to shoot these images but it really is how it looks to the eye. For reference, the last screenshot is from the new David Letterman show on Netflix, which is not in HDR and thus looks identical on both devices.
+
+I also have a Galaxy S9+ which has a proper HDR display but I have not included that in the photo comparison. Needless to say it has the best looking image out of all three devices. I assume that's probably how it looks on the iPhone X as well but that's just my assumption and I have no way to be sure.
+
+So basically, there is a problem with how Apple renders HDR content on these devices with non HDR displays. I honestly don't understand why they enabled this feature in the software to begin with. Usually Apple is very good with display calibration and color management but this just comes across as poor judgment on the company's behalf. It's not better, it's not even similar, it's actually worse than watching it on an older device where the feature does not exist in software.
+
+I hoped it would get fixed in subsequent iOS 11 updates but it didn't. I have no hope it would get fixed in iOS 12. It seems very deliberate for them to ""fix it"" even though they should. I just hope all iOS devices get a native HDR display in future so this wouldn't be a problem anymore.
+
+[Sample gallery](https://imgur.com/a/eeLWQnQ)
+
+***Update:*** *After further observation, I feel like the reason for the aforementioned issue is due to the way highlights are handled. HDR content generally has really high luminance values that often far exceed those of the displays they are played on. Because of this, display manufacturers have a choice in how they want to display the highlights (or the brightest portions of the frame). One way is to have a standard brightness level across the frame and risk the brightest bits from overexposing. The other is to reduce the brightness across the frame so that the brightest portions are within the display's limits. I think most manufacturers go for the latter, including Apple. I have noticed this on the S9+ as well, where the HDR image is a bit dark but when a bright object appears on screen it is searingly bright. However, because my iPhone 8 Plus does not have an OLED display or an LCD with local dimming, there isn't a huge degree of variance between the brightest and the darkest areas of the screen, which means we end up with a dim display without any of the bright highlights.*
+
+*Until we get truly high luminance panels, preferably OLED or any other self illuminating variety, I think manufacturers should probably avoid going the HDR route.*",49,272,2018-07-04,AAPL,0.03972433693706989,0.9146986603736877,0.04557698220014572
+apple,Gavin Williamson interrupted by Siri during Commons statement,,31,264,2018-07-04,AAPL,0.0399644672870636,0.8875811100006104,0.07245441526174545
+apple,"Current iPhone X owners, will you get a X Plus if it's announced in September?","I love my X after owning a Plus for two years prior. The idea of a Plus-sized X is intriguing, but I think the regular X might be the perfect size for me, and I can use the money instead to buy a new Watch/Airpods case/AirPower.
+
+What do you think? Will you hold on to your X or get the Plus?",376,244,2018-07-04,AAPL,0.01666247844696045,0.8961825966835022,0.08715488016605377
+mac,"Apple Officially Lists The First 15-Inch MacBook Pro With Retina Display As ""Vintage""",,49,204,2018-07-04,AAPL,0.021186329424381256,0.9414553046226501,0.03735838085412979
+MacOS,N i c e,,53,140,2018-07-04,AAPL,0.057427357882261276,0.906167209148407,0.03640545532107353
+mac,My Mac randomly shows a screenshot from what I've been doing on my MacBook before shutting down,"It just shows a snapshot from a random time I was using my macbook. Last time it happened I was confronted with Dame Tu Cosita... 
+
+Can anyone help me? Does anyone even have this problem?? Thanks for any help.",54,133,2018-07-04,AAPL,0.05236746743321419,0.901157557964325,0.04647493734955788
+apple,Apple registers five new iPads and Macs in Eurasian database,,342,1765,2018-07-05,AAPL,0.017606321722269058,0.9185191988945007,0.06387444585561752
+apple,Google’s Inbox Gmail app finally updated to support iPhone X,,271,1558,2018-07-05,AAPL,0.013653310015797615,0.759583592414856,0.22676309943199158
+iphone,Apple dropping Intel as Radio Chip supplier for 2020 iPhones.,,151,1386,2018-07-05,AAPL,0.13688381016254425,0.701522946357727,0.1615932732820511
+apple,"Kuo: New 2018 iPhone models to come in gold, grey, white, blue, red and orange colors",,160,711,2018-07-05,AAPL,0.013390072621405125,0.8600209355354309,0.12658897042274475
+apple,The App Store turns 10,,46,695,2018-07-05,AAPL,0.15474778413772583,0.7376551032066345,0.10759712010622025
+AppleWatch,⌚️,[deleted],38,528,2018-07-05,AAPL,0.04191373661160469,0.878087043762207,0.0799991637468338
+apple,iOS 12 public beta 2 is out,,210,518,2018-07-05,AAPL,0.026059063151478767,0.9394330382347107,0.03450790420174599
+iphone,A few people asked about my brushed stainless iPhone X. Here are some pictures!,,95,516,2018-07-05,AAPL,0.05828182399272919,0.8876177072525024,0.054100457578897476
+apple,"TIL if you don't have SF UI or Helvetica Neue installed on your computer, the delete button will default to Comic Sans on the iCloud webpage",[Screenshot](https://i.imgur.com/IpcXeRw.png),32,474,2018-07-05,AAPL,0.027675308287143707,0.9270655512809753,0.04525917023420334
+apple,Apple TV purchases should allow authentication on phone with Face Unlock/Touch ID and not password,"Not much to add here but it is annoying to have to enter the password to authenticate a purchase with Apple TV, even for a ""purchase"" of a free app. Fix this Apple!",42,422,2018-07-05,AAPL,0.02019857056438923,0.923521101474762,0.05628038942813873
+apple,Apple Music Just Surpassed Spotify's U.S. Subscriber Count,,1330,5815,2018-07-06,AAPL,0.03156697005033493,0.8826844096183777,0.0857485979795456
+apple,Can I just say that Apple automatically bringing up 2FA codes on my keyboard screen is one of the best additions to iOS yet?,Today I was logging into an app that uses 2FA and after I received a text with a code it brought it up on my keyboard in the app. Usually I would have to go back and forth to get the code but now I can just click it and have it auto enter. As someone who uses 2FA on almost every website this is sure to make my life easier.,154,1471,2018-07-06,AAPL,0.031016072258353233,0.9363651871681213,0.03261876851320267
+iphone,Apple Regains the Global Best Selling Smartphone Spot with the iPhone 8,,193,1136,2018-07-06,AAPL,0.01945270039141178,0.2038600891828537,0.7766872048377991
+iphone,Sisters iPhone 7 somehow got run over by a truck...,,109,745,2018-07-06,AAPL,0.8637210130691528,0.10400289297103882,0.03227611258625984
+AppleWatch,"Broke watch 2pm yesterday, 10am this morning replacement arrived! Apple service is awesome!",,49,580,2018-07-06,AAPL,0.022698689252138138,0.908420741558075,0.06888055056333542
+apple,Pokémon GO Revenue Hits $1.8 Billion on Its Two Year Launch Anniversary,,50,400,2018-07-06,AAPL,0.02020670659840107,0.36440426111221313,0.6153889894485474
+apple,"When you turn one device onto do not disturb, you should have the option to put all your devices on do not disturb.",Anyone else agree?,31,265,2018-07-06,AAPL,0.04054148867726326,0.9378654360771179,0.021593090146780014
+apple,"In the middle of texting, if I get a call, many a times i accidentally press on the red hangup icon.","Now this has happened to me quiet a few times. I'm on phone and writing a text then if I get a call in the middle of my typing, I accidentally press on the hangup icon (the red one) without even knowing I'm getting a call. This has happened to me a few times now. And I'm afraid people on the other end think I'm rude to cut off a call immediately. What can be done regarding this ? Is this a problem you guys have as well? Can we have a separate interface for when we get a call in the middle of typing ?
+
+Thank you.",67,251,2018-07-06,AAPL,0.1614963859319687,0.8156830072402954,0.022820644080638885
+AppleWatch,Button stud custom sized leather band,,16,248,2018-07-06,AAPL,0.01983480155467987,0.8990121483802795,0.081153005361557
+mac,Wtf! help please,,49,242,2018-07-06,AAPL,0.06380394846200943,0.8777483105659485,0.05844772607088089
+iphone,10'000 Iphone 5 Domino,,175,4089,2018-07-07,AAPL,0.017178263515233994,0.8933848142623901,0.08943697810173035
+apple,Thank you FaceTime,"My grandpa recently passed away and every now and then he would FaceTime me where I’d take screenshots of the call to remind me of those memories in the future. I never thought I’d look at them so soon and once I realized the screenshots were Live Photos I nearly broke down in tears. The simple elements of motion which captured his smile were all I needed to be a gentle reminder of the memories he gave me.
+
+Even at the funeral I was able to FaceTime my dad and show him what was happening when he was in another country trying to get on the next available flight. Other people tried to ring their immediate family members from other services but being in an area with barely 4G speeds caused massive slowdowns for other services where FaceTime showed no slowdowns.
+
+From the bottom of my heart thank you apple and FaceTime you made these moments which helped my family through a difficult time.
+
+Cheers.",121,3665,2018-07-07,AAPL,0.04885179176926613,0.9155682921409607,0.03557988256216049
+iphone,"As requested, it looks better on the phone.",,160,1237,2018-07-07,AAPL,0.04237040504813194,0.1314287781715393,0.8262007832527161
+apple,"macOS Mojave nukes subpixel antialiasing, making your non retina monitor appear blurry.","This was one of the first things I noticed when upgrading my Mac Pro to Mojave Beta. I am using a Dell 1440P monitor and now text is thinner, a little more blurry and harder to read. This does not affect retina displays, or ultra hi-res displays like 4K monitors. 
+
+https://twitter.com/tapbot_paul/status/1004361530018852864",440,583,2018-07-07,AAPL,0.02563934028148651,0.933181643486023,0.04117899015545845
+apple,Dave Lee's take on the current Apple devices.,https://youtu.be/mdRpgWYWCZg,428,558,2018-07-07,AAPL,0.01825547032058239,0.9244188070297241,0.05732566863298416
+AppleWatch,Fresh look for my 3 yo Apple Watch ⌚️,,49,516,2018-07-07,AAPL,0.01672505959868431,0.901404857635498,0.08187007904052734
+apple,Remember that dude that posted about interviewing at Apple a couple days ago...,,173,445,2018-07-07,AAPL,0.020149599760770798,0.9283917546272278,0.05145861580967903
+apple,Comparing the improved Maps with the existing Maps and Google Maps,"Even after the public has had access to Apple's improved Maps data in San Francisco with the release of the latest iOS 12 beta, I noticed a lack of posts or articles which compares the existing Maps data to the improved data or even with the current standard-bearer of Google Maps other than the few pictures included in the TechCrunch article, so I decided to make my own [comparison](https://imgur.com/a/3C1063b).
+
+I selected several sites in and around San Francisco and took the screenshots on both Google Maps and the existing Maps from the Mac app before trying my best to fit the same zoom views on my iPad to avoid bias by selecting only areas where I knew there would be improvements, though because of the extra height (or reduced width, depending on your perspective) achieving the exact zoom views was not possible. In addition, the Maps app on the iPad running the latest iOS 12 beta would display more details when zoomed in further, whereas all the images of the existing Maps contains the full amount of detail possible, where zooming in further would not reveal any more detail.
+
+While still in its public infancy, huge strides have already been made in creating the best mapping data for Maps, and this is especially visible in the rather insane amount of detail in parks, schools, and other institutional spaces that sometimes bests even Google's level of detail.",147,346,2018-07-07,AAPL,0.018906930461525917,0.9034340977668762,0.07765897363424301
+mac,"The Touch Bar on the MacBook Pro is well implemented, but serves no useful purpose",,106,333,2018-07-07,AAPL,0.009098637849092484,0.5705806612968445,0.4203207194805145
+iphone,My leather case saved my X at 55mph!,,72,282,2018-07-07,AAPL,0.02997760660946369,0.8680978417396545,0.10192461311817169
+apple,Found an iPhone X under water. How do I find the owner?,"So my cousin was up at The Potholes near Kirkwood, CA this past weekend. He found an iPhone X in a Otterbox case (none waterproof case) a few feet under water. He tried to turn the phone on and surprisingly the screen showed the battery dead icon. So he threw it in rice over night and then charged it. 
+
+Phone turns on. Screen is a little bit screwed up but still works. There is condensation in the front camera and rear camera. It’s passcode locked but when we hooked it up to iTunes I can see the persons first name that is associated with the phone. It says “xxxxxxxx’s iPhone”. I don’t want to give the persons name incase they contact me they can identify it. 
+
+The phone still has internet access. I can see on the home screen it is getting Facebook notifications. Siri is passcode locked too. No medical ID. When I trigger SOS there is no contacts associated with it. 
+
+Anything I can do? I made a found post on Craigslist. Is my best bet to take the phone to the wireless carrier that it is associated with? Take it to an Apple store? I just want to find the owner in case they have irreplaceable photos on the phone.
+
+We are leaving the phone on in case someone calls it. Any other ideas?
+
+EDIT: if I popped the SIM from the lost phone into one of my iPhones and did - Settings, Phone, My Number - would it show the number associated with the SIM?
+
+EDIT 2: Surprised by all the downvotes. I hope people on this sub don’t lose their phones in the future!
+
+EDIT 3: Someone called the phone today July 9th. My cousin answered and explained to the person what happened. That person got in contact with the iPhone X owners Dad. Dad called my cousin but was running into a meeting. His daughter lost the phone hiking. They live in Alabama. He’s going to call back with her shipping info and we will be shipping the phone back.",279,1894,2018-07-08,AAPL,0.050298355519771576,0.9217047095298767,0.02799690142273903
+apple,iPhone X – Memory,,240,1531,2018-07-08,AAPL,0.02185465581715107,0.909476637840271,0.06866868585348129
+apple,Apple iOS 12 Security: All the Improvements Coming to Your iPhone,https://www.wired.com/story/apple-ios-12-iphone-security/amp,158,1185,2018-07-08,AAPL,0.019740751013159752,0.4317221939563751,0.5485370755195618
+iphone,"PSA: If you’re experiencing excessive battery drain on iOS 11.4, it’s not just you",,209,1133,2018-07-08,AAPL,0.913298487663269,0.07438796758651733,0.012313648127019405
+iphone,"[Fun Fact] On iOS 8.4 or earlier, you could set your password in a language, delete that language’s keyboard, lock your phone and you will not be able to unlock your phone since that keyboard for that particular language is unavailable to type in the correct passcode","[Edit: This worked during iOS 9 Beta as well back in 2015 and I reported it in the feedback app and it was immediately fixed in the next beta. Furthermore, it would be great if people who tried this bug recently to comment down your thoughts and experiences regarding this bug]",66,1051,2018-07-08,AAPL,0.025696460157632828,0.9049845933914185,0.06931900233030319
+mac,Slow clap. Well done Siri. 👏 👏 👏,,86,970,2018-07-08,AAPL,0.02968631125986576,0.8546649813652039,0.11564870923757553
+AppleWatch,When you hike all day in the Swiss Alps!,,30,518,2018-07-08,AAPL,0.07918247580528259,0.8862491846084595,0.03456837683916092
+apple,iOS 12 Downtime Feature is Very Helpful,"Hey everyone! I haven't seen anyone post about the downtime feature in iOS 12 yet. After watching the keynote, this was one of the features that stood out to me the most. I know there are probably a lot of you who, like me, go on your phone when you get in bed. You're on ig, snap, or whatever social media app you have and before you know it, it's 4 am and you have to be up for work in 3 hours. I set up my downtime feature to turn on at 11 pm and turn off at 7 am. It's honestly been a game changer. At 11 pm all unnecessary apps lock and only contacts that are set as favorite can bypass the do not disturb. You can set which apps you want to keep from locking in case you use some type of smart alarm app. If you try to use apps that are locked, it asks if you want it to lock up again in 15 minutes or just disable the lock for the rest of the night. Since activating the feature I have been sleeping like a baby. I get my full nights rest and now I'm waking up before my alarm even goes off. I just discovered bedtime mode on my iPhone last night and I think I'm going to start using that as my default alarm. I'll update about my experience with that in another post.",81,368,2018-07-08,AAPL,0.06859500706195831,0.9018877744674683,0.02951718308031559
+AppleWatch,Hello indeed,,18,352,2018-07-08,AAPL,0.045470744371414185,0.8546336889266968,0.09989559650421143
+apple,"People who were skeptical that they would like an Apple Watch but bought it just to try out: How do you feel about it, and how useful or useless is it to you?",,225,321,2018-07-08,AAPL,0.014212258160114288,0.8913525342941284,0.0944352075457573
+iphone,I have converted my iPhone box into a wireless charger,,99,2365,2018-07-09,AAPL,0.012599959969520569,0.9108286499977112,0.07657141238451004
+apple,"World Cup 2018: Apple products are everywhere, even though it's not a sponsor",,263,1757,2018-07-09,AAPL,0.020757142454385757,0.8954117894172668,0.08383111655712128
+apple,Apple Weather needs an update,"Apple weather has stayed the same since iOS 7, does not have radar integrated, and is sorely lacking in features compared to third party weather apps.",259,1459,2018-07-09,AAPL,0.03406277671456337,0.9214383363723755,0.044498901814222336
+apple,"Apple Depicts iPad as Laptop, Textbook, and Paperwork Replacement in Series of New Ads",,694,1409,2018-07-09,AAPL,0.037145406007766724,0.9227319955825806,0.040122684091329575
+AppleWatch,AR glasses + Apple Watch What do you think about this ?,,58,868,2018-07-09,AAPL,0.04161091893911362,0.9013280868530273,0.05706107243895531
+apple,"Apple releases iOS 11.4.1, tvOS 11.4.1, and watchOS 4.3.2 to the public",,145,732,2018-07-09,AAPL,0.01925721764564514,0.9139448404312134,0.06679794192314148
+AppleWatch,Activity Rings Wallpaper,,38,527,2018-07-09,AAPL,0.06352511793375015,0.9075341820716858,0.028940673917531967
+iphone,Apple Releases iOS 11.4.1 With Bug Fixes - Mac Rumors,,121,495,2018-07-09,AAPL,0.025873947888612747,0.8941601514816284,0.07996594905853271
+apple,Search in the iOS 12 Photos app is a HUGE improvement,"I haven't seen this mentioned, but the Search tab within Photos is a massive improvement in iOS 12.
+
+I believe Apple briefly mentioned this in the keynote, but I didn't really try it out in the beta until a couple days ago, and I've gotta say, I'm extremely impressed.
+
+1. It recognizes far more items. If you type in ""cat"" or ""bottle"" or whatever else you can think of, it pulls up far more results than before and it's a hell of a lot more accurate. It's clear that a lot of work was put into the object recognition and search algorithms.
+
+2. The UX is excellent. When searching, it shows you the optional keywords at the top (complete with glyphs showing whether it's a general search, a map location etc...) and below that, it subdivides everything into categories. It has a section for Photos (complete with the total number of results), Moments, Albums, Memories, and Places. And they are subdivided into albums and have a 'See All' button to see more.
+
+3. It all pops up with lightning speed. There's no delay on anything. The second I type in an object, place, person, or whatever else, I immediately see the results. It's so fast that when I first started using it, I wasn't sure if it had actually found photos based on the keyword I typed or whether it was just displaying the default albums. It's the former.
+
+4. Also, the layout in the Albums tab is a big improvement. The horizontal scrolling and the fact that there's a Media Types section with lines rather than tiles - all feels like a better use of space.
+
+All of this might seem like no big deal because searching for photos isn't exactly a new idea, but something about the way it's all laid out just feel '*right*'. You know how when something is designed well, it feels like there's a seamless connection between your brain and what the software is doing? That's the feeling I'm getting here. It just feels natural. It's the exact *opposite* of the feeling I get when I use the Music app, where I constantly feel like I'm fighting with the app. But the new Photos app is excellent in my opinion.",77,482,2018-07-09,AAPL,0.02272399701178074,0.9167129993438721,0.06056297942996025
+apple,Apple’s Shortcuts will flip the switch on Siri’s potential,,167,460,2018-07-09,AAPL,0.050225842744112015,0.9065499901771545,0.04322411119937897
+apple,TIL by long pressing the Refresh button in Safari a Request Desktop Site button will appear.,https://imgur.com/gallery/EcBq8sk,156,2992,2018-07-10,AAPL,0.03913047909736633,0.9312785267829895,0.029590915888547897
+apple,"Apple’s new AI chief now oversees Siri, Core ML, and machine learning teams",,244,1906,2018-07-10,AAPL,0.012405131943523884,0.8983304500579834,0.0892643854022026
+iphone,"10 years ago today, Apple's App Store launched with more than 500 apps!",,128,1699,2018-07-10,AAPL,0.011807538568973541,0.8931295871734619,0.09506287425756454
+mac,Found this old gem for $20,,129,1029,2018-07-10,AAPL,0.0331302247941494,0.9063170552253723,0.06055275350809097
+apple,"Exclusive: Apple to deploy 1Password to all 123,000 employees, acquisition talks underway",[Link to article](https://bgr.com/2018/07/10/apple-1password-acquisition-deal/),194,820,2018-07-10,AAPL,0.022838328033685684,0.9449663758277893,0.032195329666137695
+apple,Linus Tech Tips iMac Pro Repair Saga pt. 2,"https://www.youtube.com/watch?v=LwEInwvFbwk
+
+
+&amp;nbsp;
+
+
+Linus has uploaded a 2nd part to his video from a couple months ago where explained his frustrations with trying to get his broken iMac Pro repaired. 
+
+&amp;nbsp;
+
+[First Video](https://www.youtube.com/watch?v=9-NU7yOSElE) for those who are interested.",438,511,2018-07-10,AAPL,0.03389797732234001,0.907490074634552,0.05861194431781769
+apple,Former Apple Employee Charged With Theft of Trade Secrets Related to Autonomous Car Project,,88,506,2018-07-10,AAPL,0.7017595171928406,0.27290257811546326,0.025337887927889824
+mac,From Hackintosh to Macintosh,,57,441,2018-07-10,AAPL,0.08025790005922318,0.8919826745986938,0.027759471908211708
+apple,Apple to Use Bezel-Reducing Backlighting Chips in Upcoming 6.1-inch LCD iPhone,,175,334,2018-07-10,AAPL,0.02729937620460987,0.9022478461265564,0.0704527497291565
+apple,Why Apple Music Is Starting to Win Spotify’s Game,,291,271,2018-07-10,AAPL,0.02244681492447853,0.8049368262290955,0.1726163923740387
+apple,I asked Siri on the HomePod to play the worst possible music she can find,"She responded ""playing your music, shuffled"".",94,3936,2018-07-11,AAPL,0.03496081382036209,0.9045006632804871,0.06053846329450607
+iphone,"After 6 years with Android, I finally made the jump.",,615,2191,2018-07-11,AAPL,0.023880939930677414,0.8350105881690979,0.14110851287841797
+apple,Affinity Designer for iPad is here,,240,1177,2018-07-11,AAPL,0.023887548595666885,0.9322304129600525,0.04388200864195824
+iphone,My old iPad3 finally hit the ground.... Bought it just after the 3 came out and it has served faithfully for over 6 YEARS..... A moment of inattention and wet hands and iPad meets asphalt. Sigh.,,142,787,2018-07-11,AAPL,0.025421978905797005,0.8437143564224243,0.13086366653442383
+mac,The WWDC sticker pack inspired me to make some real stickers of my own,,37,699,2018-07-11,AAPL,0.018830081447958946,0.8987081050872803,0.08246181160211563
+apple,"Kuo: Apple planning 11″ iPad Pro, Mac mini update, 1.57″ &amp; 1.78″ Apple Watch, AirPower for fall",,372,610,2018-07-11,AAPL,0.019560163840651512,0.9051394462585449,0.07530036568641663
+apple,Face ID retry in iOS 12 is a huge improvement.,[deleted],39,483,2018-07-11,AAPL,0.01472835335880518,0.18566299974918365,0.7996086478233337
+iphone,My opinion on the IPhone 8 Plus,"I moved from the S7 to the IPhone after 2 and a half years , I don’t have anyone I can express this feeling with so I’ll just let it out on this post .
+
+The transition has been so smooth and easy I was afraid to move because the android can do more than iOS in some aspects , but I’ve figured out that for my needs the iPhone works . The battery is amazing doesn’t waste that much I’ll use 30/40% in a day .
+
+Apps have more choices on iOS and a big screen :)
+
+Hopefully I can stay with Apple for a long time if they keep on improving ..
+
+Thanks for taking the time to read this and don’t forget to have a good day :)",178,378,2018-07-11,AAPL,0.01775212027132511,0.8383854627609253,0.14386239647865295
+ios,[Question] Why is the keyboard layout in landscape different than in portrait?,,38,353,2018-07-11,AAPL,0.03690730407834053,0.9336835741996765,0.029409147799015045
+apple,Sonos launches AirPlay 2 support for latest speakers,,61,333,2018-07-11,AAPL,0.016740500926971436,0.9008239507675171,0.08243551105260849
+apple,"Apple’s new 2018 MacBook Pros: Core i9, DDR4, updated keyboards, and more",,2662,5457,2018-07-12,AAPL,0.018754037097096443,0.9212425351142883,0.060003433376550674
+iphone,"[Meta] Can we please stop with the ""MADE THE SWITCH!"" posts?","These do not add valuable content to the sub and are usually just a photo of a BNIB iPhone or one that's been unboxed but not used. Or even better, 3 sentences of text saying ""It's been two days and I really like it! So clean and easy to use and the battery life is awesome!""
+
+**WHY do these posts keep getting hundreds, if not thousands, of upvotes?** I am so bored of seeing them on the top of this sub (and the front page!) and I just think they are low-effort posts that don't add to the conversation. I understand that it's a very exciting thing to get a new iPhone but it just makes this sub seem like such a circlejerk sometimes.",173,1581,2018-07-12,AAPL,0.024516193196177483,0.893785834312439,0.08169801533222198
+apple,Apple stops selling 2015 MacBook Pro,,290,716,2018-07-12,AAPL,0.7940536737442017,0.18751324713230133,0.018433067947626114
+mac,"Apple Launches 2018 MacBook Pros: 8th Gen Core, Up to 32GB of RAM, Third-Gen Keyboard, Quad-Core on 13-Inch",,419,526,2018-07-12,AAPL,0.016065632924437523,0.873437762260437,0.11049667000770569
+AppleWatch,Original Apple Watch purchased 3 years and a week ago replaced for free under extended warranty.,,119,430,2018-07-12,AAPL,0.034478943794965744,0.8594024777412415,0.1061185970902443
+AppleWatch,And now there are 2 😍,,59,401,2018-07-12,AAPL,0.05420015752315521,0.8989179730415344,0.046881888061761856
+apple,MacBook Pro - 2018 | Apple,,256,400,2018-07-12,AAPL,0.020375680178403854,0.9113496541976929,0.06827463954687119
+apple,The Apple Store may let you refund your 2017 MBP for the 2018 if you purchased it within the last month.,"I just visited my local Apple Store, and I had bought a new MBP with touchbar literally a month ago to the day. 
+
+I explained my situation and how I saw that they just released the new machines today along with the Beats deal and asked if they might have some mercy for me and let me exchange it for the new one or at least get free Beats. 
+
+The guy I spoke to said he completely understood my situation and had been there himself, he let me refund my 2017 MBP completely on the spot without even a receipt and told me the cash will be back to me in 2-3 days, at which point I can reorder the new one from the education store for the same price I did before and get my Beats.
+
+To those asking about this I figured I’d post a bit of a success story to give some people hope, and though every Apple Store may not be as kind as mine it’s at least worth a shot to try for many of you I’m assuming.
+
+tldr: if you bought a new 2017 MBP in the past month, and you want to get the 2018 one and possibly some beats.. go to your local apple store and explain yourself kindly.. you may be able to get yourself this years model like me",115,389,2018-07-12,AAPL,0.015586210414767265,0.8528688549995422,0.13154493272304535
+apple,Maxed out 2018 15-inch MacBook Pro at $6699 isn't Apple's most expensive laptop ever,,233,303,2018-07-12,AAPL,0.017780236899852753,0.8849887251853943,0.09723106026649475
+apple,Google brings accessible Morse code typing to Gboard on iOS,,40,281,2018-07-12,AAPL,0.009921186603605747,0.8480014204978943,0.14207741618156433
+apple,Adobe Said to Launch Full Version of Photoshop for iPad in 2019,,363,2806,2018-07-13,AAPL,0.01830192096531391,0.9274919033050537,0.05420612171292305
+AppleWatch,For those who asked to see the new band on the watch,,120,1190,2018-07-13,AAPL,0.020985456183552742,0.9227408170700073,0.05627378448843956
+apple,Apple Pay — Just text them the money — Rent,,258,828,2018-07-13,AAPL,0.04556543007493019,0.9132465720176697,0.041188064962625504
+apple,Study: iPhone 6 has highest failure rate among iPhones — but Samsung's rate is higher,,176,696,2018-07-13,AAPL,0.5977399945259094,0.23659561574459076,0.16566435992717743
+iphone,The fast charging capability on the iPhone X has been really useful,"Recently I picked up the 29W Apple charger from Target on clearance for $24.99 and the USB C to Lightning for $12.50. It has really come in handy being able to charge my phone up 50% in 30 minutes before heading out. I hope they make it standard and include the quick charge plug in the next iPhone. Even if they have to include it into the price of the phone. They shouldn't, but it's really something everybody should have access to and not have to pay a ton just to take advantage of it. 
+
+Edit: [For anyone interested in getting the 29W adapter on clearance at Target](https://brickseek.com/target-inventory-checker/?sku=057-00-4154)
+
+Edit 2: [For anyone interested in the USB C to Lightning Cable](https://brickseek.com/target-inventory-checker/?sku=057-00-4382)",114,498,2018-07-13,AAPL,0.015313919633626938,0.9064553380012512,0.07823076844215393
+apple,Does anybody who own an iPhone actually use FaceTime audio?,Title says it all.,366,358,2018-07-13,AAPL,0.02644217200577259,0.9358927607536316,0.03766511380672455
+ios,Apple should make this amazing feature a permanent lock screen option.,,46,346,2018-07-13,AAPL,0.011478688567876816,0.9133796095848083,0.07514170557260513
+iphone,This is so real it hurts 😂😭,,57,252,2018-07-13,AAPL,0.03257680684328079,0.890363872051239,0.0770592913031578
+apple,"2018 15"" MacBook Pro First Impressions",,131,227,2018-07-13,AAPL,0.0180194191634655,0.8390316367149353,0.14294898509979248
+iphone,True,[deleted],57,213,2018-07-13,AAPL,0.030099937692284584,0.8798542022705078,0.09004592895507812
+apple,"Apple’s redesigned MacBook Pro keyboard uses new method for repelling dust, reports iFixit",,447,3404,2018-07-14,AAPL,0.02580757439136505,0.9286714792251587,0.04552089795470238
+iphone,"Quick Tip: Tap, hold, and drag to delete multiple photos at once.",,135,2042,2018-07-14,AAPL,0.03087143786251545,0.9271831512451172,0.0419454351067543
+apple,Apple’s Next iPhone Could Spell Big Trouble for AT&amp;T and Others,,462,1792,2018-07-14,AAPL,0.8750124573707581,0.10771343857049942,0.017274102196097374
+apple,The prices of the MacBooks have been increasing with each iteration and I'm wondering whether I'm being irrational for thinking that they've reached a point where they're just too expensive.,"The baseline 15"" MacBook Pro costs $3,199 CDN and that's with a measly 256GB SSD in a ""Pro"" computer. The 1TB model (the baseline for an actual ""Pro"" computer) moves the price up to a whopping $3,919. I would love to own one of the new MacBooks but I feel like Apple has really outpriced me and I'm really wondering whether a MacBook is worth the money.  
+
+
+I love the build quality, touchpad and Unix OS. Despite my preference for MacBooks, it just feels like the MacBook prices are getting ridiculous.  
+
+
+I'm thinking of getting a high performance Windows laptop for game development and programming then installing Linux to it.",773,1651,2018-07-14,AAPL,0.06978028267621994,0.8992938995361328,0.030925780534744263
+iphone,I know how this sub feels about pictures of just the box... I hope you can make an exception,,65,1554,2018-07-14,AAPL,0.0196988545358181,0.8925257921218872,0.08777537196874619
+AppleWatch,My Story of How the Apple Watch Saved My Life - Trigger Warning,"Trigger Warning!!!
+
+I’ve lurked here for a long time but have never posted but I figured this might be of interest to this sub. 
+
+4 weeks ago, my fiancé left me very suddenly after 5 years together. Fun fact: I proposed 2 years ago with an Apple Watch since she said she’d prefer that over a traditional ring. She had just bought her wedding dress a week before and I was completely blindsided and devastated by her leaving me. To add to it, she left me for her boss, who left his wife for my fiancé. Over the course of a couple weeks I would also find out that she had cheated on me on multiple occasions throughout the relationship as well. Needless to say, I have had a very hard time dealing with all of this. 
+
+On Saturday, July 7th I hit a low and attempted to hang myself. During the process of doing so I realized what I was doing and how terrible of a decision it actually was. My phone was across the room since I didn’t think I’d need it again but I had my Apple Watch on and I was thankfully able to use the SOS feature to call 911. Thankfully I was able to get enough hold on the floor on my top toes to remain conscious until the police arrived. Without my Apple Watch though, I know I wouldn’t be here today and for that my loved ones and I are so very grateful. 
+
+I know these stories of people using the watch and being saved come out from time to time but I wanted to share my first hand experience with you all. 
+
+
+TL;DR - Tried to commit suicide, saved by watch. 
+
+Edit: Thank you everyone for the support! It truly means a lot and is nice to hear right now. I honestly wasn’t expecting this much attention to be paid to this post but I am so happy that I posted it.",72,998,2018-07-14,AAPL,0.04671671614050865,0.9021304845809937,0.05115288496017456
+apple,New MacBook Pro updates mean we shall probably have a mostly desktop focused event in the fall.,"predictions…
+
+1. Mac mini updates.
+
+2. imac updates.
+
+3. a Mac Pro preview.
+
+4. new MacBook announcement?",239,522,2018-07-14,AAPL,0.04859500005841255,0.9204261898994446,0.030978752300143242
+apple,"We used ARKit to make a racing game where you can build tracks in AR, then race on them!","I’ve been playing around with ARKit since it launched last year, and so myself and a designer spent the last four months building an AR racing game called Room Racer! [Here’s a quick video of it in action...](https://gfycat.com/RemoteAnchoredEmperorshrimp)
+
+We were inspired by slot car race toys, like Scalextric and Hornby, and loved the idea of building tracks in basically anywhere using AR. I also built in the ability to do local peer-to-peer multiplayer across two different devices, so you can race on custom tracks with another player!
+
+Here’s a [link](https://roomracer.cool) to the game on the App Store - would love to hear what people’s thoughts are!",45,424,2018-07-14,AAPL,0.018997710198163986,0.9277525544166565,0.05324966460466385
+mac,"2018 MacBook Pros’ 3rd gen butterfly keyboard has improved dust-repelling mechanism, according to iFixit findings",,78,379,2018-07-14,AAPL,0.018701469525694847,0.8755943179130554,0.10570421814918518
+iphone,I learned that you can screen record without that annoying part at the end showing you turning it off by hitting the power button instead and turning your phone off.,[deleted],40,270,2018-07-14,AAPL,0.07399594783782959,0.8828403949737549,0.0431637205183506
+apple,A collection of 5K wallpapers that I AirDropped to myself from the iPad Pros at the Apple Store,"https://imgur.com/a/KbSbnxS
+
+Thought they looked awesome at the store, and they were all just sitting there in the Photos app. I've put them on screens all the way up to 21"" (although I would assume they'd look great on the 27"" iMac too). They're all spectacular.
+
+[Full resolution download link!](https://we.tl/eQl4MASxBO)",271,5935,2018-07-15,AAPL,0.011424130760133266,0.8932413458824158,0.09533451497554779
+apple,I just tripped over my 2017 rMBP's power cord,"It went flying off the table. It landed on carpet (fortunately), so nothing is damaged, but I still miss MagSafe. It also pisses me off that they no longer give the extension cable. If they still included the extension cable (which can't cost more than a dollar per unit), this wouldn't have happened. I'm annoyed they got rid of MagSafe, and I'm annoyed they got rid of the extension cord, but I'm \*really\* annoyed that they got rid of both at the same time.",699,2931,2018-07-15,AAPL,0.12540867924690247,0.8276093602180481,0.04698194935917854
+iphone,Just went back to 6S after 8 and holy shit they are almost same!,"This post is not for shading 8 but to prove that 6S is still an amazing phone. As a student i decided to sell my iPhone 8 and use the money to buy some other stuff. I bought an used 6S (battery capacity is %82 so i’ll change it as soon as i can). Touch ID is fast as fuck, it has 3D touch (i thought it came with 7) and the most surprising part to me is phone is at 11.4 and literally as fast as iPhone 8. I’m still surprised and impressed because my old phone before 8 was iPhone 5C and phone went to shit after each update lol. I was one of those people that’d always advise to never update the phone. If anyone is considering buying 6S in 2018, do it. It’s an amazing phone and besides camera (8 has the best camera i’ve ever seen in a phone but 6S is not bad, just normal if you compare them).",305,921,2018-07-15,AAPL,0.045584119856357574,0.8994690775871277,0.05494674667716026
+apple,"iPhone survives 1,000-foot plummet out of a plane, located by owner with 'Find my iPhone'",,57,715,2018-07-15,AAPL,0.02176317200064659,0.8937974572181702,0.08443935960531235
+apple,"Jailbroken iPhones can now run any iOS app in CarPlay, even Google Maps and Waze",,122,495,2018-07-15,AAPL,0.03455422446131706,0.9080929756164551,0.05735278129577637
+apple,"Discussion: I think it'll be great if Apple could implement a ""search"" feature for emoji's in iOS!","I'm not sure how Apple could implement it into the keyboard as a search bar could take up a lot of real estate on the screen, but I've spent too long trying to find that one obscure emoji on my iPhone and after searching for emoji's on my Mac at work it's just something I've gotten used to. I'd like to see this as a nice feature in iOS 12-13!
+
+Edit: Seems like a lot of people are suggesting the “autocorrect” emoji’s on iOS. I’m going to give them a go for a bit, but there are definitely some cons with using this. I remember that it removes the word if I press the emoji and sometimes doesn’t come up with the right emoji (try “heart”)",134,487,2018-07-15,AAPL,0.028507765382528305,0.9324126243591309,0.03907957673072815
+AppleWatch,Apple Watch S3 in salt water and pool (my experience),"Hello everyone! As you know, Apple Watch S3 waterproof even in salt water.So, I did my experiment: I was spending about 3 hours,10 days in a row, in sea and pool with my Apple Watch to tell you, how they are good in?
+
+So,at first I should say,that I was using they with silicon band.I was afraid,that band can undo,but it’s OK!Even jumping in water (4 meters) couldn’t undo it! Incredible!Nothing happened with color of band.
+
+What about aluminum case? It’s good,no scratches,damages or something related.
+
+If we speaking about activity,I had used built-in workout app and WatchOS 5 beta 3.Distance and calories are recording right (but sometimes distance can be different. Inaccuracy about 10-20 meters). I think,it’s better to use another app to record swimming activity 
+
+Salt and chlorine water caused no damage to Apple Watch at all (you should wash your Watch in regular water after swimming in sea,because salt can damage to waterproof layer)
+
+Summing up,Apple Watch showed yourself good in sea and swimming pool.
+
+P.S: My recommendation: please, use “Water lock” option,because screen thinking that water “touch” on it. It will be nothing worst if you forget to activate this before your swim,just recommended.
+
+Sorry for English,I’m from Russia )",70,323,2018-07-15,AAPL,0.027629060670733452,0.9351906776428223,0.03718022629618645
+apple,"Engineer and Developers MacBook Pro 15"" 2018 Review with Benchmarks, i9, 32GB, 4TB - Credits: Craig A. Hunter",,161,318,2018-07-15,AAPL,0.03313717618584633,0.9075897336006165,0.05927307903766632
+ios,"Never knew apps could do this on iOS, why don’t more give you the option?",,51,259,2018-07-15,AAPL,0.03240547701716423,0.919529378414154,0.0480651818215847
+apple,"I think Apple upgraded my Macbook Pro 15"" (tb, 2017) to the 2018 topcase.","Had a speaker blow out and sent it off the apple store to repair.
+
+Noticed the keys felt softer than what I was used to and had suspicions that my top-case was replaced with the keyboard from the newer (2018) line of macs, so I checked the battery capacity since that's a key difference between the 2017 and 2018 models.
+
+It appears they stealthily upgraded my Macbook Pro with not only the improved keyboard but also a larger battery! The 2017 tbMBP had a 76kwh (?) battery per spec sheet, whereas my new one has been bumped up to 86khw (!!)...
+
+https://i.redd.it/xcd37dnkd2a11.png
+
+Has this happened to anyone else?
+
+Edit: Looks like I’m wrong, people have debunked below in the comments :(",106,235,2018-07-15,AAPL,0.06255768984556198,0.8524962067604065,0.08494605123996735
+iphone,Watching Porn While Incoming Call,"Iphone 8+ phone call came in. I really needed to pickup ...so i did while porn was still playing. The phone muted the porn. No way the caller heard the porn if I couldn't hear the porn right?
+
+Update: should have done this earlier, but i checked by calling my phone with another phone while a video was playing. Confirmed. Couldn't hear it from the incoming phone call. Crisis averted.",200,4548,2018-07-16,AAPL,0.09547535330057144,0.8764697909355164,0.028054935857653618
+apple,Apple has a surprising amount of unsold iPhone X inventory | Cult of Mac,,664,1604,2018-07-16,AAPL,0.01851912960410118,0.8714683651924133,0.11001253128051758
+apple,"Apple teases out over 70 new Emoji coming to iOS and Mac this fall including red hair, super heroes, and lobsters",,287,1527,2018-07-16,AAPL,0.0184797290712595,0.8276387453079224,0.15388146042823792
+apple,Apple gives its leadership site a Memoji overhaul in celebration of World Emoji Day,,126,1292,2018-07-16,AAPL,0.02247973531484604,0.9150619506835938,0.06245827674865723
+AppleWatch,"If only it were so easy, Siri. If only…",,26,1092,2018-07-16,AAPL,0.02742093615233898,0.8765076994895935,0.09607135504484177
+apple,Apple’s App Store revenue nearly double that of Google Play in first half of 2018,,198,645,2018-07-16,AAPL,0.015229132026433945,0.21142685413360596,0.7733440399169922
+iphone,Dropped my AirPod and clearly she got to it first.,,67,532,2018-07-16,AAPL,0.13267487287521362,0.5716381669044495,0.2956870198249817
+apple,"MacBook Pro 13"" Touch Bar 2018 Teardown by iFixit",,196,507,2018-07-16,AAPL,0.1144043430685997,0.8527107238769531,0.03288491070270538
+apple,Apple Says Third-Generation Keyboards Exclusive to 2018 MacBook Pro,,134,470,2018-07-16,AAPL,0.016567036509513855,0.930136501789093,0.053296495229005814
+apple,"LPT: Do a Google search with Spotlight on MacOS... [CMD + Space] enter your search term, then [CMD + B] to search",One of MacOS hidden gems.,42,402,2018-07-16,AAPL,0.024980299174785614,0.9369927048683167,0.038026973605155945
+apple,The Core i9 15 inch MacBook Pro throttles itself,"Can't directly post YouTube videos.
+
+Here's what I wanted to share.
+
+https://www.youtube.com/watch?v=Dx8J125s4cg
+
+Spoiler: Someone bought the Core i9 15 inch 2018 MacBook Pro. It's actually slower than the Core i7 model because the i9 runs so hot that the machine underclocks itself so it won't melt. The i9 is faster than the i7 ... when he put the machine in a refrigerator.",2230,6338,2018-07-17,AAPL,0.020354541018605232,0.9304934740066528,0.049151986837387085
+apple,"Apple Granted 40 Patents Today Covering Stretchable Displays for iDevices and Smart Clothing, Gaze Controls &amp; more",,92,1410,2018-07-17,AAPL,0.01080983504652977,0.874069094657898,0.11512105166912079
+apple,I think apple is making a judgement error pricing the mpb the way it currently is.,"I love the Macbook Pro, and loved my 2011 workhorse. It could do everything, had that magical way of charging with magsafe, and was an all around joy to use: solid hardware, easy to understand software, the works. Not only that, it felt different from the other laptops out there. Nothing could charge like a macbook, and nothing felt as well built. 
+
+When I went to go purchase the recent MBP, I was upset that it was so expensive, and not just the device, but the ancillary devices as well. $80 charger that doesn't even come with a cable? Docks with the necessary ports not being included with the computer? Just to have a ""home base"" charger and an ""on the go"" charger for the mpb costs about $100, and that's after blowing $2000 for the computer itself. 
+
+I couldn't afford it, was forced to move to windows, and have been pleasantly surprised. Chargers are now $12, so I can buy multiple easily. Many Windows based laptops have ports still, and Windows is very friendly with other devices in terms of connecting wirelessly. The laptop was $800 cheaper, and while it hasn't been perfect, it has been more than reliable, and a blast to use. 
+
+Often, the discussion around apple is how great their marketing is, but marketing only goes so far. At one point or another, most people just want a solid, fast laptop that gets along with the things in their lives, and Apple just outright isn't offering anything at a reasonable price point for those people or professionals (and people like myself that aren't professionals, but want to feel that way). 
+
+The more apple pushes people to pay more for what is becoming an increasingly slim margin of difference in terms of hardware and OS experience, the more I sense that there will simply be fewer mpbs around, and that's a shame. What used to come off as the laptop for creative professionals is feeling increasingly like a luxury fashion statement, and I just don't like thinking of apple in that light. 
+
+Any shared sentiments?",832,1387,2018-07-17,AAPL,0.025740547105669975,0.9108713865280151,0.06338806450366974
+AppleWatch,When I'm in the window seat on a flight and am close to reaching my daily goals just before midnight,,28,1206,2018-07-17,AAPL,0.017765963450074196,0.27533167600631714,0.7069023251533508
+iphone,iOS 12 beta 4 developer ready ✌🏻,,170,888,2018-07-17,AAPL,0.016123618930578232,0.8680952787399292,0.11578113585710526
+apple,TIL how messed up and confusing the whole USB C / Thunderbolt situation really is,,198,802,2018-07-17,AAPL,0.3043687343597412,0.6666038632392883,0.02902735210955143
+AppleWatch,Apple should move the date to the left side when it’s covered by the clock hands on the Utility face,,75,437,2018-07-17,AAPL,0.04559348151087761,0.9296146035194397,0.024791942909359932
+apple,Apple No Longer Offering Free Out-of-Warranty Repairs of iPhone 7 Models With Grayed-Out Speaker Button,,119,318,2018-07-17,AAPL,0.03672391548752785,0.9193607568740845,0.04391532763838768
+mac,What about this as a way to frame an Apple 1 PCB?,,36,276,2018-07-17,AAPL,0.021028531715273857,0.9009847640991211,0.07798672467470169
+apple,"One thing that holds the iPad back from being Pro, is the inability to have the same app open in separate windows.",,85,223,2018-07-17,AAPL,0.02946651168167591,0.9322774410247803,0.03825608268380165
+apple,MacBook Pro 2018 outperformed by the 2017 model due to thermal throttling.,MacBook Pro 2018 with the Intel Core i9 processor throttled itself and has been outperformed in rendering by the 2017 model. https://www.youtube.com/watch?v=ip-sZfWaVo0&amp;t=04m35s,780,3280,2018-07-18,AAPL,0.03281627595424652,0.9073216915130615,0.059862032532691956
+iphone,A slight upgrade,,353,2979,2018-07-18,AAPL,0.10216432064771652,0.776710569858551,0.12112502008676529
+apple,Tested: Thermal conditions in the 2018 i9 MacBook Pro dramatically hampering performance,,845,2527,2018-07-18,AAPL,0.015405652113258839,0.9028967618942261,0.08169758319854736
+iphone,What happens when you buy cheap Chinese batteries,,145,1263,2018-07-18,AAPL,0.014781451784074306,0.890859842300415,0.09435868263244629
+apple,"Apple dropped the ball with MacBook Pro, Seriously.","For a year now, I’ve been waiting for Apple to refresh their MacBook lineup since Mac is the only laptops that I like and I use... I’d rather get a Mac Air than a high end Windows PC because I love macOS that much.
+
+But now..
+
+I cancelled my order for the 2018 MBP TouchBar (16GB RAM/i9/15”) following the numerous accounts of users having issues with it and now the whole throttling thing.
+
+First of all, who would buy a MBP with i9 and 32GB RAM? A Pro. A causal user won’t get the i9 merely for web surfing and watching movies. 
+
+What’s the point of having an i9 CPU Mac if it ends up throttling itself before its even pushed to its limit? That’s like having a Lamborghini that can only touch 150kmph for a few seconds and then throttle down to 65kmph again, and you need run a full lap with it.
+
+How could possibly Apple make a move like that? 
+
+First they don’t replace the faulty 2017 keyboards with 2018 ones, now they release a Mac which has all the power a Pro would need, but can’t use it for anything it is meant to be used for.
+
+Then the whole USB-C port thing which began in 2016’s MBPs. That was a change which wasn’t required and was made just for the sake of it. 
+
+It Speaks volumes about their quality and the direction they’re headed with the Mac. 
+
+*With Apple I’ve come to expect a level of quality and performance unmatched in the industry, but not anymore, not at least this time. But then again, I’m not an expert to verify this and as a consumer, my assessment is based on the accounts of numerous reports in this sub and elsewhere. I’m hoping there is a possible software fix for this case.
+However, I’m not mad at them, just disappointed. Even more disappointed when I look at the MBP 2015, it was exceptional.*",627,1213,2018-07-18,AAPL,0.04784215986728668,0.9100309610366821,0.04212693125009537
+apple,[Opinion] Apple painted themselves into a 'Thermal Corner' with the Macbook Pro just like they did with the Trashcan Mac Pro.,"A while back Daring Fireball did a very cool and very exclusive [""The Mac Pro Lives"" article](https://daringfireball.net/2017/04/the_mac_pro_lives) 
+
+In it, there are some very interesting statements by Craig Federighi and Phil Schiller: 
+
+**Federighi:**
+
+&gt; I think we designed ourselves into a bit of a thermal corner, if you will. We designed a system with the kind of GPUs that at the time we thought we needed, and that we thought we could well serve with a two GPU architecture. That that was the thermal limit we needed, or the thermal capacity we needed. But workloads didn’t materialize to fit that as broadly as we hoped.
+
+&gt; Being able to put larger single GPUs required a different system architecture and more thermal capacity than that system was designed to accommodate. So it became fairly difficult to adjust. At the same time, so many of our customers were moving to iMac that we saw a path to address many, many more of those that were finding themselves limited by a Mac Pro through next generation iMac. And really put a lot of our energy behind that.
+
+**Schiller:**
+
+&gt; As we’ve said, we made something bold that we thought would be great for the majority of our Mac Pro users. And what we discovered was that it was great for some and not others. Enough so that we need to take another path. One of the good things, hopefully, with Apple through the years has been a willingness to say when something isn’t quite what we wanted it to be, didn’t live up to expectations, to not be afraid to admit it and look for the next answer. 
+
+-----------------
+
+I'm willing to bet that Apple was hoping Intel's new CPU's were going to run cooler than they actually do. Unfortunately for everyone, Coffee Lake has higher power consumption than Kaby Lake... As seen in the very detailed section under this [NotebookCheck review](https://www.notebookcheck.net/Apple-MacBook-Pro-13-2018-Touch-Bar-i5-Laptop-Review.316648.0.html) Which talks about how Performance per watt is worse on Coffee Lake compared to Kaby Lake.
+
+Generation|Architecture Name|Process|Model|Cores|Clock (Base-Turbo)|Max Power (tested)|Official TDP|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+8th Gen |Kaby Lake R |14nm+ |[i5-8250U](https://ark.intel.com/products/124967/Intel-Core-i5-8250U-Processor-6M-Cache-up-to-3_40-GHz)| 4 cores| 1.6Ghz / 3.4Ghz | **41W** | 15W | 
+8th Gen |Coffee Lake |14nm++ |[i5-8259U](https://ark.intel.com/products/135935/Intel-Core-i5-8259U-Processor-6M-Cache-up-to-3_80-GHz)| 4 cores| 2.3Ghz / 3.8Ghz | **51W** | 28W |
+
+This table is a summary table of that section of their review. For those extra 0.4 Ghz, the chips have a 10W higher power consumption at peak performance. Performance per watt is down, and while these new chips have a microcode update for patching the spectre vulnerability, perhaps Intel had to bump up the clocks so this new chip didn't perform worse than the previous generation... (That's a guess for a likely reason for why we see these changes). 
+
+Unfortunately history is repeating itself here - Apple left no thermal headroom on the MacBook Pro, and the extra power consumption, and resulting heat is just too much for these machines. This seems to be EXACTLY what happened with the Mac Pro (2013) which was tiny, but barely enough to manage thermals.  
+
+This is of course made MUCH worse by [Apple's asinine fan curves](https://www.youtube.com/watch?v=wgeh7ZJRhZU)
+
+------------
+
+I really hope, if apple is serious, that this generation of MacBook Pros (2016-2018) is set aside and Apple refocuses on Professional computing like they are with the new Mac Pro desktop they have in the works. Until then, I'm not buying a new MacBook Pro - I need a pro machine I can travel with (best tool for my needs) but for now, my 2014 MBP will suffice.",309,700,2018-07-18,AAPL,0.033606357872486115,0.9221521615982056,0.0442415252327919
+apple,Well I had to do it. Thanks Dave2D for keeping it real,"I ordered the i9 MBP over lunch. When I got home I was bombarded with the bad news on the i9. I knew previous laptops had similar issues, but for some reason I felt apple would get it right. 
+
+Fool me once, shame on you, fool me twice, shame on me.
+
+[Canceled MBP order](https://i.redd.it/7xy1qt81ina11.png)",235,697,2018-07-18,AAPL,0.22753119468688965,0.7076797485351562,0.0647890493273735
+mac,From 2013 2.6Ghz i7 to 2018 2.9Ghz i9...stoked! This is such a huge upgrade.,,310,546,2018-07-18,AAPL,0.02914074994623661,0.8669267892837524,0.10393249243497849
+mac,MacBook Pro 15 (2018) - Beware the Core i9,,194,427,2018-07-18,AAPL,0.025003617629408836,0.9182523488998413,0.05674400553107262
+AppleWatch,Finally got a leather loop (midnight blue on Series 1),,46,424,2018-07-18,AAPL,0.03098149411380291,0.7358336448669434,0.23318490386009216
+apple,Apple Confirms 2018 MacBook Pro Keyboard Has 'Membrane' to 'Prevent Debris From Entering the Butterfly Mechanism' - Mac Rumors,,434,3057,2018-07-19,AAPL,0.013082175515592098,0.8430159687995911,0.14390183985233307
+iphone,Had my boyfriend replace my iPhone 7Plus rose gold with a black screen. I’m in love!,[deleted],204,2169,2018-07-19,AAPL,0.028585875406861305,0.8806564211845398,0.09075767546892166
+apple,I think it’s fair to say now that Apple Engineer’s don’t know where the volume HUD code is on iOS. It’s just ridiculous at this point,,235,734,2018-07-19,AAPL,0.10214347392320633,0.8754613995552063,0.022395165637135506
+apple,What's In a TDP? Examining the Thermal Issues in the New MacBook Pro,"Buckle up, I'll try to keep this as technical as I can while also keeping it accessible to pretty much anyone who visits this sub and not rambling on for too long. To preface, this post is not meant in any way to be some sort of apology for Apple or to place any kind of blame on Intel. It is simply an objective analysis of the thermal performance of the 13 and 15 inch MacBook Pros in the current form factor released in 2016. I'm a 3rd year Computer Engineering major (which isn't that much admittedly) with a lot of time today since its my day off work and I feel like writing something, so lets get to it.
+
+Edit: This ran on longer than I wanted, so check the TL;DR at the bottom for a quick summary and then come back to look at specific sections if you want more details.
+
+
+**The TDP**
+
+Apple uses Intel's 15W and 28W mobile U-series CPUs in the 13-inch MacBook Pro and 45W CPUs in its 15-inch. It has done so for several generations, going back to at least the retina redesign. TDP stands for Thermal Design Power, and it is essentially an estimate of the average power in watts that a CPU dissipates under full load. This is actually a rather vague definition, because the amount of heat under full load can actually vary quite a bit based on the type of load itself, the temperature of the CPU, and the voltage supplied to it. The current official Intel definition can be found [here](https://ark.intel.com/products/126684/Intel-Core-i7-8700K-Processor-12M-Cache-up-to-4_70-GHz) and is as follows: 
+
+&gt;	Thermal Design Power (TDP) represents the average power, in watts, the processor dissipates when operating at Base Frequency with all cores active under an Intel-defined, high-complexity workload. Refer to Datasheet for thermal solution requirements.
+
+[Now take a look at what happens](https://imgur.com/a/cQxsDOI) when I run the default torture test in Prime95 for 5 minutes, with the fans manually set to maximum using Macs Fan Control on my 2015 MacBook Air with a 15W CPU. Notice that at the max boost clock of 2.5 Ghz and full CPU utilization the amount of power consumed by the CPU is around 15W, right where the TDP says it should be. The spike in the last few seconds of the test is due to a new test starting in Prime95, but since there is a decent amount of thermal headroom before the max operating temperature of 105 degrees I believe it would have stabilized again. Prime95 is in fact one of the most intensive CPU stress tests you can run, so if a cooling solution can handle its CPU under sustained load here it can do so with pretty much any load.
+
+What matters here is that even under the most intensive pure CPU load I could throw at it, my MacBook’s cooling solution was enough and the 15W processor stayed basically within its TDP at full load and all-core boost. Even though Intel states that TDP applies to base clock speed, they typically had plenty of room to boost and still not go above TDP. The specific CPU in my MacBook is a Broadwell i5 5250U, the entry level SKU in a series that went up to the i7 5650U. If it were to run at 1.6 Ghz instead of its 2.5 Ghz boost I doubt it even would draw 10W. This result, that the entry level processor will hit its TDP at full load in something like Prime95 continued to hold all the way to Kaby Lake. [Here are several results](https://imgur.com/a/WnFF31m) in Prime95 taken from [Notebook Check](https://www.notebookcheck.net) where laptops using Kaby Lake H-series processors all ended up drawing around 45W while holding near the entry level i7 7700HQ’s all-core boost clock of 3.4 Ghz. At the i7 7700HQs base clock of 2.8 Ghz should draw only 30 to 35W of power.
+
+
+**How Things Have Changed**
+
+When Coffee Lake (and Kaby Lake R) launched, Intel’s U and H-series processors each gained two additional cores across the board. While base clocks were lowered in return, Intel’s specified boost clocks including the all-core boost clock shot up significantly. And yet, the Intel specified TDP for every processor in these series remained unchanged! This would suggest that the entry level i7 8750H (the successor to the 7700HQ) could potentially pull 45W or maybe just a bit more at its full 6-core load at the impressive all-core boost clock of 3.9 Ghz. **This is not even close to true.** [Here is an example of the i9 8950HK](https://imgur.com/a/YpZNHko) running at 3.8 Ghz, where it pulls not 45W but an absolutely insane 105W of power! Obviously no notebook designed around a 45W envelope would stand a chance at cooling such a beast at these clocks, only a massive gaming/workstation laptop would hope to do so at all.
+
+Whereas previously the entry level processor had a tendency to hit the TDP for its class at full all-core load, the addition of more cores and even higher boost clocks at the exact same TDP means that this just plainly isn’t true. **We have finally come full circle to Intel’s official definition of TDP, which suggests a CPU will draw power equal to its TDP at full core load at its base clock speed.** Up until Coffee Lake this definition of TDP was basically an upper limit to how much heat a CPU could put out at base clocks, with most models not even coming close to hitting it until until well into boosting or even at max boost. But now with Coffee Lake Intel has gotten far more aggressive with its base clocks and boost clocks. Intel is now leaving very little room for any boost clocks at all before its CPUs hit TDP power usage and essentially exactly following its definition on the high tier models. So we should expect Intel’s 8th gen H-series CPUs to draw around 45W in Prime95 at full load at the 2.9 Ghz base clock speed of the top of the line i9 8950HK. [Here are several results](https://imgur.com/a/ZL94TxB) that back up this claim, where laptops with 6-core H-series tend to draw their rated 45W TDP at a clock speed of just around 2.8 to 3.0 Ghz which is exactly as expected based on Intel’s definition now that the are following it so closely.
+
+**What This Means for the MacBook Pro**
+
+For this section I will focus on the 15-inch MacBook Pro, as it uses the H-series processors we just discussed and has been under fire the most for throttling issues. [Looking at Prime95 stress tests and the reports from Notebook Check for both the 2016 and 2017 models](https://imgur.com/a/SIpTQnr), we can see that the cooling system is reportedly able to handle the all-core boost clock of their Skylake and Kaby Lake 4-core H-series CPUs. This makes sense, since just like my MacBook Air their cooling system is precisely engineered to dissipate their CPU’s manufacturer defined TDP and supports that the current design can dissipate up to about 50W of heat. However, now that TDP is much more strictly defined at the base clock instead, we should not be expecting the same result at all regarding boost clocks. Instead, the 2018 MacBook Pro should be able to hold its base clock speed of 2.9 Ghz with the i9 at full load where the CPU is producing the same 45W of heat. [Indeed, in a test where](https://www.youtube.com/watch?v=IoyWXjF1WWg) /u/Aea sets his fan speed to max and runs Prime95 the machine is able to successfully hold that speed while dissipating about 48W of power at a temperature of 94 degrees, a little below the CPU’s max operating temperature of 100 degrees.
+
+
+**Thermal Throttling**
+
+In the past, the consensus was that any drop below the processor’s max all-core boost clock would be considered thermal throttling, but a drop of a couple hundred Mhz under load could be overlooked as long as it didn’t fall below the base clock speed. This mindset was based on the old interpretation of Intel’s TDP definition, and leads us to believe that the new MacBook Pros should be able to hold their boost clock of nearly 4 Ghz or close to it under sustained load with the same cooling system even though they would actually be pulling around 100W of power. [An older 2016 or 2017 model that throttled to its base clock would end up pulling around 30 to 35W](https://imgur.com/a/KEZGRHQ), but when the current 2018 model throttles to the same power output [it will end up at clock speeds of around 2.0 to 2.3 Ghz](https://imgur.com/a/CxXH6is). 
+
+Why Intel decided to change the way its base and boost clocks work is beyond me (although I can hazard a guess that it was in reaction to AMD’s recent success with Ryzen), but the end result is that a processor that can hold its base clock or a little higher is still not throttling and even a slight drop should be overlooked if we keep the same mindset as before. Throttling should only really be considered an issue if the system can’t maintain within a few hundred Mhz of its base clock in an intensive, pure CPU load such as Prime95. Going back to the test done by u/Aea, it appears the current MacBook Pros can do just that and should perform better than last gen models in heavily multi threaded workloads.
+
+
+**Why Performance has Dropped**
+
+Unfortunately, performance will not always be better as lots of results have shown in the media lately. For one thing, the new lower clock speeds at the CPU’s TDP mean that programs which depend more on single thread speed could suffer if the other cores are also being stressed in some way. The old i7 7700HQ running at 3.4 Ghz would be faster than the new i9 8950HK in such situations, even though in bursts of isolated single threaded loads the i9 should be noticeably faster thanks to those potentially higher boost clocks.
+
+Perhaps the bigger reason why results are not as fast as last year’s model is that the new beefier CPU takes an even greater hit in mixed CPU and GPU loads such as in Adobe Premier. In the MacBook Pro, the CPU and dedicated GPU share the same 45W envelope. This means that any time the GPU is put under load the CPU will have no choice but to throttle back in order to keep temperatures under control. [Here is that mixed test using Prime95 and FurMark on the 2017 Pro](https://imgur.com/a/2fgzvZM) which results in the 7700HQ dropping down to just 2.4 Ghz and 26W while the GPU sits at 700 Mhz and 27W. The cooling system is able to work better with the more spread out load across two dies and process a larger 53W of heat, but the individual performance of each component is severely impacted. [For reference, an 8950HK should pull a similar amount of heat](https://imgur.com/a/2LY5INn) at clocks around 1.9 Ghz which lines up with reports of the processor dropping down close to 2.0 Ghz in certain loads.
+
+
+**What Apple Can Do**
+
+One quick fix Apple can do is make it so the fan speed ramps much more quickly than it does now. Before when the CPU went to its boost speed the CPU was only drawing 45W and so the cooling system had time to catch up, even though currently fans can take over a minute of sitting at 90+ degrees to hit full speed. But now hitting those boost clocks mean the CPU is potentially drawing around 90W of power, double that of what the cooling system is capable of handling at even full fan speed! Right now the processor throttles down hard after a few seconds, and then proceeds to rapidly spike and fall in clock speed while the fans slowly turn on. While obviously it won’t hold those high boost clocks no matter how fast the fan ramps, it could hold them for longer and hopefully reach a steady clock speed while pulling 45W sooner if Apple were to make the fans spin up much quicker.
+
+This actually brings me to another point, which is that these new CPUs are facing a problem with settling in to a steady clock speed. Most reports on the throttling issues show that after the initial spike in clocks and heat, the clock speed then goes on to fluctuate wildly around its base clock or maybe a bit lower. For some reason the CPU keeps trying to draw way more than the system can handle by boosting and then it throttles hard right after. In other examples the CPU is running perfectly fine at its base clock speed, and then proceeds to throttle hard all the way down to even 800 Mhz when the CPU temp has barely even reached 80 or 90 degrees. Ideally, the CPU would let itself pull those 90W of power to attempt to complete quick burst loads, and then if the load continues after the CPU temp has shot up the fans would kick in to max and the CPU would throttle down to around its base clock where it would hold steady and draw a manageable 45W of power.
+
+Edit: It has been brought to my attention that the throttling that results in extreme spikes in frequency down to 800 Mhz is most likely VRM throttling. With how much power these CPUs compared to their rated TDPs its honestly not too surprising that the VRMs would struggle to supply that much power.
+
+
+**TL;DR**
+
+With Kaby Lake and all generations before it, Intel’s CPUs ran below TDP by a wide margin at base clocks and had room to boost and still stay below that TDP. However, when two more cores were added and boost clocks were raised with Coffee Lake the TDP much more strictly applies to the CPUs base clock speed while boost clock speeds blow past it. The current MacBook Pro chassis has been shown to be capable of dissipating around up to 50W of heat, meaning that while the 2016 and 2017 models can hold their boost clocks at full load the new 2018 model will only be able to hold its base clock speed where its CPU produces the same 50W as last years model. Any throttling on the older models would bring the CPU clock speed down to around its base clock, but the same amount of throttling now brings clock speeds noticeably lower than the base clock instead. 
+
+While the old CPUs could only produce up to 45W at full boost clocks, the Coffee Lake chips will now draw up to 100W at their own. This amount of power is far beyond what the MacBook Pro was designed for, and will only reasonably be held for a short amount of time before the temperature spikes way up, at which point the CPU should throttle back down to its base clock speed where it produces 45W and the cooling system can keep the clock speed steady. However, the fans in Macs take notoriously long to ramp up so this does not happen and clock speeds tend to rapidly spike up and down without much control right now. Additionally, in loads where the CPU and GPU must work at the same time clock speeds fall even more than before thanks to those two extra cores and performance may drop below the old levels.
+
+Edit: Its been pointed out to me that I make it sound like Intel changed the definition of what TDP is but that wasn’t my intention at all. It is Intel’s interpretation of their definition that has changed, as they now take it pretty much literally. Intel has always stated that the TDP applied specifically to the base clock, but in Kaby Lake and earlier and especially on entry level models Intel CPUs output far below TDP at base clocks such that boost clocks were a better representation of TDP. What I meant to express is that Intel’s boost clocks used to hold at least somewhat close to TDP or even right at it if its an entry level processor like the i7 7700HQ, but now boost clocks just blow past it completely starting with Coffee Lake. I’ve made some small changes to make this more clear.",159,704,2018-07-19,AAPL,0.0691627012565732,0.8966979384422302,0.03413938079029322
+apple,"The MacBook Pro is the top Apple laptop for students, and casual uses. Should Apple offer an actual pro version that is thicker and works better for ""pro"" users?","I was reading about how they cornered themselves into a wall. They can't make it thicker, or no one will buy it. But what if they introduced an entirely new laptop? They could make it as thick as they want because it's completely new and not based off anything.",385,540,2018-07-19,AAPL,0.015323629602789879,0.8695816397666931,0.11509476602077484
+apple,2018 13-Inch MacBook Pro With Touch Bar Has Four Full-Speed Thunderbolt 3 Ports,,185,520,2018-07-19,AAPL,0.025141267105937004,0.9161558747291565,0.05870291218161583
+mac,From a base 13” MacBook Pro retina from 2014 to a brand new i7 5K iMac.,,59,392,2018-07-19,AAPL,0.017549071460962296,0.8920236229896545,0.09042730182409286
+apple,This guy is making Windows Precision Touchpad drivers for MacBook Pro,"[Here](https://www.youtube.com/watch?v=O2wt280T6ZM&amp;frags=pl%2Cwn) is a video of the drivers in action on a MacBook Pro running bootcamp, looks really good!
+
+[This](https://github.com/imbushuo/mac-precision-touchpad) is his GitHub where he's developing it further. With drivers like these I'm tempted to give bootcamp another try, the lack of good trackpad drivers is a huge reason why I won't use Windows on my Mac",44,303,2018-07-19,AAPL,0.014665060676634312,0.8747159242630005,0.1106189638376236
+AppleWatch,Found a Sea Blue Classic Buckle on clearance for half price,,14,301,2018-07-19,AAPL,0.026178738102316856,0.8462685346603394,0.12755273282527924
+iphone,Learned about fast charging today,"So I went to the shop looking out for wireless chargers and the sales guy was so kind to teach me heaps of stuff. 
+
+In the end I didn’t buy anything because I learned that all iPad charger has bigger watts, around 10-12 whilst the charger that comes with the phones are just 5W which means bigger watts = faster charging. 
+
+So, im charging my phone now with the ipad charger and hell yeahz its faster charging! 
+
+Maybe im dumb not knowing this (or about watts) but im glad I knew!",118,269,2018-07-19,AAPL,0.022982262074947357,0.9054284691810608,0.07158932834863663
+apple,"Dear Apple, Can you please create a filter to eliminate games with in-app purchases?","I loathe games that bait you with a free version, but then require a sizeable investment to unlock game content.  As a parent, I think we’re at risk of creating a generation of gamblers with some of these “coin” purchases in the same way Chuck E. Cheese and the majority of their games are jr. versions of slot machines.  I’m not asking for these game developers to be hindered from developing in this business model, I’m asking to have the ability to filter them out when browsing.  PS:  If you’re a game developer, please just offer up your game for $10, or whatever, for all content or offer a one time “season pass” for all updates.
+
+EDIT:  I only mean search filter.  Developers:  go hard with your in app purchases, I just want the ability to opt out of seeing them and the current predatory state of capitalism.",264,2346,2018-07-20,AAPL,0.024480151012539864,0.9297335147857666,0.04578632861375809
+apple,MacBook Pro i9 Throttling Megathread,"Hi there,
+
+We've seen an influx of posts about the recent MacBook Pro refresh - specifically, the i9 throttling scandal (dubbed ThrottleGate). For those of you who aren't quite up to speed:
+
+- [Dave Lee's Video](https://www.youtube.com/watch?v=Dx8J125s4cg)
+- [Apple Insider's Article](https://appleinsider.com/articles/18/07/18/tested-thermal-conditions-in-the-2018-i9-macbook-pro-dramatically-hampering-performance)
+- [Gizmodo's Article](https://gizmodo.com/why-apple-s-best-macbook-pro-is-too-powerful-for-its-ow-1827724731?IR=T)
+- [MKBHD's Video](https://youtu.be/cVCRAKDt21E)
+- [iPhonedo's Video](https://www.youtube.com/watch?v=ufSXfWdSWiE)
+
+---
+
+In interest of consolidation, **please post all personal observations in this thread - your thoughts, opinions, and personal testing all belong here. Any personal observations will be removed and redirected here**. Posts from external news sources about developments to this story belong outside this thread in their own dedicated posts. 
+
+Please ask all your questions regarding the issue - including whether you should buy the machine - here.
+
+**Standard subreddit rules apply. Please be civil.**",1259,1514,2018-07-20,AAPL,0.041194140911102295,0.9391055107116699,0.019700344651937485
+apple,Lost Mode is Amazing!,"Screenshot: https://i.imgur.com/EiQadqT.jpg 
+
+So I went on my first ever business trip from San Diego California to Little Rock Arkansas. I had a connecting flight and so when I left the first plane and boarded my second connecting flight, I realized right when the plane doors shut that I left my work phone in the seat pocket in front of me....
+
+I got so nervous and felt like crap that right when I got hired and was given the opportunity to travel, I lost my work phone already. I opened up a lost &amp; found report with Southwest and put my phone into lost mode with contact information as it was offline at the time. I also sent it a couple of pending beeps for it to play out loud the minute it gets signal again as it was on silent and was hoping it would grab somebody's attention. 
+
+7-8 hours later, it FINALLY gets a signal and my email alerts me of its location. Then about 15 minutes later after I get the good news sent from iCloud to my email that my phone has been found, I get a call from a passenger telling me they found my phone and will turn it into Southwest baggage claim in Manchester, New Hampshire. From there, the Southwest rep was super friendly and helped me get it shipped back to San Diego with FedEx express overnight delivery. While it has been staying on lost mode the whole time, I was able to track the phone flying literally all across the nation going back to my home quicker than my itinerary. It was so interesting to watch my phone traveling all across the nation and was amazed with the battery life as well since I haven't had it for almost 3 days! 
+
+I can safely say that Lost Mode totally saved my butt here for this trip and if it weren't for the sounds pinging on my phone and showing contact information, nobody would have been able to really help me out and it probably would have been piled up at a lost and found or who knows ¯\\\_(ツ)\_/¯",116,1132,2018-07-20,AAPL,0.07928922027349472,0.8847296237945557,0.03598117083311081
+mac,Bought wife new MacBook Pro after five years of asking for one. It’s sat for four days unopened and I can’t take it.,,143,858,2018-07-20,AAPL,0.035470150411129,0.9160915017127991,0.04843837767839432
+iphone,I just finished making a miniature AR racing game using ARKit! (Giveaway in comments),,141,796,2018-07-20,AAPL,0.017934516072273254,0.9020260572433472,0.08003944158554077
+mac,Got my First ever Mac today! I also got a magic mouse and I can't wait to finally be able to use macOS!,,165,574,2018-07-20,AAPL,0.012180401012301445,0.8808736205101013,0.10694599896669388
+apple,Opinion: It’s long past time for Apple to fix its three biggest iCloud problems,,230,457,2018-07-20,AAPL,0.05140961334109306,0.9066676497459412,0.041922677308321
+AppleWatch,And what time is it!!!???,,28,358,2018-07-20,AAPL,0.06805295497179031,0.852737307548523,0.07920969277620316
+mac,My setup! What do you think?,,163,316,2018-07-20,AAPL,0.04314218461513519,0.8714755177497864,0.08538229018449783
+iphone,iPhone 8 Plus location is making my girlfriend think I’m cheating,"Almost every morning, my girlfriend sends me screenshots of my location on messenger that shows me about a couple streets behind my actual house. Seeing as how I’m sleeping at home, this is quite problematic. Is it a location problem or just messenger’s?",187,280,2018-07-20,AAPL,0.4031761884689331,0.5650433301925659,0.03178050369024277
+iphone,Sick upgrade! 3G to 4s! /s,,186,2401,2018-07-21,AAPL,0.15139420330524445,0.7819658517837524,0.0666399896144867
+apple,India May Ban iPhones If Apple Continues To Refuse To Add The Do Not Disturb App To The App Store,,336,1281,2018-07-21,AAPL,0.6814764142036438,0.30097946524620056,0.017544157803058624
+apple,Jonathan Morrison's 2018 MacBook Pro i9 extensive testing,"He is one of my favourite tech Youtubers and performed extensive tests on the 2018 i7 &amp; 2018 i9 MacBook Pros.    
+Link - https://www.youtube.com/watch?v=Y-p9-QZSdPM    
+
+Software tested -
+
+* Final Cut Pro X
+* Lightroom
+* Adobe Premiere Pro
+* DaVinci Resolve
+* Compresser
+
+He used a bunch of different footage from different cameras in various formats and codecs to make the tests as diverse as possible.
+
+Results?    
+The i9 model beat the i7 model every single time.      
+The only time when thermal throttling occurred was in Premiere Pro (which isn't well optimised for macOS).   
+
+He mentions that he will perform further tests comparing the 13"" models as well.     
+So there you have it, maybe it's not as grim as it sounds?",599,1055,2018-07-21,AAPL,0.02259139157831669,0.931678831577301,0.04572974145412445
+iphone,How iPhone's Live Photo feature is bringing justice to my buddy,"To keep a long story short, my good friend was recently assaulted by a road-raging driver. After the altercation my buddy was all bloodied up and managed to pull his phone out just in time as the driver was speeding away. He grabbed a quick picture that ended up being blurry and for days didn't realize it was a Live Photo until he sent it to me. After a couple of replays we were able to clearly get the license plate # and detectives are on the case to bring the POS down. 
+
+
+Moral of the story: Live Photos aren't as pointless as I thought",30,622,2018-07-21,AAPL,0.043427884578704834,0.9222865104675293,0.034285567700862885
+iphone,"If you’re sick of having Apple Music shoved in your face, you can turn it off in settings.",,95,529,2018-07-21,AAPL,0.0686655268073082,0.8756554126739502,0.05567910149693489
+apple,Useful tip for anyone who has a friend or family member who starts recording video vertically before rotating their phone resulting in one of those horrendous sideways-vertical video monstrosities...,"...I hope the title makes sense. 
+
+My mum does this all the time and, because iOS doesn’t allow you to change the orientation of a video in the stock photos app (I’m not sure why, it lets you do it for photos...), the way I’ve fixed this in the past is to open iMovie, create a new movie, import the video I want to fix, change the orientation using the ‘twist’ gesture, export the video to camera roll. 
+
+This works fine but it takes a while and you end up with a new video which goes to the bottom of your camera roll meaning it’s out of sequence plus you have to delete the old video manually, not ideal. 
+
+Anyway, I figured out today that you can just edit the video in the stock photos app, click the ‘more’ button and select iMovie from the options. This opens the iMovie ‘extension’ (still in the photos app) allowing you to use the ‘twist’ gesture and save. That’s it. The video is rotated and saved right back where it was. No new video is created and there’s no need to delete the old one either. Really straightforward. 
+
+I’ll guess a number of you probably know about this or some other way but for those that don’t, it’s quite handy if you find yourself in a similar position to what I often do.",85,523,2018-07-21,AAPL,0.024278748780488968,0.9173194169998169,0.058401886373758316
+apple,95% of my computing work can be done on my iPad Pro.,"It’s just that annoying 5% that’s really frustrating. I’m studying Maths and Physics at university, and they require access to Matlab and RStudio.
+
+Apart from that, I’ve been sailing along nicely using just my iPad. All my reports are done in Word or Pages, I hand write all my notes in Notability, and I organise all my assignments and documents in PDF Expert. 
+
+With all the hoohah regarding the MacBook Pro throttling going on, it’s made me appreciate how utterly fantastic the iPad is. I just wish I could use it for everything. 
+
+Who else is in a similar boat? I’d be interested to hear some other stories/perspectives. 
+
+EDIT:
+
+I just wanted to clarify my situation to provide a little context. 
+
+I am indeed a first year student like someone wondered below, so I fully realise that my workflow is going to be much different as I progress. 
+
+This whole “iPad-as-main-computer” thing is actually a bit of a personal experiment. About a year ago, my MacBook Pro was stolen, and I didn’t have the money to replace it at the time. It  happened to coincide with Apple really kicking off their iPad campaign, so I decided to give it a go. 
+
+Now I *obviously* know my daily usage is very, very different to many of you down below. 
+I seem to have ruffled a few feathers; I’m not so naïve to assume that my approach will work for proper professionals. But that’s not the audience the iPad Pro is aimed at, I think.
+
+However it suits me *at the moment*, and probably many other people who have simple workflows that can easily change and adapt and don’t need to adhere to certain programs. 
+
+I will be getting a Mac in the near future anyway, as I plan to change my Physics major to Computer Science, which naturally requires a proper computer. 
+
+Thanks for all your replies.",282,497,2018-07-21,AAPL,0.03721947595477104,0.9297728538513184,0.033007655292749405
+AppleWatch,When you have birthday.,,71,491,2018-07-21,AAPL,0.06642434000968933,0.8134321570396423,0.12014345079660416
+apple,UI inconsistency between iTunes and Music.app constantly messes me up.,"https://i.imgur.com/YWCPx7f.jpg
+
+Anyone else constantly finding themselves pushing the left side of this bar on their phone when they want to see their library? Or the other way around on their Mac? I don't know how this inconsistency got past Apple.",50,389,2018-07-21,AAPL,0.051093947142362595,0.9115999937057495,0.037306081503629684
+apple,Intel has now removed the Intel® Power Gadget for Mac (CPU frequency/power/energy usage tool) from their website. Coincidence?,,93,301,2018-07-21,AAPL,0.16784758865833282,0.812167227268219,0.019985204562544823
+apple,Someone uploaded the internal iPhone X battery replacement guide,"I’m not the uploader, I just stumbled upon this internal training video
+https://youtu.be/MGv7qHlCX0Y",289,1784,2018-07-22,AAPL,0.1744796633720398,0.7785918116569519,0.046928513795137405
+apple,"HomePod will soon be able to make phone calls, run multiple timers at once, and more",,359,1420,2018-07-22,AAPL,0.01308730524033308,0.9032208919525146,0.08369183540344238
+iphone,Archive with all Mac and iOS wallpapers,"iOS https://goo.gl/photos/ZVpabTtcezd35XBa9 
+
+
+macOS https://goo.gl/photos/HjY1hmo6p3jfFz8a7",82,913,2018-07-22,AAPL,0.029524417594075203,0.9347771406173706,0.035698406398296356
+iphone,70% Of US Singles Would Prefer To Date An iPhone User Over An Android User. According to Survey,,166,514,2018-07-22,AAPL,0.01874646544456482,0.9056423902511597,0.07561107724905014
+apple,Bamboo plants pierce apple store atrium in macau by foster + partners,,47,447,2018-07-22,AAPL,0.014770792797207832,0.8944106101989746,0.09081866592168808
+apple,"Is anyone else annoyed how ""funny"" Siri is?","I watched the new video of MKBHD about the MacBook. There he is telling Siri ""open my Downloads folder"" and she responds with ""Heres that Folder, good stuff in there"". I don't know if its just me but I find this very annoying and useless. Who wants to hear this all the time? 
+
+In my opinion there should be an option to turn off all remarks of Siri",116,428,2018-07-22,AAPL,0.0891634076833725,0.8819728493690491,0.02886369824409485
+mac,Dark Mode opens up new possibilities with custom icons,,40,338,2018-07-22,AAPL,0.01740366593003273,0.8680417537689209,0.11455453187227249
+iphone,AdGuard Pro for iOS in its current form will be discontinued due to Apple's policy,,56,272,2018-07-22,AAPL,0.09071896225214005,0.8900802731513977,0.019200734794139862
+AppleWatch,After not breaking a device in 5 years this was after I went rock climbing. 🤦🏻‍♂️,,72,269,2018-07-22,AAPL,0.04913141578435898,0.8027939200401306,0.148074671626091
+apple,Macbook Pro Touchbar Setup the Right Way,"With all the latest posts about the future of **Macs** and the love / hate of the **Touchbar**, I wanted to share how I came to really enjoy my setup using [BetterTouchTool](https://folivora.ai). I seen multiple presets across the forums, but I decided to take pieces from all and create the best clean design for my needs. **BetterTouchTool (BTT)** allows you to add custom features and shortcuts using scripts. Check out my TouchBar screenshots with the preset file. Enjoy. I uploaded the Application Support Folder &amp; the .plist file. Copy **BetterTouchTool** Folder to **\~/Library/Application Support/** then **.plist** to **\~/Library/Preferences/**
+
+Edit: For those having issues
+
+Make sure you are coping the files into the correct Library Path. You can access this folder by clicking the Go on the menu bar and holding down the Option Key. You will see Library appear and click that. It will open the Folder and in there you will find “Application Support” and “Preferences” 
+
+Thanks **@AthleticSuppporter**
+
+Open BTT &gt; Click TouchBar &gt; Click on General TouchBar Settings (which is right below the ""TouchBar"" you just clicked on).
+
+On the new menu, click the first check box (Enable TouchBar Support) and make sure the second box is unchecked (Show MacOS Control Strip). Then restart BTT.
+
+[https://nofile.io/f/rycjd1rbeSh/TouchbarProPreset.bttpreset](https://nofile.io/f/rycjd1rbeSh/TouchbarProPreset.bttpreset)
+
+[https://nofile.io/f/rnjhh1zRS0n/BTT.zip](https://nofile.io/f/rnjhh1zRS0n/BTT.zip)
+
+https://i.redd.it/pda43jpgfib11.png
+
+https://i.redd.it/5aomroijfib11.png
+
+[\*hold down the control button for window resize manager](https://i.redd.it/crx85jhhfib11.png)
+
+\- AirPods / Headphones Connectivity with Battery Life 💯
+
+\- Apple Music Artist / Song 🎵 (only shows when a song is playing)
+
+\- YouTube (only shows when a video is playing)
+
+\- Brightness High 🔆 / Low 🔅
+
+\- Volume Up / Down 🔈
+
+\- Play / Pause Button
+
+\- Empty Trash
+
+\- Lock Screen
+
+\- Time",66,259,2018-07-22,AAPL,0.029256923124194145,0.937150776386261,0.033592309802770615
+apple,This year’s iPhones may require an official USB-C charger for fast charging,,308,1863,2018-07-23,AAPL,0.027319369837641716,0.947920560836792,0.024759994819760323
+apple,"iPhone X sets new record for resale value, averaging 85% of retail price.",,150,976,2018-07-23,AAPL,0.019416091963648796,0.23556576669216156,0.7450181841850281
+iphone,I SE a couple,,135,893,2018-07-23,AAPL,0.03373843431472778,0.8933872580528259,0.07287435978651047
+mac,When you have to install boot camp for work and remember why you got a Mac...,,136,722,2018-07-23,AAPL,0.016954516991972923,0.8756970167160034,0.10734854638576508
+iphone,"iPhone X sets new record for resale value, averaging 85% of retail price",,116,721,2018-07-23,AAPL,0.019416091963648796,0.23556576669216156,0.7450181841850281
+apple,TIL - Deleting all history on safari does not remove all website data. Safari still retains a lot of information (presumably cookies). Instead go to General - Safari- Advanced - Website Data - Remove all website data to properly clear your history.,,38,578,2018-07-23,AAPL,0.1014130562543869,0.8821437358856201,0.01644323021173477
+apple,Apple Seemingly Unable to Recover Data From 2018 MacBook Pro With Touch Bar When Logic Board Fails,,359,502,2018-07-23,AAPL,0.8252720236778259,0.15562820434570312,0.019099701195955276
+apple,What is the one software feature you wish iOS had that it is currently missing?,Slightly weird one from me but the amount i turn on and off vpn i with the quick settings had a vpn toggle.,546,354,2018-07-23,AAPL,0.12816306948661804,0.8469869494438171,0.024850020185112953
+apple,macOS Mojave Patcher,,46,345,2018-07-23,AAPL,0.029960546642541885,0.9079940915107727,0.06204533949494362
+iphone,"I just thought this was cool as I’m your typical Apple addict. As a side note/FYI: You can charge your Apple Pencil using your iPhone (I’m assuming all variations, but I know it works on the iPhone 7 and iPhone X).",[deleted],28,330,2018-07-23,AAPL,0.02256842702627182,0.9283062815666199,0.0491253137588501
+apple,Apple pushing out performance fix for MacBook Pro 2018,,846,2668,2018-07-24,AAPL,0.014800051227211952,0.8393524885177612,0.1458473950624466
+iphone,Just bought this case earlier. Looks and feel nice compare to my patchworks silhouette bumper case. Got 3pcs of the same case with different colors for 15sgd,,92,1019,2018-07-24,AAPL,0.016799241304397583,0.8886281251907349,0.09457256644964218
+AppleWatch,Thank me later. HIGH RESOLUTION.,,82,960,2018-07-24,AAPL,0.021878598257899284,0.7962697148323059,0.18185174465179443
+apple,Tested: Apple's patch fixes the thermal slowdowns in the 2018 i9 MacBook Pro,,234,746,2018-07-24,AAPL,0.03001713752746582,0.9045740365982056,0.0654088705778122
+apple,Apple Piazza Liberty opens Thursday in Milan,,86,738,2018-07-24,AAPL,0.03463584557175636,0.9224643111228943,0.04289986193180084
+apple,Apple Addresses MacBook Pro Throttling Controversy After Working With YouTuber Dave Lee,,263,430,2018-07-24,AAPL,0.03936786577105522,0.9243490099906921,0.03628308326005936
+apple,[Meta] protip: sort by new before you post the same article as 100 other people,"I get that you want to be the first to post the hot news (Apple’s throttling fix) but it takes 2 seconds to sort by ‘new’ and discover that, actually, someone else got there first.",20,382,2018-07-24,AAPL,0.026129862293601036,0.9077467918395996,0.06612338870763779
+AppleWatch,I'm creating an app with various complications to see stats on social media. How you feelin it?,,57,258,2018-07-24,AAPL,0.039482757449150085,0.9270806908607483,0.0334366150200367
+mac,Apple Addresses MacBook Pro Throttling Controversy After Working With YouTuber Dave Lee,,63,247,2018-07-24,AAPL,0.03936786577105522,0.9243490099906921,0.03628308326005936
+iphone,Turn off not Disable WiFi / Bluetooth,"It’s so annoying that I have to go to settings to turn it off 
+
+Is there a way to set it to turn off instead of disconnecting from the control centre ?",231,199,2018-07-24,AAPL,0.03931219503283501,0.9266642928123474,0.034023504704236984
+iphone,FaceID on iPhoneX: this is what your eyes don’t see!,,178,2600,2018-07-25,AAPL,0.1079820767045021,0.8708580136299133,0.021159876137971878
+iphone,"I’ve had trouble with charging for a while, despite cleaning the port with a stiff piece of card and thinking it was clear of lint. Today I went to town using a paper clip. Wow! Headphone jack too. Charging perfectly again",,260,2518,2018-07-25,AAPL,0.05539744347333908,0.873311460018158,0.07129109650850296
+apple,"Siri on iOS Answered 78.5% of Queries Correctly in Latest Test, Trailing Google Assistant at 85.5%",,419,2414,2018-07-25,AAPL,0.023082537576556206,0.8893386721611023,0.08757878839969635
+apple,"TIL: To reveal hidden files and folders anywhere in Finder, simply tap ⌘ + Shift + .","Yes that's a period. Works in all save/open dialogs and saves you manually toggling a terminal setting and relaunching Finder everytime!
+
+This is for Sierra and above.",103,1340,2018-07-25,AAPL,0.02837427519261837,0.9240700602531433,0.04755563288927078
+mac,Apple Should Update the Dashboard....,,190,1015,2018-07-25,AAPL,0.05602605640888214,0.9168722033500671,0.027101753279566765
+mac,I just noticed the icon for Windows computers in your network shows them with a Blue Screen of Death,,104,867,2018-07-25,AAPL,0.021250374615192413,0.8896856904029846,0.08906396478414536
+apple,"Even Steve Jobs didn’t realize how big the App Store would be, newly unearthed interview shows",,100,578,2018-07-25,AAPL,0.04782571643590927,0.906420111656189,0.045754238963127136
+apple,Core i9 MacBook Pro - After The Patch (Dave2D),"He’s done some new tests, and goes a little into detail regarding the clock speed being below 4.8
+
+https://youtu.be/UTguywiC9aw",398,576,2018-07-25,AAPL,0.015991119667887688,0.9171629548072815,0.06684590876102448
+apple,External Magic Trackpad 2 is not “compatible” with 2018 Macbook Pro anymore according to Apple Support,"I contacted Apple Support today because the “silent clicking” and “Force Touch” options for my external Magic Trackpad 2 where gone where an external Magic Trackpad 2 is connected and they told me that it’s not compatible with 2018 Macbook Pro, WHAT? It’s the newest Magic Trackpad model, how can it not be compatible anymore? 
+
+So now I’m stuck with the annoying clicking noise when I use my external Trackpad
+
+UPDATE: the Apple support guy was wrong, the option for silent clicking and force touch are back after reinstalling macOS",196,344,2018-07-25,AAPL,0.12800642848014832,0.8451937437057495,0.026799852028489113
+apple,WARNING: Don't use 2 factor identification without knowing what recovery process is.,"So people sign in for 2 factor process and don't think about what happens if you just have one device and change you number.
+
+If you change your number and reset your apple device to factory settings. You won't be able to access your device because you don't have access to the number you set up with 2 factor.
+
+You won't be able to access you Icloud.
+
+It takes anywhere from 6 to 20 days to recover your account driven by an automated system ONLY.
+
+Apple store wont be able to help you.
+
+Apple support won't be able to help you.
+
+You will be stuck with a device that you cant properly access till the automated recovery system completes.
+
+There is no way to speed up the process at all no matter who you talk to.
+
+It has been a nightmare and pretty much all the support people I talked to ran into the same situation and had friends that had the same situation and none of the use 2 factor anymore.
+
+If you use account recovery when you get to the recovery page to check progress DO NOT use verify now. It doesn't work its not for the recovery process its for something else it shouldn't even been on that page and it can restart you recovery process each time you use it.",101,276,2018-07-25,AAPL,0.07047935575246811,0.9041418433189392,0.02537882700562477
+apple,Spotify has 83M paying subscribers compared to Apple Music's 40M,,1080,5509,2018-07-26,AAPL,0.024715233594179153,0.9102102518081665,0.06507451832294464
+iphone,My mom decided to upgrade her iphone 4s to the 8 Plus,,212,2678,2018-07-26,AAPL,0.028295308351516724,0.3404943346977234,0.6312103867530823
+iphone,On a wall with an IR camera. Iphone X face id,,58,1116,2018-07-26,AAPL,0.0387137196958065,0.928281307220459,0.033004939556121826
+apple,Steam is now finally 64-bit!,"Yesterday they pushed out a big update with a new chat system they had been testing recently, and, after checking, all of Steam finally seems to run on 64 bit now!
+
+On top of that, they finally stopped using the pre-Yosemite window buttons and added the current versions: https://imgur.com/a/aLG2rQp",114,807,2018-07-26,AAPL,0.02124999836087227,0.8906271457672119,0.08812278509140015
+apple,A year later after release and I still love the 10.5 inch iPad Pro.,"I got mine only a couple of months ago, and I have absolutely no regrets whatsoever. Yes I know there’s a new one (most likely) releasing in a few months, but I was complicit in wanting to retain use of the home button for the iPad.
+
+I feel that 10.5 inches is just the perfect screen size. It’s really amazing how once you just get used to that size, 9.7inch iPads suddenly look quite smaller and not as appetising.  The Promotion just makes for such a fluid and seamless experience.
+
+No one talks about this much, but one of my favourite things about this iPad is the brighter screen (600 nits), compared to its predecessor. As someone that uses mine outdoors a lot, especially during these summer days, it makes a huge, huge difference. And while we’re at it, outdoors, playing music on it through the stereo speakers (if I’m sitting in my garden eg) sounds amazing too. 
+
+As a passionate Apple boy, I use Apples leathers sleeve, Smart Cover and Apple Pencil, and couldn’t be happier with all three. 
+
+The 10.5 inch iPad Pro really will be fondly remembered by me as one of my favourite Apple devices ever released :) It will remain a solid device and relevant well into the future.",258,646,2018-07-26,AAPL,0.019612031057476997,0.9170529246330261,0.06333501636981964
+iphone,Here is almost every wallpaper apple has ever made for mac and ios,,13,521,2018-07-26,AAPL,0.03319504112005234,0.9317567348480225,0.0350482203066349
+AppleWatch,Some of the Apple Watch faces I made,,107,486,2018-07-26,AAPL,0.06970387697219849,0.8930302262306213,0.037265948951244354
+AppleWatch,Legend of Zelda hearts watch face I made,,53,467,2018-07-26,AAPL,0.023705247789621353,0.8838891386985779,0.09240566194057465
+apple,"PSA: The company behind the iOS Reddit beta survey that the mods posted on this subreddit had its data breached (Phone #, Email, Username). Consider deleting anything on your account you do not want publicly associated.","I know some people use multiple accounts and for some reason, this warning wasn't posted in the announcements section on Reddit. It's pretty serious and with people getting fired over 10 year old tweets, you may want to consider deleting portions of your account. Here is a copy paste of the message Reddit sent me.
+
+We’re messaging you because your Reddit username was included in the responses that were downloaded. The surveys affected were all voluntary and included:
+
+    A sign-up for the Reddit iOS app beta (Feb. 2016; ~6,600 responses)
+    A survey about using Reddit via mobile apps (Sept. 2017; ~470 responses)
+    A survey about the alpha version of the Reddit redesign (Sept. - Nov. 2017; ~510 responses)
+    A survey about potential new posting features (Mar. - Apr. 2018; ~230 responses)
+    A survey about Reddit Gold (May 2018; ~140 responses)
+
+If you responded to any of those surveys, the information you submitted in the form may have been compromised -- including your email address if you provided one. If you did provide an email address as part of your survey response, consider whether there’s anything on this Reddit account that you wouldn’t want associated publicly with that address. You can find instructions on how to remove information from your account on this help page. And, as always, watch out for potential phishing scams or spam emails that might try to take advantage of any information you provided in response to the surveys.
+
+Edit: An admin has clarified, phone =/= phone #. Phone represents what kind of phone you’re using.",39,318,2018-07-26,AAPL,0.18561753630638123,0.7951587438583374,0.019223729148507118
+apple,iPhone 8 Plus Was the Top Selling iPhone in the U.S. During Q2 2018,,155,237,2018-07-26,AAPL,0.020108139142394066,0.28718605637550354,0.6927057504653931
+apple,Apple Offers Free Repairs of Products Damaged in Japan Floods,,196,3166,2018-07-27,AAPL,0.010050196200609207,0.7618317604064941,0.22811806201934814
+apple,"IOS 12 doesn’t look any different, but it’s feels way better","IOS 12 might dethrone IOS 6 as my favorite IOS version so far. I’m loving grouped notifications and the optimizations for software. Apple changed very little on the visual front of IOS, but man, it’s soooo fast. I have a iPhone 7, and running IOS 11 was pretty speedy, but somehow it’s even quicker. Not to mention battery life has been a dream for me, I can actually get through a whole day without bringing a power bank. And I’ve had ZERO issues with apps in Public Beta.
+
+Good on Apple for supporting older devices as they are.
+
+Edit: Yes this has probably been talked about, but I still am surprised with it six weeks in",158,849,2018-07-27,AAPL,0.02045556716620922,0.8260015845298767,0.15354278683662415
+AppleWatch,"Congrats on 100,000 subscribers everyone!",,45,761,2018-07-27,AAPL,0.027920151129364967,0.9353507161140442,0.03672909364104271
+mac,PowerBook G3 trackpad VS 15 inch MacBook Pro. (SD card for reference),,103,729,2018-07-27,AAPL,0.013077703304588795,0.9050112366676331,0.08191106468439102
+iphone,Nobody is talking about SE 2 anymore,"Lol, well, all of a sudden hype is 'dieded' (sad face)",275,563,2018-07-27,AAPL,0.08602845668792725,0.8671722412109375,0.04679930582642555
+iphone,Took the wrapper off a new lightning cable and it unfurled into a star,,33,438,2018-07-27,AAPL,0.02143995463848114,0.8331803679466248,0.1453796774148941
+apple,"...I’m not the only one who absentmindedly plays with iPhone X’s UI, right?",Sometimes I’ll catch myself opening and closing an app rapidly or playing with the physics on the multitasking UI when I am bored.,100,249,2018-07-27,AAPL,0.0445546954870224,0.9054474234580994,0.049997903406620026
+apple,Intel delays 10nm Cannon Lake processors yet again until late 2019 at earliest - Could apple use own chips next year?,,260,239,2018-07-27,AAPL,0.02282593958079815,0.9389857649803162,0.03818828985095024
+apple,Apple needs to force app developers to categorize their push notifications by severity.,"1. Advertising 
+2. Mildly interesting 
+3. Interesting 
+4. This will fucking kill you.
+
+And allow users to select categories they wish to receive! This would allow users to get tornado warnings from local TV and radio stations without jumping out of bed because the local dog pound is having an adoption day tomorrow.",60,234,2018-07-27,AAPL,0.021058890968561172,0.9252181649208069,0.053722936660051346
+AppleWatch,Apple sells 3.5 million smartwatches in the Q2 of 2018,,42,184,2018-07-27,AAPL,0.014924395829439163,0.906297504901886,0.07877805829048157
+apple,Apple wins a Design Patent for 'AirPower' prior to its Launch,,369,2332,2018-07-28,AAPL,0.027492066845297813,0.7814354300498962,0.19107243418693542
+iphone,"iOS 12 Bug - The Clock disappeard, this looks so clean!",,89,1038,2018-07-28,AAPL,0.08181615173816681,0.8525429964065552,0.06564085185527802
+apple,"New iPad Pro said to drop 3.5mm jack, move Smart Connector to bottom to accommodate vertical-only Face ID",,537,963,2018-07-28,AAPL,0.04541512206196785,0.9078551530838013,0.04672972485423088
+iphone,Music stops while browsing reddit,"Is anyone else experiencing this problem since the last update. It seems as though all music stops when scrolling through the front page and comments sections even when it’s a news article, not a video.",78,793,2018-07-28,AAPL,0.6019285917282104,0.37631258368492126,0.02175886183977127
+apple,"Introducing Apple Music Player, an online web based Apple Music Player.","Hi, My name is Jonathan Dolbee and today I am releasing a very much beta version of my Apple Music Player application.
+
+I have been developing this for about a month now so their very well may be bugs. If you'd like to report them to me here, that would be great. I plan on adding a huge list of features but for now lets talk about what features Apple Music Player currently supports:
+
+## V0.0.1 Features:
+ - Accessing and playing your entire Apple Music library
+ - Queue functionality, if you click and hold on the items in the Up Next queue you can drag them up and down to adjust there position in the queue. You can also click the three ellipses icon next to a song item when you hover on it to play next.
+ - Search through your library.
+ - Album art gets a nice subtle glow to it, thats based off of the album art itself.	
+ - A beautiful login page
+ - Their is more that I probably missed, but the main point being is, its a functioning music player.
+
+
+## Things To Come:
+
+ - Repeat, and Shuffle functionality (For those of you who have to listen to Katy Perry on repeat)
+ - Better design of the top title bar, adding things like how long the current songs will take to listen too, start listening to it shuffled, etc.
+ - Giving users the ability to search Apple Music, instead of just their library.
+ - Adding songs to, and removing songs from your Library.
+ - Redesigned logout button, totally an afterthought
+ - **And of course, any features you guys would like to see. Feel free to DM me**
+
+
+## Accessing the site:
+ 
+ So now onto the juicy stuff, how to access Apple Music Player?
+
+**Simply visit https://www.music.redpoisonjb.com**
+See edit-2 if youve already played a song on the old domain.
+
+Thanks to Apple for their MusicKitJS library, and to Zachary Seguin for some much needed api call advice.
+Also a special shoutout to a friend of mine who bugged me to release this.
+
+Feeling generous, and want to buy me a cup of coffee? 
+
+Donate [here](https://paypal.me/JonathanDolbee)
+
+
+## Screenshots:
+[Located here in an imgur album](https://imgur.com/a/PaSvMS9)
+ 
+## Known Bugs:
+
+These are known bugs that I know of in this current moment. 
+**Please keep in mind that all bugs could be an issue with the MusicKitJS library due to it being in beta.**
+
+-	The play next dropdown can sometimes be cut off if you try to access it at the bottom of a scroll view. 
+-	The play next button is lacking styling. 
+-	Sometimes songs will fail to load, even though they have not timed out. 
+-	Mobile support is horrible right now!
+
+
+
+Edit: you can also view my trello board which some users have told me you guys can comment and keep track of issues. Here you are: https://trello.com/b/fc2f6CMP/apple-music-player
+
+Edit-2: The site now redirects to https://www.music.redpoisonjb.com to avoid conflicts with apple. If anyone would like to explain to me the process of getting rid of a domain, that'd be great! If anyone is having trouble playing music after switching to the new domain, you will have to clear your browser cache as MusicKitJS has a bug that remembers the last domain you were on when you used the Music Player for there CORS headers.",179,732,2018-07-28,AAPL,0.06253230571746826,0.9086583256721497,0.028809363022446632
+apple,Can someone please tell me what cable brand this is? Extremely satisfied with the quality and have been using it since my iPhone 5. Thanks,"Here is a pic of it:
+
+https://i.imgur.com/Ekix9uT.png
+
+
+The cord is about 7 feet or so long and it has lasted me all these years no problem. I have no clue where I got it from. 
+
+
+##OH MY GOD THANKS GUYS, IT IS INDEED CALLED TOUGH TESTED.
+
+
+I had this cable since the 5 came out and I had a 5. I switched to Android and still do now, but it has gone through MANY devices at home for family members and of course my iPhone that I use at the gym for music. Simply /r/BIFL quality!",51,242,2018-07-28,AAPL,0.03383363410830498,0.9185054898262024,0.04766080901026726
+apple,"Report: 6.1-inch iPhone to use ‘Full Active LCD’ with ultra-small bezels, launch in late November",,106,212,2018-07-28,AAPL,0.014521618373692036,0.9038416743278503,0.0816366970539093
+AppleWatch,"WatchOS 5 won’t support Series 0. Are you upgrading? If so, to what?","I bought my series 0 stainless steel watch on release day. I’ve been waiting for a meaningful refresh of the Apple Watch to upgrade, and year after year they’re just incremental upgrades so I’ve held back.
+
+Now that watchOS 5 isn’t supporting series 0 (I’m actually surprised it’s been supported as long as it has been, frankly; it chugs), I’m planning to upgrade.
+
+I’m hoping for series 4 to be announced this fall with a hardware redesign (similar size, bigger display with less bezels...that’s mostly what I want). 
+
+If series 4 has that (I’m thinking it will as it helps explain why watchOS 5 is bringing WebViews to the watch now...to display content better, which benefits from the larger display area), I’ll be getting a stainless steel series 4 as an upgrade. 
+
+If series 4 is more of the same, I’ll probably hold out another year. 😩
+
+You?",116,138,2018-07-28,AAPL,0.019181575626134872,0.8272125720977783,0.1536058634519577
+mac,"anyone ever dealt with this? i know all of my passwords (only a couple different variations). none work here. ""cancel"" makes it reappear instantly.",,31,113,2018-07-28,AAPL,0.062427520751953125,0.9116268754005432,0.02594568207859993
+ios,Don’t Just Tap Allow To All Permissions An App Requests. That’s What They Want.,[deleted],11,111,2018-07-28,AAPL,0.04359046369791031,0.933558464050293,0.022851131856441498
+iphone,Another amazing use of FaceID sensors on iPhone X,,74,2236,2018-07-29,AAPL,0.015008633956313133,0.8557626008987427,0.12922875583171844
+apple,Mac OS X Snow Leopard Intro HD,,250,1359,2018-07-29,AAPL,0.0373394638299942,0.9339074492454529,0.02875312604010105
+apple,"Why is AirDrop capable of transferring GB's in minutes, while iPhone wifi sync takes hours to do an incremental backup of similar size?","It's painfully slow to sync my 8+ over wifi; to the point where it only seems viable to bother if you are a regular iTunes user (or wanna leave your Mac on overnight just to backup your phone).
+
+I only open iTunes to backup my iPhone and usually only once a month. The new data since last backup is barely a GB or so, but it still takes hours to do any sort of sync or backup over wifi, compared to minutes with a lightning cable (or transferring data over AirDrop).
+
+Why is there such a huge difference?",207,1074,2018-07-29,AAPL,0.02875545807182789,0.9241737723350525,0.04707074537873268
+apple,Linus Tech Tips: Fixing the unfixable iMac Pro,"They finally got it working (Louis Rossmann is a guest on the video as well).
+
+https://youtu.be/EdwDvz47lNw",512,822,2018-07-29,AAPL,0.01590213179588318,0.8525513410568237,0.1315464973449707
+AppleWatch,Well I learned my lesson about buying $5 bands off AliExpress,,122,549,2018-07-29,AAPL,0.016068626195192337,0.8395270705223083,0.1444043070077896
+apple,"PSA: For Diabetics - iHealth retailing a glucometer at $16.95 with cheaper test strips. IT IS FULLY COMPATIBLE WITH HEALTHKIT. Not a ad. But if you need it, you need it.","Health retailing a glucometer at $16.95 with cheaper test strips called the iHealth Align. Most importantly, IT IS FULLY COMPATIBLE WITH HEALTHKIT.
+This allows you to merge your glucose level into HealthKit.
+
+My dad suffers from diabetes so i am very interested in affordable technologies that can help him.",44,426,2018-07-29,AAPL,0.014049330726265907,0.8972966074943542,0.0886540412902832
+apple,How many of you guys have actually lost your AirPods?,"I’m considering buying AirPods, but I’m worried I’m gonna lose them",351,363,2018-07-29,AAPL,0.5005142092704773,0.4298674166202545,0.0696183294057846
+apple,"B&amp;H will match apples student discount. No headphones, but you don't have to pay tax or shipping",,123,334,2018-07-29,AAPL,0.06665118783712387,0.9086789488792419,0.024669837206602097
+AppleWatch,I made mine a convertible!,,34,316,2018-07-29,AAPL,0.02923429198563099,0.8745607137680054,0.09620493650436401
+mac,Did Apple just forget to update the Applications icon in High Sierra to the Illuminati hotdog version?,,33,315,2018-07-29,AAPL,0.030011864379048347,0.930895984172821,0.03909216821193695
+iphone,After 5 years of service I decided to upgrade to an IPhone 8 and it's great!,,282,1727,2018-07-30,AAPL,0.010562777519226074,0.4704832136631012,0.5189539194107056
+apple,The apple watch should sense when I fall asleep and pause my show,"Anyone else ever fall asleep watching a movie/show? The apple watch should see I've fallen asleep (it has sleep tracking capabilities) and pause the show for me so I don't have to try and figure out when I fell asleep.  
+
+Edit: Lots of good thoughts, should also pause and audio/podcast. Feature could be able to be default on (or off) to prevent it happening if others are watching. For people saying it's lazy, I don't really get it, just saves me some time scrolling through trying to figure out exactly where I was when I fell asleep.",200,1646,2018-07-30,AAPL,0.07030976563692093,0.9049036502838135,0.02478661760687828
+apple,Apple’s Rumored MacBook Air Successor Said to Use Intel’s Kaby Lake Refresh Processors,,453,1571,2018-07-30,AAPL,0.01525755226612091,0.8994984030723572,0.08524405211210251
+apple,Apple Pay to account for 1 in 2 contactless mobile wallet users by 2020,,275,954,2018-07-30,AAPL,0.3532241880893707,0.6234211325645447,0.0233546644449234
+apple,You don't realize how good iMac's display is​ until you start looking for a second monitor.,"I have been searching for a second monitor since last 5-6 months and no display comes close to what my 27"" 5K does.
+
+* Right off the bat, 500 nits brightness is something that 99% monitors fail to match, 350 nits being commonplace;
+* Then apparently 5K resolution is bit too much to ask in available 27"" monitors;
+   * The majority don't even provide true 4K (They are UHD);
+* Finally, the only single monitor that matches the specs (LG UltraFine):
+   * Had issues like interference with Wi-Fi signal, causing the Mac to hang; and,
+   * Costs half of what the entire iMac was priced at.",256,837,2018-07-30,AAPL,0.05254541337490082,0.9000269174575806,0.04742773249745369
+apple,"The Phone app could still be the killer app of the iPhone, if Apple can let it.","Steve Jobs once said that the killer app of the modern smartphone is the Phone app.\*  That being said, there are two fundamental issues that still prevent it from making that happen:
+
+1.	**iOS's method of blocking calls in the Phone app and via CallKit needs to be completely revamped.** For starters, the native app has a rudimentary *Blocked Callers* list that is completely unorganized, not easily to manipulate, and worse, cannot be imported or exported. Sure, you can add every random number you get into a single ""spam"" contact, but even that in itself can get so unwieldy. So, when iOS 10 introduced the *CallKit* API, there was some hope, only to discover it's the equivalent of a Band-Aid on a gunshot wound with a chest rib protruding out of the skin. *CallKit* can block up to two million numbers per Phone app extension, so if you want to block just one entire area code, you'd have to have apps like [WideProtect](https://itunes.apple.com/us/app/wideprotect-spam-call-blocker/id1171024059?mt=8) has to add up to 15 extensions in order to block 30,000,000 phone numbers. A single incoming call or text would then have to parse through the entire list of databases before it comes through. [*CallKit* is already facing scrutiny for their implementation in China](https://www.digitaltrends.com/mobile/apple-bans-callkit-china/), though its reasons are still unclear. Oh, and do you want to know why *CallKit* has to utilize a local database system full of numbers that basically looks like a list from 000-000-0000 to 999-999-9999? It's because Apple's privacy laws are so stringent, the API will not allow an app to access the call history or utilize a internet/server-based query. That means no live, real-time caller identification and blocking.  
+.  
+What would really be a better solution? **Implement a whitelist feature: only allow certain calls to come through based on your contacts or a specific list of possible callers.** Is this a violation of FCC regulations? I don't think so, since [Android users can do it with many apps available on the Google Play Store](https://play.google.com/store/apps/details?id=de.tn_software.callblocker&amp;hl=en_US). Who says that if you are given a ten-digit telephone number, it has to be reachable by anyone? Smartphones have made everyone more connected, *but maybe we're just too connected,* which is why these privacy measures have been set up. But, if you think about how social media accounts are available, you can create a Facebook, Twitter, or Instagram account and set it to private, to which an outsider would have to request to follow you. Why can't that be the same with a cellular number? If need be, they could even include a list of unblockable numbers like ""911"" or ""999.""  
+.  
+Flash back to February 2015 when rap singer Iggy Azalea placed an order at Papa John's. The delivery driver gave Iggy's personal cell phone number to his friend who was a fan, who then started spamming her with messages. [Iggy blasted Papa John's on Twitter over the lack of privacy and Papa John had to take action](https://mashable.com/2015/02/08/iggy-azalea-papa-johns-grammys/), with even T-Mobile getting in on the conversation when mentioned during the debacle unraveling on social media. All this would not have happened if either the phone, or its software, or the wireless carrier had implemented some sort of whitelist feature, as that overzealous (over-Azaleous?) fan was not in some big database of known telemarketers, spammers, or fraudsters.  
+.  
+Unwanted calls can be a thing of the past, if Apple could just let it. In fact, the entire telemarketing industry could finally be put in check with an implementation like this, since spammers and fraudsters don’t care about the FCC’s *Do Not Call* list, which is barely enforceable to begin with, and rarely makes telemarketing companies accountable as well.  
+.
+2.	**A single, unwanted, incoming call still completely destroys the user experience.** Over eleven years since the introduction of the iPhone, and this scenario is still, unbelievably, the same: You're in the middle of an app, or worse, recording an important event with your camera, and you get an incoming call. The Phone app not only takes focus, but it completely locks down your phone, and you can't get out until you choose either ""Answer"" or ""Decline,"" among other minor options like send a message to the caller or remind you to call back. If you hit ""Decline,"" it automatically sends the caller to voicemail, and the caller immediately knows they've been ignored or unwanted. All this results in two very unhappy people: the caller and the person called.  
+.  
+Two things desperately need to change here:  
+.  
+**a. stop locking down the entire device for that incoming call.** Allow the user to at least toggle back to the original app and finish up whatever they were in the middle of doing, to give the user additional time to decide if they still want that call, and  
+.  
+**b. allow the ""Decline"" button to dismiss the screen and let the user get back to the original app they were in,** ***but more importantly, let the incoming call still ring through to its normal timeout and eventually go into voicemail.*** This will possibly let the caller believe their call was just missed and not purposely ignored or unwanted.  
+.  
+Coupled with the first issue, if the caller is not in the whitelist or is an unknown caller, the Phone app could be instructed to play a secondary or generic voicemail greeting, where whitelisted callers would get the primary voicemail greeting.  
+.
+
+Others have argued that iOS' *Do Not Disturb* feature could be used to prevent unwanted incoming calls, but they easily forget that it also blocks all notifications from apps as well. *Do Not Disturb* could also therefore benefit from its own set of tweaks and revamps, where the whitelist could be implemented, and/or could be more robust to include a timer (i.e. block for an hour), geofencing (i.e. when entering a movie theater or exiting their place of work), and/or weekends (who actually handles their lives identically across all seven days of the week?).
+
+I certainly believe that these changes are not too difficult to implement, and I've been asking Apple for years to make this happen. Maybe *CallKit* and *Do Not Disturb* were their first implementations to my request, but honestly, they're still both very basic and very naive. Let's be honest, when Apple debuted the original iPhone in 2007, it was touted as three amazing products in a single device. The Phone app really was the killer app of the iPhone. It got the positive laughter and applause it deserved the moment Steve Jobs mentioned it. But, with everything else in iOS getting more robust and more smart, Apple needs to really go back to that 1/3 of what made the iPhone so incredible, to take a new, bold look at this area, and address it much better this time around in time for iOS 12’s release, or at least in a 12.1 release, if they are already time-constrained.
+
+\* *Ok, confession: during the iPhone keynote in 2007, Steve Jobs actually said that the killer app is ""making calls,"" but you get the idea.*",152,637,2018-07-30,AAPL,0.044144188053905964,0.9185924828052521,0.03726330492645502
+AppleWatch,I wish we would be able to see our iPhone battery on Apple Watch.,"I know you can ask siri for that, but I would like to just see it.",58,376,2018-07-30,AAPL,0.01485355757176876,0.9156729578971863,0.06947353482246399
+apple,Google Maps for iOS predicts which restaurants you will like with new ‘match’ feature,,138,353,2018-07-30,AAPL,0.01587727479636669,0.8695181012153625,0.11460458487272263
+apple,iOS 12 developer beta 5 for iPhone and iPad now available,,74,303,2018-07-30,AAPL,0.015794998034834862,0.8942303657531738,0.08997459709644318
+apple,Any iPhone X users experience burn in?,"I’ve had it since day one and haven’t experienced anything in nearly nine months until now. I just noticed there’s a faint transparent home bar that’s always there even when the phone’s in landscape.
+
+Anyone experience anything similar?
+
+Edit: It doesn’t show up as well as it does in real life but I tried to photograph it [here](https://i.imgur.com/VrOxWm8.jpg) and [here](https://i.imgur.com/8gBMHdj.jpg). I also noticed it’s happening with the top right indicators, but they’re barely visible. I almost always keep it at 100% brightness, so it’s sorta self-inflicted damage I guess.",167,291,2018-07-30,AAPL,0.07663567364215851,0.8895408511161804,0.03382347524166107
+apple,TIL you can force touch the “x” in the Notification Center and it clears ALL notifications including those from previous days.,"Worked on my iPhone, not sure if it works with macOS devices",292,4539,2018-07-31,AAPL,0.023273641243577003,0.9177501201629639,0.05897626280784607
+iphone,Thought I’d share my favorite iOS wallpaper artist.,,158,2215,2018-07-31,AAPL,0.01912785694003105,0.9083628058433533,0.07250937074422836
+apple,I mixed the day time and night time Mac OS Mojave wallpapers,I made [this](https://imgur.com/a/Skq35lC) by combining the day time and night time wallpapers in Photoshop and I thought it looked pretty neat.,60,882,2018-07-31,AAPL,0.018108556047081947,0.8348326683044434,0.14705878496170044
+mac,Signed by the Woz,,39,829,2018-07-31,AAPL,0.023210279643535614,0.9320347309112549,0.04475496709346771
+apple,I just heard Tim Cook say that CVS will start accepting Apple Pay later this year in Apple's Q3 earnings call.,Also will be accepted at 7-11. It's about freaking time.,204,683,2018-07-31,AAPL,0.02175685204565525,0.8868215084075928,0.09142164885997772
+mac,It arrived today. Replaced my Late 2011 13”. You could say I’m a little excited.,,147,669,2018-07-31,AAPL,0.12970423698425293,0.8084570169448853,0.06183875724673271
+apple,The thought of owning an iPhone 6 until next year comfortably is shocking.,"iOS 12 beta 5 and battery replacement has really smoothen this device to where I don’t see the need to upgrade it. It’s like I’m using my old 6s plus that broke but on a smaller screen which was performing fine for school. As a broke student that lives in Canada, having the money to get a new iPhone out of Apple to get avoid getting fucked over by the carriers is just out of my reach financially. 
+
+
+I bet in a couple months when iOS 12 is fully released and got a few updates on top of it, iPhone 6 would be even smoother as there are still some hitches and frame drops here and there. If it turns out to be the case and they further their battery replacement program, I may just keep the 6 for 5 years total and more which would be impressive for reliable longevity of a device.",298,630,2018-07-31,AAPL,0.01883010007441044,0.7755706906318665,0.20559918880462646
+AppleWatch,The camera app comes in handy when mapping out a fuse box,,59,579,2018-07-31,AAPL,0.013716628775000572,0.906193733215332,0.08008961379528046
+apple,Apple Pay announced for Germany later this year,[deleted],96,451,2018-07-31,AAPL,0.01877608336508274,0.9276971817016602,0.053526751697063446
+mac,Nostalgia.,,74,427,2018-07-31,AAPL,0.04010756313800812,0.8645266890525818,0.09536576271057129

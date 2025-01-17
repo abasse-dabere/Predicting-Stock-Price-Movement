@@ -1,0 +1,620 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,Apple Watch Siri awkwardly interrupts on-air meteorologist and contradicts his forecast,,111,2964,2019-12-01,AAPL,0.04353537783026695,0.9129846692085266,0.04347996413707733
+apple,Black Friday is the time Android fans need to swallow their pride and buy a $229 iPad,,803,2585,2019-12-01,AAPL,0.023047789931297302,0.9239278435707092,0.053024325519800186
+mac,"Back in my day, there used to be the original Apple store in the 1980s. Even though businesses came &amp; went, the shades from that store remains...",,32,1495,2019-12-01,AAPL,0.02375219762325287,0.9069056510925293,0.06934211403131485
+AppleWatch,"TIL when you use ‘play sound’ on your Apple Watch in Find My, the pulse light flashes to help you find your watch in the dark or if you are deaf.",,43,1136,2019-12-01,AAPL,0.020803485065698624,0.9243741035461426,0.05482243001461029
+iphone,"TIL that you can press the scroll bar, and use it to quickly scroll through an app. This even works system wide!","It will give haptic feedback when you press it, after which you can start scrolling. Apparently this feature was added in iOS ~~13.2~~ 13.0!",83,1120,2019-12-01,AAPL,0.018427789211273193,0.9235979318618774,0.05797422304749489
+iphone,Finally upgrading from the 6 to the XR,My wife and I are upgrading from the iPhone 6 to the iPhone XR this week; what features or upgrades should we be checking out first?,321,890,2019-12-01,AAPL,0.014548351988196373,0.8402321338653564,0.14521950483322144
+AppleWatch,Walmart redeemed themselves with the series 3 black Friday sale!,,50,728,2019-12-01,AAPL,0.07157012820243835,0.8980129957199097,0.030416877940297127
+AppleWatch,My favorite watchface.,,22,705,2019-12-01,AAPL,0.022810421884059906,0.9220521450042725,0.05513747036457062
+apple,Express Mode is now available for London!,,110,692,2019-12-01,AAPL,0.02555948868393898,0.9398658275604248,0.0345747247338295
+apple,Why the freak are the snooze button and stop button swapped on the alarm clock compared to the timer?,Anyone else annoyed by this? Have they addressed this in any way?,71,572,2019-12-01,AAPL,0.14167387783527374,0.8195599913597107,0.03876616805791855
+apple,Apple December 2019 Event | Live Event Thread,"*Tim Cook voice*
+
+&amp;#x200B;
+
+**GOOD MORNING! GOOD MORNING! GOOD MORNING!**
+
+&amp;#x200B;
+
+\#Right now there is an Apple media event in NYC that started at 4pm EST.
+
+&amp;#x200B;
+
+&gt;Loved by millions. Created by the best.
+
+&amp;#x200B;
+
+Apple is honoring its **""favorite apps and games of 2019.""**
+
+&amp;#x200B;
+
+This event will NOT be live-streamed so we will need to rely on live-blogs and real-time tweeting from attendees.
+
+&amp;#x200B;
+
+This event is the first of it's kind, so we really don't know what to expect.
+
+&amp;#x200B;
+
+From MacRumors:
+
+&amp;#x200B;
+
+&gt;It's not clear if any hardware will be introduced at the event, but it seems unlikely given the clear wording of the media invites. We're still expecting Apple to release the Mac Pro and Pro Display XDR in December, so there could be a mention of an official launch date, but beyond that, no more hardware refreshes are rumored for this year.
+
+&amp;#x200B;
+
+From 9to5Mac:
+
+&amp;#x200B;
+
+&gt;It seems very unlikely but could Apple sneak in a “One more thing…” at the event as a holiday surprise and show off or announce AirTag or something else? Maybe some plugs or more details on the Mac Pro launch that’s slated for December?",1506,1506,2019-12-02,AAPL,0.02832694910466671,0.9250259399414062,0.04664713516831398
+apple,"When Scott Forstall managed Mac OS X, at the end of a release everyone would get one month to work on whatever they wanted to. Out of it came a project that turned into Apple TV.",,267,1357,2019-12-02,AAPL,0.02370312437415123,0.9255965948104858,0.05070027336478233
+apple,"PowerMac G4 detected as ""overtly sexual content"" by Facebook's automated filtering system",,73,1265,2019-12-02,AAPL,0.03138478100299835,0.940523087978363,0.02809217758476734
+apple,Apple forced to face class action lawsuit over problematic butterfly keyboards,,221,1145,2019-12-02,AAPL,0.7844634652137756,0.17163993418216705,0.0438966304063797
+apple,"Tim Cook on Twitter - ""Humanity has never faced a greater or more urgent threat than climate change — and it’s one we must face together. Apple will continue our work to leave the planet better than we found it and to make the tools that encourage others to do the same.""",,350,1098,2019-12-02,AAPL,0.0200349073857069,0.8092677593231201,0.1706973910331726
+apple,A7: How Apple's custom 64-bit silicon embarrassed the industry,,298,1006,2019-12-02,AAPL,0.02478385716676712,0.9143370389938354,0.06087911128997803
+iphone,Simply Check Battery Charge Cycle Count Directly from iPhone,"I know people use Macbooks or 3utools to check the battery charge cycle but if you don't have a Macbook, there is a simple way to check the battery count right from your phone.
+
+Go to Settings - Privacy - Analytics &amp; Improvements
+
+Make sure Share iPhone &amp; Watch Analytics is TURNED ON.
+
+Click on Analytics Data
+
+Scroll down to log-aggregated-2019-12-01-xxxxxx.ips (or whatever the latest date file is)
+
+Select the entire text and copy to Notes app.
+
+Save by clicking Done. Now click on the box with top arrow and click on “Find in Note"" and type ""BatteryCycleCount""
+
+The number that's shows up is the battery charge cycle. 
+
+Hope this helps. Attached is the screenshot of the screens. 
+
+
+https://imgur.com/a/503afWY",256,905,2019-12-02,AAPL,0.025353558361530304,0.9386335015296936,0.03601297736167908
+ios,Anyone else ever notice this?,,46,633,2019-12-02,AAPL,0.08817991614341736,0.8525179624557495,0.05930207669734955
+mac,Got lucky on an ebay purchase,[deleted],47,514,2019-12-02,AAPL,0.016557494178414345,0.692895770072937,0.2905466556549072
+AppleWatch,Barton Red Leather Band with Black Stainless S4,,34,498,2019-12-02,AAPL,0.02871161513030529,0.8667474389076233,0.10454097390174866
+iphone,A bullet went through this iPhone 11 Pro Max and yet the display is still powered on.,,397,5704,2019-12-03,AAPL,0.014691135846078396,0.8166904449462891,0.16861844062805176
+apple,Supply Chain Reports Back Rumors of MacBook Pro and iPad Pro With Mini-LED Displays in 2020,,274,1811,2019-12-03,AAPL,0.017869621515274048,0.9066197276115417,0.0755106583237648
+apple,Apple announces first ever Apple Music Awards.,,282,1474,2019-12-03,AAPL,0.031699031591415405,0.9151340126991272,0.05316692590713501
+AppleWatch,The original Apple Watch.,,41,1224,2019-12-03,AAPL,0.03739045187830925,0.9348101615905762,0.02779935859143734
+AppleWatch,Pocket Watch,,91,1026,2019-12-03,AAPL,0.06280659139156342,0.9067484140396118,0.03044494055211544
+iphone,2020 iPhone Rumored to Have Under-Display Ultrasonic Fingerprint Scanner Supplied by Qualcomm,,278,846,2019-12-03,AAPL,0.03987247869372368,0.9227256774902344,0.03740180283784866
+apple,App of the year: Spectre Camera.,,163,479,2019-12-03,AAPL,0.05669412389397621,0.7686744928359985,0.17463137209415436
+mac,HDMI port seems to be malfunctioning. Is there a fix?,,117,441,2019-12-03,AAPL,0.02991372160613537,0.9040614366531372,0.06602486968040466
+apple,Mario Kart Tour was the most downloaded iPhone game of 2019,,95,386,2019-12-03,AAPL,0.017925173044204712,0.9083986282348633,0.0736762061715126
+apple,Apple Calls New Russian Smartphone Sales Legislation 'Equivalent to Jailbreaking',,80,369,2019-12-03,AAPL,0.09323463588953018,0.847832977771759,0.05893239378929138
+apple,BMW No Longer Charging Monthly Fee for CarPlay in Cars With Newest Software,,715,6270,2019-12-04,AAPL,0.019504239782691002,0.9127569794654846,0.06773883104324341
+mac,2019 vs. 2009,,151,1665,2019-12-04,AAPL,0.07545646280050278,0.8588817715644836,0.06566175818443298
+AppleWatch,The proper Christmas ready watch face,,58,1054,2019-12-04,AAPL,0.024794645607471466,0.9387427568435669,0.03646263852715492
+iphone,Apple admits iPhone 11 Pro still collects location data even when told not to,,92,977,2019-12-04,AAPL,0.012388310395181179,0.8724923133850098,0.1151193231344223
+ipad,Scanned in pages from my anatomy coloring book. Honestly looks better on the iPad.,,52,818,2019-12-04,AAPL,0.01313029695302248,0.48489198088645935,0.5019776821136475
+mac,"Just got the base i9 16inch Pro and I'm so happy, can't wait to go through college and uni with this beast",,194,813,2019-12-04,AAPL,0.028878653421998024,0.907583475112915,0.06353788822889328
+mac,"After 2 Weeks Waiting, It’s Finally Here!",,66,763,2019-12-04,AAPL,0.261563777923584,0.6957843899726868,0.04265184327960014
+apple,Tim Cook was the only executive that Steve Jobs allowed to be on another company's board,,107,750,2019-12-04,AAPL,0.13969658315181732,0.767405092716217,0.09289833903312683
+iphone,Your Apple Photoshop Blunder of the Day! (Take a look at the iPhone),,81,725,2019-12-04,AAPL,0.04205719009041786,0.9312520027160645,0.02669084258377552
+iphone,Decided to have Christmas earlier. Glad to finally come back to the Apple family after owning a Samsung.,,121,484,2019-12-04,AAPL,0.017699560150504112,0.7619251608848572,0.22037528455257416
+apple,"AirPlay 2 cracked, will allow multiroom play to non-supported speakers",,286,2854,2019-12-05,AAPL,0.029143525287508965,0.9291935563087463,0.04166289046406746
+mac,Touchbar Pet - A tamagotchi for your touchbar,,61,2030,2019-12-05,AAPL,0.027052031829953194,0.9237749576568604,0.049173034727573395
+iphone,iOS 13.3 beta 4 is available now for iPhone and iPod touch.,[deleted],141,755,2019-12-05,AAPL,0.010614789091050625,0.8882447481155396,0.10114052891731262
+AppleWatch,"Chirp for Twitter 2.0 is out now! Now with live complications, true endless scrolling, a rewritten timeline, a way better video player, support for 13 new languages, and so much more!",,54,692,2019-12-05,AAPL,0.010795836336910725,0.7295123934745789,0.2596917748451233
+apple,"Kuo: Apple to Launch Five iPhones in 2020, Including 5.4-Inch, Two 6.1-Inch, and 6.7-Inch Models",,377,680,2019-12-05,AAPL,0.016088422387838364,0.8434690833091736,0.14044250547885895
+iphone,iPhone 11 Pro producing bad GPS data or is strava to blame?,,113,579,2019-12-05,AAPL,0.8120487332344055,0.16594752669334412,0.022003771737217903
+apple,Apple buys first-ever carbon-free aluminum from Alcoa-Rio Tinto venture,,56,574,2019-12-05,AAPL,0.014367741532623768,0.8803848624229431,0.10524740070104599
+ipad,Drawing in Art school with Procreate,,52,565,2019-12-05,AAPL,0.02731490693986416,0.9316028952598572,0.0410822369158268
+ipad,Passing the time.,,113,479,2019-12-05,AAPL,0.09876023977994919,0.863604724407196,0.03763505816459656
+AppleWatch,"Two days usage on my S4, battery is just never better than this",,115,474,2019-12-05,AAPL,0.08952472358942032,0.7637053728103638,0.14676986634731293
+iphone,So I bought the Arnold case cover for iPhone 11 from Wish... never again.,,327,6404,2019-12-06,AAPL,0.015888776630163193,0.8886095881462097,0.09550154954195023
+apple,Florida man who had ‘no idea what AFib was’ saved by Apple Watch during holiday travel,,217,3122,2019-12-06,AAPL,0.024126876145601273,0.8769143223762512,0.09895884245634079
+AppleWatch,"Tim Cook emailed me back. Yesterday I hit a 1,250 day move goal, and wanted to share my success story with him. He emailed me back tonight!",,183,2125,2019-12-06,AAPL,0.02395019121468067,0.8763277530670166,0.09972208738327026
+mac,My coworker needed a mouse this morning. I hooked him up.,,86,2065,2019-12-06,AAPL,0.10726858675479889,0.7131916880607605,0.17953969538211823
+apple,"Apple Investigating 16-Inch MacBook Pro Popping Sound Issue, Fix Planned in Future Software Updates",,227,1700,2019-12-06,AAPL,0.025767328217625618,0.9356356263160706,0.038596976548433304
+AppleWatch,Coffee time. This is the way. ☕️,,60,1026,2019-12-06,AAPL,0.06868430972099304,0.9018627405166626,0.02945289947092533
+apple,iPhone SE 2 Might Actually Be Called the iPhone 9,,285,832,2019-12-06,AAPL,0.02344582974910736,0.9343926310539246,0.0421614833176136
+AppleWatch,For anyone curious what the Series 5 titanium with the Apple link band looks like. Pretty good match I’d say.,,62,823,2019-12-06,AAPL,0.009133744984865189,0.6065603494644165,0.384305864572525
+ipad,"David's hand, via procreate by me (it's so easy for me to multitask between drawing and writing notes during class, it's a game changer for me)",,12,411,2019-12-06,AAPL,0.032948046922683716,0.9223190546035767,0.04473293200135231
+ios,"A little feature I discovered accidentally the other day, you can 3-D touch on the call button for extra call options on the dial pad.",,46,270,2019-12-06,AAPL,0.041226018220186234,0.9349664449691772,0.023807497695088387
+apple,I made an app that informs you when someone is staring at your screen,,154,2095,2019-12-07,AAPL,0.16081444919109344,0.7953352332115173,0.04385032132267952
+apple,I made an app that transforms Notification Center extensions into desktop widgets,,142,1489,2019-12-07,AAPL,0.017641257494688034,0.9254392385482788,0.056919459253549576
+AppleWatch,Found my favourite watch face ⌚️,,49,1235,2019-12-07,AAPL,0.027416199445724487,0.8939153552055359,0.07866843044757843
+mac,System 7 install disks,,50,1217,2019-12-07,AAPL,0.022359699010849,0.930586576461792,0.04705369472503662
+iphone,Apple’s New Subscription Management Prompt Seems to Be Working,,34,591,2019-12-07,AAPL,0.013134783133864403,0.5702868103981018,0.41657838225364685
+ipad,Here’s what’s in my iPad tech bag.,,77,528,2019-12-07,AAPL,0.018243707716464996,0.9183163046836853,0.06344002485275269
+mac,Is this normal? Who would agree to this? Sorry for the terrible photo.,,54,447,2019-12-07,AAPL,0.4007066488265991,0.3686125576496124,0.23068074882030487
+ios,Carrier documents confirm iOS 13.3 will be released next week,,105,270,2019-12-07,AAPL,0.019069984555244446,0.9518743753433228,0.029055697843432426
+apple,I created an app to keep track of which shows I've seen or need to see called Television Time,,57,242,2019-12-07,AAPL,0.02069735899567604,0.929545521736145,0.04975716769695282
+apple,"We make Spectre, this year's pick of iPhone App of the Year! To celebrate, we're giving away 50 promo codes + AMA about the Apple Event we attended this week! [Promo Saturday]","Hello all! I'm a huge fan of this community and the design half of the duo that makes [Spectre](http://spectre.cam) and [Halide](http://halide.cam/). 
+
+This week we were in Apple where Apple held an event to announce we were one of the Apps of the Year! One day, you're sitting at home working on your little app, the next [you're standing next to Phil Schiller](https://miro.medium.com/max/2400/1*YnpTbEOrTmiVLUwN5AL2EQ.jpeg). Eek. 
+
+To celebrate being the App of the Year for iPhone (we're still a bit speechless) we're giving away 50 promo codes to the app. Just DM me and I will send you one, first come, first serve. 
+
+EDIT: The codes are now out, but I will distribute a few more tomorrow to be fair to everyone. Feel free to DM, we'll have a couple more to send out 😁
+
+Ask us anything about the event and other stuff! [We have a post up here that talks a little bit about it](https://blog.halide.cam/spectre-is-apples-iphone-app-of-the-year-e4ec581b0dc1), with some photos, but we can also answer anything else about it, how we prepared for it, or general questions about our app. Feedback and suggestion are of course also always welcome!",85,229,2019-12-07,AAPL,0.03040100261569023,0.9417002201080322,0.0278987605124712
+apple,Mac Pro and Pro Display XDR available to order from December 10th.,,770,2403,2019-12-08,AAPL,0.07886061072349548,0.8921902179718018,0.028949227184057236
+apple,Even *I* Can’t Hate It – 16” Macbook Pro 2019 - LinusTechTips Review,,607,1898,2019-12-08,AAPL,0.03432657942175865,0.9209102392196655,0.04476316273212433
+apple,‘Apple Card Monthly Installments’ offer 0% iPhone financing - 9to5Mac,,251,1791,2019-12-08,AAPL,0.026165207847952843,0.9136303067207336,0.060204531997442245
+mac,Got some great Mac action going on!,,52,1336,2019-12-08,AAPL,0.014064334332942963,0.23178361356258392,0.7541520595550537
+mac,This MacBook is pretty nice (16 inch),,107,1112,2019-12-08,AAPL,0.020637255162000656,0.5115257501602173,0.4678369462490082
+iphone,Carrier information suggests iOS 13.3 and watchOS 6.1.1 will arrive next week.,[deleted],225,1109,2019-12-08,AAPL,0.0234636552631855,0.9202741384506226,0.05626215040683746
+AppleWatch,Made a new strap for my Series 5,,71,949,2019-12-08,AAPL,0.019281607121229172,0.8925582766532898,0.08816016465425491
+AppleWatch,Fall detect worked,"I was working on the farm the other day and found an alpaca with her head stuck in a fence. To free her I had to straddle her back as she was sitting down, I had to drag her body to release her long neck out of the fence.
+
+Once her head was free she jumped to her feet and launched me in the air. My arms flailed around and I crashed to the ground.  The watch started its emergency sounds and was getting ready to call for help so I cancelled it.  The watch asked me to confirm it was a real fall and that I was ok.
+
+It's nice to know it works.",61,608,2019-12-08,AAPL,0.049668602645397186,0.9073903560638428,0.04294101893901825
+apple,"I just released a huge update to my free Apple Watch Twitter app. Now it's available in 14 languages, has complications, true endless scrolling, and way more! MacStories described it as ""leading the charge"" in full-featured Apple Watch apps!",,21,520,2019-12-08,AAPL,0.018549349159002304,0.9212164282798767,0.06023421511054039
+mac,I think my old MacBook Pro 2010 needs a new battery!,,70,511,2019-12-08,AAPL,0.013917720876634121,0.8923044800758362,0.09377774596214294
+mac,This is not a render nor is it edited. Plain iPhone XR camera with the native Camera app,,230,2796,2019-12-09,AAPL,0.024645276367664337,0.9423081278800964,0.033046625554561615
+apple,"$73K in Apple products stolen from Target, iPad thief chased by 71-year-old on the Apple Crime Blotter",,294,2658,2019-12-09,AAPL,0.2606549561023712,0.704345166683197,0.034999873489141464
+apple,Apple to Speak at CES Conference for First Time in Decades,,170,1624,2019-12-09,AAPL,0.019462917000055313,0.9100491404533386,0.07048796117305756
+iphone,Want to thank Apple,"A couple of years ago, BatteryGate (is it called that?) made me switch away from the Apple ecosystem and on to Android. I bought a OnePlus that was cheaper, better camera, amazing battery etc etc.
+
+Fast forward to a couple of weeks ago, and my work upgraded my work phone to an XR 64GB (yes, in end 2019).
+
+Amazingly, I picked it up and turned it on, and completely fell in love with it. My OnePlus 6 bested the XR in literally every category on paper(more RAM, more megapixels, bigger battery, more space etc etc etc), but couldn’t come close to the sheer joy and beauty of using an iPhone.
+
+I spent a week getting all my apps and photos back, setting up iCloud, buying an Apple Watch (going full Apple, basically), and haven’t looked back yet. I still get a little burst of happiness every time I look at my phone, which is several times an hour.
+
+Just in case anyone’s thinking of making the jump from Android to Apple - and the XR is the lowest end model from a year ago...",503,1259,2019-12-09,AAPL,0.03009231761097908,0.9086291790008545,0.06127847731113434
+iphone,r/iPhone Has Reached 2 Million Subscribers!,"On behalf of the entire r/iPhone moderation team, we would like to thank everyone who subscribed and to everyone who posts and comments here! 
+
+Here's to the next million!",69,981,2019-12-09,AAPL,0.01514467690140009,0.9214498996734619,0.06340542435646057
+apple,The Apple TV remote is so bad that a Swiss TV company developed a normal replacement,,361,779,2019-12-09,AAPL,0.01794491522014141,0.8339745402336121,0.14808058738708496
+AppleWatch,FREE Apple Watch Games,"It's my birthday on December 11th, so I'm going to make all my games free for 48hrs. If you've never tried a game on your Apple Watch now's your chance. If you enjoy any of them please leave a review it would help me allot. Thanks!
+
+Mini Watch Games 24-in-1 [https://apps.apple.com/us/app/id1062475106](https://apps.apple.com/us/app/id1062475106)
+
+Spaceholes! [https://apps.apple.com/us/app/id1478542318](https://www.google.com/url?q=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fid1478542318&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEE64BgzXtws3aUWIyOiKc3yQ1G2A)
+
+Tube Twister [https://apps.apple.com/us/app/tube-twister/id1455709958](https://apps.apple.com/us/app/tube-twister/id1455709958)
+
+Z Room [https://apps.apple.com/us/app/z-room/id1268376219](https://apps.apple.com/us/app/z-room/id1268376219)
+
+Driftly [https://apps.apple.com/us/app/driftly/id1447996272](https://apps.apple.com/us/app/driftly/id1447996272)
+
+Watch Wheels [https://apps.apple.com/us/app/watch-wheels/id1239156884](https://apps.apple.com/us/app/watch-wheels/id1239156884)
+
+&amp;#x200B;
+
+https://preview.redd.it/jbk6qfzlpk341.jpg?width=2100&amp;format=pjpg&amp;auto=webp&amp;s=3fc3cf846f68116ac89105cf5f9ee294f4a2c77e",312,773,2019-12-09,AAPL,0.01977095939218998,0.9087209105491638,0.07150816917419434
+mac,"This is not a render, nor is it edited. Plain iPhone 8 camera with the native Camera app.",[deleted],100,746,2019-12-09,AAPL,0.02576754242181778,0.9426962733268738,0.03153618425130844
+apple,Apple’s Safari privacy features are driving down prices for advertisers at the cost of accuracy,,118,530,2019-12-09,AAPL,0.032393988221883774,0.9312407970428467,0.036365166306495667
+apple,"Analyst: Apple cutting iPhone 11 Pro production by 25%, consumers focused on 5G iPhone 12 lineup",,246,522,2019-12-09,AAPL,0.0958276093006134,0.7896222472190857,0.1145501360297203
+apple,Mac Pro Unboxing &amp; Second Impressions: The Power is Back! - MKBHD,,1246,2811,2019-12-10,AAPL,0.021293357014656067,0.8613728880882263,0.11733375489711761
+AppleWatch,Pyrrhic victory,,25,2682,2019-12-10,AAPL,0.0507204495370388,0.9151550531387329,0.034124407917261124
+apple,Apple Card offers 6% cash back on Apple Store purchases until 12/31,,406,2385,2019-12-10,AAPL,0.015996042639017105,0.39090296626091003,0.5931009650230408
+iphone,Apple Card's 24-Month Interest-Free iPhone Installment Plan Available Starting Today,,241,1175,2019-12-10,AAPL,0.01330901961773634,0.9305940866470337,0.05609685182571411
+ipad,My wife’s work in progress.,,77,1161,2019-12-10,AAPL,0.03938409686088562,0.9044256806373596,0.05619015917181969
+apple,Apple has more job openings right now than it ever has,,156,1115,2019-12-10,AAPL,0.09596475213766098,0.8274351358413696,0.07660005986690521
+apple,"Apple releasing iOS 13.3, watchOS 6.1.1, and tvOS 13.3 today, here's what's new",,218,1044,2019-12-10,AAPL,0.02520301192998886,0.9263229966163635,0.048474013805389404
+AppleWatch,My watch really wants to tell me that I’m going deaf,,67,1029,2019-12-10,AAPL,0.04144980013370514,0.8259279131889343,0.13262227177619934
+mac,Who says you can’t easily and affordable upgrade your MBP storage...,,115,1023,2019-12-10,AAPL,0.02502225898206234,0.8908604383468628,0.0841173306107521
+apple,Apple’s Pro Display XDR With Nano-Texture Can Only Be Cleaned With Special Apple-Provided Cloth,,153,507,2019-12-10,AAPL,0.01875166781246662,0.9215083122253418,0.05974000692367554
+mac,Finally two chrome tabs,,82,3041,2019-12-11,AAPL,0.020943861454725266,0.8357973694801331,0.14325881004333496
+apple,Apple accused of monitoring employee text messages in lawsuit against ex-chip exec - ex-Apple employee Gerard Williams argued Apple illegally collected his private messages to build its case against him,,344,2647,2019-12-11,AAPL,0.8380606174468994,0.14008456468582153,0.021854810416698456
+iphone,"2G, 3G, 4, 5",,146,1975,2019-12-11,AAPL,0.03872862085700035,0.9170150756835938,0.04425638169050217
+mac,"Today, got a promotion, pay-rise, and a new work Mac!",,118,1612,2019-12-11,AAPL,0.020028095692396164,0.7402414679527283,0.23973046243190765
+apple,"thank you apple, you have great fucking security",i have 2fa and suddenly got [2 alerts](https://imgur.com/gallery/WRLMstp) of sign in requests from two different locations **at the same time.** i pressed dont allow on them and my account was locked. i verified myself and signed out from all my devices to ensure no one is in my account. in just 2 minutes i went from having a coordinated attack on my ass to having password changed and my account signed out of all devices. i was so shocked when i got the alerts but thankfully everything went well. i fucking love these security features. thank you apple.,202,1588,2019-12-11,AAPL,0.05571504309773445,0.9008554220199585,0.043429501354694366
+AppleWatch,Stone Sport Band,[deleted],52,1106,2019-12-11,AAPL,0.04516665264964104,0.8923013806343079,0.06253202259540558
+apple,"Celebrating the difficult; the release of CrossOver 19- Crossover 19 allows you to run 32-bit Windows programs on Catalina despite Catalina not supporting 32-bit programs by using a 64-bit wrapper with 32-bit code, which is really impressive.",,202,998,2019-12-11,AAPL,0.025010723620653152,0.910839319229126,0.06414999812841415
+ios,"You’ve got to love this about Apple! Got my 5S five years back, and it still receives updates. Damn!",,109,720,2019-12-11,AAPL,0.03234795480966568,0.9269043803215027,0.04074767604470253
+apple,Kuo: Next year’s 5G iPhones with redesigned metal frame won’t have major price increase,,195,591,2019-12-11,AAPL,0.015224012546241283,0.8608679175376892,0.12390800565481186
+apple,Rewound is a new app that turns your iPhone into an iPod,,85,448,2019-12-11,AAPL,0.012660524807870388,0.8654832243919373,0.12185625731945038
+apple,"AirPods to hit quarterly sales of $4B, surpassing peak iPod sales",,805,5802,2019-12-12,AAPL,0.05416543036699295,0.2925407886505127,0.653293788433075
+mac,Mac Pro(fessional),,333,3073,2019-12-12,AAPL,0.04157153517007828,0.9130953550338745,0.045333102345466614
+apple,Apple uses Micron’s Cheapest ECC RAM in the Mac Pro,,580,2180,2019-12-12,AAPL,0.030249999836087227,0.9410396218299866,0.028710365295410156
+iphone,‘iPhone 11’ is the 5th most searched term globally on Google in 2019.,[deleted],165,1732,2019-12-12,AAPL,0.032983992248773575,0.8288071751594543,0.13820880651474
+apple,Apple defends iPhone encryption against Senate Judiciary Committee threats,,215,1686,2019-12-12,AAPL,0.10983527451753616,0.8082519173622131,0.08191286772489548
+AppleWatch,i kinda like red,,57,1503,2019-12-12,AAPL,0.02408953569829464,0.8784885406494141,0.09742197394371033
+apple,This 2019 Mac Pro Review is Different... - Jonathan Morrison,,269,1145,2019-12-12,AAPL,0.02399851381778717,0.9250668287277222,0.050934676080942154
+apple,Twitter will now let you post iOS Live Photos as GIFs,,42,921,2019-12-12,AAPL,0.031637001782655716,0.9433377385139465,0.02502530999481678
+ios,iPhone's bar changes Pikachu face dramatically.,,24,732,2019-12-12,AAPL,0.05157388746738434,0.9001457095146179,0.04828045144677162
+AppleWatch,These drawer organizers from IKEA are probably my favorite way to store bands.,,51,731,2019-12-12,AAPL,0.03227013722062111,0.9021382927894592,0.06559151411056519
+iphone,The iPhone is now the internet’s preferred porn streaming device,,328,3351,2019-12-13,AAPL,0.014925491064786911,0.9084279537200928,0.07664661854505539
+mac,So Microsoft just made a Minecraft Version of the Trashcan Mac Pro,,243,2556,2019-12-13,AAPL,0.020909784361720085,0.9331635236740112,0.045926693826913834
+apple,Apple is offering free genetic tests to all its Silicon Valley employees,,291,1925,2019-12-13,AAPL,0.01253774669021368,0.8857043981552124,0.10175786912441254
+AppleWatch,Don’t forget the reason for the season,,49,1113,2019-12-13,AAPL,0.03269655629992485,0.9069384932518005,0.060364920645952225
+ipad,Won an iPad tonight at a Resident’s Christmas Party,,72,752,2019-12-13,AAPL,0.03815711289644241,0.9259697198867798,0.0358731634914875
+apple,"iMac Pro Works With Apple's New Pro Display XDR, But Limited to 5K Resolution",,138,626,2019-12-13,AAPL,0.016678836196660995,0.9179394245147705,0.0653817430138588
+AppleWatch,"Okay, controlling my Christmas tree lights from my watch with the help of a wemo outlet is pretty damn neat.",,57,551,2019-12-13,AAPL,0.026509558781981468,0.764365553855896,0.2091248482465744
+apple,Cellular support for Apple Watch finally arrives in New Zealand,,33,428,2019-12-13,AAPL,0.016564974561333656,0.7209956645965576,0.2624393105506897
+mac,"I love Macs, but what the hell",,37,417,2019-12-13,AAPL,0.021536214277148247,0.8833639621734619,0.09509981423616409
+iphone,iPhone 11 Pro &amp; 11 Pro Max users: Are you happy with your battery life?,"There are rumors of larger batteries next year. This may be done to either lengthen battery life further (yey!) or because Apple cannot increase performance per watt.
+
+So are you happy with the current battery life of your 11 Pro Max (3,969 mAh) or 11 Pro (3,110 mAh) or would you want something longer than what you are getting now?
+
+iPad Mini battery (5124 mAh) in an iPhone 12 Max Pro would be awesome!",314,306,2019-12-13,AAPL,0.020441921427845955,0.846945583820343,0.13261255621910095
+iphone,Will any other iPhone look as aesthetically pleasing as the iPhone 4 when it first came out?,,523,5858,2019-12-14,AAPL,0.011589514091610909,0.7384585738182068,0.24995191395282745
+apple,The iPhone is now the internet's preferred porn streaming device,,330,4083,2019-12-14,AAPL,0.014925491064786911,0.9084279537200928,0.07664661854505539
+apple,What the Pro Display XDR Looks Like in HDR,,271,2042,2019-12-14,AAPL,0.01455052848905325,0.9281908869743347,0.057258572429418564
+AppleWatch,Apple Watch app layout,,120,1743,2019-12-14,AAPL,0.0276691485196352,0.9412908554077148,0.031040018424391747
+mac,The real inspiration for the Xbox Series S new look (I knew I saw that design somewhere before...).,,82,1271,2019-12-14,AAPL,0.02017914690077305,0.9028835296630859,0.07693728804588318
+iphone,Today I learned you can disable this annoying feature,,58,759,2019-12-14,AAPL,0.6120046973228455,0.25720924139022827,0.1307860165834427
+apple,A terabyte of stuff on an old iPod? Here’s how.,,50,400,2019-12-14,AAPL,0.0313895083963871,0.894320547580719,0.07428991049528122
+apple,iTunes Remote Version 4.5: Apple Finally Releases A New Version Of iTunes Remote App,,48,352,2019-12-14,AAPL,0.0260205939412117,0.937157154083252,0.036822233349084854
+appletv,"Anyone else here annoyed at how the Apple TV app works? When clicking on it there is no distinction between paid movies, local catchup stations, Disney+ and for the life of me can’t even find where the Apple + subscription content is. Just random episodes all over the place.",,58,303,2019-12-14,AAPL,0.06179635226726532,0.9176956415176392,0.020508071407675743
+ipad,Time Magazine declares Apple iPad the best widget of 2010s,[deleted],41,299,2019-12-14,AAPL,0.028817996382713318,0.7888551950454712,0.1823267936706543
+iphone,Mom visiting for holidays. She pull out this classic to take pictures,[deleted],311,4410,2019-12-15,AAPL,0.04926962032914162,0.9147863984107971,0.03594397380948067
+apple,"No, Apple's new Mac Pro isn't overpriced",,1198,1955,2019-12-15,AAPL,0.06133138760924339,0.8695667386054993,0.06910179555416107
+apple,"The 10 Best Gadgets of the 2010s - iPad, Apple Watch and AirPods makes the list. - Time Magazine",,247,1267,2019-12-15,AAPL,0.030330264940857887,0.9140899181365967,0.055579785257577896
+mac,I went to the Austrian lakes yesterday as a one-day fieldtrip. Ended up with my very own desktop picture that fits MacOS great.,[deleted],54,1128,2019-12-15,AAPL,0.025201115757226944,0.8987637758255005,0.07603511214256287
+ipad,"Pro tip: When using steam link to stream games and your desktop to your iPad, set the resolution in Windows to match your iPad exactly. For this 12.9” 2018 iPP, I set it to 2732x2048. Not only does it perfectly match the unique aspect ratio of the iPad, it makes windows look perfectly sharp.",,77,928,2019-12-15,AAPL,0.010851351544260979,0.814241886138916,0.17490674555301666
+AppleWatch,Literally the first time I dropped it wtf,,217,770,2019-12-15,AAPL,0.14529284834861755,0.7616007328033447,0.09310637414455414
+ios,This is the kind of content I like to see on the Updates page,,30,632,2019-12-15,AAPL,0.030538301914930344,0.9406998157501221,0.028761813417077065
+apple,Save thousands on 2019 Mac Pro RAM with DIY upgrade,,186,527,2019-12-15,AAPL,0.044850148260593414,0.8652037382125854,0.08994610607624054
+iphone,Apple buys startup spectral edge to supercharge iPhone camera's,[deleted],72,449,2019-12-15,AAPL,0.010946872644126415,0.795890212059021,0.1931629180908203
+MacOS,cursed_terminal,,23,391,2019-12-15,AAPL,0.06372881680727005,0.8696231842041016,0.06664802879095078
+apple,"3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac",,163,2852,2019-12-16,AAPL,0.036801356822252274,0.9316574335098267,0.03154125064611435
+iphone,"If you have the lyrics bubble selected in Apple Music and a song without lyrics comes up next, they keep the funky background. I wish this was a permanent feature, instead of just a glitch.",,103,2436,2019-12-16,AAPL,0.03595300018787384,0.9250260591506958,0.03902098536491394
+mac,Never thought I would be playing Forza at 60 FPS on a Mac. This 16” truly is a beast.,,257,1802,2019-12-16,AAPL,0.030337292701005936,0.8869895339012146,0.08267311751842499
+mac,Let's honour the fallen comrade. It served us well,,123,1407,2019-12-16,AAPL,0.01847289688885212,0.6176936030387878,0.363833487033844
+apple,Apple pulls app that let you turn your phone into a virtual iPod with click wheel,,149,1403,2019-12-16,AAPL,0.08661459386348724,0.881608784198761,0.031776636838912964
+AppleWatch,"My girlfriend asked for the Series 5 Apple Watch this year, and I’m super stoked to give it to her! I decided it would be more fun if she opens my “Refurbished” version first though.",,48,1222,2019-12-16,AAPL,0.019910022616386414,0.9216337203979492,0.05845627933740616
+apple,"""When you sat in a meeting with Steve, he dominated, and he would tell you to shut up and let someone else talk. Tim was the complete opposite. He listened to everybody no matter what you had to say, and he would come back to challenge them on things. There was a lot more opennes and freedom""",[deleted],233,1207,2019-12-16,AAPL,0.027645858004689217,0.8810054659843445,0.09134869277477264
+apple,Apple Releases New Firmware for AirPods 2 and AirPods Pro,,185,953,2019-12-16,AAPL,0.014123396016657352,0.9119472503662109,0.0739293098449707
+AppleWatch,New list view app screen is so much better in the new update.,,107,900,2019-12-16,AAPL,0.013077113777399063,0.6975522041320801,0.28937065601348877
+apple,Apple Arcade Now Available With $49.99/Year Subscription Option,,153,549,2019-12-16,AAPL,0.034129440784454346,0.93702632188797,0.028844209387898445
+apple,"iFixit Mac Pro 2019 Teardown: “beautiful, amazingly well put together, and a masterclass in repairability”",,692,7236,2019-12-17,AAPL,0.0196642205119133,0.8629637360572815,0.117372065782547
+mac,This looks like it could just slide off the desk,,220,1941,2019-12-17,AAPL,0.24798645079135895,0.6603748798370361,0.09163868427276611
+iphone,"Apple Watch, AirPod And iPad Were Voted As The Best Devices Of The Decades By Time Magazine",[deleted],177,1495,2019-12-17,AAPL,0.025954464450478554,0.4803929626941681,0.4936526119709015
+AppleWatch,I really should start listening...,,62,705,2019-12-17,AAPL,0.044470686465501785,0.912865936756134,0.042663417756557465
+iphone,iOS 13.3.1 beta 1 is available now for iPhone and iPod touch.,[deleted],116,679,2019-12-17,AAPL,0.009635196067392826,0.7726232409477234,0.21774154901504517
+apple,MKBHD's blind phone camera test,,250,671,2019-12-17,AAPL,0.02098720893263817,0.938915491104126,0.040097255259752274
+apple,Studio ghibli movies available on iTunes digitally for the first time!,,119,631,2019-12-17,AAPL,0.017564168199896812,0.9322683811187744,0.05016746371984482
+ipad,iPad + Raspberry pi 4,,78,627,2019-12-17,AAPL,0.04466859623789787,0.880917489528656,0.0744139552116394
+apple,"Apple wins patent for under-display Touch ID, already uses tech in MBP 16",,164,521,2019-12-17,AAPL,0.014509476721286774,0.8812385201454163,0.10425198823213577
+apple,Airpods Pro at Costco.com $234.99,,60,289,2019-12-17,AAPL,0.02571122720837593,0.9140579700469971,0.06023077294230461
+apple,"Apple ships braided, black USB C to lightning cables with new Mac Pro",,474,3242,2019-12-18,AAPL,0.018098849803209305,0.8895887136459351,0.09231244772672653
+apple,Taking picture of the Northern Lights with iPhone 11 Pro and Night Mode,"Hello everyone !  
+
+
+Currently in North of Sweden, I've been wondering how well the new iPhone could capture the northern lights. Tonight, there were a lots of them (Kp 4,7), and I gave it a shot !   
+
+
+I tried different exposure time, between 3 and 10 seconds. I was just holding it with my hand. 
+
+&amp;#x200B;
+
+The pictures are all unedited.  
+
+
+Here's the result : [https://imgur.com/a/1wjoe31](https://imgur.com/a/1wjoe31)
+
+&amp;#x200B;
+
+It obviously not as good as an actual camera, but I'm still really impressed  !",156,3113,2019-12-18,AAPL,0.014712519012391567,0.8492149114608765,0.13607257604599
+iphone,PSA: If you are a lazy sloth and put 20 alarms to wake up you don’t have to disable each alarm individually. You can save a lot of time by saying “Disable all alarms” to Siri,,128,1534,2019-12-18,AAPL,0.0775487944483757,0.8898643255233765,0.03258681297302246
+mac,Found this in my basement. One of the best Apple products I’ve purchased. Hoping to refurb it and make it my secondary,,146,1364,2019-12-18,AAPL,0.022174082696437836,0.9181458353996277,0.059680067002773285
+apple,"Amazon, Apple, Google, Zigbee Alliance and board members form working group to develop open standard for smart home devices",,156,1184,2019-12-18,AAPL,0.013652635738253593,0.8872272968292236,0.09912003576755524
+ipad,Animated lightning bolt,,26,885,2019-12-18,AAPL,0.04406324028968811,0.9169344902038574,0.03900233656167984
+apple,$43M fraud by Foxconn managers selling iPhones made from rejected parts.,[deleted],103,875,2019-12-18,AAPL,0.031223254278302193,0.923552930355072,0.04522387310862541
+AppleWatch,Forgot my charger in a month long trip. How long will the watch last with power reserve? Buying a new charger is quite expensive. I’ve been for 4 days and still at 86%,,247,849,2019-12-18,AAPL,0.06664244085550308,0.8893468976020813,0.04401066526770592
+ipad,The highlighter in Notability v9.2 now goes behind text!,,81,688,2019-12-18,AAPL,0.09660375863313675,0.8552938103675842,0.04810241982340813
+apple,Extraodinarily Unpopular Opinion: Lightning is better than USB-C,"I own dozens of USB-C and lightning devices.
+
+In half of my USB-C devices, like my macbook pro, ports have loosened to the point where cables don’t stay in, USBs and attachments have become wiggly, etc. USB-Ca design relies purely on friction, and when you use the ports frequently that friction slowly disappears. Plus, the ports are larger than lightning ports.
+
+Lightning’s design causes it to snap into place because it has grooves that fit the cable tip, making it more secure, satisfying, and easy to use. I have never had an issue with a lighting port becoming loose, and I cannot break the inner port as easily as I can with USB-C. 
+
+The fact that I have to carry around an extra cable does not bother me at all, it is a few extra ounces in my bag and I feel like detractors of lightning exaggerate the inconvenience of having another cable.
+
+I hope Apple keeps the lightning port forever.",222,536,2019-12-18,AAPL,0.04901798814535141,0.9164451956748962,0.034536805003881454
+apple,Prominent activist in Hong Kong was arrested in August. The cops accessed his messages on his iPhone XR without his password. Uncertain if it was through Cellebrite or other means.,,233,3731,2019-12-19,AAPL,0.15110673010349274,0.8219277858734131,0.026965545490384102
+iphone,Looks like a new scam coming to town so watch out!,,135,2642,2019-12-19,AAPL,0.02355319634079933,0.8977441191673279,0.07870271801948547
+apple,Apple open-sources HomeKit Accessory Development Kit to spur adoption and new standard,,108,1333,2019-12-19,AAPL,0.017043208703398705,0.9176162481307983,0.06534058600664139
+mac,"System is taking up all of my space, is there any way I can fix this?",,155,869,2019-12-19,AAPL,0.0214566420763731,0.9034923315048218,0.07505110651254654
+apple,"Apple Pro Display XDR: Why $5,000 is an insanely good deal and could change our future screens | This is not a successor to the Apple Cinema Display, it's a competitor to $30,000 monitors from Sony and Flanders Scientific.",,247,758,2019-12-19,AAPL,0.02453603595495224,0.9149063229560852,0.06055755913257599
+AppleWatch,The Official Woven Nylon Orange Band,,23,742,2019-12-19,AAPL,0.04055333137512207,0.9270950555801392,0.032351668924093246
+apple,"Apple Now Offering $2,600 8TB SSD Upgrade Option for Mac Pro",,129,636,2019-12-19,AAPL,0.014160117134451866,0.8978385329246521,0.08800128847360611
+apple,"Twitter rolling out redesigned iPad interface with multiple columns, more",,46,506,2019-12-19,AAPL,0.03407057374715805,0.9328696131706238,0.03305982053279877
+iphone,Daily Tech Support Thread - [December 19],"Welcome to the Daily Tech Support thread for /r/iphone. 
+
+Have a question you need answered? Ask away! Please remember to adhere to our rules, which can be found in the sidebar. As usual, if you have a serious issue with the subreddit, please contact [the moderators directly.](https://www.reddit.com/message/compose?to=%2Fr%2Fiphone)
+
+Please be informed that any questions about bypassing iCloud lock,  or anything similar that may infer that you are trying to get access to a locked iPhone, are no longer allowed and will be removed. Thank you.
+
+Join our Discord room for support:
+
+[Discord](https://discord.gg/iphone)
+
+**Note: Comments are sorted by /new for your convenience.**
+
+This is the previous [archive](https://www.reddit.com/r/iphone/search?q=title%3A%22Daily+Tech+Support+Thread%22+author%3A%22AutoModerator%22&amp;restrict_sr=on&amp;sort=new&amp;t=all) of all previous ""Daily Tech Support"" threads. This is best viewed on a browser. If on mobile, type on the searchbar [title:""Daily Tech Support Thread"" author:""AutoModerator""] (without the brackets, and including the quotation marks around the title and author.)   
+
+Here is a previous [archive](https://www.reddit.com/r/iphone/search?q=title%3A%22Weekly+Tech+Support+Thread%22+author%3A%22AutoModerator%22&amp;restrict_sr=on&amp;sort=new&amp;t=all) of all previous ""Weekly Tech Support"" threads, which has now changed to Daily Tech Support Thread. This is best viewed on a browser. If on mobile, type on the searchbar [title:""Weekly Tech Support Thread"" author:""AutoModerator""] (without the brackets, and including the quotation marks around the title and author.)",294,436,2019-12-19,AAPL,0.05568651854991913,0.9196062684059143,0.0247072484344244
+mac,I need your help. Is it worthy to update my hdd to ssd? I'm kinda short on cash to buy a new one. I work with graphics so PS and AI,[deleted],110,405,2019-12-19,AAPL,0.022295527160167694,0.9094592332839966,0.06824523210525513
+apple,Apple earned 66% of the entire smartphone market's profits in 2019,,504,4497,2019-12-20,AAPL,0.13937599956989288,0.27869361639022827,0.5819303393363953
+apple,Apple brings contactless student IDs on iPhone and Apple Watch to more universities,,200,2546,2019-12-20,AAPL,0.051568783819675446,0.9217148423194885,0.0267163272947073
+AppleWatch,20 or so years later.,,42,2229,2019-12-20,AAPL,0.04213915765285492,0.9074862003326416,0.05037466436624527
+apple,AirPods were a $6 billion business for Apple this year and will be even bigger next year - Toni Sacconaghi,,319,2145,2019-12-20,AAPL,0.015173465944826603,0.7713346481323242,0.21349194645881653
+iphone,FCC Determines iPhone Radiation Doesn’t Exceed Safety Levels,[deleted],148,1508,2019-12-20,AAPL,0.03376729413866997,0.9339823126792908,0.03225037083029747
+mac,Personally I've always loved the white macbook design. Still use it to this day.,,104,1028,2019-12-20,AAPL,0.022255489602684975,0.9193620681762695,0.05838244408369064
+apple,Apple's bug bounty program now open to all; pays up to $1.5M,,54,939,2019-12-20,AAPL,0.05439498648047447,0.908677875995636,0.036927156150341034
+ipad,When you dont have a Tesla,[deleted],42,710,2019-12-20,AAPL,0.048792336136102676,0.9015541672706604,0.049653537571430206
+mac,Triple Pro Display XDR Setup looks good - Apple,,95,598,2019-12-20,AAPL,0.01052646804600954,0.5217714309692383,0.46770212054252625
+AppleWatch,Today I fell flat forward,"I crossed the street then I hit the curb with the front of my shoe and before I realized it I was on the floor. One guy helped me up and I was so confused because everything happened so fast that when my watch started vibrating on my wrist my first thought was “who the heck is calling me at the wrong possible time?” 
+It took me a few seconds to remember that it was the fall detecting feature!!! 
+I’m so happy I caught it before it called 911 or something!!!
+
+I hope series 6 would have a feature that opens up a parachute and keeps you from hitting the ground hahaha",59,535,2019-12-20,AAPL,0.04304424300789833,0.8849994540214539,0.0719563290476799
+mac,It‘s even a mac (I think).,,59,2379,2019-12-21,AAPL,0.031720202416181564,0.9067838191986084,0.061495982110500336
+apple,AirPods Pro and Bluetooth Latency,,255,1549,2019-12-21,AAPL,0.039940036833286285,0.8951209187507629,0.06493896245956421
+apple,Ivan Krstić: Black Hat 2019 presentation: Behind the scenes of iOS and Mac Security,,76,1265,2019-12-21,AAPL,0.020506229251623154,0.9281182289123535,0.051375601440668106
+apple,I Redesigned Apple Maps and Replicated an Apple Product Launch for it,"TL;DR: I took a lot of feedback (a lot from r/apple) and decided to redesign Apple Maps with features many have people have been requesting for years, plus a few that I think might add value. Check out my in-depth [case study blog post](https://medium.com/@aymanjaddaa/i-redesigned-apple-maps-and-replicated-an-apple-product-launch-for-it-468a03f10c92) or visit [aymanjaddaa.com](https://aymanjaddaa.com) to just see the visuals.
+
+––
+
+Over the past couple of months, I have been working on a project that I am finally ready to show to the world, and I’m really excited about it. I redesigned Apple Maps and came up with 2 potential apps Apple should consider developing - Apple Carrier, and Apple Authenticator. I'm posting this from my official account, I'm more active here on my throwaway account :)
+
+For a long time, I’ve wanted to use Apple Maps more (and I'm sure you do too); the apps’ tight integration within the Apple ecosystem is something that I treasure, but I never really saw myself using it too much because using Google Maps was just so much easier, more reliable, and more fully-fledged. Things took a turn when iOS 13 came out this year, and my opinion took a 180° turn. I’ve been using Apple Maps much more often ever since, but I still found that it had a lot of missing features that many other navigation apps had implemented years ago, and I wasn’t alone in this; many other users also help this opinion. I thought to myself: “why not try designing a version of Apple Maps that many users have been asking for?” So I gave it a shot at designing what the future Apple Maps might look like. 
+
+The main objectives of this project were to (1) incorporate all the feedback many Apple users (especially in r/apple) had for Apple Maps and come up with a viable solution, (2) showcase my product design skills, and (3) have fun with this process. 
+
+Just to point out, this was all done in good faith; massive kudos to the Maps team for all their amazing work. All odds were against them since day 1, but they’re surely getting there. I really hope someone from the team sees my work and sees my ideas.
+
+It was really exciting, eye-opening, and a lot of fun, and I’m so excited to finally have the world see my work. If you know anyone who would be interested in my skill sets, all I ask is if you have enjoyed my work (which I’m confident you will), to please share it with your friends, peers, co-workers, hell, even your dog (just kidding, of course).
+
+Anyways, enough reading. Check out my Apple Maps Redesign case study on Medium by [clicking here.](https://medium.com/@aymanjaddaa/i-redesigned-apple-maps-and-replicated-an-apple-product-launch-for-it-468a03f10c92)
+
+Once you’re done, be sure you take a look at the [Apple Carrier](https://aymanjaddaa.com/work/apple-carrier) MVP app and the [Apple Authenticator](https://aymanjaddaa.com/work/apple-authenticator) app concepts I’ve also been working on. They’re both on my portfolio at [aymanjaddaa.com](https://aymanjaddaa.com)
+
+&amp;#x200B;
+
+If you have any feedback, please let me know! I'm always trying to learn and really want to improve my craft.",110,916,2019-12-21,AAPL,0.0357338972389698,0.9193629622459412,0.04490317776799202
+AppleWatch,Upgrades complete ✅ (Also gold really is underrated),,71,881,2019-12-21,AAPL,0.019880399107933044,0.18040721118450165,0.7997124195098877
+mac,ANIMAIONIC - turns your Mac Mini into a Workstation (Now on Kickstarter),,91,849,2019-12-21,AAPL,0.03244895488023758,0.919609785079956,0.04794119670987129
+ios,What The Fuck Siri?,,72,591,2019-12-21,AAPL,0.13156096637248993,0.8053072690963745,0.06313174962997437
+apple,MKBHD's Current desktop setup | 2x Pro Display XDR | Mac Pro under the desk | Apollo Twin MKII | 2x Yamaha HS8 | 80TB Promise Pegasus | Having dual monitors again has made me sooooo happy,,290,454,2019-12-21,AAPL,0.016350960358977318,0.9072473645210266,0.07640164345502853
+apple,MacBook Pro 16” review from a developer's perspective,,137,266,2019-12-21,AAPL,0.020086180418729782,0.9185259342193604,0.06138793006539345
+ipad,New Ipad Setup!,,49,264,2019-12-21,AAPL,0.01662137545645237,0.8927479386329651,0.09063060581684113
+iphone,This Apple Maps concept looks even better than Google Maps,,204,1513,2019-12-22,AAPL,0.011030206456780434,0.25898775458335876,0.7299820184707642
+mac,I just finished building a Mac Mini / Powerbook frankenmac,,68,1433,2019-12-22,AAPL,0.015357724390923977,0.8972762823104858,0.08736605197191238
+mac,Always wanted the 15” on release date. Waiting never felt so good on getting my 16”,,87,1008,2019-12-22,AAPL,0.07330764830112457,0.8714989423751831,0.055193398147821426
+apple,The Perfect Bluetooth iPod Classic – by u/Dankmus,,85,1006,2019-12-22,AAPL,0.02092009223997593,0.8733487129211426,0.10573121905326843
+iphone,iPhone Lesson Plans?,My grandma is in town for the holidays and I have some time to spend with her. She has requested iPhone lessons for her Christmas gift. As a millennial that’s used Apple products for 10+ years I don’t even know where to begin teaching an 80 yo. Does anyone know of a lesson plan out there (paid or free) that will give me a checklist of items to review with her?,100,624,2019-12-22,AAPL,0.047027040272951126,0.9261664152145386,0.026806553825736046
+ipad,"The pencil can INDEED attach to the side of a regular iPad, take that athiests",,58,604,2019-12-22,AAPL,0.026721609756350517,0.917554497718811,0.05572386831045151
+apple,Why is pasting at a certain spot in a sentence almost impossible in iOS 13?,"Without the magnifier cursor it’s so difficult. Am I missing something?
+
+Example: 
+
+Paste your copied text in these brackets: [ ] Great, now the text is pasted.",158,585,2019-12-22,AAPL,0.06565076112747192,0.8869849443435669,0.04736427590250969
+AppleWatch,Can Apple Pay still be used on the watch if someone would chop off my arm?,"I was having a discussion about this with a friend, so me having to worry about my arm being chopped of is not the issue here.",136,516,2019-12-22,AAPL,0.26587435603141785,0.7060114145278931,0.028114262968301773
+ipad,"This style is very new to me, I don’t usually play around with the watercolor brushes in procreate, but I think it turned out ok:)",,36,502,2019-12-22,AAPL,0.03247492387890816,0.9298822283744812,0.03764282166957855
+apple,Jon Davis: New WebKit Features in Safari 13,,105,437,2019-12-22,AAPL,0.02271280810236931,0.9189409017562866,0.058346252888441086
+apple,Apple Pulls Emirati Chat App 'ToTok' From App Store for Allegedly Spying on Users,,269,3340,2019-12-23,AAPL,0.8682188987731934,0.118726447224617,0.01305460650473833
+mac,Nvidia no likey,,97,2720,2019-12-23,AAPL,0.04722575470805168,0.9020300507545471,0.05074416100978851
+iphone,Would be nice to be able to rename Bluetooth devices again... because it’s a pain to be guessing. And I say “again” because I know this was possible before and now it’s only for certain devices – Just like you can do this on the Mac.,,159,2202,2019-12-23,AAPL,0.013941091485321522,0.9153068661689758,0.07075207680463791
+apple,Apple's valuation had passed 1.3 Trillion,,77,804,2019-12-23,AAPL,0.07616408914327621,0.09511756151914597,0.828718364238739
+apple,Maxed out Mac Pro (dual Vega II Duo) benchmarks,,155,484,2019-12-23,AAPL,0.014040939509868622,0.8863012194633484,0.09965784102678299
+AppleWatch,Why dont we have a setting that changes watch faces based on certain criteria?,"I always change watch faces when I am at home vs when I get to work, and when I work out vs when I am not, etc. I thought this is so intuitive that there should be a shortcuts integration which I can program to get this going. unfortunately that isn't the case.  I hope r/apple gets this in place for one of its future updates.",36,436,2019-12-23,AAPL,0.03955993428826332,0.9224190711975098,0.03802105039358139
+apple,MacBook Pro 16-inch and iPhone 11 Pro make Engadget’s list of the best gadgets of 2019,,65,430,2019-12-23,AAPL,0.02092365361750126,0.9056336283683777,0.073442742228508
+apple,"App Store featuring two Stories both titled ""A new surprise awaits…""",,50,406,2019-12-23,AAPL,0.03386249020695686,0.9313238263130188,0.034813717007637024
+apple,Hacker tried to blackmail Apple; threatened 319M iCloud accts,,22,392,2019-12-23,AAPL,0.18739983439445496,0.7802431583404541,0.032356977462768555
+mac,"I made a simple animation on how macOS should boot up, in Keynote.",,36,389,2019-12-23,AAPL,0.04084627330303192,0.9273011088371277,0.03185262531042099
+apple,iPhone XR has been the best-selling smartphone every quarter this year,,557,4587,2019-12-24,AAPL,0.02646411582827568,0.913330078125,0.060205768793821335
+iphone,Every single iPhone wallpaper from 2007 to 2019,,132,3240,2019-12-24,AAPL,0.03515854850411415,0.9098350405693054,0.05500638857483864
+mac,Decided to try out Apple’s AR web feature in our work canteen,,55,1953,2019-12-24,AAPL,0.013012964278459549,0.9074859023094177,0.07950117439031601
+AppleWatch,"That’s one way to charge it, I guess..",,73,1382,2019-12-24,AAPL,0.031199350953102112,0.8904127478599548,0.07838790118694305
+apple,"Experts Believe That Apple Could Sell Over 85 Million AirPods, Thereby Making Up To $15 Billion By 2020",[deleted],293,1255,2019-12-24,AAPL,0.009518887847661972,0.34863531589508057,0.6418457627296448
+apple,iPhone camera supplier Sony says even 24 hours a day not enough to meet demand,,104,1034,2019-12-24,AAPL,0.01934942975640297,0.5084119439125061,0.4722386598587036
+apple,Using the new Mac Pro and Pro Display XDR on Jumanji: The Next Level,,142,727,2019-12-24,AAPL,0.02510862983763218,0.9278820753097534,0.04700929671525955
+iphone,My iPhone basically asked me to wake up late tomorrow.,,42,678,2019-12-24,AAPL,0.14398030936717987,0.8038759827613831,0.05214369669556618
+ipad,How to get real fullscreen on YouTube,,70,493,2019-12-24,AAPL,0.03283153101801872,0.9361485242843628,0.031019873917102814
+apple,Smartphone Awards 2019!,,119,310,2019-12-24,AAPL,0.031431082636117935,0.9222912788391113,0.04627761244773865
+iphone,Brought out my newton to show decades of improvement with my new device,,221,5553,2019-12-25,AAPL,0.013681653887033463,0.6813874840736389,0.30493077635765076
+mac,My new artisanal MacBook made by my 12 year old daughter,,98,4116,2019-12-25,AAPL,0.028120607137680054,0.913783073425293,0.058096352964639664
+apple,"Tim Cook on Twitter: “Our most meaningful gift is the time we share with one another. To friends, family, Apple coworkers and all those celebrating around the world — Merry Christmas!🎄”",,217,2937,2019-12-25,AAPL,0.027331888675689697,0.8577840924263,0.11488401889801025
+AppleWatch,"Want to browse r/AppleWatch on your new Apple Watch? I made an app that can do just that, it's called Nano for Reddit, and it's free!",,93,1367,2019-12-25,AAPL,0.011504435911774635,0.8922201991081238,0.09627538919448853
+mac,"My girlfriend has design it (on Procreate), printed and gifted to me for Christmas. Remembering Steve.",,42,1295,2019-12-25,AAPL,0.01971322111785412,0.8699615001678467,0.11032528430223465
+ipad,"Cons of being the IT guy at Christmas: having to setup other people's toys... Bonus though: I get to play with new stuff. Con is now I want my own Mini to go along with my 11"" Pro.",,66,686,2019-12-25,AAPL,0.02807888202369213,0.9123658537864685,0.059555258601903915
+appletv,"Merry Christmas to me, baby!",,85,603,2019-12-25,AAPL,0.035804152488708496,0.7928855419158936,0.17131027579307556
+apple,Multiple users report severe ghosting issues with the MBP 16's new screen,,207,432,2019-12-25,AAPL,0.27264222502708435,0.7003316283226013,0.027026131749153137
+ipad,"Bought my stepdad an iPad for Christmas. Within 2 hours, he was asking me how to find porn.","Ah, old people are just people, like the rest of us.",63,378,2019-12-25,AAPL,0.03681543469429016,0.9057132005691528,0.05747139826416969
+MacOS,Upgraded my mid-2007 iMac to the latest version of macOS. 13 years and still kicking as my daily driver.,,76,336,2019-12-25,AAPL,0.03594818338751793,0.7894911766052246,0.17456065118312836
+apple,"Apple silently yanks the 1966 version of the Grinch from the libraries of customers who purchased it, forcing them to buy a new ""Ultimate"" version of the same 1966 version",,691,8461,2019-12-26,AAPL,0.02234039083123207,0.9331150054931641,0.04454457759857178
+iphone,More And More Users Complains About The Reduced Battery Capacity Noticed On iPhone X,,421,1559,2019-12-26,AAPL,0.9560597538948059,0.02405991032719612,0.01988036371767521
+mac,"Just got my first Mac, any recommendations for a first time user?",,553,1139,2019-12-26,AAPL,0.023022731766104698,0.8807222247123718,0.09625505656003952
+apple,"Maxed out $52,000 Mac Pro Review",,223,842,2019-12-26,AAPL,0.01756431721150875,0.9269746541976929,0.055461008101701736
+apple,Apple AirPods Suppliers Seeking Funding to Expand Production in Vietnam,,37,565,2019-12-26,AAPL,0.018832102417945862,0.06427216529846191,0.9168958067893982
+ipad,Modified my chair a bit,,35,546,2019-12-26,AAPL,0.04040151834487915,0.9302543997764587,0.02934408001601696
+AppleWatch,What are some must have Apple Watch apps that you would recommend,Just got my Apple Watch and was wondering what apps would improve my overall experience with the Watch,175,381,2019-12-26,AAPL,0.009569726884365082,0.17001433670520782,0.8204158544540405
+apple,"iCloud experiencing major outage as of 9pm EST. Photos, Backup, Mail, Notes, Drive, and Documents are down.",,68,346,2019-12-26,AAPL,0.04262855276465416,0.9282596111297607,0.02911185659468174
+apple,AirPods Are Becoming a Platform?,,114,313,2019-12-26,AAPL,0.045046981424093246,0.7448097467422485,0.2101432979106903
+iphone,Best iOS apps and games to buy with your gift card,,52,309,2019-12-26,AAPL,0.015391691587865353,0.8884468078613281,0.09616157412528992
+apple,"Apple needs to add a ""Mark as Unread"" feature to Text Messages","So many times I will open a message and close it, only to forget to reply later. I'm aware of the force touch message preview but there are still times that this occurs and I am sure I'm not the only one - especially considering the 'read message earlier and forgot to reply' messages that I have received myself from friends at times.
+
+Simple feature, needs to exist.
+
+This has nothing to do with iMessage read receipts. The feature would allow you to ""unread"" a read normal text or iMessage, similar to what you do in emails and that would put the red notification bubble back over your messages app so you would know that there is a message in there you still want to reply to and haven't.",319,5431,2019-12-27,AAPL,0.04005134105682373,0.9215248823165894,0.03842375427484512
+iphone,Tracked a thief to his house using Find my iPhone! I got my phone back!,[deleted],344,3013,2019-12-27,AAPL,0.052967481315135956,0.899286687374115,0.04774588719010353
+mac,Never updating my mac/safari after this,[deleted],125,1725,2019-12-27,AAPL,0.03468792513012886,0.9122629165649414,0.05304917320609093
+apple,"Apple Extends Rally, Solidifying 2019 as Best Year in a Decade: Stock up 82% after overcoming forecast cut, trade war concerns",,186,1295,2019-12-27,AAPL,0.2928844690322876,0.14470098912715912,0.5624145269393921
+iphone,Just recently got a iPhone 11 Pro and was wondering if using an app (OLEDX) to turn my phone into an always on display would cause burn in?,edit: found [another app](https://apps.apple.com/us/app/natta/id1355497821) that specially moves the clock to prevent burn in.,120,697,2019-12-27,AAPL,0.052123092114925385,0.919615626335144,0.028261279687285423
+apple,Converting to the Apple ecosystem,[deleted],416,695,2019-12-27,AAPL,0.016302214935421944,0.9115158319473267,0.07218201458454132
+apple,Exclusive Renders and 360-degrees Video of 2020 iPad Pro 11″ and 12.9″,,399,672,2019-12-27,AAPL,0.015424266457557678,0.9341080784797668,0.05046767368912697
+ios,"Huh, I guess you can only have 500 tabs open at a time.",,97,626,2019-12-27,AAPL,0.04115305095911026,0.9068824052810669,0.05196452513337135
+ipad,My first piece on my new iPad I got for Christmas :),,28,622,2019-12-27,AAPL,0.013668976724147797,0.8706966638565063,0.11563429981470108
+mac,Screen Time thinks I spend all my time online on pornhub.com,"I finally updated to macOS Catalina last week. Today I remembered that Screen Time got added to mac so I went to check it — only to find that I apparently spend an average 5-6 hours on pornhub every day. I will admit I did visit the site like 2 weeks ago through the reddit app on my phone, but that was it. Now, whenever I'm online on my mac, Screen Time thinks I'm on pornhub. I've never even visited the site on my laptop. I looked at the data for every day and the amount of time it says I'm on pornhub is always exactly the same as the amount of time I'm on Safari. So no matter what website I'm on in Safari, for some reason it registers as being on pornhub.
+
+The picture shows yesterday's info. As you can see, every time I was using the internet, it registered as being on pornhub. So I apparently spent a whopping 8 hours watching porn yesterday. I will admit it's kind of funny. Except it's not. How do I fix this?
+
+EDIT: I feel like I should add this because of some of the comments I'm getting lol. I am in fact a female and I don't like porn. I almost never watch it, like seriously maybe only twice a year. That's why I'm so baffled by Screen Time telling me I spend all my time on ph.
+
+UPDATE: Thanks for all the suggestions y'all! (And entertaining comments) Tried a bunch of tips including clearing cache and cookies, deleting all website data on my phone, and even deleting the reddit app on my phone. Restarted my mac and when I opened Screen Time all the data was changed and there's no sign of pornhub anywhere (the rest of the stats for other apps/sites remain unchanged though). Kind of weird that it completely disappeared even from previously recorded stats but all your suggestions seem to have worked! All the time I spent on safari today is no longer being shown as ph. Thanks for the help and all the laughs y'all!
+
+https://preview.redd.it/ziidltnw48741.png?width=900&amp;format=png&amp;auto=webp&amp;s=04d7874257598e43e60ce716e24a04e8cd1a856a",107,618,2019-12-27,AAPL,0.055630214512348175,0.9137336015701294,0.03063616156578064
+apple,I just found out Apple's been using my indie app as a demo in some of its retail stores over Christmas/NY!,,302,5199,2019-12-28,AAPL,0.020069057121872902,0.8857358694076538,0.09419500827789307
+iphone,"Apple's Stock Price Hits A New Record On Christmas Day And Market Value Reaches $1.3 Trillion, Thanks To Airpods And iPhone 11",,163,1954,2019-12-28,AAPL,0.021085942164063454,0.4075266420841217,0.5713874101638794
+mac,Got my first Mac :),,107,1839,2019-12-28,AAPL,0.021510368213057518,0.8620828986167908,0.11640677601099014
+mac,Safari is awesome. I don’t even have a Facebook account and yet they tried to track. I didn’t accept any ToS or privacy policy at Facebook. Is this even legal?,,127,907,2019-12-28,AAPL,0.03556957468390465,0.9336215257644653,0.030808869749307632
+AppleWatch,My collection Apple Watch 4 💖,,50,710,2019-12-28,AAPL,0.02917885221540928,0.9122192859649658,0.05860190466046333
+apple,[Self Promo Saturday] hi i made a very stupid website about the mac pro,,55,679,2019-12-28,AAPL,0.03637935593724251,0.9180840253829956,0.04553661495447159
+apple,Apple Rumored to Launch High-End ‘Gaming Focused’ Mac for 2020 for a Somewhat Reasonable Price,,294,431,2019-12-28,AAPL,0.0128614641726017,0.17716234922409058,0.8099762201309204
+ipad,My first artwork using iPad Pro (Crosspost) (@pancodemakes),,19,383,2019-12-28,AAPL,0.014281807467341423,0.9251090884208679,0.06060909107327461
+AppleMusic,The Complete Feature Request List for Apple Music in 2020,"I've read almost every reddit post about Apple Music with all complaints, feature requests, etc and made a list of it. Are there things that I missed or you do not agree with? Please let me know on the comments so I, and others, can discuss it.
+
+Disclaimer: It's a very long list.
+
+**Features**
+
+* The first page is [""Listen Now""](https://imgur.com/gallery/n9jwxQC) where you can customise what you want to see at first.
+* Sort Music by “last listened to” or release dates.
+* An Apple Music Channel in the TV app.
+   * More video content.
+* Download your whole library with one tap.
+* The iTunes Music store is built in the Music app.
+   * Whenever a(n) song/album isn’t available on Apple Music but is on the iTunes Store you can buy the song/album directly in the Music app.
+   * Whenever you turn off Apple Music, “Listen Now” will be removed from the tabs and “Browse” will become the iTunes Store.
+* When an artist, album, playlist, song, etc is in the charts, it will be shown on that page.
+* Replay statistics right in the app.
+   * Share your Replay statistics with your friends within the Music app.
+* Whenever you share music with social media like Twitter, FaceBook and instagram, users can preview it right on that service.
+* See who have listened to that album or playlist right on the album or playlist page.
+
+&amp;#x200B;
+
+**Personalise**
+
+* Love/don’t like songs on the now playing card, Control Center and lockscreen.
+* See your favourite artists and genres.
+   * Add artists and genres.
+   * You can also see all the music you have liked.
+* The ability to follow artists.
+   * New music, appearances on radio segments, release dates and video content will appear on the Listen Now page.
+      * You can add the video content to the Up Next section in the Apple TV app.
+   * You will get a notification whenever there is new music or a new release date available.
+   * See which friends are following the artist.
+   * The artists you follow will automatically appear in a special Music section in the News app.
+      * These news articles will also appear on the artists’ page.
+* The ability to follow radio shows.
+   * New episodes will appear on the Watch Now page.
+   * You will get a notification whenever the show is live or when there is a new episode that you haven’t listened to.
+   * See which friends are following the show.
+* See concerts near by and concerts from artists you like.
+   * Buy tickets within the app with Apple Pay.
+* Buy merchandise from artists right in the app with Apple Pay.
+
+&amp;#x200B;
+
+**Playback**
+
+* The ability to clear Up Next.
+* Repeat and Repeat All buttons in plain sight.
+* Settings for cross fade and gapless playback.
+   * Artists can overrule these settings with settings special for the album/playlist made by them. 
+* Songtexts in music video’s.
+* Go to the previous or next song by swiping the artwork on the Now Playing card. 
+* Whenever all songs in up next are played and there are no songs left, it will continue playing other similar music.
+
+&amp;#x200B;
+
+**Playlists**
+
+* Make and edit smart playlists.
+   * Suggestions for smart playlists.
+* Edit the order of songs in playlist.
+* Make folders for playlists.
+* Search within playlists.
+* Collaborative playlists.
+* Statistics for playlists
+   * See how many listeners and followers there are.
+* See which friends are following the playlist.
+
+&amp;#x200B;
+
+**Artists**
+
+* Artists can add their own playlists to their page within the Apple Music For Artists app.
+* Charts for artists.
+* The ability to quickly switch on an artists page to all music from that artist and music in your library.
+* Artists can now publish albums with a placeholder name and cover art 
+
+&amp;#x200B;
+
+**Metadata**
+
+* Albums that aren’t actually albums, like “The Best Off” or “Hits from 2019” are replaced by playlists
+* Double music will be merged.
+   * When you add a single that later will be used on am album, it will show on that album that you already have that song added. 
+      * The single will keep the artwork from the single.
+   * Deluxe and standard albums are merged to one album. All the extra suff will be in a special section.
+   * Double songs that are on multiple albums are merged to one song.
+   * Remastered versions will replace the older version, so there won’t be any double songs.
+   * The non explicit album and explicit album are merged to one album.
+      * You can change in settings if you want to default to the explicit or non explicit version.
+      * You can manually switch to the explicit or non explicit version right on the album page.
+* A new “Live performances” section with video’s from performances so those won’t clutter the Music video’s section anymore.
+   * There is also a new “Live performances” charts section.
+* Remixes will get their own section so they don’t clutter the singles and EP’s section anymore. 
+* Features will be removed from the song title line and added to the artists’ line.
+* Report problems on Music metadata such as the album cover, title, artist, song text, etc.
+* Block an artist. It will never play that artist again.
+* Every song on an album can have their own artwork.
+* Special “Live”, “Accoustic”, “Remix” icons that replace the plain text.
+* More information about albums like release date, writers, plays per month, etc",44,345,2019-12-28,AAPL,0.07241891138255596,0.9060978591442108,0.021483239717781544
+apple,Music Bar for macOS - Control Apple Music right from your menu bar.,,34,311,2019-12-28,AAPL,0.02626974694430828,0.9441638588905334,0.029566334560513496
+iphone,iMore: Turns out 64GB in an iPhone probably is enough after all,,766,2313,2019-12-29,AAPL,0.10269861668348312,0.6154282093048096,0.2818731963634491
+mac,Figured I’d show my completed “one-cable” setup!,,178,2220,2019-12-29,AAPL,0.025344857946038246,0.9113129377365112,0.06334225833415985
+AppleWatch,Apple Watch strap = handy tool for hard-to-reach places,,58,2153,2019-12-29,AAPL,0.05823320150375366,0.8991225957870483,0.04264422506093979
+ios,Long live skeuomorphism.,,83,1328,2019-12-29,AAPL,0.03510482609272003,0.9251737594604492,0.03972139582037926
+apple,Vintage Apple Sticker. Date?,"Hi, can anyone date this old Apple sticker I’ve had knocking around for a few years?
+[image](https://imgur.com/gallery/GZSd0gc)",84,1060,2019-12-29,AAPL,0.05885552614927292,0.8845880031585693,0.05655646696686745
+ipad,first time using iPad pro and Procreate,,67,1011,2019-12-29,AAPL,0.010836564004421234,0.8961775302886963,0.09298589080572128
+mac,Set up ready for 2020!,,43,988,2019-12-29,AAPL,0.030345484614372253,0.9396103024482727,0.03004423715174198
+MacOS,10 years of macOS updates.,,68,934,2019-12-29,AAPL,0.032206401228904724,0.9315570592880249,0.03623655438423157
+mac,"My 2009 MacBook Pro was just a little too standard (it’s not a sticker, it’s on the inside of the display assembly)",,28,288,2019-12-29,AAPL,0.02269921638071537,0.9231283664703369,0.054172370582818985
+ipad,First new iPad with price match discount!,,38,268,2019-12-29,AAPL,0.021239416673779488,0.8955561518669128,0.08320450037717819
+mac,How I started and ended the decade.,,108,2113,2019-12-30,AAPL,0.12523002922534943,0.8496561050415039,0.025113821029663086
+apple,Apple ink supplier in Japan makes mark with iPhone 11 Pro colors,,117,1769,2019-12-30,AAPL,0.015977906063199043,0.9101462960243225,0.07387585937976837
+apple,Apple iPad Pro 2020 might have the same back camera setup as the iPhone 11 Pro,,362,1727,2019-12-30,AAPL,0.013575487770140171,0.8969705700874329,0.08945393562316895
+iphone,A year ago I got tired of seeing crappy loan calculator apps so I made my own. It's called Loan Master and you can view multiple graphs with an amortization table and export them to Excel. Just recently added an update that allows you to create a PDF of your loan results. Would like any feedback!,,152,1512,2019-12-30,AAPL,0.02507867105305195,0.9314123392105103,0.04350898042321205
+AppleWatch,Get a notification on your Apple Watch when you forget your iPhone,,253,1156,2019-12-30,AAPL,0.05933414772152901,0.911751925945282,0.028913920745253563
+apple,iMore: Turns out 64GB in an iPhone probably is enough after all,,379,618,2019-12-30,AAPL,0.10269861668348312,0.6154282093048096,0.2818731963634491
+iphone,My favourite weather app removed their radar widget which gave an INSANELY useful instant view of local weather conditions! Does anyone know of another widget that shows local weather radar?,"I happily paid for Weather Underground as I used [their widget](https://cdn.cultofmac.com/wp-content/uploads/2016/01/weather-underground-widgets-screens-400x703.jpg) several times a day to check for precipitation in my area, since here in Toronto the forecasts are typically done at the airport which often has very different weather than down where I live on the lake. However their latest update has removed the widget and I'll be damned if I can find a replacement!
+
+Does anyone know an app that has a radar weather widget like Weather Underground used to have?
+
+EDIT: thanks for all the suggestions folks but I'm looking for an app that shows weather radar *in the widget*, not in the app itself! A list of apps that do not have widgets or do not have radar in their widgets:
+
+* AccuWeather
+* Carrot
+* Dark Sky
+* MyRadar
+* RadarScope
+* Weather Mate
+* Weather Underground (RIP)
+* WeatherBug
+* WeatherLive
+* Windy
+
+EDIT 2: some successes!
+
+* thanks to /u/jim165 for suggesting [Weather F (or Weather C depending where you live)!](https://apps.apple.com/us/app/weather/id500182129)
+* and to /u/mirkoarturo for suggesting [Weather and Radar](https://apps.apple.com/ca/app/meteo-radar/id545993260)!",186,565,2019-12-30,AAPL,0.06540150195360184,0.9110432267189026,0.02355526015162468
+AppleWatch,Am I the only one who things that the original charger is built in reverse? the cable always try's to flip.,"I know this sounds stupid, but it is very weird.
+
+&amp;#x200B;
+
+Update, spelling mistakes:
+
+thinks\*
+
+tries\*",60,440,2019-12-30,AAPL,0.061761531978845596,0.9002058506011963,0.038032617419958115
+apple,BOE will supply OLED displays for the iPhones in 2020,,126,416,2019-12-30,AAPL,0.01899987831711769,0.9122942686080933,0.06870584934949875
+mac,Who remembers using Lion,,58,415,2019-12-30,AAPL,0.03682355582714081,0.9261675477027893,0.037008896470069885
+apple,"In 2020, Apple needs to change iPhone’s call UI because robocalls are killing us",,713,9714,2019-12-31,AAPL,0.036670975387096405,0.907270073890686,0.056059014052152634
+apple,Apple's Emergency SOS feature foils attempted sexual assault,,175,2665,2019-12-31,AAPL,0.6962438821792603,0.27803200483322144,0.025724170729517937
+iphone,All 2020 iPhone models to have in-display Touch ID with the high-end model to feature in-display selfie camera.,,461,2304,2019-12-31,AAPL,0.02293558605015278,0.9395936727523804,0.03747068718075752
+AppleWatch,Happy 2020 from New Zealand!,,68,1565,2019-12-31,AAPL,0.037631187587976456,0.8600308299064636,0.10233800113201141
+mac,Command key icon is not just for a Swedish Campsite. Found in Denmark denoting a resort (near Legoland),,23,731,2019-12-31,AAPL,0.026741614565253258,0.8767813444137573,0.09647709131240845
+apple,Chance Miller: Apple (8.2%) and Microsoft (6.6%) account for 15% of total 2019 stock market gain.,,62,658,2019-12-31,AAPL,0.031584177166223526,0.9222245216369629,0.04619123041629791
+ipad,Bought a house yesterday and got myself a housewarming gift💥,,46,605,2019-12-31,AAPL,0.028275927528738976,0.8977780342102051,0.0739460363984108
+ios,Siri Shortcuts really are helpful,,26,459,2019-12-31,AAPL,0.049376167356967926,0.9014986157417297,0.049125202000141144
+apple,Patent appears from Apple with full-screen display and no notch,,110,446,2019-12-31,AAPL,0.018844306468963623,0.9171389937400818,0.0640166848897934
+ipad,"Hello fellow iPad fans! We are a developer duo, working on our iPad exclusive game on and off in our spare time for years. I desperately wanted to finally release it in 2019, and we barely made it! If you crave a noir mystery adventure - it's free!",,55,351,2019-12-31,AAPL,0.02853791043162346,0.838162362575531,0.13329975306987762

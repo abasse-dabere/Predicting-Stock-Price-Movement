@@ -1,0 +1,683 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+iphone,I made a free and ad free meme generator app. Am I doing this right?,"I made a free meme generator. It is called meme design and here is the link: http://itunes.apple.com/us/app/meme-design/id490532286?ls=1&amp;mt=8
+
+**edit:I forgot to mention that there is also an ipad version of the app as well!**
+
+ I need reddits feedback on it to help make it better.  The next version I plan on implementing:
+
+many more meme templates (I realize a lot are missing right now)
+*import from camera
+*move text
+*change text color
+
+reddit, you suggest the ideas and I will implement them.  The ad will always be free.  The only plans for the future is to use this app (if it gets popular enough) to promote a website version of it which will have some (non intrusive) ads.
+
+**Suggestions that will be implemented so far: 
+
+* sort templates abc order and have a tab for the most popular meme's
+
+* search templates
+
+* Save created meme's in app
+
+* Share feature send in txt message
+
+* When sharing to reddit, chose which subreddit
+
+* copy image to clipboard
+
+
+**Meme Design 2.0 Released.  Details here:**
+
+http://www.reddit.com/r/iphone/comments/pe7bh/meme_design_20_now_released_into_the_app_store/",128,275,2012-01-01,AAPL,0.018494075164198875,0.9375850558280945,0.043920911848545074
+apple,Apple TV modified to run full-screen iPad apps,,62,179,2012-01-01,AAPL,0.024410301819443703,0.937617301940918,0.037972357124090195
+iphone,First world problem solved.,,68,131,2012-01-01,AAPL,0.26009389758110046,0.7006312012672424,0.03927500173449516
+apple,"The Apple II, Now Only $1,995!",,29,111,2012-01-01,AAPL,0.029945481568574905,0.9325944781303406,0.03746002912521362
+apple,Got it in JUST in time,,9,61,2012-01-01,AAPL,0.028790179640054703,0.9030362367630005,0.06817358732223511
+apple,iPhone made up a surprising 66% of sales at AT&amp;T corporate stores,,25,39,2012-01-01,AAPL,0.013169421814382076,0.12606631219387054,0.8607642650604248
+iphone,With all the mixed info about battery I thought I would just ask how well this rates.,,15,33,2012-01-01,AAPL,0.03714313358068466,0.6043824553489685,0.35847440361976624
+apple,Why Safari's market share hasn't budged,,74,29,2012-01-01,AAPL,0.09224865585565567,0.8162593841552734,0.09149195998907089
+apple,"Oh, a Steve Jobs action figure, that looks cu--- HOLY FUCKING SHIT WHAT THE FUCK IS THAT",,16,20,2012-01-01,AAPL,0.06853029131889343,0.8390684127807617,0.09240131825208664
+apple,Use 'Wi-Fi Diagnostics' Tool to Check Signal Strength and Optimize Networks in Lion,,16,16,2012-01-01,AAPL,0.020990464836359024,0.9399633407592773,0.03904620558023453
+iphone,I fucking hate sites that automatically redirect to their mobile site's home page when you click a direct link to a specific page,"Here is an example: 
+
+http://www.cbsnews.com/8301-501363_162-57350788/passerby-rescue-children-after-icy-river-crash/
+
+If you open this link on an iOS device, instead of opening the actual article I want to read, it instead opens the CBS News mobile home page. What the fuck? I see this a lot. Is this just stupidity / laziness on the web developer's part? Or is there a way around this on the user's end?",110,972,2012-01-02,AAPL,0.06374315917491913,0.911774218082428,0.024482641369104385
+apple,I full-on dropped my iPhone 4S in the toilet.,"We were in a zero-signal area, so I hadn't used my phone all weekend, and I guess forgot I was carrying it again.  I had pulled m'pants down and it slipped out of my back pocket and fully submerged.  I stared at it stupidly for 20 seconds wondering what it was that had just fallen in (good to know:  white iPhones blend in beautifully with porcelain), before pulling it out in a panic and a shower of curse words.
+
+It stayed on and functioning.  I left it in a bag of rice for a few hours.  Today it works perfectly, and I'm currently syncing it and importing all the Christmas / New Years photos and videos I had taken.  Woooooooooooooo!!!!!!!!!!!!!",154,296,2012-01-02,AAPL,0.06902842968702316,0.8889300227165222,0.042041487991809845
+apple,Sears is selling a fake Apple external hard drive enclosure.,,61,193,2012-01-02,AAPL,0.18129609525203705,0.7819192409515381,0.03678470849990845
+iphone,Just getting my money worth.,,37,179,2012-01-02,AAPL,0.023663245141506195,0.8667705655097961,0.10956617444753647
+apple,Misconceptions about iOS multitasking,,106,140,2012-01-02,AAPL,0.037414055317640305,0.9226183295249939,0.0399676077067852
+ipad,I'm not really proud of that achievement – SpellTower,,9,93,2012-01-02,AAPL,0.012881283648312092,0.33050015568733215,0.6566185355186462
+ipad,"Anyone else find YouTube completely inadequate on the iPad? Both the app and a web link are both very slow to buffer, pausing is unpredictable... Etc","Not sure what to do, my wifi signal maybe isn't the strongest right now, but I can't watch anything on YouTube.",33,91,2012-01-02,AAPL,0.09985122829675674,0.8794686794281006,0.020680062472820282
+apple,Why PC trackpads suck.,,92,87,2012-01-02,AAPL,0.03240775689482689,0.92909836769104,0.03849386051297188
+apple,Apple gearing up for 'media-related announcement' later this month?,,25,71,2012-01-02,AAPL,0.026603268459439278,0.9456937313079834,0.02770294062793255
+apple,My 2012 project: Get an external PCIe GPU running on my 13 inch 2011 MacBook Pro.,"First I need [this](http://store1.sonnettech.com/product_info.php?products_id=392) ThunderBolt Expresscard bat from Sonnet.  It's $149 and allows connection of ExpressCard/34 cards.
+
+Next I will need the [PE4H](http://www.hwtools.net/Adapter/PE4H.html) passive PCIe to mPCIE (ExpressCard/34) adaptor.  This will plug into the GPU and the Sonnet ThunderBolt box, and is $91.
+
+Now I need a GPU.  I have a spare Asus GTS250 kicking around which is good enough for testing.
+
+Of course, I will need a spare power supply to power the GPU.  I can use an ATX PSU or an AC one apparently.  This is the part that I am still fuzzy on.  It looks like you need about 75 watts per 6 pin, and 150 per 8 pin.  The card I have I think has a single 6 pin, so 75 should do it.  To make sure it works with something else later, I will try to use a 300 watt PSU.
+
+I then plant to test it on a BootCamp Windows 7 64 install.
+
+The next step after that will be enclose it in a nice case.  Hopefully I can get it running on AC so I don't need the bulk and expense of a PSU.
+
+The idea behind it is simple.  I have this thundering gaming desktop  and other than the GPU and monitor the whole thing is redundant to the parts in my MBP for the most part.
+
+I want to keep the desktop for now upstairs for regular gaming, but I am an avid sim racer and want to have my wheel and pedals downstairs with the big TV.  The little box would be perfect, as I can then plug my MBP into it and game there.  Trying to coexist a sim racing setup with regular computing and other gaming in a small space is difficult and cumbersome.
+
+If you have a 17"" MBP with the card slot (or any other machine with a card slot) you don't need the Sonnet box.
+
+EDIT: Here is where I got the information from.  I am going off of their tested 3dmark06 scores as a baseline.  If these numbers are to be contested, I want to know why this source is incorrect.  If I was making this up off the cuff I could understand.
+
+http://forum.notebookreview.com/gaming-software-graphics-cards/418851-diy-egpu-experiences.html
+
+EDIT2: I have linked many articles and tests showing this working.  It is not a question if it can work, it is a question if I can make it work well.  The tests show 10x real world performance to the HD3000.",72,39,2012-01-02,AAPL,0.027960002422332764,0.9283513426780701,0.043688662350177765
+apple,TIL Cmd + Shift + Y will create a sticky note out of the currently highlighted text,,96,627,2012-01-03,AAPL,0.19092945754528046,0.7918851971626282,0.017185287550091743
+apple,I used Find My iPhone to track and apprehend the thief who stole my bag...,"This is a story of an asshole who stole the wrong guy's bag.
+
+On the final day of possibly the greatest weekend on record, we were about to leave Whistler, British Columbia to catch our flight home. We were here for a location wedding with close friends and had an amazing time.  My girlfriend, a friend and I said our long goodbyes and headed down to our rental vehicle and noticed the passenger window had been smashed and my messenger bag was gone....fuck.
+
+Contents of bag included:
+
+* Passport
+* Car, house and office keys
+* iPad
+* Jambox
+* Various important papers
+
+
+Enter Batman mode.
+
+Open Find My iPhone app and cross fingers this idiot doesn't know about it's traceable nature.
+
+Remote lock: activated. 
+
+Thank god....i located my iPad on the move in a hotel across the street.  I head the the courtyard in the radius of the signal; looking around trying to identify my bag on the dozens of people surrounding me.
+
+I've dreamt about using this feature if someone ever stole my gear, but in reality, it's difficult in a busy street. I call the RCMP as I'll need some assistance in case this guy (or girl) is nefarious thug.
+
+They arrive quickly as I'm constantly refreshing the location.  I show him my app and brief him on the situation.  It seems to be moving through one of the hotels but I can't pinpoint it exactly. With no real accurate location we start lapping the area, staying within the radius.
+
+It's not really moving. Seems to be in a hotel. The cop explains that we can't be going around knocking on all the rooms...I agree and after a few laps and 30 minutes, decide that it's starting to look like a lost cause. I wasn't getting an accurate enough reading.
+
+I send a message to my iPad: ""Fuck you"", it said.
+
+When you send a message through the app, you have the option of playing an annoying radar like sound for 2 minutes. I didn't do this initially as I thought it would scare him off.
+
+I head back to the parkade and show the officer the scene of the theft. He takes some pics and I answer some questions and my girlfriend starts the process of rescheduling our flight. My dream of using this app to catch a bad guy seems to be fading and I prepare myself to replace all the items that were stolen...not the end of the world but a raging pain.
+
+The RCMP leave me a card with a file number and explain that if I find this guy, follow him and call them immediately.
+
+Soon after they leave and we start the process of patching up the window with cardboard and garbage bags as its pouring rain. I take one last look at my iPads location and shit...it's on the move and the location seems accurate. 
+
+Never give up!  Never surrendaaaaar. 
+
+I run towards its location. It's moving down the pedestrian main street in Whistler called ""Village Stroll"". As I'm moving I'm sending him messages and playing the annoying sound:
+
+&gt;If you try and use this iPad, the RCMP will track you
+
+&gt;Drop the bag. Keep the iPad. I just want my fucking keys
+
+The movement stops in a square and there's not many people around. I play the sound remotely without sending a message this time and seconds after I send...I hear it!
+
+A somewhat normal looking dude walks past me in the opposite direction. As the sound goes off, he looks at his Quicksilver bag and veers into a clothing shop. I call the RCMP back and as my mind is racing I'm trying to explain to dispatch that I've found the guy I called about earlier....she has no idea what I'm talking about so I have to reexplain the situation as I watch this guy pretending to shop.
+
+In what seemed like an eternity, I waited on the line describing the individual and watched him casually blend in as a shopper. 
+
+Finally, I see one of the RCMP that were helping me initially. I hang up and point him out. He heads out of the store and up the sidewalk away from us, he knows the RCMP are around. The officer I'm with radios ahead of us and tells another officer to cut him off.
+
+The thief sees this and ducks into a coffee shop...
+
+I'm told to stay put and the two officers head in the shop and grab the guy, put him in cuffs and start looking through his bag. My iPad and Jambox are there along with a huge amount of stolen merchandise but none of my ID or keys...fuck.  Apparently this guy has been kicked out of the town a few times and is well known. 
+
+I stay away from the scene and listen to them talk. The guy explains he found the bag and was trying to find the owner...pfffff. Eventually he admits his guilt and in exchange for me not charging him, he tells the officers the location of my bag.
+
+We head back to the initial radius I had tracked him to earlier and into a public washroom. Apparently he ditched it in the garbage.  My new found RCMP friend throws on some gloves and roots through the garbage...DING DING DING!  My bag was there but my travel wallet was not. Another radio conversation happens and we head to a different hotel public washroom to find my travel wallet buried amongst the filth.
+
+""It *NEVER* works out like this"" the RCMP explain to me.
+
+I express a huge amount of gratitude for the help and I get some in return for locating the bad guy. It was a fun little game.
+
+**TL;DR** Bad guy smashes window and takes my bag containing my iPad. Use Find My iPhone to track him down and coordinate his arrest and get all my stuff back...I am batman.
+
+**UPDATE:**I've been in contact with the RCMP and am going to cooperate at they build their case against him.  As some of the other comments described, it's not me that gets to make the choice on if he gets charged, it's up to the Crown.  It's up to me if I want to attend court or not...Which, if it gets that far, I will attend.",105,578,2012-01-03,AAPL,0.05558593571186066,0.9109731614589691,0.03344091959297657
+apple,A simple way to check if anyone has opened your Macbook,"You can easily check if anyone has opened your Macbook Pro by going to Utilities then Console, select kernel.log from the sidebar, and search for ""Wake reason: EC.LidOpen""
+
+You'll then get a list showing the exact date and time for each instance of your Macbook being opened while in Sleep Mode.
+
+The logs go approximately two weeks back, probably less if you're a developer and generate a lot of errors.
+
+Just something I found and wanted to share.",48,404,2012-01-03,AAPL,0.08893486857414246,0.88716059923172,0.023904602974653244
+iphone,"A5 Jailbreak (iPhone 4S and iPad 2) Could Come in a Week, thanks to Pod2g!",,79,208,2012-01-03,AAPL,0.015114095993340015,0.554835855960846,0.4300501048564911
+apple,This is why I love Apple.,,85,185,2012-01-03,AAPL,0.032145269215106964,0.8756350874900818,0.09221959859132767
+apple,"The difference is astounding (MacBook Air 11"" vs MacBook Pro 15"")",,58,73,2012-01-03,AAPL,0.02765517309308052,0.9002417922019958,0.07210297882556915
+iphone,The elevation dock for iPhone blows away apples crap options.,,32,59,2012-01-03,AAPL,0.27491068840026855,0.6701207160949707,0.05496861785650253
+ipad,iPad 2 jailbreak update (pod2g),,3,35,2012-01-03,AAPL,0.03530906140804291,0.9032755494117737,0.06141539290547371
+apple,"Apple Gives Thief a Replacement iPhone When the One He Took From Me Wouldn't Work - 
+
+Apple's policy of not intervening in the theft of their products from customers is costing them a wad of cash",,18,32,2012-01-03,AAPL,0.05721137300133705,0.8938685655593872,0.04892003536224365
+ipad,"Is this app legit?  Released yesterday... CloudOn lets you use your iPad to create, view, and edit files directly in Microsoft Word®, Excel® &amp; PowerPoint®...",,30,31,2012-01-03,AAPL,0.015245269052684307,0.9376711845397949,0.04708359017968178
+iphone,Disabling the YouTube app forces all yt links to use the web app. High quality videos every time!,,113,491,2012-01-04,AAPL,0.023351114243268967,0.9370082020759583,0.03964073956012726
+apple,Reinvigorate Your Aging MacBook Pro,,147,281,2012-01-04,AAPL,0.02539319358766079,0.9272080659866333,0.047398731112480164
+apple,iMac accounts for 32.9% of all-in-one PC sales.,,90,104,2012-01-04,AAPL,0.022199997678399086,0.9294819235801697,0.048318084329366684
+apple,You Do Not Need to Manually Manage iOS Multitasking,,99,75,2012-01-04,AAPL,0.033998679369688034,0.9429152607917786,0.023086080327630043
+apple,Introducing the Samsung Galaxy 3GS,,116,66,2012-01-04,AAPL,0.017921827733516693,0.89509516954422,0.08698303252458572
+ipad,ZooGue is giving away free iPad styluses with promo code: FreeZooGueAccessory (you pay S&amp;H),,38,61,2012-01-04,AAPL,0.02162047103047371,0.9149774312973022,0.06340208649635315
+apple,Apple to unveil iTextbooks at January event?,,32,37,2012-01-04,AAPL,0.05648265406489372,0.9013378620147705,0.04217948764562607
+iphone,"RINGTONE THREAD - share your current/favourite ringtones ... i'll go first, mine is ""star wars - the imperial march""","hey /r/iphone, let's share ringtones. upload your ringtone to mediafire (or somewhere similar) and share it with us.
+
+***
+
+my current ringtone is ""the imperial march"" from star wars.
+
+download it here - [http://www.mediafire.com/?imz36i9r17ms291](http://www.mediafire.com/?imz36i9r17ms291)
+
+share and enjoy!",75,35,2012-01-04,AAPL,0.01729944720864296,0.9124941229820251,0.07020635157823563
+ipad,"I have a weird 'old cache' issue with Safari on my iPad, any ideas?","When following a link (from the Reddit home page for instance), when I hit the 'back' button, I get a version of the original page that is DAYS old.  Hitting refresh reloads a current page.  I'm getting this on multiple pages.  Anyone else with this problem? If so, any suggestions? Is there some setting I need to fix?  A power off/on cycle has not helped.",15,27,2012-01-04,AAPL,0.07949424535036087,0.8862388730049133,0.03426690027117729
+iphone,Why is the ability to filter All/Photos/Videos only available when accessing the Camera Roll via the Camera app?,,9,27,2012-01-04,AAPL,0.019746406003832817,0.9441293478012085,0.036124225705862045
+iphone,The iPhone Marimba ringtone remixed. Make it your ringtone,,58,396,2012-01-05,AAPL,0.021961411461234093,0.9106173515319824,0.06742121279239655
+iphone,So I bought my sister an iphone for christmas...,,60,308,2012-01-05,AAPL,0.016526149585843086,0.8764643669128418,0.10700952261686325
+apple,"Found a white iPhone 4S on the side of the road, beat to hell and back...STILL WORKS!",,185,294,2012-01-05,AAPL,0.02718442678451538,0.8119006752967834,0.16091494262218475
+iphone,Some redditers asked for a tamagotchi style iPhone app,,50,185,2012-01-05,AAPL,0.020774614065885544,0.9316536784172058,0.047571733593940735
+iphone,Find Friends - A classy rage comic about Find My Friends,,21,117,2012-01-05,AAPL,0.03366132080554962,0.9060947299003601,0.06024393066763878
+mac,We (Google's internal Macintosh Operations team) will be releasing the tools and scripts and utilities we use to help manage our ... large ... fleet of Macs.,,4,96,2012-01-05,AAPL,0.012731465511023998,0.9207884073257446,0.0664801374077797
+apple,Google's Marissa Mayer Recommends Apple's Routers - Forbes,,144,86,2012-01-05,AAPL,0.02271820604801178,0.9192614555358887,0.05802038684487343
+apple,Infinity Blade grosses $30 million in sales,,21,85,2012-01-05,AAPL,0.04430226609110832,0.8258000016212463,0.12989769876003265
+iphone,Check out my new iPhone wallpaper blog!,,34,74,2012-01-05,AAPL,0.028831539675593376,0.9219920039176941,0.0491764210164547
+apple,Couldn't resist picking up a bit of Apple History,,38,69,2012-01-05,AAPL,0.036433592438697815,0.8423108458518982,0.1212555542588234
+apple,1 in 5 reddit users are on a Mac.,,231,811,2012-01-06,AAPL,0.0488411970436573,0.9119382500648499,0.039220619946718216
+apple,"Type this into Terminal (without quotes): ""say -v cello d d d d d d d d d d d d d d d d d d d d d d d d d d""","Just to make it easier to copy and paste:
+
+    say -v cello d d d d d d d d d d d d d d d d d d d d d d d d d d
+
+Make sure you have you volume turned up!",144,367,2012-01-06,AAPL,0.018763329833745956,0.9302732944488525,0.05096343159675598
+iphone,Dammit Siri...,,64,291,2012-01-06,AAPL,0.11983136087656021,0.8239951729774475,0.056173425167798996
+apple,Great Wallpapers for Mac/iPad/iPhone,,15,180,2012-01-06,AAPL,0.02985542081296444,0.9335476160049438,0.03659695014357567
+ipad,"Yesterday I linked to Siries.me which is a great show for watching tv-shows on the Ipad. MovieonHand does basically the same, only with movies. Enjoy!",,25,126,2012-01-06,AAPL,0.020406711846590042,0.9033399224281311,0.07625336945056915
+apple,apple.com in 1997,,20,93,2012-01-06,AAPL,0.03245793282985687,0.9231107234954834,0.04443139210343361
+apple,Show me evidence of a Mac virus in the wild.,"I have tried to find some kind of evidence of an actual working (not proof of concept) virus for this current version of OSx.
+
+There are a lot of claims that Macs can't get viruses, then people saying they can.
+
+I am sure they can, I just want to see one, a video, a pic of the result, something.
+
+I am apparently not savvy enough to be able to find anything that can infect 10.7 in the wild.
+
+I would like to be proved wrong and learn something here.  Its just seems there are too many opposing views on something that should be pretty easily quanitified.
+
+http://www.iantivirus.com/threats/ is the most comprehensive list I can find.  This shows 116 threats, mixed malware and such, most are from the past or proof of concept.
+
+My conclusion is that with daily time machine backups, I don't need to care.  Prove me wrong /r/apple.  if anyone can its everyone.
+
+EDIT: Purely anecdotal, the number of people I know who have been struck by lightning is 2.  That is more than the 0 I know that have had a Mac infected.",135,59,2012-01-06,AAPL,0.041882023215293884,0.923647403717041,0.03447060286998749
+ipad,(iPad 2 Only) Machinarium is $1.99 until January 9th!,,19,45,2012-01-06,AAPL,0.0743798241019249,0.8811997175216675,0.04442041739821434
+ipad,"Finally, Google Translate for iOS gets native iPad support",,5,44,2012-01-06,AAPL,0.010909201577305794,0.8746141791343689,0.11447662115097046
+mac,What's the deal with Growl now?,"So I keep getting a notification from Growl to upgrade Growl via the App Store. 
+
+I certainly understand that Lion changed some things and somethingsomething sandboxing blahblah tech stuff I don't get yadda yadda, hence there's got to be a new version of Growl specific to Lion. 
+
+But what was once free software is now $1.99 and only available through the App Store. The two bucks doesn't concern me; I'm happy to support good software, esp if it's only two bucks. But what does concern me is the boatload of reviews on the App Store that says the new version (Growl 1.3.2) doesn't work (apparently because now everyone that had written an app to work with Growl 1.2 has to re-do it to work with Growl 1.3).  
+
+Further adding to the confusion, is [this Growl blog post](http://growl.posterous.com/growl-13-a-summary-of-the-major-changes) that says ""Growl is no longer free to download . . . but you don't need Growl to get notifications. When developers update their application to support Growl 1.3, Growl will no longer be required for them to display a notification to you."" Huh? WTF am I giving you two dollars for then?!
+
+Complicate it even further by the fact that since Growl is open source, it's still possible to get it (presumably Growl 1.3.2) without paying for it by [building it from the source code yourself](http://growl.info/documentation/developer/growl-source-install.php) . . . which again, for us less technical folk, quickly gets into blahblah mercurial yaddayadda Google Code somethingsomething oh look it's time for NCIS re-runs, *thankgod*. 
+
+Wait! More wrinkles! There's also something called [Growl Fork](http://osxdaily.com/2011/12/19/growl-fork-brings-growl-notifications-to-mac-os-x-lion-for-free/) which (since Growl is open source, see above) takes the pre-Lion 1.2.2 version of Growl and does somethingsomething XCode 4.1 blahblah compiles cleanly yaddayadda and now it's 1.2.*2f1* instead of plain ol' 1.2.2. And ""if you don’t need the newer features in the official version and just want compatibility with Lion and your apps to continue receiving notifications, Growl Fork works just fine."" Well, okay, that sound great, but what are the newer features and since the blog post about 1.3 says ""you don't need Growl to get notifications"" do I even need 1.3 for those ""newer features""?!
+
+Sigh. Can someone sort this out for me?
+
+* Which should I run on Lion -- the old Growl 1.2.2, the forked Growl Fork 1.2.2f1, or the new Growl 1.3.2?
+
+* What do I get -- or not get -- running each of those?",42,42,2012-01-06,AAPL,0.0348442904651165,0.9316900372505188,0.033465731889009476
+iphone,Another classic update from Pocket Weather.,,91,1004,2012-01-07,AAPL,0.02957783080637455,0.911252498626709,0.05916962772607803
+apple,"How you know that you have worked for Apple, Inc. for too long!",,121,572,2012-01-07,AAPL,0.0457841195166111,0.9274393320083618,0.026776595041155815
+apple,This was left in the lobby of my building. For some reason having the time of my life trying to restore the lil guy. [via childhood memories/recreational troubleshooting],,132,384,2012-01-07,AAPL,0.020834559574723244,0.8834933042526245,0.0956721305847168
+apple,iPad cash register,,85,125,2012-01-07,AAPL,0.07874602824449539,0.8855550289154053,0.035698939114809036
+iphone,"Does anyone else feel like they are on ""The Price is Right"" when they spin this?",,8,70,2012-01-07,AAPL,0.049525752663612366,0.884391188621521,0.06608309596776962
+ipad,Good Deal: Best Buy offering 20 percent off iTunes gift cards,,27,59,2012-01-07,AAPL,0.01336178369820118,0.8699601292610168,0.11667802929878235
+apple,"It's the next thing (Apple ad, 1992)",,18,38,2012-01-07,AAPL,0.025039510801434517,0.948401689529419,0.02655886299908161
+mac,Is Lion worth it?,I'm sure loads of people have already asked this but I'm considering upgrading to Lion and I wondered if people who've already got it could let me know whether it's worth me upgrading my Snow Leopard MBP.  Thoughts?,64,35,2012-01-07,AAPL,0.016302501782774925,0.9130553007125854,0.07064221054315567
+apple,"If you buy from iTunes, App Store or Mac App Store this is basically free money.",,12,32,2012-01-07,AAPL,0.01878143474459648,0.9329598546028137,0.048258665949106216
+apple,Is there any point to buying a MacBook Pro or iMac if you're just a casual internet browser?,"First off, I don't wish to upset anyone. I think Macs are awesome. I've done some video editing using FinalCut and Macs are a fantastic piece of equipment. However, an acquaintance of mine is considering buying either an iMac or a MacBook Pro. It annoyed me to hear that she wanted one after just yesterday she was complaining about money as she is graduating college soon. I enjoy gaming so I use a PC. I'm not in favor of one or the other, but the PC suits my needs so I use it. In my mind, there is no reason for her to spend an additional several hundred dollars for an Apple product when she uses the internet for online shopping, social networking sites, and reading the news. Am I off base here? Can [/r/apple](/r/apple) help shed some light on the other benefits of an Apple product that I don't know about? Thank you.",121,30,2012-01-07,AAPL,0.025127263739705086,0.9273432493209839,0.04752953350543976
+iphone,iPhone Search,,86,623,2012-01-08,AAPL,0.033410053700208664,0.9355134963989258,0.0310764592140913
+apple,"RIM, Nokia, and Apple provide phone backdoors to Indian government",,48,214,2012-01-08,AAPL,0.031224990263581276,0.9093208909034729,0.05945410951972008
+iphone,Look Mom! A phone stack!,,45,211,2012-01-08,AAPL,0.056315887719392776,0.8985675573348999,0.04511651396751404
+apple,The Restart Page — Rebooting experience from vintage operating systems,,18,185,2012-01-08,AAPL,0.026047682389616966,0.91947340965271,0.05447894334793091
+iphone,Racially insensitive Siri,,15,98,2012-01-08,AAPL,0.03138921037316322,0.9267209768295288,0.04188985377550125
+iphone,For those wondering if you can charge 2 iPhones with the Incase ec20024...,,26,72,2012-01-08,AAPL,0.015345587395131588,0.9011901617050171,0.08346424251794815
+apple,"Apple, you win","I really wanted a tablet, and I am an android advocate. I have however always agreed that iOS was far better than Android when talking about tablets. Anyway, I wanted to buy an iPad2 but suddenly changed my mind and bought a Motorola Xoom 2 (Xyboard at Verizon) because I wanted to stick to what I believed in (a fair enough reason to be stubborn).
+
+I used the tablet for 2 days, and when showing it to my colleagues, it literally crashed... I won't mention the fact that honeycomb is the worst OS I have ever seen, even Nokia would have done something better (uh, maybe not). For instance the browsing experience was rubbish; reddit wasn't displayed properly in ""browser"".
+
+On top of having released a laggy OS, Google isn't offering anything convincing in terms of ecosystem. When you go to the market you can't easily find tablet specific apps like on the App Store, and only one category is dedicated to them (featured staff choice, something like that, but it really looks like ""we put there what we could""). Even the Google apps are laggy, what a joke.
+
+The relatively funny thing is that - blindly happy - [I asked /r/android](http://www.reddit.com/r/Android/comments/o3yc6/i_bought_a_motorola_xoom_2_101_xyboard_if_you/) if they had questions about the tablet, so I could help them in making their choice to buy one or not, the day after or so, the aforementioned crash happened (I caught it [on video](http://www.youtube.com/watch?v=uGSoaKp8C1U&amp;sns=em)) and I suddenly felt really disappointed and stupid with my frozen tablet, [still switched on in my bag](http://i.imgur.com/P5HI7.jpg). After only two days of painful tablet joy, it was definitely not a good sign.
+
+I am returning the tablet to Amazon and advice anyone I can to avoid it, and to avoid everything bigger than a phone that runs Android, because it is still a rubbish experience for a lot of money (they will get it right, maybe in 2013, who knows). I've always been the basic Apple hater, so the next words are so hard to write for me, but I am very proud and glad to be writing this whole post on my brand new iPad2, that is definitely far, far above the Android tablets. I love it, against my will but I love it and I now understand you all a bit better.
+
+tl;dr I'm an Android fanboy, I bought a Xoom2, returned it and bought an iPad2 because the Xoom2 was rubbish. I'm really happy of my first Apple product, very sad for Android but still hate iTunes, this won't change.",184,72,2012-01-08,AAPL,0.03685324266552925,0.9147881269454956,0.04835867881774902
+apple,Leaked Memo Says Apple Provides Backdoor To Governments (images),,14,38,2012-01-08,AAPL,0.05625474080443382,0.911083996295929,0.03266129270195961
+iphone,Stuff You Can Say To Siri,,2,37,2012-01-08,AAPL,0.03417855501174927,0.877325177192688,0.08849619328975677
+apple,"Scored this last weekend via Craigslist for 120$  I don't think he knew what he had - (G4 1.25/1GB/80GB/17"")",,52,32,2012-01-08,AAPL,0.028577132150530815,0.8916032314300537,0.07981965690851212
+apple,"See the Inside of iMac, iPad, and iPhone with These X-Ray Wallpapers",,55,507,2012-01-09,AAPL,0.026132352650165558,0.9297040700912476,0.04416361451148987
+iphone,How I spent my day off,,96,495,2012-01-09,AAPL,0.07719895243644714,0.8758367896080017,0.04696423560380936
+apple,"The Television Industry Is Scared Witless Of Apple’s iTV, Here’s What They Think It Will Be [CES 2012]",,336,308,2012-01-09,AAPL,0.09191352128982544,0.8747197389602661,0.03336675465106964
+iphone,"Apple’s iPhone Was Unveiled Five Years Ago, Today",,49,181,2012-01-09,AAPL,0.01476272102445364,0.8937492370605469,0.09148801863193512
+apple,This American Life: A sober look at Chinese factories where Apple (and other tech giants) have their devices manufactured by hand.,,55,127,2012-01-09,AAPL,0.02708032913506031,0.9059963226318359,0.06692333519458771
+apple,Acer's AcerCloud copies iCloud ... and Job's iCloud pitch,,66,93,2012-01-09,AAPL,0.03098762407898903,0.925044596195221,0.043967701494693756
+ipad,Mr. Daisey and the Apple Factory,,28,48,2012-01-09,AAPL,0.055148981511592865,0.8886792659759521,0.05617170408368111
+iphone,iPhone 4 Legacy Case,,6,41,2012-01-09,AAPL,0.01784447953104973,0.8984178304672241,0.08373775333166122
+ipad,OnLive Set to Launch FREE Virtual Windows Desktop App &amp; Cloud Web Browser,,13,40,2012-01-09,AAPL,0.00911194272339344,0.7840646505355835,0.2068234235048294
+apple,Has anyone tried this Liquipel coating on their iPhone?  Looks too good to be true.,,39,38,2012-01-09,AAPL,0.009052926674485207,0.40799468755722046,0.5829524993896484
+apple,"""Apple, for all the shit they get for being 'closed' and 'evil', has actually done far more to wrestle control back from the carriers and put it into the hands of consumers.""",,274,688,2012-01-10,AAPL,0.07740756124258041,0.8074427247047424,0.11514966934919357
+iphone,She's still beautiful after all these years...,,142,606,2012-01-10,AAPL,0.01350721251219511,0.5896596312522888,0.3968330919742584
+iphone,Installed and Working!,,71,479,2012-01-10,AAPL,0.019341278821229935,0.9074113965034485,0.07324730604887009
+apple,"Awesome new iPhone ""Elevation Dock"" becomes fastest Kickstarter ever.",,51,155,2012-01-10,AAPL,0.01913538947701454,0.6491400003433228,0.3317246437072754
+apple,Just switched from a Droid X to an iPhone 4s,"And all I've go to say is that I don't think I'll ever switch back.
+
+My first Droid X turned off on it's own one day and simply wouldn't turn back on, I brought it to Verizon and after thirty minutes of ""testing"" they concluded that the phone bricked itself. It was covered under warranty so I went a few days without a phone while I waited for them to send me a new one in the mail. Not ideal, but okay.
+
+Que my second Droid X. Would often reset on it's own, freeze, stutter through apps, the top half of the screen would act as if I was pressing it even when I wasn't, and the GPS never could connect to the satellites.
+
+Brought it in, got the whole ""oh if we factory reset it all the problems will be fixed"" - nope. Was given the ultimatum to pay a $100 deductible to get a third Droid X or use my upgrade + a $50 credit I had (new in two or something, some old promo I was grandfathered into) and get a new phone. Decided to drop the $150 on a 16gb iPhone 4s and HOLY SHIT this phone is fast.
+
+My Droid never worked as well as this, even when it was fresh out of the box with no third party apps. Now I've got a fair amount of music, apps, and pictures and my iPhone takes it all in stride. I'm also amazed at how well Siri works and rarely look through my contacts list to make a phone call now.
+
+Android may be for some people but it'll never be for me. The openness was great but it often caused more problems then it was worth (delayed upgrades, issues with upgrades, apps that wouldn't play well with other apps creating software issues, etc.)
+
+I will however miss my NES Emulator, that was a great time killer.
+
+TL;DR - Even though I had a Droid X for some time this iPhone feels like the first ""smart phone"" I've ever owned.",95,53,2012-01-10,AAPL,0.13555598258972168,0.8318513631820679,0.03259263187646866
+ipad,Good news folks! I'm porting the HTML5 GB Emulator to the iPad! : gaming,,9,46,2012-01-10,AAPL,0.021662939339876175,0.8992714285850525,0.07906559109687805
+iphone,"Finally, Beer Resistant iPhone!",,15,43,2012-01-10,AAPL,0.10955929011106491,0.570643424987793,0.31979724764823914
+apple,"Since rejoining in 1997 to the day he died, Steve Jobs did not sell a single share of Apple stock. As of today, those holdings are worth $2,319,515,000.",,25,43,2012-01-10,AAPL,0.03195781260728836,0.9095216393470764,0.0585206113755703
+iphone,Both of my indie iPhone games are Free. Enjoy!,"Hi guys,
+
+Here are my games Physics 21 HD and Melon Truck HD. They will be free for a week or so. Here are the direct links to iTunes.
+
+Physics 21 HD: http://itunes.apple.com/us/app/physics-21-hd/id474914790?mt=8
+
+
+Melon Truck HD: http://itunes.apple.com/us/app/melon-truck/id431036115?mt=8
+
+
+
+
+
+
+**Melon Truck HD**:  Melon Truck Game Play consists of launching objects from a melon truck to baskets that vary in points. Each level must be completed with a minimum score of 1600 in order to proceed to the next locked level. However, Melon Truck offers 6 bonus levels that require gamers to pass all levels with a score of 3000 or better. 
+
+**Physics 21 HD**: Physics 21 HD is a physics based blackjack game for iPhone4, iPod Touch, or iPad2. Gamers have 2 game modes to pick from;
+
+* Timed-Mode; Game play consists of trying to make as many 21's as possible given a short period of time. As players make blackjacks or 21's, they are given more time to play.
+
+* Single-Deck Mode; Players try to get most point by making as many 21's or blackjacks as possible given a single deck.
+
+Gamers will use their finger to shoot cards into baskets to make 21's to gain points and compete against each other in Game Center. 
+
+
+*Please don't forget to rate in iTunes if you enjoyed playing either game :)*
+
+Thanks,
+Batuhan
+
+http://batuhanakalin.com",12,37,2012-01-10,AAPL,0.02282792702317238,0.9150091409683228,0.062162965536117554
+apple,Use GeekTool to customize Mac desktop.,"Saw this post on the front page(http://www.reddit.com/tb/oahh8)  and it made me think of GeekTool a program that allows you to customize your desktop. Image of my desktop [Imgur](http://i.imgur.com/Qyyrf.jpg)
+
+Geektool download link http://projects.tynsoe.org/en/geektool/
+
+Help videos. http://www.youtube.com/watch?v=9k2gu7m3QLg&amp;feature=related
+
+Edit: My wallpaper if anyone wanted it. [Imgur](http://i.imgur.com/88v3f.jpg)
+
+
+Enjoy.....",16,35,2012-01-10,AAPL,0.02421734109520912,0.9345763921737671,0.0412062332034111
+apple,"TIL, on the iPad, if you hold down the new tab, labeled ""+"", it will show you the most recent closed tabs!","As the title says. It was a happy accident that I discovered it, but that's just awesome!",64,545,2012-01-11,AAPL,0.025307757779955864,0.9113652110099792,0.06332699954509735
+apple,Had to take a second look.,,68,545,2012-01-11,AAPL,0.033041778951883316,0.9220638871192932,0.04489429295063019
+iphone,Siri can be such a bitch sometimes.,,19,453,2012-01-11,AAPL,0.5256164073944092,0.41649535298347473,0.0578882060945034
+ipad,My DIY ipad case,,16,170,2012-01-11,AAPL,0.044258203357458115,0.874816358089447,0.08092547208070755
+apple,"Realistic Adobe Photoshop CS5 simulator, written in HTML5 &amp; Javascript",,22,56,2012-01-11,AAPL,0.03410382196307182,0.9314436912536621,0.03445244953036308
+apple,"Apple invites media for ""education announcement” in New York, next Thursday, Jan. 19",,25,43,2012-01-11,AAPL,0.04054265096783638,0.9359244108200073,0.023532934486865997
+apple,Thunderbolt GPUs announced at CES today!,,37,42,2012-01-11,AAPL,0.035988159477710724,0.9241588115692139,0.03985307365655899
+ipad,how come the ipad doesnt get hot?,"my laptop isn't a hell of a lot more powerful, yet it feels like a have a dose of herpes if i rest it on my lap for too long. The ipad stays cool after hours of use. How?",27,34,2012-01-11,AAPL,0.023716529831290245,0.91269451379776,0.06358900666236877
+iphone,"DIY iPhone dock, came out better than expected!",,3,29,2012-01-11,AAPL,0.03550419583916664,0.037159599363803864,0.9273361563682556
+ipad,New Voice Controlled Synth For iOS,,7,27,2012-01-11,AAPL,0.00964585691690445,0.8263208866119385,0.16403327882289886
+iphone,DO NOT BUY THIS APP!,,47,591,2012-01-12,AAPL,0.030697740614414215,0.9322828054428101,0.03701949492096901
+iphone,Two Tone Wood iPhone,,54,398,2012-01-12,AAPL,0.03334921970963478,0.9100025296211243,0.05664823576807976
+apple,Apple becomes the number 3 PC maker in the US with industry-leading 21% growth.,,87,248,2012-01-12,AAPL,0.02386036328971386,0.7521179914474487,0.22402167320251465
+apple,Apple Holding Media Event On January 19th To Bring Digital Textbooks To The iPad,,99,190,2012-01-12,AAPL,0.017963452264666557,0.9215795993804932,0.06045699492096901
+apple,Apple Mini-Stores Headed to Target,,36,89,2012-01-12,AAPL,0.04028158262372017,0.9226347208023071,0.03708372265100479
+iphone,"Hatchi, the iPhone Tamagotchi-like game is out! $0.99",,36,61,2012-01-12,AAPL,0.024428287521004677,0.9137778878211975,0.06179380044341087
+iphone,Today's SMBC described why quite a few iPhone devs put ads into their products.,,13,50,2012-01-12,AAPL,0.015228980220854282,0.9292994737625122,0.0554715096950531
+iphone,I don't know why people hate on Siri. My experience has been flawless.,,8,50,2012-01-12,AAPL,0.29358401894569397,0.6773185729980469,0.02909740060567856
+iphone,Mere days until the A5 Jailbreak thanks to progress made by Planetbeing and Saurik,,21,44,2012-01-12,AAPL,0.023031847551465034,0.7984835505485535,0.17848457396030426
+apple,Apple Invents an Ingenious Security System for the iWallet Era,,11,42,2012-01-12,AAPL,0.01775282248854637,0.9364374876022339,0.04580964520573616
+apple,"If Apple Onshored iPad Production it Would Create 67,000 American Manufacturing Jobs",,286,341,2012-01-13,AAPL,0.03238936886191368,0.7694056034088135,0.19820496439933777
+iphone,Evidently everyone but me...,,18,308,2012-01-13,AAPL,0.05586547404527664,0.7427350878715515,0.20139946043491364
+apple,"Apple's Retail Secrets Spilled: Don't Correct The Customers, Abide By The A.P.P.L.E. Code",,158,261,2012-01-13,AAPL,0.08950156718492508,0.8917362093925476,0.018762242048978806
+apple,"Something /r/apple users should be aware of - One of the mods, Positronic_Matrix, extensively uses sockpuppet accounts to win arguments",,112,218,2012-01-13,AAPL,0.01988239958882332,0.8910416960716248,0.08907584846019745
+apple,Apple becomes the first technology company to join the Fair Labor Association as a Participating Company,,31,128,2012-01-13,AAPL,0.019812501966953278,0.8794155716896057,0.10077197104692459
+iphone,Grooveshark now available through Safari!,,22,120,2012-01-13,AAPL,0.031359460204839706,0.9228416085243225,0.045798949897289276
+apple,Ex-Apple boss Sculley sets record straight on Jobs,,40,110,2012-01-13,AAPL,0.036533158272504807,0.7775086760520935,0.18595819175243378
+ipad,"So, I ordered a Wacom Bamboo Stylus from an Amazon seller, and got this. Beware of scams!",,26,61,2012-01-13,AAPL,0.02718151919543743,0.9261581301689148,0.04666035622358322
+ipad,iPad 3 in production with high-res display and LTE,,28,58,2012-01-13,AAPL,0.07838746160268784,0.79439777135849,0.1272147297859192
+apple,"IPad 3 Said to Have High-Def Screen, LTE",,22,35,2012-01-13,AAPL,0.04223373904824257,0.8863904476165771,0.07137573510408401
+apple,Grooveshark now works on iOS through HTML5,,120,583,2012-01-14,AAPL,0.03230158984661102,0.9298926591873169,0.03780576214194298
+iphone,This is why I love the camera on the 4s (x-post from r/aww),,27,201,2012-01-14,AAPL,0.03523583337664604,0.9175389409065247,0.047225214540958405
+iphone,Many music videos on YouTube will not play on the iPhone because it states that the content's owner does now allow playback on mobile devices. Is there a way around this?,Besides jailbreaking.,48,98,2012-01-14,AAPL,0.028358353301882744,0.9225669503211975,0.04907464608550072
+iphone,Impressed with iPhone4S camera's close focus (see the spider web?),,10,81,2012-01-14,AAPL,0.02388468012213707,0.9315959811210632,0.04451931640505791
+apple,"LIMBO, the atmospheric indie game is now available for OSX on Steam.",,35,81,2012-01-14,AAPL,0.015533299185335636,0.8932669162750244,0.09119975566864014
+iphone,Snappr is free today...,,10,71,2012-01-14,AAPL,0.029364975169301033,0.8591411709785461,0.11149388551712036
+iphone,Brings a tear to my eye...(not mine),,29,57,2012-01-14,AAPL,0.16066880524158478,0.7798086404800415,0.05952254682779312
+iphone,85 Best iPhone &amp; iPad Apps Of Year 2011,,5,56,2012-01-14,AAPL,0.032262157648801804,0.6990540623664856,0.2686837911605835
+ipad,"When you hit these areas, what would normally be there is typed.  Was this on purpose?",,17,41,2012-01-14,AAPL,0.25407031178474426,0.6686382293701172,0.07729151099920273
+ipad,Looking for apps for my sister,"Hi everyone. My sister is mentally disabled, and is essentially 100% dependent on us. Her physical therapist once brought an iPad for her to play with. She was quite happy to play with it, and we knew we needed to get her one. This Christmas, she got an iPad 2. We have a few basic apps (like PBS Kids, Virtuoso, Music Sparkle), but we're looking for a few more.
+
+She doesn't have strong motor skills, so she isn't able to directly interact with the iPad herself, so we typically hold her hand or finger and move it around to let her tap the screen. She loves bright lights/colors and music. I'm sure there are apps with both in the store, but I have no idea what to look for. As far as prices go, my mom and dad said that up to $10 is okay. I'd love to hear your suggestions. Thanks!",22,26,2012-01-14,AAPL,0.020479314029216766,0.907755434513092,0.0717652216553688
+apple,I need a ruling on my recent gift... is the Nano watch overkill?,,289,431,2012-01-15,AAPL,0.01729852519929409,0.8733136057853699,0.10938780009746552
+iphone,The highest [letters in predicted word]:[letters typed] ratio I've seen so far. Anyone else got any good ones?,,21,117,2012-01-15,AAPL,0.01983633264899254,0.7930384278297424,0.18712526559829712
+iphone,TIL if you sidewsipe the weather panel in the notification window you get the 5-day forecast.,,27,104,2012-01-15,AAPL,0.03786687180399895,0.9228010177612305,0.039332110434770584
+iphone,Have you ever lost your smartphone?  A solution perhaps.,"I'm not sure if this is the right place but I may have come up with a way to ensure there's at least a small chance you'll get your device back.  
+
+A while back my son found an iPod touch on the road.  We tried, in vain, to find the owner.  It was locked so there was no way to track her down.  The device was named Laura's iPod.  I realized that if Laura had used her home phone number or email address as the name for her device instead of of her first name we could have returned it to her.  At that point I changed the name of my iPhone to my email address.  Cumbersome and not cutsie but practical.  
+
+All that said it all depends on the person who finds it.  I lost my iPhone in the summer and the person who found it was decent enough to answer when I call and return the phone to me.  They refused to accept anything but a thank you.  My son lost his in a cab and it vanished forever.",80,86,2012-01-15,AAPL,0.07744724303483963,0.8746510148048401,0.04790182039141655
+apple,"is iOS a stable, well made operating system?","I'm not a coder at all, but I've been using iPhones for a few years now and I have an iPad 2 as well. For all the attention the 'app' revolution got, is it actually a stable platform for development, or do people just develop for it because Apple took a monopoly on the app market and developing for it is profitable?
+
+I ask because apps crash a little more than I'd expect them to, so I'd love to hear what people who work in the tech and coding industry think.",110,51,2012-01-15,AAPL,0.016486819833517075,0.869126558303833,0.1143866553902626
+iphone,I wish I could enable and disable wifi and Bluetooth in the bottom of the screen where you close out apps,,35,49,2012-01-15,AAPL,0.024536866694688797,0.9013895392417908,0.07407359033823013
+ipad,The best way to view Reddit on an iPad?,"I just got my iPad yesterday, and I'm wondering how most people with iPads prefer to view Reddit:  (1) through the free Reddit app; (2) through Alien Blue HD (which advertises itself on the App Store as a reader for Reddit; or (3) by accessing reddit through your browser?  
+
+Thanks in advance.",90,44,2012-01-15,AAPL,0.014030198566615582,0.8742284178733826,0.11174137890338898
+apple,TIL you can do fine scrubbing in QuickTime X,**Pause the video** and hold down the scrubber to do a fine scrubbing to frame/second level in QuickTime X. Like this:  http://i.imgur.com/Pjvjf.png,12,36,2012-01-15,AAPL,0.03444552421569824,0.9331339001655579,0.03242051228880882
+ipad,Problem with YouTube app,"So yeah, I've got a fine internet connection, 3,3mbps, fast enough for 720p streaming, but I've got problem with streaming videos in YouTube app. 
+
+The problem is: I play the video, about 10 seconds it plays fine, but then it stops loading. Nothing helps, it just stops and *sometimes* it continiues to load video in a minute or so. What should I do?",11,23,2012-01-15,AAPL,0.05462902411818504,0.9029149413108826,0.04245606064796448
+apple,Why Thunderbolt Won’t Come to the iPhone Anytime Soon,,38,21,2012-01-15,AAPL,0.17530493438243866,0.7820437550544739,0.042651254683732986
+apple,"A REAL TRUTH: Apples policy on underage labour, ""We require suppliers to return underage workers to school and pay educational expenses, living stipends, and lost wages for six months or until the worker reaches the age of 16, whichever is longer"" [x-post r/technology]",,189,703,2012-01-16,AAPL,0.6448331475257874,0.3337341547012329,0.021432681009173393
+apple,Foxconn. Apple takes the flak.,,72,464,2012-01-16,AAPL,0.03613826259970665,0.9215432405471802,0.04231851175427437
+iphone,"Reddit, I made a mock-up of a tweak that I think should be made. Check it out!",,46,340,2012-01-16,AAPL,0.027799861505627632,0.8950988054275513,0.07710133492946625
+iphone,Twins!! (x-post from pics),,35,267,2012-01-16,AAPL,0.03784613683819771,0.9184162020683289,0.043737586587667465
+iphone,An old-school gaming wallpaper I've just made.,,17,168,2012-01-16,AAPL,0.037443891167640686,0.9249876737594604,0.03756846487522125
+iphone,The iPhone 4S Has Been Successfully Jailbroken! [Video],,34,86,2012-01-16,AAPL,0.5050126910209656,0.4601723849773407,0.0348149836063385
+apple,How truthful is this?,,54,51,2012-01-16,AAPL,0.06335631757974625,0.8718039989471436,0.06483963131904602
+apple,I found this award my dad got in a box in the garage (he worked there for 13 years),,6,48,2012-01-16,AAPL,0.08558844774961472,0.8758169412612915,0.038594599813222885
+apple,Video Professionals are moving AWAY from Apple due to FCP X; 6 months later. (What can we do about this?),,62,43,2012-01-16,AAPL,0.4410193860530853,0.5336702466011047,0.025310369208455086
+iphone,"/r/iPhone why does my friend's icons keep disappearing? (no jailbreak, latest  iOS on Verizon iPhone 4)",,17,33,2012-01-16,AAPL,0.03420611470937729,0.9093877077102661,0.05640612542629242
+apple,Making Love to WebKit (You Have to See It to Believe It),,51,491,2012-01-17,AAPL,0.03312133997678757,0.9198414087295532,0.047037240117788315
+apple,"Can we remove the karma awards in the sidebar please. There is no point to it, karma by definition is it's own reward.",,61,244,2012-01-17,AAPL,0.030403321608901024,0.9377687573432922,0.031827885657548904
+iphone,"Well that might be an ""issue"" for you guys but the fact that the app crashes all the time doesn't exactly help either.",,12,202,2012-01-17,AAPL,0.07537233829498291,0.8713095784187317,0.05331806465983391
+apple,Useful tip for anyone with a stolen macbook. Check out supportprofile.apple.com,"My Macbook Pro was stolen in Jan of last Year. After reading about the supportprofile.apple.com page the other day, I checked out my profile and out of curiosity clicked the link for my stolen Macbook Pro (With Applecare on it.)
+
+I'm in the UK &amp; it turns out that my Macbook was actually sent to apple for repair in March of last year! In Karachi Pakistan! 
+
+I called Applecare and asked for details of the repair. Unfortunately they wouldn't give me any details, but I was given a case ID and phone number to give to my local police. This has now been passed onto them. 
+
+Thought it might be useful for anyone with a stolen Macbook. You never know how cheeky a thief is going to get. I doubt anything will come of it seeing it's now on another continent, but it's well worth checking out.",26,108,2012-01-17,AAPL,0.08463707566261292,0.88336580991745,0.03199714049696922
+iphone,Wake up one morning and...,,9,104,2012-01-17,AAPL,0.058498699218034744,0.8822466135025024,0.059254683554172516
+ipad,"iPad 2 (iOS 5.01) has been jailbroken - Jailbreak expected in ""a few days""",,26,73,2012-01-17,AAPL,0.34759581089019775,0.6304622292518616,0.02194201573729515
+apple,TIP: toggling between open windows of one application,"This is a tip that I've been doing so long that I didn't realize was a hidden tip until someone looking over my shoulders just said, ""Ohmygod, what did you just do there to move so quickly between open windows?!!!""
+
+The trick is this: while in any Apple program (such as Safari or Mail) (and in fact it works with some non-Apple apps as well), in which you have multiple windows open, hold down the Command key and then toggle/tap the the tilde key (the key to the left of the number 1 key, and looks like this: ~ ). This will toggle you through all of the open windows of that particular program.
+
+This is very handy if you happen to be, for instance, working on an email but then need to get back to your main Mail message viewer window. Just hit Command-~ and you will be taken through all open Mail windows. I do this with multiple open Pages docs, Safari windows, and even Excel spreadsheets.",20,73,2012-01-17,AAPL,0.02972710132598877,0.9282915592193604,0.04198136180639267
+apple,A humble request from a PC user.,"I am a PC power user and a programming student.  I have recently been using an Apple iMac at work occasionally.  I want to try out the OSX platform in a more in depth way but I don't want to drop a whole bunch of cash doing it.
+
+What I'm asking for is a Mac (any type is fine but I've been looking for Minis) that runs Lion or could run Lion for a low price to learn on.  I have a Really nice Windows Desktop and Laptop but I cannot get rid of them because I know Windows very well and use them to program.
+
+If you have an extra (older, unused) Mac that is collecting dust, PM me and we can talk price.
+
+I'll stress this, I'm a poor college student that wants to learn OSX.
+
+Please don't downvote me to oblivion. I want as many people to see this as possible.
+
+Thank you.",54,65,2012-01-17,AAPL,0.03664277866482735,0.9126238822937012,0.05073332041501999
+iphone,"Hi /r/iphone, I thought I would submit the theme I've been developing for some feedback (please excuse the compression).",,22,56,2012-01-17,AAPL,0.025950342416763306,0.9327421188354492,0.041307564824819565
+apple,"Lessons for Kickstarter creators from the worst project I ever funded on Kickstarter, the i+case for the iPhone",,22,50,2012-01-17,AAPL,0.23336263000965118,0.730429470539093,0.0362078882753849
+apple,"So, from hardcore gamer nerd, to this. I finally made the plunge!",,182,206,2012-01-18,AAPL,0.034641992300748825,0.8004287481307983,0.16492924094200134
+iphone,Why I love the iPhone camera,,43,205,2012-01-18,AAPL,0.01638198457658291,0.8954588174819946,0.0881592184305191
+ipad,"For this who don't know, you can now stream Grooveshark for free to your iPad (or iPhone) through from this new, in-development interface (also works in the background)",,3,16,2012-01-18,AAPL,0.02021530270576477,0.9395608901977539,0.040223799645900726
+ipad,I feel slow for asking this but....,"I was wondering, do I need to upgrade my iPad 2 to the latest upgrade 5.0.1 in order for me to be ready for the upcoming jailbreak?
+(My iPad is currently running on 5.0) please help, I've been looking forward to this upcoming jailbreak since I bought the iPad 2 and would hate to miss something and skrew it all up. Thank you.",13,12,2012-01-18,AAPL,0.03439319133758545,0.9112433195114136,0.05436350777745247
+apple,Remove Growl upgrade popups in Lion,,5,11,2012-01-18,AAPL,0.10474496334791183,0.8750866055488586,0.02016851305961609
+iphone,"""Find My iPhone"" leads police to drug, guns",,2,11,2012-01-18,AAPL,0.13734029233455658,0.8261160850524902,0.03654361888766289
+apple,Fake Clay iPad 2s Sold at Canadian Retail Stores | TekGoblin,,9,8,2012-01-18,AAPL,0.025375427678227425,0.9103484749794006,0.06427610665559769
+ipad,putting newsstand ina folder (non jailbreak method),"Hey everyone, just discovered this on another forum, appologies if it's been put up before.
+
+Get two apps and newsstand, hold down your finger over an app to enter wiggle mode, make a folder with the other app by dragging it over, then and you have to be quick, drag newsstand into the folder before the naming the folder thing pops up, voila newsstand is in its own folder.",7,7,2012-01-18,AAPL,0.04068215563893318,0.9342436194419861,0.02507421374320984
+iphone,Does iOS 5 keep only a limited amount of SMS messages?!,"So I updated to iOS 5 recently, and I've just discovered that it seems to have deleted old messages (I always keep my messages, so before the update if I scrolled to the beginning of the conversation there would be some texts from early 2011). Suspecting that the phone only keeps a certain amount of messages, I sent a test message to a contact, and sure enough – the first message in the conversation, which definitely was there before I sent the test message, is now gone. I couldn't be bothered to count the exact number of messages still in the list, but it should be around 500.
+
+I'm definitely unhappy with this.
+
+Can anybody confirm this behaviour of iOS 5? And more importantly: Could anyone provide a solution? I know that I can keep backups on my PC, but I'd really like to have all my old messages with me at all times as before – unformatted text isn't even taking up much space, so I really don't understand why Apple did this without any notice.",6,7,2012-01-18,AAPL,0.08409593999385834,0.8889418244361877,0.02696221135556698
+ipad,Is it possible to send emails with images in-line instead of as attachments?,"I'm googling now, unfortunately to no avail. If anyone knows the trick, I'd be grateful to learn :)",6,7,2012-01-18,AAPL,0.0930018275976181,0.8888007402420044,0.01819739118218422
+apple,"At $400 billion, Apple is worth more than Greece",,133,951,2012-01-19,AAPL,0.021357301622629166,0.9246768355369568,0.053965840488672256
+apple,"My Ipad was stolen last week out of my home,  The thief was dumb enough to take a picture of,himself and connect to wifi.","yesterday Im listening to music on my apple tv and a picture of the guy pops up on my TV!  A little freaky.  The thief briefly connected to wifi as well, so I have an approximate location with findmyiphone, and a picture of his face.  Thank you Icloud!",206,505,2012-01-19,AAPL,0.05544331669807434,0.9041452407836914,0.040411464869976044
+apple,A ton of cool OS X Lion features and shortcuts you may have forgotten about,,48,361,2012-01-19,AAPL,0.056305982172489166,0.8972336649894714,0.04646031931042671
+iphone,Reddit Client Alien Blue for iPhone Updated To 2.5,,66,290,2012-01-19,AAPL,0.017291586846113205,0.6937227249145508,0.2889856994152069
+iphone,iBooks 2.0 revealed and available now!,,42,151,2012-01-19,AAPL,0.03536888584494591,0.9303464889526367,0.03428463265299797
+iphone,Can I get out of my contract with AT&amp;T now that they are changing their data plans?,,78,106,2012-01-19,AAPL,0.055968787521123886,0.8921601176261902,0.05187107250094414
+iphone,"Isn't this kinda...well, not to be crass...dickish?",,36,97,2012-01-19,AAPL,0.08669064939022064,0.876892626285553,0.03641676902770996
+iphone,"Springboard crashed, this popped up. Never seen it like this before and the buttons don't work.",,14,62,2012-01-19,AAPL,0.07034433633089066,0.8955622315406799,0.034093454480171204
+iphone,Does anyone else almost never use data because of Wi-Fi?,"My 4S is the first smartphone I've had and the first phone I've had that has required a data plan from Verizon.  I signed up for the 2GB plan thinking it was worth it for the extra $10 over the 200MB plan.  However, I've had my iPhone for 16 days and I've used a grand total of 26MB.  Almost everywhere I go has Wi-Fi (home, school, work, most stores).  
+
+I find myself only using data to check my emails once in a while when I'm out and about.  Am I doing it wrong?
+
+Quite frankly, I wish I could just not get a data plan at all.",71,57,2012-01-19,AAPL,0.07937154918909073,0.8863582611083984,0.034270208328962326
+ipad,Vim for iPad!,,13,48,2012-01-19,AAPL,0.04149395972490311,0.9002149701118469,0.05829109251499176
+apple,The wait is over! iPhone 4s and iPad 2 untethered JB is out!,,149,296,2012-01-20,AAPL,0.024579811841249466,0.9041354060173035,0.07128482311964035
+iphone,iPhone 4S / iPad 2 untethered jailbreak is OUT! (Mac only release currently),,204,272,2012-01-20,AAPL,0.04346303269267082,0.9260686635971069,0.03046826459467411
+iphone,"The only place in New Orleans that offers ""Miracle iPhone Repair""",,4,128,2012-01-20,AAPL,0.012877476401627064,0.39858123660087585,0.5885413289070129
+apple,"Why Apple Why? can I NOT read your iBooks on my $3,000 Mac?",,140,91,2012-01-20,AAPL,0.03164108097553253,0.8982157111167908,0.07014317810535431
+mac,Just a few Macs...,,17,89,2012-01-20,AAPL,0.020479101687669754,0.8936594724655151,0.0858614519238472
+ipad,iPad 2 Untethered Jailbreak Available Now,,49,64,2012-01-20,AAPL,0.15392953157424927,0.8151853680610657,0.030885152518749237
+iphone,My new 4S back. Brushed aluminum with beveled edges.,,41,57,2012-01-20,AAPL,0.0244156364351511,0.8541895151138306,0.12139490991830826
+iphone,Untethered Jailbreak For iPhone 4S and iPad 2 Released,,32,55,2012-01-20,AAPL,0.029203567653894424,0.9113951921463013,0.05940123274922371
+ipad,So I drew a comic on my iPad today...,,9,48,2012-01-20,AAPL,0.06282465159893036,0.8831358551979065,0.05403950810432434
+apple,"Normally a supporter of Apple, John Gruber is not a fan of the iBooks Author EULA.",,35,43,2012-01-20,AAPL,0.02274930477142334,0.9131607413291931,0.06408987939357758
+apple,Apple designs the nicest boxes,,296,904,2012-01-21,AAPL,0.01347164623439312,0.8452810645103455,0.14124731719493866
+apple,IAmA current Apple Store mobile technician. I've fixed over 6000 iPhones. AMA,"I currently work at an **Apple Retail Store** in the United States as what is called a ""**Family Room Specialist**."" The role is like a Genius who does nothing but mobile device support (iPhone, iPad, iPod) all day yet gets paid the same as a Red Zone Specialist (the sales grunts).
+
+I've worked for Apple for almost a year and half, and I've seen plenty of crazy sh-t in my day. I've serviced over **6000** devices and had approximately **15,000** total customer interactions. When your home button stops working, you can't figure out iCloud, or that bag of rice just doesn't bring back your phone after you drop it in your beer, I'm the guy you see.
+
+There have been many current/former Genius IAmA's, but I've yet to see one from an FRS. We are like the infantrymen of Apple support. The non-coms to the officers of the Genius role. We have a unique perspective, and a lot of stories to tell therefrom.
+
+**Ask me anything.**
+
+(Proof: The lock screen code on the EasyPay mobile payment/service iPods we use in store was ""1984"" for a while, and changed to ""2001"" last year at the 10th anniversary of Apple Retail.)
+
+The basics:
+-I get paid $11/hr
+-I was hired as a Specialist and promoted internally to FRS
+-My employee discount is 15-25% on hardware and Apple software is free",640,418,2012-01-21,AAPL,0.04396454989910126,0.9214165806770325,0.03461887314915657
+iphone,"TIP, make à shortcut to avoid having to type your email address every time. My shortcut is 'ggmail'","Thanks jacob_ns for description below (i have non-english menues). 
+
+Settings, General, Keyboard, Add New Shortcut.
+
+Phrase is the email address in this situation and shortcut is whatever you want. I use 'geml' for example.",56,195,2012-01-21,AAPL,0.0651831403374672,0.9108900427818298,0.023926815018057823
+apple,Apple working to adopt 802.11ac 5G Gigabit WiFi this year,,33,95,2012-01-21,AAPL,0.028772255405783653,0.9221950769424438,0.04903269559144974
+ipad,Finally updated to iOS5...,,21,56,2012-01-21,AAPL,0.012556829489767551,0.9075315594673157,0.07991158962249756
+apple,Apple claims ownership of digital photography patents asserted by Kodak,,20,55,2012-01-21,AAPL,0.023077724501490593,0.9363799095153809,0.040542349219322205
+ipad,Siri installed and running on an iPad2!,,23,46,2012-01-21,AAPL,0.0258779376745224,0.8876504302024841,0.08647163212299347
+iphone,A5 Jailbreak for is out for Windows!!,,63,44,2012-01-21,AAPL,0.20115603506565094,0.7729407548904419,0.02590315043926239
+apple,"Apple, America and a Squeezed Middle Class",,23,38,2012-01-21,AAPL,0.3341991901397705,0.5508548617362976,0.11494597047567368
+iphone,Eight Stunning Vintage Radios Pimped for iPhones,,3,27,2012-01-21,AAPL,0.01336170919239521,0.8419332504272461,0.14470504224300385
+apple,Page-flipping interface prototype (vid),,55,385,2012-01-22,AAPL,0.028006423264741898,0.9324463605880737,0.03954720124602318
+iphone,How I learn new words.,,43,366,2012-01-22,AAPL,0.02786911092698574,0.8995423316955566,0.07258857041597366
+iphone,Seems legit...,,34,296,2012-01-22,AAPL,0.05444585159420967,0.8181549310684204,0.1273992359638214
+apple,Colleges enthused as iTunes classes go live,,27,154,2012-01-22,AAPL,0.03378930315375328,0.919287919998169,0.046922795474529266
+iphone,My new 4S lockscreen and homescreen.,,96,111,2012-01-22,AAPL,0.03686688095331192,0.9251313209533691,0.03800179809331894
+ipad,since you got your ipad have any of you started using your smartphones less?,"I'm getting one in about 6 days and I anticipate using my smartphone a lot less (internet wise anyways, of course i'd still talk and text) but is this the case for anyone? and for the wi-fi only users do you just use your smartphone as a portable hotspot when you travel with your ipad?
+
+ps: i'm really curious to see how many iphone users respond
+
+edit: thanks for the response, and i'm pretty sure now i will primarily use an ipad over my smartphone ( I use an HTC phone though) and will only use its 3G when my ipad is travelling with me in between wifi hotspots",41,52,2012-01-22,AAPL,0.0280009675770998,0.9315297603607178,0.04046930745244026
+iphone,TidyTilt is the smart cover for your iphone.,,11,50,2012-01-22,AAPL,0.023922787979245186,0.9378440380096436,0.038233134895563126
+iphone,Ahhhh. Wood.,,15,29,2012-01-22,AAPL,0.02842657081782818,0.8885149359703064,0.08305847644805908
+ipad,Joshua Bell &amp; Sam Haywood - Pianist is using an iPad plus a bluetooth device to change pages.,,5,29,2012-01-22,AAPL,0.0327555276453495,0.9214388728141785,0.045805662870407104
+mac,Is there anyone still holding back from upgrading to lion?,"i remember back in the day when OSX Lion came out, there was lots of talk about not upgrading to lion for several reasons. 
+The two reasons that i remember was being that lion is glitchy, and that it is a dumbed down OS.
+Do people still feel this way or has Lion been accepted among the masses?",76,28,2012-01-22,AAPL,0.023409171029925346,0.8598868250846863,0.11670396476984024
+iphone,My favorite feature of iOS 5,,95,331,2012-01-23,AAPL,0.01945292204618454,0.9064621925354004,0.07408492267131805
+apple,Apple expected to adopt gigabit WiFi standard ahead of schedule,,86,309,2012-01-23,AAPL,0.024457281455397606,0.9282764792442322,0.04726625978946686
+apple,5 Ways to Customize the Dock with Terminal,,68,293,2012-01-23,AAPL,0.03230493888258934,0.918892502784729,0.04880259186029434
+iphone,Reason enough to jailbreak your iPhone,,41,172,2012-01-23,AAPL,0.4008291959762573,0.5656228065490723,0.03354799747467041
+ipad,Tip: Swipe up on the symbol keys to get other symbols,,13,136,2012-01-23,AAPL,0.02429795265197754,0.9101384878158569,0.06556358188390732
+iphone,Look at what my friend BUILT!,,48,105,2012-01-23,AAPL,0.021944351494312286,0.8626006245613098,0.11545507609844208
+ipad,"Literally the most bananas ad I've ever seen.  Mackie's new 1608 mixer uses an iPad for control, but you've just got to see this...",,18,93,2012-01-23,AAPL,0.016517505049705505,0.8879998922348022,0.09548263996839523
+apple,"350,000 textbooks downloaded from Apple’s iBooks in three days.",,5,78,2012-01-23,AAPL,0.037197113037109375,0.8985199928283691,0.06428288668394089
+iphone,Why it replaced my digital camera,,18,63,2012-01-23,AAPL,0.060138434171676636,0.9037793874740601,0.03608221933245659
+apple,"“We shouldn’t be criticized for using Chinese workers,” a current Apple executive said. “The U.S. has stopped producing people with the skills we need.”",,59,51,2012-01-23,AAPL,0.3974655568599701,0.5693796873092651,0.03315478563308716
+apple,Happy Mac Day!  The Macintosh was released 28 years ago today.,,119,1083,2012-01-24,AAPL,0.02492149919271469,0.9371617436408997,0.03791668266057968
+iphone,100 Jailbreak Tweaks You Should Know About,,66,320,2012-01-24,AAPL,0.06952861696481705,0.9025453925132751,0.027925999835133553
+apple,Steve Jobs Wanted To “Reinvent” Smartphone Photography Using Lytro Technology On The iPhone,,67,208,2012-01-24,AAPL,0.014952454715967178,0.9306836128234863,0.05436393991112709
+iphone,"Anyone else think this is one of the ugliest parts of iOS?  If not, post what you think is the most un-polished.",,144,158,2012-01-24,AAPL,0.034212108701467514,0.9297035336494446,0.03608433157205582
+iphone,"As an iPhone developer, nothing makes me more nervous.",,47,138,2012-01-24,AAPL,0.0254833921790123,0.9148871898651123,0.059629425406455994
+apple,Apple Reports Best Quarter Ever in Q1 2012: $13.06 Billion Profit on $46.33 Billion in Revenue - Mac Rumors,,113,95,2012-01-24,AAPL,0.03548727557063103,0.746950626373291,0.21756209433078766
+ipad,Uhh... Bug or feature? Not jail broken...,,54,88,2012-01-24,AAPL,0.2991158664226532,0.6433138251304626,0.05757036432623863
+iphone,This guy is passionate about icons.,,29,84,2012-01-24,AAPL,0.0492670014500618,0.8795762062072754,0.0711568221449852
+apple,Ars investigates whether Lion Server is suitable for home use.,,26,61,2012-01-24,AAPL,0.019198913127183914,0.9324525594711304,0.048348505049943924
+ipad,SCUMBAG IPAD,,16,39,2012-01-24,AAPL,0.03232273459434509,0.9303883910179138,0.03728882595896721
+apple,I guess I won't be updating then...,,146,813,2012-01-25,AAPL,0.08625369518995285,0.8366479277610779,0.07709833234548569
+iphone,Dear Zynga... (from creators of Tiny Tower),,106,633,2012-01-25,AAPL,0.06462477892637253,0.8943389058113098,0.041036345064640045
+iphone,Worried about my SO on her way to work during a bad icestorm recently. Thanks a lot for the troll Find My Friends app.,,49,314,2012-01-25,AAPL,0.04047420993447304,0.6929356455802917,0.2665901780128479
+iphone,Modest Reasoning...,,17,255,2012-01-25,AAPL,0.055538326501846313,0.8681269884109497,0.0763346329331398
+iphone,The only reason I jailbroke,,54,189,2012-01-25,AAPL,0.09166359156370163,0.8536593317985535,0.05467711761593819
+iphone,A reason I love my iPhone camera in my biology class.,,18,189,2012-01-25,AAPL,0.024681929498910904,0.9212915897369385,0.05402648076415062
+ipad,Really???,,23,139,2012-01-25,AAPL,0.0318269245326519,0.8959770202636719,0.07219608128070831
+iphone,Took this last night with my 4S!,,25,105,2012-01-25,AAPL,0.03892173618078232,0.664265513420105,0.29681268334388733
+ipad,Things You Can Do with a Long Press - Check out #3,,16,64,2012-01-25,AAPL,0.058157630264759064,0.9100464582443237,0.03179588168859482
+iphone,"Apple, what the fuck is going on here? My OCD! It burns!",,11,42,2012-01-25,AAPL,0.04169056564569473,0.8833855390548706,0.07492386549711227
+apple,"Watching Apple win the world: ""Apple’s last quarter was the second most profitable quarter of any company ever in US history. Only ExxonMobile topped them slightly in 2008 when oil was at an all-time high. That’s an astounding and awe-inspiring accomplishment.""",,320,448,2012-01-26,AAPL,0.01667039282619953,0.7110244035720825,0.2723052501678467
+iphone,Jailbreaking Smartphones And Tablets Will Soon Become A Crime Unless You Act Now,,33,363,2012-01-26,AAPL,0.44048231840133667,0.5348588228225708,0.02465883642435074
+ipad,Screw you too Directv!,,57,191,2012-01-26,AAPL,0.03620239347219467,0.919630765914917,0.04416683316230774
+apple,"Apple to offer employees $500 off a new Mac, $250 off iPads - report",,99,151,2012-01-26,AAPL,0.0148691451177001,0.8830563426017761,0.10207445919513702
+apple,81% of Smartphones Sold by AT&amp;T in Q4 Were iPhones,,34,120,2012-01-26,AAPL,0.02045508660376072,0.8782366514205933,0.10130827128887177
+iphone,"Hey AT&amp;T, if your new dataplans give 3GB for $30, why am I being throttled on my $30 unlimited plan after using 2GB?","Does my 2GB of  ""unlimited data""  cost them more to deliver than the 3GB of ""limited data"" somehow? Magic?",34,51,2012-01-26,AAPL,0.021377667784690857,0.9196284413337708,0.05899390950798988
+iphone,What is this I don't even,,5,45,2012-01-26,AAPL,0.20520345866680145,0.7510412931442261,0.0437551885843277
+ipad,HeyHey Colors free today (normally $3),"[HeyHey Colors](http://itunes.apple.com/us/app/heyhey-colors/id445287406?mt=8) a beautiful coloring app for children made by [HeyHeyApps](http://www.heyheyapps.com) is free today (as part of [AppEvent](http://en.appevent.com/))
+
+I'm the developer of the app, I'm not sure what to expect but I look forward to all feedback and reviews because of this :)
+
+enjoy!",14,41,2012-01-26,AAPL,0.018617399036884308,0.927883505821228,0.05349903181195259
+iphone,Valve annouces Steam for iPhone,,8,36,2012-01-26,AAPL,0.030367275699973106,0.9343194961547852,0.035313259810209274
+ipad,What the hell happened to siries.me??,"It now links to google search term saying something like thanks for the love and support. Is it dead? Hope not. Any replacements? 
+Edit:Ok I just looked again and earlier it didn't say hope to see you soon but now it does so maybe?",24,35,2012-01-26,AAPL,0.05508699640631676,0.8816569447517395,0.06325604766607285
+apple,Bill Gates: ‘I wrote Steve Jobs a letter as he was dying. He kept it by his bed’,,103,596,2012-01-27,AAPL,0.02600638009607792,0.8794212937355042,0.09457232803106308
+apple,"“Apple’s contribution to our fight against AIDS in Africa has been invaluable.” The company had given “tens of millions of dollars that have transformed the lives of more than two million Africans through H.I.V. testing, treatment and counseling.""",,166,326,2012-01-27,AAPL,0.014660623855888844,0.6150877475738525,0.3702516257762909
+iphone,"Throttled 5% ATT iPhone ""Unlimited Data"" plan user bandwidth.",,129,284,2012-01-27,AAPL,0.021434161812067032,0.9471400380134583,0.03142576292157173
+iphone,"iPhone, NOOOOOOOO!",,53,239,2012-01-27,AAPL,0.03163193166255951,0.9208436012268066,0.047524500638246536
+apple,One of the positive effects of Apple controlling both the hardware and the software.,"So, back when the Lion GM was released to devs, I blew away both my 2009 Mac Mini and my 2010 MacBook Pro with clean DVD loads (not a fan of upgrades).  Over time, they have understandably accumulated a fair amount of junk, bloat, files, etc and I wanted to give them a clean sweep.  
+
+I used the excuse of buying a new 128GB SSD for my MacBook Pro to perform another clean installation, then spent a couple hours reloading the apps which I felt I used frequently enough, did my tweaks, hacks, updates, etc.  Then, plugged it in (hardwire) and got a nice big fat snapshot on my Leopard Server which hosts all of my TM backups.
+
+When it came time to do the same on the Mini, I had a hell of a lot less which needed to be done.
+
+* Boot to the Lion DVD
+* Disk Utility -&gt; Re-partition the boot volume
+* Time Machine Restore of laptop snapshot
+* Reboot into the brand new clean (and already tweaked) 10.7.2 build
+* On the initial boot, I rename the Mini back to it's original name, re-setup Dropbox, purge my 2GB iPhoto Library (I only keep pics on the laptop) and that's it!  I already sync my iTunes content between the two, this was done for me.
+
+Something which I **never** had to worry about, even with going from a laptop to a Mini, was drivers, crashes, etc.  Everything came right up, Lion automatically recognized my dual displays, automatically set them both to 1920x1080, it automatically recognized my BT keyboard and mouse.  In short, I spent 34 minutes restoring a clean build onto my Mini and less than 7 minutes changing a small number of settings.  I think I've spent longer writing this post.
+
+This, Apple, **this** is why I stick with your products.",183,236,2012-01-27,AAPL,0.04601873457431793,0.9186846613883972,0.03529655188322067
+iphone,the iPhone 4S camera never ceases to amaze me.,,48,174,2012-01-27,AAPL,0.02647833339869976,0.9088210463523865,0.0647006705403328
+iphone,I travel a lot and this was reason enough to Jailbreak,,25,121,2012-01-27,AAPL,0.08506053686141968,0.8531234860420227,0.061815958470106125
+iphone,Evidently I'm a no man,,21,103,2012-01-27,AAPL,0.024838902056217194,0.8369362354278564,0.138224795460701
+iphone,Tip: Swipe left on a comment in Alien Blue to collapse the entire comment thread,Save yourself from hunting for the next parent comment.,19,95,2012-01-27,AAPL,0.05521134287118912,0.9122445583343506,0.032544054090976715
+iphone,"Stolen iPad returned, crime ring busted thanks to iPhone app",,19,69,2012-01-27,AAPL,0.4941655099391937,0.4537261724472046,0.05210833251476288
+iphone,Replaced my finicky home button today! Here's my phone all taken apart:,,71,270,2012-01-28,AAPL,0.1434675008058548,0.8285238742828369,0.028008611872792244
+apple,Apple made more money than..,,22,177,2012-01-28,AAPL,0.02060960978269577,0.8809828758239746,0.0984075665473938
+apple,"My team's gorgeous new mail apps for Mac, iPhone, &amp; iPad (among others), on Kickstarter now.",,129,103,2012-01-28,AAPL,0.022037561982870102,0.8816569447517395,0.09630553424358368
+iphone,"Free iPhone Cases! (plus S/H fees) Use coupon code ""FreeZooGueAccessory""",,35,67,2012-01-28,AAPL,0.023066280409693718,0.9350695610046387,0.04186413437128067
+apple,How Apple Bought Saab's Futuristic Mapping Software,,12,42,2012-01-28,AAPL,0.010580568574368954,0.8743688464164734,0.11505064368247986
+ipad,What do YOU use your iPad for?,My dad got me one for Christmas out of the blue when I had no interest in getting one and quite frankly would rather of had cash towards a new laptop. Since then I probably turned it on 4 or 5 times and I am struggling to see any time when it is beneficial to use it in place of anything. I have an iPhone so the majority of features are redundant - is it literally just a iPod touch with a big screen? I see people on the train and in University with them but I cant believe for a second its more handy then a smartphone be it for productivity or procrastination and as for replacing a laptop its a no go as I need Matlab/Excel/Maple amongst other things. I'm not dissing it in anyway as its clearly a neat but of kit but I'm just wondering where it fits in for you? I ask as only the fact it was a gift is stopping me selling it this very second.,101,41,2012-01-28,AAPL,0.04279692471027374,0.8949382305145264,0.0622648261487484
+iphone,Browsing Reddit is productive after all! Helped me polish up my first app; and have 15 codes to give away if anybody wants.,"Good day Reddit!
+
+I got a bit frustrated with the current crop of scorekeeping apps for my basketball and soccer games so I decided to just create my own.
+
+Scoreboard Semplice: http://itunes.apple.com/us/app/scoreboard-semplice/id495596298?mt=8
+
+Differentiating Features:
+
+* Twitter and Facebook time and score-sensitive quick messages.
+* Local Notifications to game end.
+* Runs perfectly in the background.
+* Universal app that runs on all iOS devices (running iOS5) and is optimized for iPad and retina displays.
+* I think it looks pretty sweet haha ...
+
+Anyhow, this is my first iOS app, and am having fun seeing how this appstore ecosystem works, so if any of you are interested in a promo code let me know and I'll pm you one. I'll edit this post when they are gone.
+
+Thanks everyone! *Oh, and does anyone see where the Reddit influence came from in the screenshots?* ;)
+
+**EDIT: Those Codes went faster than I thought they would. Thanks for your support everyone. I hope to hear back from you about what you think as it is always good to know how I can better it or other apps I may create in the future.**",37,32,2012-01-28,AAPL,0.028905995190143585,0.9250708222389221,0.04602321609854698
+iphone,"New Free App: gif text - send animated rage faces, gestures, and classic youtube clips as text messages on the iPhone.",,30,30,2012-01-28,AAPL,0.030574755743145943,0.9340341091156006,0.03539109602570534
+iphone,"Comparison between throttled and unthrottled ""unlimited"" data plan iPhones on AT&amp;T",,0,30,2012-01-28,AAPL,0.01714404858648777,0.9159303903579712,0.06692559272050858
+ipad,iPad 2 themes?,"Hey guys, just wondering if there's any mind blowing themes out there (akin to the quality of revi-krs).
+
+The iPad needs a dedicated theme section in cydia so I don't have to filter through thousands of themes to find the iPad ones.",9,26,2012-01-28,AAPL,0.023174069821834564,0.9296038150787354,0.04722217470407486
+apple,HP just don't give a fuck anymore.,,691,1769,2012-01-29,AAPL,0.07775463163852692,0.8754098415374756,0.04683555290102959
+iphone,"The Calvonian System: Change your wallpaper depending on the season. I found this on reddit for the desktop a while ago, I just modified it for the iPhone. Kudos to anyone who can find the original post.",,33,350,2012-01-29,AAPL,0.036685969680547714,0.9177396893501282,0.045574307441711426
+iphone,Green!,,31,57,2012-01-29,AAPL,0.03547781705856323,0.926679253578186,0.03784294053912163
+iphone,Just got a 4S on Monday! The camera is amazing!!,,11,41,2012-01-29,AAPL,0.01799825020134449,0.8935354948043823,0.08846623450517654
+apple,Wisconsin schools to get iPads from Microsoft settlement. State will use a portion of the nearly $80 million it will receive from Microsoft to buy 600 iPads this spring and 800 more in the fall.,,8,40,2012-01-29,AAPL,0.013713848777115345,0.9038913249969482,0.08239481598138809
+mac,the clea.nr safari extension,,12,38,2012-01-29,AAPL,0.024913446977734566,0.9316692352294922,0.043417349457740784
+iphone,What the fuck is this? Ad pushed to my phone don't know which app is responsible or how to turn it off.,,25,22,2012-01-29,AAPL,0.0547555573284626,0.9169493913650513,0.02829507552087307
+apple,"As a current unidentified Apple executive points out to the Times: ""...right now, customers care more about a new iPhone than working conditions in China.""",,19,20,2012-01-29,AAPL,0.3236333727836609,0.4559987783432007,0.22036781907081604
+ipad,Is there any way to use the native iPad keyboard when running an iPhone app?,"I just got into the Steam Mobile beta, and it's awesome, but it's an iPhone app. Unfortunately, this means using a different keyboard than what I'm used to in an app that has instant messaging, and it fucks me up.
+
+So can I just use the iPad keyboard for stuff like that? Is there an app in Cydia that could help me, or a setting I'm missing? Thanks!",12,17,2012-01-29,AAPL,0.025478368625044823,0.927589476108551,0.04693218693137169
+iphone,Redditor-made (and really fun) Stay Alive is now free on the App Store. Go grab it!,,14,16,2012-01-29,AAPL,0.019182978197932243,0.9112752676010132,0.06954167038202286
+apple,Looks like AT&amp;T has a new system to rid itself of the remaining unlimited data plan accounts.,,203,513,2012-01-30,AAPL,0.00871324073523283,0.8714879155158997,0.11979881674051285
+apple,Apple: New Engineers Work On Fake Products Until They Can Be Trusted,,83,372,2012-01-30,AAPL,0.3004235625267029,0.6713926196098328,0.028183884918689728
+iphone,What are the coolest/most unique things you can do with your iPhone?,"About a year ago, I realized that I could stream movies from my computer at home using the my.orb app over 3G.  This blew my mind at the time.  Yesterday, I was playing with the Justin.tv app and found out that I could broadcast a JustinTV channel from my iPhone while connected via Wi-Fi.  My Question is this... What other amazing things am I missing out on?",421,297,2012-01-30,AAPL,0.01745796762406826,0.9288136959075928,0.05372831970453262
+apple,"$1.99 app sneaks into the App Store, allows tethering via Proxy",,193,217,2012-01-30,AAPL,0.015945756807923317,0.9260514378547668,0.05800284445285797
+ipad,Apple insists that I need to pay twice for an app because I moved between countries.,"I purchased Comic Zeal for my iPad in April 2010 when I was temporarily in the US on an extended stay.  Fast forward to yesterday when I tried to re-download the app and was told I'd need to pay for it again.
+
+iTunes support keeps telling me that because I purchased the app on the US Store, I can't download it on the Canada store. But if I try to go to the US store, it won't let me download anything as my address is now in Canada.
+
+
+Anyone have any suggestions? The easiest thing is probably just for me to jailbreak my ipad and pirate the app that I've already paid for. 
+
+**Edit:** I've discovered that it's about $40 in apps that I'm missing from my time in the US. Also, Apple does not provide phone support for this issue. You cannot get a live person on the line to deal with iTunes billing. Also, to the person downvoting me, mind telling me what you find so offensive about this issue? 
+
+**Edit 2:**  To everyone telling me that I can get 2 accounts for 2 countries: yes, I understand that. The problem is that I have 1 account and I moved. Had I known that it would be this much hassle back in 2010, I would have just created a second account for Canada.  
+  
+The issue has been resolved. Here is what happened: I can still download the app for free, but it *looks* like I'm going to purchase it. I need to confirm a purchase with the green 'buy app' button and enter my password. Only then does it say that I've already purchased this app and it'll be downloaded for free. This only happens with apps that I purchased in the US store. Apps I have purchased in the Canadian store show up under my 'purchased' section in the App Store. 
+  
+The iTunes support rep was completely wrong in telling me that I would need to re-purchase the app again. It took an escalation to a supervisor for me to get a solution that 1st level support should know. I also find it aggravating that you cannot call into Apple for billing issues. The big sell for Apple is supposed to be excellent support. I think they really dropped the ball today with my issue.",17,73,2012-01-30,AAPL,0.05378167703747749,0.9138622283935547,0.0323561392724514
+apple,"Got a strange error in FaceTime, screen-capped it for reference. Later realized that my initial reaction was captured as well.",,1,71,2012-01-30,AAPL,0.052171897143125534,0.8365538120269775,0.11127422004938126
+mac,TIL you can pipe commands to/from clipboard on Terminal,,6,40,2012-01-30,AAPL,0.05006616190075874,0.9189739227294922,0.03095996007323265
+iphone,Since we're all doing it... (+ review in comments),,17,36,2012-01-30,AAPL,0.09583806246519089,0.8582906723022461,0.045871246606111526
+ipad,Found out why my iPad restore was going to take 9 hours!,"Thought I'd share this in case anyone else was having this problem. 
+
+I tried to do a full factory restore via iTunes (PC, Win7), but the time estimate kept rising until it said 9 hours. 
+
+Simply pulling out a USB drive I had plugged in immediately made the bar start moving again and the restore completed in the usual couple of minutes.",6,33,2012-01-30,AAPL,0.040855102241039276,0.8755069971084595,0.08363793790340424
+apple,"AirPort Utility 6.0, AirPort Firmware 7.6.1 released","Check your [software update](http://i.imgur.com/jwHmb.png).
+
+Changes (as far as I can tell)
+
+* Completely [redesigned](http://i.imgur.com/gOVPh.png) interface (now looks exactly like AirPort Utility iOS app)
+* Back to My Mac support via iCloud (e.g. accessing your Time Machine via BTMM)
+* No longer support [dynamic global hostname](http://dyn.com/support/airport-time-capsule-with-dynamic-dns/). 
+
+Apart from that, I've found that my Mac is able to connect to Time Capsule's 5GHz network now (rather than 2.4GHz, previously it won't work unless I separate 5GHz into another network.)
+
+BTMM via iCloud alone is worth it.",46,26,2012-01-30,AAPL,0.017992395907640457,0.9156139492988586,0.06639356911182404
+apple,Final Cut Pro X 10.0.3 restores professional features; adds notable new ones,,219,514,2012-01-31,AAPL,0.016310859471559525,0.8616712093353271,0.12201788276433945
+iphone,"I'm italian, I just asked where my clock was",,23,240,2012-01-31,AAPL,0.13010138273239136,0.7846725583076477,0.08522599935531616
+iphone,Got AT&amp;T's Top 5% Text at 2.1 GB,,146,185,2012-01-31,AAPL,0.030204178765416145,0.9009946584701538,0.06880117952823639
+iphone,Siri in Scotland.... having a wee bit of trouble.,,7,61,2012-01-31,AAPL,0.16360852122306824,0.6679559946060181,0.16843551397323608
+iphone,All I want to do is so 'Yo' damnit..,,16,58,2012-01-31,AAPL,0.07472647726535797,0.8673843741416931,0.0578891858458519
+apple,"Apple finally updates Final Cut Pro X with multicam editing, broadcast monitoring, Photoshop support and more.",,3,50,2012-01-31,AAPL,0.02364335022866726,0.9426974058151245,0.033659279346466064
+apple,Apple Is Totally Serious About That Stuff They Put At The End Of Their Emails,,24,47,2012-01-31,AAPL,0.1331828087568283,0.8278012275695801,0.03901594504714012
+iphone,"Hipsters rejoice, your iPhone case has arrived.",,12,43,2012-01-31,AAPL,0.034975308924913406,0.9236564040184021,0.04136829078197479
+iphone,iRandomizer Numbers: Hidden tethering app in the app store,,43,43,2012-01-31,AAPL,0.04753926396369934,0.9235256910324097,0.028935082256793976
+apple,"Apple, iTunesU, and the OpenCourseWare revolution",,3,42,2012-01-31,AAPL,0.03823314979672432,0.9211598038673401,0.04060707613825798

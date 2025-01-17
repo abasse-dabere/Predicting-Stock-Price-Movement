@@ -1,0 +1,469 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+technology,Longest Tunnel in the World Opened Today: 57 km from Switzerland to Italy underneath Alps; Took 17 Years to Build.,,2055,7926,2016-06-01,TECH,0.022934434935450554,0.893775224685669,0.08329030126333237
+technology,Yahoo publishes FBI's secret requests for user data,,273,4258,2016-06-01,TECH,0.055798761546611786,0.9273156523704529,0.016885586082935333
+gadgets,AMD's Radeon RX480 GPU is VR ready for just $199,,963,3586,2016-06-01,TECH,0.02660149335861206,0.9171311855316162,0.0562673956155777
+gadgets,Hamster Wheel Standing Desk,,573,3428,2016-06-01,TECH,0.03015376627445221,0.8347156047821045,0.13513065874576569
+technology,Nissan LEAF sales are in free-fall and Tesla Model 3 could have something to do with it,,567,2491,2016-06-01,TECH,0.01767517440021038,0.7342337965965271,0.24809104204177856
+technology,"When it comes to civil liberties, Obama has made grievous mistakes. To salvage his reputation, he should exonerate the two greatest whistleblowers of our age: Chelsea Manning and Edward Snowden.",,173,1340,2016-06-01,TECH,0.061976686120033264,0.8820690512657166,0.05595431476831436
+technology,The FAA Revoked an Airplane Pilot’s License for Flying a Drone,,145,1083,2016-06-01,TECH,0.6294311881065369,0.337600439786911,0.032968394458293915
+technology,"TeamViewer Accounts Hacked: Service Goes Offline, Customer Bank Accounts Emptied",,118,649,2016-06-01,TECH,0.6229050755500793,0.36238667368888855,0.014708243310451508
+technology,Court's location data ruling spells the end of privacy: A US appeals court ruing that the government doesn't need a warrant to track location data is a troubling development that further whittles away privacy protection in an era of pervasive data collection and tracking.,,16,387,2016-06-01,TECH,0.03166593983769417,0.9343143701553345,0.03401971980929375
+gadgets,LEGO Technic 42056 Porsche 911 GT3 RS: Breathtaking perfection,,39,359,2016-06-01,TECH,0.017732255160808563,0.8987295031547546,0.08353827893733978
+technology,TeamViewer has been hacked. They are denying everything and pointing fingers at the users.,"TeamViewer has yet to leave a comment ~~on the issue~~ that's not in complete denial of the problem.  
+
+Update: /u/TeamViewerOfficial has reached out.  Posted [here in the comments](https://www.reddit.com/r/technology/comments/4m7ay6/teamviewer_has_been_hacked_they_are_denying/d3ufp8e), and sent a PM with [this post here in /r/technology](https://www.reddit.com/r/technology/comments/4md95j/teamviewer_launches_trusted_devices_and_data/) ([and one at /r/teamviewer](https://www.reddit.com/r/teamviewer/comments/4mcvp4/teamviewer_launches_trusted_devices_and_data/)). They also [announced an open letter to users](https://twitter.com/TeamViewer/status/738725855959101440) on Twitter ([archived here](http://archive.is/jED6k)). Link to the open letter [here](https://www.teamviewer.com/en/company/press/teamviewer-launches-trusted-devices-and-data-integrity/?utm_source=Twitter&amp;utm_medium=social%20&amp;utm_content=trusteddevices/dataintegrity&amp;utm_campaign=Social) ([archived here](http://archive.is/Githe)). Right now it looks like they are trying to mitigate the problem with a band-aid, excuses and new features.  
+
+**Update 2016-06-06 (10th):** Got this in a PM from a user:    
+&gt;They just admitted the basis for their assumption of password reuse. If your email address comes up on haveibeenpwned, they simply and blindly assume that you reuse passwords and that is the only possible reason your account is compromised.  
+[In reply to a /r/teamviewer comment](https://www.reddit.com/r/teamviewer/comments/4mq9a5/badly_worded_sentence_or_can_teamviewer_see_our/d3xu3gc) they seem to be admitting this.  
+
+Right now, we still don't know how the unknown party have accessed the clients, even though it's been 4 days since the creation of this post.  
+*****
+
+Users are reporting breaches, and thousands of dollars have been stolen with the client, all over /r/teamviewer and at their [support Twitter account](https://twitter.com/TeamViewer_help/with_replies). TV is blaming users with reusing passwords, [yet users with 2FA](https://www.reddit.com/r/teamviewer/comments/4m4a5n/psa_2factorauthentication_use_it/d3snp7k) and [unique very long generated passwords](https://www.reddit.com/r/teamviewer/comments/4jr9qn/hacked_trough_teamviewer_1800_spent_on_paypal/d3a5tcf) were hacked.  
+
+Some also suggest that [their DNS servers were hijacked and the clients believed the fake server](https://www.reddit.com/r/teamviewer/comments/4m3izy/teamviewer_dns_issues/), being the method of the attack.  
+
+One of the main problems are that they are not taking responsibility: (quoted from /u/rich-uk)  
+&gt;Teamviewer is being used as a vector of attack. This has happened on other sites where they had no critical information and within 48 hours everyone's logged in sessions were logged out, an email went round saying you had to click the link in the email (to verify ownership) and set up two factor auth as they knew they were being targeted.
+Teamviewer must know they are being targeted, and the stakes are high as the software allows complete access to a trusted machine - it's basically a master key - and there hasn't been a single response with teeth from teamviewer.
+
+Some info by /u/re1jo on the auth protocol [here shows that no password or 2FA would protect your machines](https://www.reddit.com/r/technology/comments/4m7ay6/teamviewer_has_been_hacked_they_are_denying/d3ucnxk) (based on TV7, may have changed in never versions).  
+/u/swatspyder also [found out that](https://www.reddit.com/r/teamviewer/comments/4mbx7h/my_theory_on_the_teamviewer_contact_requests_that/) The TV Management Console page had a flaw that leaked users' names and their existences, may be fixed now. Also:  
+&gt;TeamViewer has only stated that the DDoS attack on their DNS infrastructure is unrelated to concerns about their user database being hacked: [Statement on Service Outage](https://www.teamviewer.com/en/company/press/statement-on-service-outage/)
+They have NOT specifically denied that their user database has been compromised.
+
+A few links:  
+
+* [Official statement blaming user's passwords](http://www.teamviewer.com/en/company/press/statement-on-service-outage/) - [archive.is snapshot](https://archive.is/ZJubT)  
+* [Support Twitter account with user interactions](https://twitter.com/TeamViewer_help/with_replies) - [[Mirror of some]](http://i.imgur.com/vENDcNL.png) [[canned replies]](http://i.imgur.com/cRpDPRL.png) [[in case they take them down]](http://i.imgur.com/qtLxSnn.png), [archive.is snapshot of some](https://archive.is/jx3o4)  
+* [Twitter account, seems to be empty](https://twitter.com/TeamViewer/with_replies) - [archive.is snapshot](http://archive.is/yC9qv)  
+* [Facebook page with people's posts](https://www.facebook.com/teamviewer/posts_to_page/) - [archive.is snapshot](http://archive.is/6UuZL)  
+* [TV threatening writers to change articles](https://www.reddit.com/r/teamviewer/comments/4m7j4a/i_covered_one_of_the_teamviewer_news_articles_i/) - [archive.is snapshot](http://archive.is/ES7uF)  
+* [The /r/teamviewer megathread](https://www.reddit.com/r/teamviewer/comments/4m6omd/teamviewer_breach_masterthread_please_post_your/)  
+* [The Register article on the issue](http://www.theregister.co.uk/2016/06/01/teamviewer_mass_breach_report/) - They are getting canned replies too. [archive.is snapshot](http://archive.is/xhLls)  
+* [Inquisitr article on the issue](http://www.inquisitr.com/3156809/teamviewer-accounts-hacked-users-claim/) - [archive.is snapshot](http://archive.is/TVAwm)  
+* [CloudPro article on the issue](http://www.cloudpro.co.uk/leadership/6047/exclusive-ddos-attack-leaves-teamviewer-users-in-the-dark) - [archive.is snapshot](http://archive.is/0byAw)  
+* TV still denies a breach [even with this thread linked](https://twitter.com/TeamViewer_help/status/738451447713402881). - [archive.is snapshot](http://archive.is/qozFu)  
+
+Some support:
+
+* [Check if your TV Account was hacked into](https://www.reddit.com/r/teamviewer/comments/4m7nt2/easy_way_to_see_if_your_account_was_accessed/)  
+* [Check your logs! If you had someone connect to your machines, they may have ran a browser password sniffer program](https://www.reddit.com/r/teamviewer/comments/4m5t8e/if_you_were_hacked_look_in_the_teamviewer_logs/)  
+* [Security practices in case you still want/need to use TV](https://www.reddit.com/r/teamviewer/comments/4ktys8/teamviewer_security_best_practices/)  
+* [Hack survey](https://docs.google.com/forms/d/1E5U8iPWk_bLuRFnlpmGOYWY0yfCsBi9SPR3y5YhVefY/viewform)  
+
+Alternatives:  
+
+Name | Free or Paid | Trial available | Aimed at Home or Enterprise users | Open Source | For Unattended Remote Desktop or Remote Assistance | Notes
+---|---|----|----|----|----|----|----
+[LogMeIn](https://secure.logmein.com/) | Paid | Yes | Enterprise | No | Both | Now non-free, and had a bad reputation since ""Microsoft Support"" phone scammers used it. Some suggest that a long time ago it had bad support.
+[Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) | Free | -- | Home | [The browser part of it](https://github.com/scheib/chromium/tree/master/remoting) | Both | --  
+[Remmina](http://www.remmina.org/wp/) | Free | -- | Both | Yes | Unattended RD | Linux and Unix only.
+[RealVNC](https://www.realvnc.com/products/vnc/) | Paid and Free* | Yes | Both | Current version is not | Unattended RD | *Free only for non-commercial use.
+[TightVNC](http://www.tightvnc.com/) | Free | -- | Both | [Yes*](http://www.tightvnc.com/download.php) | Unattended RD | *Source code for commercial use requires a license
+[UltraVNC](http://www.uvnc.com/) | Free | -- | Both | [Yes*](https://sourceforge.net/p/ultravnc/code/HEAD/tree/) | Unattended RD | AdBlock Blocking. Ultravnc.com is not their site, squatted by RealVNC. *Sourceforge link
+MS Remote Desktop Connection | Free* | -- | Enterprise | No | Unattended RD\*\* | Windows built-in. \*Home versions of Windows only connect to other machines, not connected to. \*\*Disables the computer from being used while an RD connection is running. The user may interrupt it.
+[GotoMyPC](http://www.gotomypc.eu/) | Paid | Yes | Enterprise | No | Unattended RD | --
+[ScreenConnect](https://www.screenconnect.com/) | Paid | Yes | Enterprise | No | Both | --
+[Bomgar](https://www.bomgar.com/) | Paid | Yes | Enterprise | No | Both | --
+[Ammyy Admin](http://www.ammyy.com/en/index.html) | Paid and Free* | No | Both | No | Unattended RD | Also had a bad reputation for tech support scammers using it. *Free for non-commercial use.
+[AnyDesk](http://anydesk.com/) | Paid and Free* | No | Both | No | Unattended RD | --
+[Jump Desktop](https://jumpdesktop.com/) | Paid | No | Enterprise | No | Unattended RD | Only an RDP+VNC client, needs a server. Android, OSX, iOS only. 
+[NoMachine](https://www.nomachine.com/) | Paid and Free* | Yes | Both | No | Unattended RD | *Free for non-commercial use. Licensing is per CPU-cores.
+[SplashTop](http://www.splashtop.com/) | Paid and Free* | Yes | Both | No | Both | *Free for non-commercial use.  
+Notes:  
+Apps that I listed as non-open source may have open source components.  
+[Other remote desktop software on Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software)  
+
+Edit nth: Added some more alternatives, adblock warning at UVNC, also thanks for the gold kind stranger!  
+Edit nth+1: TV looks like now threatening publications and writers.  
+Edit nth+2: Thanks for the second gold, kind anonymous stranger! Added a comparison page suggested in the comments. Also added an another TV reply.  
+Edit nth+3: Have had an another alternative suggested. Three gildings, thank you!  
+Edit nth+4: I got some PMs that suspiciously sounded like advertisements, I only added only the bigger alternatives. Added some details on alternatives, tell me if I got anything wrong. Added lots of snapshots in case someone takes the originals down. Thanks for everyone's support!  
+Edit nth+5: Added some links for help.  
+Edit nth+6: **/u/TeamViewerOfficial has made a post.**  
+Edit nth+7: Added a link to /u/re1jo's comment.  
+Edit nth+8: Included /u/swatspyder's research.  
+Edit nth+9: Added TV's open letter.  
+Edit nth+10: Fixed link mislabeling. Now disabling inbox replies, if you want me to edit or put up something, write my \/u\/username in the comments or send a PM.  
+Edit nth+11: Looks like TV doesn't have a proper basis on figuring out why accounts have been hacked, added a paragraph about that.",3108,7375,2016-06-02,TECH,0.08311411924660206,0.888777881860733,0.028107994236052036
+technology,"Chile Has So Much Solar Energy It’s Giving It Away for Free - Spot prices reached zero in parts of the country on 113 days through April, a number that’s on track to beat last year’s total of 192 days, according to Chile’s central grid operator.",,1194,6283,2016-06-02,TECH,0.04552267864346504,0.8532218933105469,0.10125546902418137
+technology,I Complained to the FCC and it Worked,"Where I live, there is only one internet provider and they do not offer an unlimited data plan. It's stupid and monopolistic and ridiculous. The highest data plan they do offer for home internet is 450 GB per month, which split between three college dudes, there's a lot of streaming that goes on. I complained to the company itself and got nowhere, they were sorry but they couldn't offer anything higher than the 450 plan. Since they weren't any help, I took 5 minutes to write a complaint to the FCC. All I wrote in the description (along with my information) was, ""Data caps are unreasonable and unlawful."" Within two days, I got an email from my service provider saying that they had received the complaint and could offer me unlimited data for just $10 more a month. Maybe the government doesn't suck alllll the time. 
+
+TL;DR My internet service provider only offered one plan with a low data cap. Wrote to the FCC about it and all of a sudden they could offer me an unlimited data plan.",590,4620,2016-06-02,TECH,0.050219714641571045,0.9179585576057434,0.031821705400943756
+technology,93% of phishing emails are now ransomware presumably because identity theft takes too long,,175,2231,2016-06-02,TECH,0.15253067016601562,0.8188747763633728,0.028594588860869408
+technology,"Lenovo has admitted that its preloaded Accelerator Application software makes customers vulnerable to attack, and has urgently advised them to uninstall it.",,148,1685,2016-06-02,TECH,0.08575855940580368,0.8731474876403809,0.04109399393200874
+technology,"U.S. Federal Reserve detected more than 50 cyber breaches between 2011 and 2015, with several incidents described internally as ""espionage,"" according to Fed records",,56,1076,2016-06-02,TECH,0.40506890416145325,0.5714006423950195,0.02353041246533394
+technology,India rises past the US to become the internet's second biggest user,,66,700,2016-06-02,TECH,0.012558466754853725,0.5653181076049805,0.42212340235710144
+gadgets,Samsung announces the Gear Fit 2,,94,601,2016-06-02,TECH,0.02090553008019924,0.8961946964263916,0.08289983123540878
+technology,Historic Nazi Code Machine Sold on eBay for $15,,17,421,2016-06-02,TECH,0.015489829704165459,0.8463881611824036,0.13812203705310822
+technology,"Microsoft makes blocking Windows 10 update near impossible: ""the company is now going a step further and is removing the option to cancel the Windows 10 update from the dialog box prompt altogether""",,173,421,2016-06-02,TECH,0.4100417494773865,0.5726261138916016,0.017332227900624275
+technology,I live in the Central African bush. We pay for slow satellite internet (per MB d/l). Just ONE of our computers has secretly d/l'ed 6GB for Windows 10. We track &amp; coordinate anti-poaching rangers in the field with these PC's + GPS. F* You Microsoft!,"##[We were asked to do an AMA about our operation here.. it's right now (starting 4:30pm EST) at this link.. Thanks alot!](https://www.reddit.com/r/IAmA/comments/4mirin/i_am_the_accidental_it_guy_antipoaching_pilot_in/)  
+## Btw, Final Win X data usage here: 17GB!  :|
+  
+
+***   
+   
+Self Explanatory. Aside from the fact that we pay per MB, and already share a slow connection, if a forced upgrade happened and crashed our pc's while in the middle of coordinating rangers under fire from armed militarized poachers.. blood could literally be on MS's hands. I just came here recently to act as their pilot.. but have IT skills as well. The guy who set these pc's up didn't know how to prevent it, or set a metered connection. I am completely livid.   [Screenshot](http://imgur.com/97G7RuX)  
+   
+***
+   
+***Edit***: **Just want to say thanks for the interest and donations!** I was just trying to blow off some steam. It's a stressful environment to be sure. And to those criticizing about the lack of proper IT staff.. There's a lot of things we could wish for. You just try to do the best you can with what's available.. this is the bush.. and it's a worthy cause.  
+   
+It's against the rules for me to post links here, but a mod has given permission to mention our facebook page (where you can learn more about our work and how you can support with our linked crowdfunding page). Simply search for **""Chinko Project, CAR""** in the facebook search box. Also, If you are interested in seeing more about our operation (imgur albums) check out my comment below (with proof too).. thanks alot  
+   
+***Edit #2***: /u/FATstuntman suggested that if we raised the money for the ultralight plane, we name it Planey McPlaneface. You're damn straight we would! :)  
+   
+***Final Edit***: Once the generators are turned off, the batteries to keep the internet up won't last all night. A few people have asked for an AMA.. I can speak towards bush flying in general &amp; bush IT stuff.. but I'll get my founder to join in and answer the cooler questions about anti-poaching life &amp; the organization. So if you're interested, we'll try to set that up for Saturday the 4th @ 11:30 EST :) thanks everyone.",3946,8959,2016-06-03,TECH,0.03576662391424179,0.9343032240867615,0.029930081218481064
+gadgets,Olympic athletes will sport Visa's new payment ring in Rio,,658,2317,2016-06-03,TECH,0.016509728506207466,0.8813874125480652,0.10210283100605011
+technology,"Data caps are a business decision—not a network necessity, Frontier says",,52,635,2016-06-03,TECH,0.03688320890069008,0.9280756115913391,0.03504118323326111
+technology,"DVD Release Delays Boost Piracy and Hurt Sales, Study Shows",,37,388,2016-06-03,TECH,0.9440301060676575,0.04208630323410034,0.013883590698242188
+technology,Google's self-driving cars now know when to honk,,55,305,2016-06-03,TECH,0.0324343666434288,0.9145500659942627,0.05301562324166298
+technology,"UK government revealed to be creating a secret mega database on citizens by stitching together all of its records on the public, without informing Parliament",,16,253,2016-06-03,TECH,0.09209849685430527,0.8781092762947083,0.02979218028485775
+technology,Elon Musk did everything but confirm that Tesla Model 3 will be fully autonomous,,80,226,2016-06-03,TECH,0.010772330686450005,0.8103903532028198,0.17883731424808502
+technology,"Navy develops diver’s helmet with augmented reality giving the diver real-time sonar data, imagery, and guidance from above.",,5,224,2016-06-03,TECH,0.011280528269708157,0.9027177691459656,0.0860016942024231
+technology,Is the Internet About to End Ticketmaster's Monopoly?,[deleted],25,224,2016-06-03,TECH,0.12780465185642242,0.8434705138206482,0.028724772855639458
+technology,Copyright Office’s proposed Notice and Staydown system would force the Internet Archive and other platforms to censor the web,,11,207,2016-06-03,TECH,0.2437431514263153,0.7395161986351013,0.016740677878260612
+technology,Goldman Sachs loans Uber $1 billion to offer subprime auto leases to drivers who have bad credit,,2059,5525,2016-06-04,TECH,0.6612206101417542,0.31823429465293884,0.020545030012726784
+technology,"Exclusive: Snowden Tried to Tell NSA About Surveillance Concerns, Documents Reveal",,522,5285,2016-06-04,TECH,0.04386647045612335,0.9294235706329346,0.026709996163845062
+technology,Forced Windows 10 Upgrade Shuts Down PC Used by Anti-Poaching Rangers in Africa,,1324,4917,2016-06-04,TECH,0.12155786901712418,0.8321529030799866,0.04628921300172806
+technology,"Microsoft Accused of Making Windows 10 Impossible to Block, Company Denies",,669,3084,2016-06-04,TECH,0.8672435283660889,0.1179787889122963,0.014777780510485172
+gadgets,Google is working on a kill switch to prevent an AI uprising,,480,2988,2016-06-04,TECH,0.08582185208797455,0.8866227269172668,0.027555467560887337
+technology,"TeamViewer users are being hacked in bulk, and we still don’t know how",,379,2196,2016-06-04,TECH,0.38891172409057617,0.5935356616973877,0.01755259558558464
+gadgets,The US Navy just put a futuristic HUD in a diving helmet,,112,1746,2016-06-04,TECH,0.016587458550930023,0.894591212272644,0.08882128447294235
+gadgets,The Prophix smart toothbrush will film the inside of your mouth. The Internet of Things is coming to your tonsils.,,182,1337,2016-06-04,TECH,0.029448283836245537,0.9292978644371033,0.041253942996263504
+technology,Norway reportedly agrees on banning new sales of gas-powered cars by 2025,,108,1049,2016-06-04,TECH,0.3025249242782593,0.6401711106300354,0.057303983718156815
+technology,"EU gives Facebook, Twitter, YouTube and Microsoft 24 hours to censor all 'hate speech'",,515,952,2016-06-04,TECH,0.08039180934429169,0.9007771611213684,0.018831079825758934
+technology,Credibility and trust: Microsoft blows it by forcing Windows 10 on users,,4618,5673,2016-06-05,TECH,0.06618363410234451,0.7619988918304443,0.17181745171546936
+technology,ASUS delivers BIOS/UEFI auto-updates over HTTP with no verification,,288,3415,2016-06-05,TECH,0.02814602293074131,0.9379087686538696,0.03394521400332451
+technology,Reddit admins quietly update a 16 day old changelog post: you are now tracked even if logged out (link taken from diaspora),,76,827,2016-06-05,TECH,0.03081316500902176,0.9296632409095764,0.03952360153198242
+technology,NSA whistleblower Snowden says U.S. government carrying out mass surveillance in Japan,,33,790,2016-06-05,TECH,0.0909668505191803,0.8844793438911438,0.024553855881094933
+technology,"3 Years Later, the Snowden Leaks Have Changed How the World Sees NSA Surveillance",,37,773,2016-06-05,TECH,0.05709594488143921,0.9137279391288757,0.02917608805000782
+technology,"FBI: Our Malware Sends Unencrypted Evidence, and That's a Good Thing",,22,379,2016-06-05,TECH,0.022673802450299263,0.8132607936859131,0.1640654057264328
+technology,KeePass 2 developer won't fix a flaw because of ad revenue,,54,270,2016-06-05,TECH,0.09551036357879639,0.8461549878120422,0.058334629982709885
+technology,Microsoft Band 2 Update Now Lets Android Smartphones Support Cortana,,26,252,2016-06-05,TECH,0.013036167249083519,0.8832522630691528,0.10371160507202148
+technology,"Report: Wireless Still Not a Serious Fixed-line Competitor:""The reality is, fixed broadband is continuing to grow in the US, and not being replaced by mobile broadband as some have reported,"" said Jason Blackwell of Strategy Analytics.",,33,216,2016-06-05,TECH,0.036362797021865845,0.3338770568370819,0.6297601461410522
+technology,You can now charge a phone with another phone,[deleted],61,177,2016-06-05,TECH,0.05468981713056564,0.9215903878211975,0.023719800636172295
+technology,"Tesla logs show that Model X driver hit the accelerator, Autopilot didn’t crash into building on its own",,2631,7276,2016-06-06,TECH,0.11248910427093506,0.855131208896637,0.0323796384036541
+technology,"Microsoft has resorted to “Malware-like tactics""",,2382,4611,2016-06-06,TECH,0.04522915184497833,0.9190634489059448,0.03570738062262535
+gadgets,Bose finally made a wireless version of its great noise-cancelling headphones,,1416,3654,2016-06-06,TECH,0.01901181973516941,0.9101873636245728,0.0708007737994194
+technology,A Quarter Of The World's Power Now Comes From Renewables,,101,2224,2016-06-06,TECH,0.01985975168645382,0.8368535041809082,0.14328671991825104
+technology,"Reddit Is Tracking Its Users Off-Site Activity, Even When They’re Logged Out",,215,2201,2016-06-06,TECH,0.13033123314380646,0.8475880026817322,0.022080762311816216
+technology,Tesla Model S battery pack data shows very little capcity loss over high mileage,[deleted],103,888,2016-06-06,TECH,0.288959264755249,0.6548155546188354,0.05622520297765732
+technology,"Why online voting would be a 'complete disaster' - "" Sounds great, right? Absolutely not, says David Dill, professor of computer science at Stanford University. In fact, online voting is such a dangerous idea that computer scientists and security experts are nearly unanimous in opposition to it.""",,354,887,2016-06-06,TECH,0.025269832462072372,0.8807077407836914,0.09402246028184891
+technology,"Open Letter to Wired about Ad Blockers and how wired.com can be 46% safe, 40% lighter and 2.6x faster by the use of Ethical Design.",,184,738,2016-06-06,TECH,0.021331334486603737,0.9328898191452026,0.045778777450323105
+technology,Megathread: Microsoft pushes Windows 10 upgrade to unsuspecting users,"Hi everyone,
+
+Microsoft's push to upgrade users to Windows 10 [has](https://www.reddit.com/r/technology/comments/4mcdon/i_live_in_the_central_african_bush_we_pay_for/) - [been](https://www.reddit.com/r/technology/comments/4mi2yf/forced_windows_10_upgrade_shuts_down_pc_used_by/) - [a](https://www.reddit.com/r/technology/comments/4moycq/credibility_and_trust_microsoft_blows_it_by/) - [hot](https://www.reddit.com/r/technology/comments/4mkp6z/microsoft_accused_of_making_windows_10_impossible/) - [topic](https://www.reddit.com/r/technology/comments/4mskpc/microsoft_has_resorted_to_malwarelike_tactics/) lately, and since /r/technology has been saturated with such posts in the last few days, a megathread for this discussion is warranted.
+
+#Short summary
+
+Microsoft has used increasingly aggressive tactics to ensure that users of consumer editions of Windows 7, 8, and 8.1 upgrade to their newest Windows 10 platform. As a result, users have mistakenly been upgraded to Windows 10, often without their knowledge or consent. While the free upgrade has worked well for some, other people have reported varying degrees of frustration with the upgrade, such as broken applications, slower performance, decreased usability, and privacy issues.
+
+#Resources
+
+* [Never10](https://www.grc.com/never10.htm), a popular tool to automate the process of disabling the Windows 10 upgrade.
+* [How-To Geek: How to Stop Windows 7 or 8 from Downloading Windows 10 Automatically](http://www.howtogeek.com/228551/how-to-stop-windows-7-or-8-from-downloading-windows-10-automatically/)
+* [Microsoft: How to manage Windows 10 notification and upgrade options](https://support.microsoft.com/en-us/kb/3080351) (advanced)
+
+#Articles
+
+* [Windows Update: Microsoft Using Malware Tactics to Force Windows 10 on Users](http://www.inquisitr.com/3143239/windows-update-microsoft-using-malware-tactics-to-force-windows-10-on-users/)
+* [Fearing forced Windows 10 upgrades, users are disabling critical updates instead](http://www.pcworld.com/article/3075729/windows/fearing-forced-windows-10-upgrades-users-are-disabling-critical-updates-at-their-own-risk.html)
+* [How Microsoft's tricky new Windows 10 pop-up deceives you into upgrading](http://www.pcworld.com/article/3073457/windows/how-microsofts-nasty-new-windows-10-pop-up-tricks-you-into-upgrading.html)",480,528,2016-06-06,TECH,0.41989508271217346,0.5402182340621948,0.03988668695092201
+technology,Google's Deepmind AI will play Go against the world number one,,53,432,2016-06-06,TECH,0.04954152554273605,0.9082930088043213,0.04216548800468445
+technology,Broadband CEOs Admit Usage Caps Are Nothing More Than A Toll On Uncompetitive Markets,,1811,8086,2016-06-07,TECH,0.030203526839613914,0.9244588613510132,0.04533767327666283
+gadgets,Vizio's new soundbars start at $179 and all come with Google Cast,,401,2233,2016-06-07,TECH,0.021577568724751472,0.9144448041915894,0.06397759914398193
+gadgets,Samsung Galaxy S7 Active Review: A stronger and longer-lasting Galaxy,,825,1779,2016-06-07,TECH,0.05015457794070244,0.9041429162025452,0.04570252448320389
+technology,Tech firms say FBI wants browsing history without warrant,,52,1769,2016-06-07,TECH,0.10757743567228317,0.8108640909194946,0.08155844360589981
+technology,"Anti-piracy outlet has wrongly been sending take-down requests to Netflix, iTunes and Google Play",,19,531,2016-06-07,TECH,0.07290902733802795,0.9078987836837769,0.01919218711555004
+technology,"PayPal Refuses to Refund Twitch Troll Who Donated $50,000",,86,414,2016-06-07,TECH,0.020293373614549637,0.9082028865814209,0.07150376588106155
+technology,"Facebook's Instagram saw the biggest year-over-year drop — usage was down 23.7 percent this year, closely followed by Twitter (down 23.4 percent), Snapchat (down 15.7 percent) and Facebook (down 8 percent), the study found.",,98,245,2016-06-07,TECH,0.942241370677948,0.04634882137179375,0.011409888043999672
+technology,New Intelligence Bill Gives FBI More Secret Surveillance Power,,7,243,2016-06-07,TECH,0.017652468755841255,0.8866016268730164,0.09574586898088455
+technology,Windows PC makers hang customers out to dry with flawed crapware updaters,,65,161,2016-06-07,TECH,0.17817826569080353,0.798570990562439,0.023250767961144447
+technology,"CEO tests “crazy” genetic therapy on herself, claims it added 20 years of life",,98,108,2016-06-07,TECH,0.050885047763586044,0.8860577344894409,0.06305726617574692
+technology,"According to CEO Thompson of the New York Times, adblock users will be banned soon: ""No one who refuses to contribute to the creation of high quality journalism has the right to consume it,"" ""we'll do it.""",,5556,6363,2016-06-08,TECH,0.07196007668972015,0.8992226719856262,0.028817258775234222
+technology,The FBI is on the Cusp of Obtaining Three Extremely Dangerous New Powers,,1194,6307,2016-06-08,TECH,0.07582058012485504,0.8261456489562988,0.09803375601768494
+technology,Google working closely with Hillary Clinton presidential campaign: Julian Assange,,794,3955,2016-06-08,TECH,0.028336264193058014,0.8933087587356567,0.07835496962070465
+technology,"FBI is now pushing for warrantless access to internet browsing history: The amendment would apply in terrorism and national security cases, but critics warn against the expansion of powers.",,128,3280,2016-06-08,TECH,0.2765975892543793,0.688544511795044,0.03485789895057678
+gadgets,These Glass Speakers Work Like Magic,,292,1998,2016-06-08,TECH,0.022812949493527412,0.919985294342041,0.05720171332359314
+gadgets,"A new startup, AirBar, aims to turn almost any laptop screen into a touchscreen...",,273,1240,2016-06-08,TECH,0.026150470599532127,0.9172033667564392,0.056646138429641724
+technology,Amazon Assistant = Spyware! AVOID!,"PSA: Soo... Amazon's super handy ""Add to Wishlist"" option? Love it. Use it all the time to add items from 3rd party websites to my wishlist which is really handy for consolidation. (99% of things are still from Amazon direct, but there are things they don't carry, or other places carry cheaper (more rarely), so still useful.) That's going away at the end of July. It was nice, because it was a very simple Javascript that sent the relevant info about the item in question to Amazon's back end server, and presto, it's on your list. Then it's job is done.
+
+NOW, Amazon is phasing it out, in favor their shiny new ""Amazon Assistant"", which is a full-blown plugin for your browser, rather than a simple bookmark-triggered Javascript. Why, you may wonder? So it can monitor ALL of your surfing, of course, not simply add items to your wishlist. No, really. You read that right. They're literally logging every website you visit and what you do there.
+
+Read the TOS. My recommendation is to pass on it (obviously?). They TRY to make big deal about being careful with data collection, and not tying it directly to your Amazon account, but don't kid yourself. You install this, you give Amazon the right to track EVERY WEBSITE YOU VISIT whether you are shopping or not, and whether it has anything to do with your wishlist or not. But don't worry, they're not associating it wit your Amazon account. Just your IP address and all sorts of other information that they COULD use at anytime. (It's trivial to match up their own records, after all) Or pass onto someone else. (like a vaguely referenced ""affiliate"") Bad form, Amazon. Bad form.
+
+""Automatic Information: The Amazon Assistant may also collect information about the websites you view when you are not interacting with the Amazon Assistant, but we do not associate that information with your Amazon account or identify it with you except as required by law. Examples of the information we collect and analyze include a subset of your IP address; a domain name or full URL of the Web page you are visiting and any referring URL’s to the visited web page; general information about the visited web page, such as product search query or specifications; general information about your browser; general information about your computer's operating system; other identifying alphanumerical information enabling Amazon to identify your computer; and the date and time the above information is logged.""
+
+https://www.amazon.com/gp/BIT/AmazonBrowserBar/TOU/ref=bit_v2_a0041?bitCampaignCode=a0041
+
+Ugh.",152,1204,2016-06-08,TECH,0.038113996386528015,0.9358264803886414,0.026059597730636597
+technology,"Bitcoiners Who Use Tor – Be Warned! FBI has “updated” Rule 41 of the internet that could blacken Tor’s horizon. This means that unless Congress blocks it, using the anonymous browser could become illegal in the near future",,248,1177,2016-06-08,TECH,0.4573764503002167,0.5210590958595276,0.021564461290836334
+technology,"DeLorean Motor Company aims for spring 2017 revival of iconic car: ""The car will be at least twice as powerful, and lighter, so DeLorean fans can expect drastically improved performance.""",,120,751,2016-06-08,TECH,0.013463355600833893,0.08889724314212799,0.897639274597168
+technology,Probe calls Time Warner Cable's Internet speeds 'abysmal' -- Preliminary results of a New York investigation found that Time Warner Cable gave customers far slower Internet speeds than advertised,,82,731,2016-06-08,TECH,0.741262674331665,0.21696840226650238,0.04176894947886467
+technology,"Tinder Gets Nervous About ""Responsibility,"" Makes App 18+ Only",,2352,5627,2016-06-09,TECH,0.20264150202274323,0.7317091822624207,0.06564940512180328
+technology,Sir Tim Berners-Lee: Internet has become 'world’s largest surveillance network',,144,3506,2016-06-09,TECH,0.010438061319291592,0.6751236319541931,0.3144383430480957
+technology,"Alphabet wants to beam high-speed Internet to your home: Thanks to improved computer chips and accurate “targeting of wireless signals,” Alphabet believe they can transmit internet connections at a gigabit per second",,339,3145,2016-06-09,TECH,0.014361884444952011,0.8792097568511963,0.10642832517623901
+technology,"Twitter hacked: Russian hacker selling information of 32 million accounts, report says.",,230,2879,2016-06-09,TECH,0.7060098052024841,0.27479088306427,0.019199330359697342
+technology,Card Readers Allow Oklahoma Highway Patrol To Seize Suspects’ Money,,452,2494,2016-06-09,TECH,0.12975597381591797,0.8431729674339294,0.027071021497249603
+technology,"FCC offers hope for consumers seeking online privacy protections: FCC is considering new rules that would restrict how broadband service providers - companies like Comcast, AT&amp;T and Verizon - can use the data they collect on our internet habits",,49,1631,2016-06-09,TECH,0.03475508093833923,0.9231706261634827,0.04207422584295273
+technology,NY Times wrote an article 4 months ago saying blocking ad blockers wouldn't work,"I wonder what changed...
+
+http://mobile.nytimes.com/2016/02/21/opinion/sunday/the-ad-blocking-wars.html",50,1570,2016-06-09,TECH,0.3673931062221527,0.5984361171722412,0.034170813858509064
+technology,SourceForge Removes Bundled Adware from Projects (x/post r/sysadmin),,112,1018,2016-06-09,TECH,0.03353855013847351,0.9294534921646118,0.037007879465818405
+gadgets,Dato Duo is a simplified synthesizer for kids of all ages,,57,934,2016-06-09,TECH,0.04152434319257736,0.9247433543205261,0.033732250332832336
+technology,"Time Warner Cable Internet speeds are “abysmal,” NY AG claims",,51,754,2016-06-09,TECH,0.020664481446146965,0.924079418182373,0.055256158113479614
+technology,This isn’t hype: Canadian doctors just reversed severe MS using stem cells,,1083,6603,2016-06-10,TECH,0.05973435565829277,0.339765727519989,0.6004998683929443
+technology,"Tesla Knows When a Crash Is Your Fault, and Other Carmakers Soon Will, Too",,1299,5622,2016-06-10,TECH,0.022557644173502922,0.9026199579238892,0.07482238113880157
+technology,New York could be the first state to pass a Right to Repair law for electronics. I’m a repairman working to make it happen. AMA. (X-posr r/nyc),,133,2997,2016-06-10,TECH,0.014472478069365025,0.8697237372398376,0.11580376327037811
+technology,"Google searches for Hillary Clinton yield favorable autocomplete results, report shows",,232,2958,2016-06-10,TECH,0.0556936040520668,0.9123330116271973,0.031973470002412796
+gadgets,Lenovo just showed off bendable smartphones and tablets,,674,2865,2016-06-10,TECH,0.017560787498950958,0.9178389310836792,0.06460031867027283
+technology,"The Chinese government fakes nearly 450 million social media posts a year, according to research from Harvard and Stanford",,127,2336,2016-06-10,TECH,0.07757242023944855,0.8848743438720703,0.03755321726202965
+technology,Gawker Media files for Ch. 11 bankruptcy protection,,225,1738,2016-06-10,TECH,0.3783901631832123,0.6035890579223633,0.018020840361714363
+gadgets,Forge your own reality with Valve's free VR toolkit,,106,1233,2016-06-10,TECH,0.018669281154870987,0.9155489206314087,0.06578183174133301
+technology,Judge blasts Oracle’s attempt to overturn pro-Google jury verdict,,54,955,2016-06-10,TECH,0.4262198209762573,0.5370982885360718,0.03668194264173508
+technology,Google Comes Down On The Wrong Side Of The TPP,,74,760,2016-06-10,TECH,0.4951578676700592,0.4732217490673065,0.03162045776844025
+technology,Apple Is Fighting A Secret War To Keep You From Repairing Your Phone,,1961,6064,2016-06-11,TECH,0.05125575512647629,0.8368591070175171,0.11188510805368423
+technology,xHamster enacts ‘Brock Turner rule’ banning rape porn sitewide,,1893,4681,2016-06-11,TECH,0.09244686365127563,0.8756028413772583,0.03195032849907875
+gadgets,SodaStream will replace some obsolete Keurig Kolds for free,,322,1026,2016-06-11,TECH,0.06552355736494064,0.901704728603363,0.03277170658111572
+technology,Uninstalling Facebook app saves up to 20% of Android battery life,[deleted],215,960,2016-06-11,TECH,0.014737222343683243,0.7959261536598206,0.1893366575241089
+gadgets,USB-C and Lightning headphones aren't great news for everyone,,536,831,2016-06-11,TECH,0.03933208808302879,0.9141388535499573,0.04652911052107811
+gadgets,"With Tango, Google is now equipped to map the entire world -- inside and out",,41,636,2016-06-11,TECH,0.0118740014731884,0.8729843497276306,0.1151416003704071
+technology,Bluetooth 5 will have 4x speed and 2x the range compared to v4.2!,,65,568,2016-06-11,TECH,0.022572342306375504,0.8921653628349304,0.08526235073804855
+technology,Google Comes Down On The Wrong Side Of The TPP,,23,568,2016-06-11,TECH,0.4951578676700592,0.4732217490673065,0.03162045776844025
+technology,Now Google backs everyone's favorite trade pact: The TPP,,44,439,2016-06-11,TECH,0.019036874175071716,0.931978702545166,0.048984453082084656
+technology,Google Comes Down On The Wrong Side Of The TPP,,7,232,2016-06-11,TECH,0.4951578676700592,0.4732217490673065,0.03162045776844025
+technology,The Average Netflix Subscriber Watches 48% More Content Per Day Than the Average Hulu Subscriber,,1863,5187,2016-06-12,TECH,0.043590426445007324,0.9231796860694885,0.03322987258434296
+technology,Google denies manipulating search engine to hide unflattering posts about Hillary Clinton,,719,4603,2016-06-12,TECH,0.18952599167823792,0.771696925163269,0.038777127861976624
+gadgets,Moto Z Droid Edition sends original images to Google Photos for free,,294,1126,2016-06-12,TECH,0.02465285360813141,0.9431002736091614,0.0322469137609005
+technology,The NSA wants to monitor pacemakers and other medical devices,,110,975,2016-06-12,TECH,0.016895290464162827,0.8508602976799011,0.13224434852600098
+technology,"Hugely Popular Email Privacy Measures Derailed Again in Senate: legislation to update a thirty-year old digital privacy law was yanked from consideration by a Senate panel -- a sign that the bill, which passed the House 419-0, is dead in the upper chamber.",,12,530,2016-06-12,TECH,0.11433815956115723,0.8321720361709595,0.053489819169044495
+technology,"Laid-Off Americans, Required to Zip Lips on Way Out, Grow Bolder",,71,395,2016-06-12,TECH,0.034248996526002884,0.8906472325325012,0.075103759765625
+technology,Microsoft's 4K-capable Xbox One S leaks before E3,,83,362,2016-06-12,TECH,0.020290231332182884,0.8983678817749023,0.08134191483259201
+gadgets,Your original Moto 360 isn't getting Android Wear 2.0,,43,179,2016-06-12,TECH,0.04591895639896393,0.9224432110786438,0.03163788840174675
+technology,Turkish man invents privacy glasses that stop strangers ‘shoulder surfing’ your phone,,39,172,2016-06-12,TECH,0.04899038001894951,0.8895079493522644,0.0615016371011734
+technology,Nick Bostrom - Artificial intelligence: ‘We’re like children playing with a bomb’,,88,131,2016-06-12,TECH,0.05492310971021652,0.9175068140029907,0.027570035308599472
+technology,Microsoft to acquire LinkedIn for $26.2 billion,,3314,6989,2016-06-13,TECH,0.015077726915478706,0.8484357595443726,0.13648651540279388
+technology,Killing the 3.5mm Jack: How Simple is Changing into Needlessly Complicated,,2119,4960,2016-06-13,TECH,0.0535731203854084,0.8988664150238037,0.0475604385137558
+gadgets,Microsoft's 4K-capable Xbox One S leaks before E3,,1644,3655,2016-06-13,TECH,0.020290231332182884,0.8983678817749023,0.08134191483259201
+technology,Hacker puts 51 million file sharing accounts for sale on dark web,,79,967,2016-06-13,TECH,0.06521039456129074,0.9078439474105835,0.02694562077522278
+technology,Apple Now Lets You Delete Stock iPhone Apps,,102,681,2016-06-13,TECH,0.013274832628667355,0.9325770735740662,0.05414815619587898
+technology,"House Attacks Net Neutrality, Cable Box Reform With Sneaky Budget Rider",,27,628,2016-06-13,TECH,0.3997442424297333,0.5584860444068909,0.04176977649331093
+technology,A Samsung executive says bendable phone screens are 'right around the corner',,149,591,2016-06-13,TECH,0.020404180511832237,0.8445053696632385,0.1350904256105423
+technology,"Walgreens ends relationship with Theranos, in-store centers to close immediately",,78,462,2016-06-13,TECH,0.14326630532741547,0.7607704401016235,0.09596319496631622
+technology,"First SpaceX missions to Mars: ""Dangerous and probably people will die""",,180,435,2016-06-13,TECH,0.06349367648363113,0.8930965662002563,0.043409768491983414
+technology,"Programmer Automates His Job For 6 Years, Finally Gets Fired, Forgets How To Code| Interesting Engineering",,112,250,2016-06-13,TECH,0.22756639122962952,0.7144943475723267,0.05793928727507591
+technology,"Facebook finally caught buying out developers for Oculus Exclusivity, despite claims to the contrary",,2530,6071,2016-06-14,TECH,0.018046939745545387,0.4221457242965698,0.5598073601722717
+technology,Orlando Shooting Response Shows Reddit Can't Be the ‘Front Page of the Internet',,3406,5392,2016-06-14,TECH,0.03647225722670555,0.9362537264823914,0.02727396972477436
+technology,Google Fiber announces pricing and plans for Atlanta,,463,2574,2016-06-14,TECH,0.021234355866909027,0.9301629662513733,0.0486026331782341
+gadgets,"OnePlus 3 official: Snapdragon 820, 6GB of RAM, $399 with no invite necessary",,737,2194,2016-06-14,TECH,0.028947332873940468,0.9349408149719238,0.036111779510974884
+technology,Tom Wheeler defeats the broadband industry: Net neutrality wins in court,,83,1989,2016-06-14,TECH,0.10197380930185318,0.7078554630279541,0.19017072021961212
+technology,FCC Net Neutrality Rules Upheld by U.S. Court of Appeals,,85,1914,2016-06-14,TECH,0.6935339570045471,0.16582950949668884,0.14063656330108643
+gadgets,PS VR Aim Controller promises 1:1 precision for virtual shooters,,389,1663,2016-06-14,TECH,0.010509329847991467,0.8107632994651794,0.17872737348079681
+technology,"High Speed Internet is a Utility, Court Rules",,62,1303,2016-06-14,TECH,0.033384256064891815,0.9373980164527893,0.029217686504125595
+technology,Rejoice! You can finally remove default apps from the iPhone (about %@$# time),,134,1266,2016-06-14,TECH,0.01613440364599228,0.8234511613845825,0.160414457321167
+technology,"Both Trump And Clinton Suggest Expanding Mass Surveillance, Bogus Watch Lists After Attack In Orlando",,104,1106,2016-06-14,TECH,0.12866856157779694,0.8264465928077698,0.044884853065013885
+technology,A Twitter Bot Is Beating Trump Fans: Scores of Trump supporters spent Tuesday fighting with an automated Twitter robot that spouts nonsense.,,1867,4223,2016-06-15,TECH,0.6699286699295044,0.2900433838367462,0.040027931332588196
+gadgets,"Microsoft Has a New, Smaller Xbox That Also Does 4K Video",,847,1669,2016-06-15,TECH,0.04157820716500282,0.6978968381881714,0.26052501797676086
+technology,CBS now withholding content if you use adblock.,,250,1153,2016-06-15,TECH,0.029896676540374756,0.9484711289405823,0.021632209420204163
+technology,Hackers Hijack Isis Twitter Accounts With Gay Porn After Orlando Attack,,36,635,2016-06-15,TECH,0.12240957468748093,0.8544802069664001,0.02311026118695736
+technology,Is speedtest.net unbiased or white listed by my ISP to cheat the results? (Comcast),"I pay for 50mbs down through Comcast and have been having serious latency issues for 3 to 4 months now.  While on wifi or ether net I constantly time out while searching, have very long load times and lots of buffering. 
+
+It's almost easier to use my 4G to stream at this point as my wifi (5 bars) takes forever to play video. 
+
+Literally 15 minutes ago I got passed watching a video start to buffer at an obscenely slow rate... talking 5 minutes of buffer for 5 Seconds of play time....
+
+This is the last straw for me... been dealing with this shit for months, so I put my phone down (still buffering) and pull out my laptop. ... go to speedtest.net and I shit you not, the literal second I hit their website my phone buffers the remaining 23 minutes of video INSTANTLY, assuming it's fluke or coincidence, I try loading different videos... all run instantly. ..not buffer at all....
+
+What the actual fuck?  Is my ISP seriously throttling my internet but white listing speedtest to mislead me on my true speeds?  I know what 50mbs feels like and I sure as fuck don't get that anywhere outside speedtest.net",233,479,2016-06-15,TECH,0.06845828145742416,0.9070462584495544,0.02449543960392475
+technology,"It's the end of the fossil fuel era as we know it | According to the report, we'll reach a tipping point in 2027, when new wind and solar power actually become cheaper than running existing coal and gas generators in much of the world.",,91,408,2016-06-15,TECH,0.011189923621714115,0.5796573758125305,0.40915265679359436
+technology,Apple will require HTTPS connections for iOS apps by the end of 2016,,32,292,2016-06-15,TECH,0.051729414612054825,0.9281342029571533,0.02013631910085678
+technology,Europe Is About To Create A Link Tax: Time To Speak Out Against It,,41,223,2016-06-15,TECH,0.019334878772497177,0.8982399106025696,0.08242513984441757
+technology,YouTube removes video of Sacramento pastor praising Orlando mass shooting,,64,209,2016-06-15,TECH,0.19926464557647705,0.7622329592704773,0.03850233927369118
+technology,A US man who sent more than 27 million spam emails to Facebook users has been sentenced to two and a half years in prison.,,9,181,2016-06-15,TECH,0.488158255815506,0.4368673264980316,0.0749744325876236
+technology,"open-source materials in place of textbooks, an initiative that could save students as much as $1,300 a year. Such open educational resources—created using open licenses that let students download or print materials for free—have gained popularity as the price of print textbooks have skyrocketed",,1036,6711,2016-06-16,TECH,0.012855696491897106,0.8197144269943237,0.1674298495054245
+technology,SpaceX's Falcon 9 rocket explodes while attempting to land on barge in risky flight after delivering two satellites into orbit,,898,4438,2016-06-16,TECH,0.6831218004226685,0.285247802734375,0.031630367040634155
+technology,"Joseph Gordon-Levitt here. So, Mr. Edward Snowden just joined my website &amp; anyone can make a short film based on his views on future technology...",,186,3112,2016-06-16,TECH,0.022276611998677254,0.9391711354255676,0.038552261888980865
+gadgets,The dual-screen E Ink Gvido is like a Kindle for sheet music,,317,2725,2016-06-16,TECH,0.040989700704813004,0.9324093461036682,0.026600990444421768
+technology,"Consumer Groups Say AT&amp;T, Comcast Violate Privacy Law By Hoovering Up Cable Box Data Without Full User Consent",,85,2408,2016-06-16,TECH,0.5811342000961304,0.40177810192108154,0.017087750136852264
+technology,'Spam King' is sentenced to 2.5 years in prison,,122,1611,2016-06-16,TECH,0.25976303219795227,0.6607549786567688,0.0794820636510849
+technology,Facebook Will Track What Physical Stores You Go Into,,344,1274,2016-06-16,TECH,0.016292205080389977,0.9425739049911499,0.04113392531871796
+technology,Get Ready. Federal Regulations For Self-Driving Cars Are Coming Next Month,,200,1012,2016-06-16,TECH,0.03458990901708603,0.9225330948829651,0.042877037078142166
+technology,How a 4-Pound Engine Can Replace a 40-Pound Engine,,208,826,2016-06-16,TECH,0.03957170248031616,0.9119898676872253,0.0484384186565876
+technology,"Solar, wind costs could fall up to 59 percent by 2025, study says | Since 2009, solar photovoltaic (PV) module prices have fallen by 80 percent and wind turbine prices have fallen by around 30-40 percent as renewable energy capacity has grown to record levels and technologies have improved.",,39,706,2016-06-16,TECH,0.3945787250995636,0.15678954124450684,0.4486316442489624
+technology,"Olli, a 3D printed, self-driving minibus, to hit the road in US - and it's power by IBM's Watson AI",,624,4413,2016-06-17,TECH,0.02334577776491642,0.9081929922103882,0.06846124678850174
+gadgets,$1.28 Million New Watch Is Made From Transparent Sapphire,,776,3514,2016-06-17,TECH,0.013822967186570168,0.8675736784934998,0.11860340088605881
+technology,"Teen hacks Pentagon websites, gets thanked for finding 'bugs'",,278,2581,2016-06-17,TECH,0.05936678126454353,0.8000094890594482,0.14062371850013733
+technology,"Big tech once again squashes New York's ""right to repair"" bill; it'll take until next year for it to be eligible for consideration again",,224,1216,2016-06-17,TECH,0.016214674338698387,0.9184688329696655,0.06531655788421631
+technology,The Department of Justice is using an obscure procedure to push through a rule change that will greatly increase law enforcement’s ability to hack into computers located around the world. It’s an update to Rule 41 of the Federal Rules of Criminal Procedure.,,40,1071,2016-06-17,TECH,0.02047915570437908,0.9094027280807495,0.07011809945106506
+technology,20-year-old vulnerability discovered to affect every version of Windows since Windows 95,,109,689,2016-06-17,TECH,0.7759575843811035,0.20918264985084534,0.014859745278954506
+technology,"Tell Law Enforcement: Come Back with a Warrant if they want to rummage through your Gmail accounts or read your PM on Facebook, it should be required to go to a judge and get a search warrant.",,44,595,2016-06-17,TECH,0.06791755557060242,0.9042263031005859,0.027856072410941124
+technology,Microsoft’s purchase of LinkedIn is one of the most expensive tech deals in history. It may not be one of the smartest,,126,406,2016-06-17,TECH,0.02518719621002674,0.9037681818008423,0.07104461640119553
+technology,AT&amp;T just got hit with a $100 million fine after slowing down its ‘unlimited’ data,,24,397,2016-06-17,TECH,0.05738271027803421,0.7225195169448853,0.22009770572185516
+technology,Domino’s backs out of free pizza promotion with T-Mobile due to higher-than-expected demand,,107,393,2016-06-17,TECH,0.016034474596381187,0.8580015897750854,0.12596386671066284
+technology,A mobile carrier has for the first time begun blocking ALL ads on its customers' phones,[deleted],786,4519,2016-06-18,TECH,0.07827862352132797,0.8468399047851562,0.0748814269900322
+technology,Apple wants to kill a bill that could make it easier for you to fix your iPhone,,146,1334,2016-06-18,TECH,0.014371095225214958,0.5756345987319946,0.40999430418014526
+technology,"Open access: All human knowledge is there—so why can’t everybody access it? - We paid for the research with taxes, and Internet sharing is easy. What's the hold-up?",,108,1237,2016-06-18,TECH,0.01986762322485447,0.935670018196106,0.044462401419878006
+gadgets,6 counterfeit iPhones from Chinese manufacturers,,129,795,2016-06-18,TECH,0.021055012941360474,0.9190853834152222,0.059859663248062134
+technology,"TIL the fall of Nokia has decimated Finland's economy: ""By 2000, Nokia accounted for a mindboggling 4% of Finnish GDP, 70% of Helsinki's stock exchange market capital, 43% of corporate R&amp;D, 21% of total exports and 14% of corporate tax revenues. It was and still is unprecedented.""",[deleted],66,307,2016-06-18,TECH,0.030122386291623116,0.4302266240119934,0.5396509766578674
+technology,Time Warner Cable Suspends Broadband Upgrades After Merger,,33,159,2016-06-18,TECH,0.7261976003646851,0.2539060711860657,0.019896266981959343
+technology,Julian Assange: Google Is Hillary Clinton’s ‘Secret Weapon’,,51,118,2016-06-18,TECH,0.06941254436969757,0.9029967784881592,0.027590647339820862
+technology,Mozilla Tests Firefox Containers For Separate Online Identities,,15,107,2016-06-18,TECH,0.03169320896267891,0.9429660439491272,0.02534078061580658
+gadgets,Get a Chuwi 12-inch Windows-Android hybrid tablet for $249.99,,44,103,2016-06-18,TECH,0.018776817247271538,0.9238048195838928,0.0574183315038681
+technology,"If ICANN only charges 18¢ per domain name, why am I paying $10?",,30,95,2016-06-18,TECH,0.283718079328537,0.6969281435012817,0.019353797659277916
+technology,Alicia Keys using sealable pouches to lock up concert goers phones to have a 'phone free show',,3504,4092,2016-06-19,TECH,0.023557737469673157,0.9382532238960266,0.03818896412849426
+technology,"Apple won't aid GOP convention over Trump: citing Donald Trump’s controversial comments about women, immigrants and minorities.",,1245,3124,2016-06-19,TECH,0.4263143837451935,0.5374213457107544,0.036264266818761826
+gadgets,Apple ordered to halt iPhone 6 sales in Beijing,,858,2288,2016-06-19,TECH,0.9538532495498657,0.037808772176504135,0.008338031359016895
+technology,New Report Reveals Scope of FBI's Covert Facial Recognition Program: Majority of 411 million photos in database 'are of Americans and foreigners who have committed no crimes',,62,809,2016-06-19,TECH,0.06091097742319107,0.9047662615776062,0.03432274982333183
+technology,Three of the world's 10 largest employers are now replacing their workers with robots,,267,764,2016-06-19,TECH,0.9541904330253601,0.03518456593155861,0.010624954476952553
+technology,Computer science grads are playing it safe instead of trying to help build the next big thing,,206,364,2016-06-19,TECH,0.023132499307394028,0.9126465320587158,0.06422100216150284
+technology,Google Sees DMCA Notices Quadruple In Two Years,,11,220,2016-06-19,TECH,0.034655746072530746,0.9057687520980835,0.05957544967532158
+gadgets,Asus takes on the Apple MacBook with its new ZenBook 3,,123,175,2016-06-19,TECH,0.029177337884902954,0.9234576225280762,0.04736502468585968
+gadgets,Concept MINI Cooper looks like a space shuttle on wheels,,34,140,2016-06-19,TECH,0.014641602523624897,0.9314712285995483,0.053887251764535904
+technology,Mini’s latest concept is the mood ring of cars,,39,138,2016-06-19,TECH,0.011689924634993076,0.8714872002601624,0.11682288348674774
+technology,New York criminalizes the use of ticket buying bots,,1147,6345,2016-06-20,TECH,0.028874775394797325,0.9386209845542908,0.03250419721007347
+technology,US court upholds net neutrality laws that make ISPs a utility,,548,5515,2016-06-20,TECH,0.02624964900314808,0.8760198950767517,0.09773045778274536
+gadgets,Add-on brings Game Boy cartridges to your Android phone,,455,2920,2016-06-20,TECH,0.01615014672279358,0.9254856109619141,0.05836424604058266
+gadgets,"China Bites Apple: Revocation of iPhone patent only one in series of setbacks, also loses control of 'iPhone' trademark for accessories in separate lawsuit",,366,1208,2016-06-20,TECH,0.23871828615665436,0.7358036637306213,0.025478050112724304
+technology,Cable Companies Tell FCC More Competition Will 'Harm Consumers',,125,1141,2016-06-20,TECH,0.7616084814071655,0.2181936353445053,0.020197905600070953
+gadgets,"Tesla says Model X did not crash itself with Autopilot, despite owners' claims",,160,413,2016-06-20,TECH,0.042095281183719635,0.6818759441375732,0.27602872252464294
+gadgets,"Researchers create low-energy, 1,000-core processor",,38,368,2016-06-20,TECH,0.023193495348095894,0.9261707067489624,0.05063571408390999
+technology,FCC lays out its big 5G push,,70,241,2016-06-20,TECH,0.0343751423060894,0.9039261341094971,0.06169874966144562
+technology,"Catching up with the guy who stole Half-Life 2’s source code, 10 years later: ""I am so very sorry for what I did to you. You are my favourite developer, and I will always buy your games.""",,33,141,2016-06-20,TECH,0.026802118867635727,0.9150341153144836,0.058163825422525406
+technology,Russian bill requires encryption backdoors in all messenger apps,,37,115,2016-06-20,TECH,0.04336945712566376,0.9329186081886292,0.02371199242770672
+technology,74% of Netflix Subscribers Would Rather Cancel Their Subscription Than See Ads,,6655,9488,2016-06-21,TECH,0.32293379306793213,0.6611376404762268,0.015928637236356735
+technology,Apple wants to kill a bill that could make it easier for you to fix your iPhone,,1383,5376,2016-06-21,TECH,0.014371095225214958,0.5756345987319946,0.40999430418014526
+gadgets,This tiny gadget turns your smartphone into a thermal-imaging camera,,524,2619,2016-06-21,TECH,0.017472678795456886,0.9101556539535522,0.0723716989159584
+technology,"Invoking Orlando, Senate Republicans set up vote to expand FBI spying",,284,1717,2016-06-21,TECH,0.1584383249282837,0.6903401613235474,0.15122146904468536
+technology,Join the EFF against the Rule 41 update which lets federal judges unconstitutionally hack you,,31,1151,2016-06-21,TECH,0.020525386556982994,0.9211246967315674,0.05834990739822388
+technology,"Twitter Trolls Are Reporting Pro-LGBT Muslim and Atheist Women to Their Governments, Where Punishment Can Mean Death",,174,503,2016-06-21,TECH,0.36554548144340515,0.6102374196052551,0.024217115715146065
+gadgets,Taking the headphone jack off phones is user-hostile and stupid,,206,500,2016-06-21,TECH,0.044849541038274765,0.9253351092338562,0.029815295711159706
+technology,Taking the headphone jack off phones is user-hostile and stupid,,254,373,2016-06-21,TECH,0.044849541038274765,0.9253351092338562,0.029815295711159706
+technology,The FCC will start to make 5G a reality this week,,102,326,2016-06-21,TECH,0.06381745636463165,0.8593361377716064,0.07684645801782608
+technology,Microsoft shows how bad Chrome is for your laptop's battery,,219,262,2016-06-21,TECH,0.3858197033405304,0.5634262561798096,0.05075398460030556
+technology,"This morning the Senate fell one vote short of attaching a rider to a spending bill that would give the FBI sweeping new surveillance authority, including warrantless access to browsing history. Now, Senate leaders are trying to turn just one more senator in favor of the rider before doing a re-vote",,1352,7103,2016-06-22,TECH,0.05044478550553322,0.8200258016586304,0.1295294463634491
+technology,"The New Censorship: ""How did Google become the internet's censor and master manipulator, blocking access to millions of websites?""",,1697,4735,2016-06-22,TECH,0.11352755129337311,0.8688100576400757,0.017662392929196358
+gadgets,KFC offers customers in India battery pack to go with fried chicken,,484,2963,2016-06-22,TECH,0.012839247472584248,0.8910254240036011,0.09613528102636337
+technology,"FBI Facial Recognition Database Ten Times Larger Than Promised, Contains 90% Non-Criminals",[deleted],204,1832,2016-06-22,TECH,0.048495370894670486,0.9192271828651428,0.03227750211954117
+technology,Senate Falls 1 Vote Short Of Giving FBI Access To Browser Histories Without Court Order,,67,848,2016-06-22,TECH,0.537226140499115,0.39339765906333923,0.06937626749277115
+gadgets,Apple is killing the legacy MacBook Pro,,500,420,2016-06-22,TECH,0.029276181012392044,0.9278624653816223,0.042861390858888626
+gadgets,Original Replicator Bluetooth Star Trek Communicator,,26,381,2016-06-22,TECH,0.027874702587723732,0.9253150224685669,0.046810224652290344
+technology,"Republicans are coming for your browsing histories, not your guns: Give the FBI easy access to citizens' browsing history and email data without the hassle of having to obtain a warrant first",,98,334,2016-06-22,TECH,0.022422591224312782,0.9412274956703186,0.03634989634156227
+technology,"After Net Neutrality Win, Emboldened FCC Eyes New Reforms",,14,220,2016-06-22,TECH,0.017997533082962036,0.8860757946968079,0.0959266945719719
+technology,"""With their dangerous crusade for an anti-encryption bill in Congress all but dead (for now), the FBI and Justice Department are now engaged in a multi-pronged attack on all sorts of other privacy rights – this time, with much less public scrutiny.""",,5,214,2016-06-22,TECH,0.219142347574234,0.7573381662368774,0.02351943589746952
+technology,"Comcast Admits It Incorrectly Debited $1,775 From Account, Tells Me To Sort It Out With Bank",,2861,7724,2016-06-23,TECH,0.0741913914680481,0.9026995301246643,0.023109039291739464
+gadgets,This ultrasonic dryer will dry your clothes in half the time,,161,1239,2016-06-23,TECH,0.05876394733786583,0.9109920859336853,0.030243946239352226
+gadgets,"Updated cheapest Kindle gets thinner, lighter and Bluetooth-friendly",,328,1231,2016-06-23,TECH,0.0426015704870224,0.8384767770767212,0.11892159283161163
+gadgets,"WD's new external drive is the first self-contained, fully portable Plex media server",,45,290,2016-06-23,TECH,0.011858569458127022,0.9055365324020386,0.08260489255189896
+technology,Clinton’s private e-mail was blocked by spam filters—so State IT turned them off,,50,290,2016-06-23,TECH,0.22801783680915833,0.746822714805603,0.02515942044556141
+technology,Court Rules the FBI Does Not Need a Warrant to Hack a Computer,,27,257,2016-06-23,TECH,0.32513561844825745,0.6497848629951477,0.02507956139743328
+technology,"Charter and TWC overbill customers by $7.2 million per year, Senate finds",,26,205,2016-06-23,TECH,0.014568758197128773,0.825244128704071,0.16018712520599365
+gadgets,"Xiaomi's cheap, foldable electric bike looks perfect for city commutes",,27,157,2016-06-23,TECH,0.02107877843081951,0.8934105634689331,0.08551067858934402
+technology,Federal Court: The Fourth Amendment Does Not Protect Your Home Computer,,63,156,2016-06-23,TECH,0.03786349669098854,0.9258947372436523,0.03624177351593971
+technology,Elizabeth Warren Pushes FCC For Broadband Privacy Rules,,5,153,2016-06-23,TECH,0.08814715594053268,0.8357588052749634,0.07609405368566513
+technology,Google says there was a large spike in searches for Irish passport applications as news broke,,2603,6128,2016-06-24,TECH,0.02786640077829361,0.8591620922088623,0.11297151446342468
+technology,Judge Says FBI Can Hack Computers Without A Warrant Because Computer Users Get Hacked All The Time,,159,1823,2016-06-24,TECH,0.7754671573638916,0.20338307321071625,0.021149834617972374
+gadgets,"HP Spectre, the world's thinnest laptop, is so much more than just looks",,792,1784,2016-06-24,TECH,0.03197040036320686,0.9274724721908569,0.04055720195174217
+gadgets,SanDisk made an iPhone case with built-in storage,,100,832,2016-06-24,TECH,0.024873802438378334,0.9113137125968933,0.06381246447563171
+technology,Elon Musk's new company is developing robots to do your housework,,62,573,2016-06-24,TECH,0.009574545547366142,0.8190804123878479,0.1713450700044632
+technology,"Emails Show Hillary Clinton's Email Server Was A Massive Security Headache, Set Up To Route Around FOIA Requests",,73,459,2016-06-24,TECH,0.03945938125252724,0.9057508707046509,0.054789695888757706
+technology,Comcast Refuses to Recall A Known Defective Model of Routers,,80,355,2016-06-24,TECH,0.7025213241577148,0.2776133120059967,0.019865408539772034
+technology,Netflix to Soon Let Users Download Videos,,52,243,2016-06-24,TECH,0.011674012988805771,0.9168790578842163,0.0714469850063324
+technology,"A Free and Open Internet Under Assault in Congress: Net Neutrality’s Opponents in Congress Are Determined to Defund, Stall, and Hamstring the FCC",,8,211,2016-06-24,TECH,0.04740874096751213,0.9259101748466492,0.026681136339902878
+technology,Samsung considering relocation of its London headquarters due to Brexit,,40,170,2016-06-24,TECH,0.12256389856338501,0.8516613841056824,0.025774767622351646
+technology,US Customs wants to collect social media account names at the border: 'Please enter information associated with your online presence',,2507,5735,2016-06-25,TECH,0.025295576080679893,0.9506174921989441,0.024086980149149895
+technology,NASA approves five more years for Hubble Space Telescope,,236,4087,2016-06-25,TECH,0.015153016895055771,0.8958036303520203,0.08904329687356949
+technology,Tesla signs $9 billion agreement to build factory in China,,965,3891,2016-06-25,TECH,0.01284364890307188,0.2925294041633606,0.6946269273757935
+gadgets,Boston Dynamics serves up nightmare fuel with its “dancing” SpotMini robot,,378,1645,2016-06-25,TECH,0.027113843709230423,0.9199841618537903,0.05290193855762482
+technology,Democracies Have Developed Into Surveillance States - Now This Power Could Fall Into the Hands of Extremists,,93,1319,2016-06-25,TECH,0.07210029661655426,0.8912400603294373,0.03665970265865326
+technology,Ladar Levison finally confirms Snowden was target of Lavabit investigation,,46,949,2016-06-25,TECH,0.027560681104660034,0.9037728309631348,0.0686665028333664
+gadgets,"""I know the Dato Duo synth is for kids, but wow it's pretty"" – final hours on Kickstarter",,114,889,2016-06-25,TECH,0.042379699647426605,0.882339596748352,0.07528071105480194
+technology,U.S. court rules that FBI can hack into a computer without a warrant,,23,595,2016-06-25,TECH,0.4612303674221039,0.5152961611747742,0.023473519831895828
+technology,"Special delivery: Activists drop 100,000 net neutrality complaints on FCC",,21,426,2016-06-25,TECH,0.9071896076202393,0.07486436516046524,0.017946086823940277
+technology,Russia set to pass bill requiring ISPs to eavesdrop on customer data,,30,395,2016-06-25,TECH,0.1992960274219513,0.7726460099220276,0.02805791236460209
+technology,'Open' Internet Upheld in Court,,356,4608,2016-06-26,TECH,0.04260080307722092,0.8409377336502075,0.11646148562431335
+gadgets,This $4 smartphone finally has a ship date after sparking investigations,[deleted],521,2507,2016-06-26,TECH,0.03408856689929962,0.8714921474456787,0.09441929310560226
+technology,New Hampshire public library unanimously votes to restore use of Tor relay,,15,905,2016-06-26,TECH,0.044328473508358,0.8170779943466187,0.13859355449676514
+technology,Berlin is now in a position to usurp London as the startup capital of Europe,,113,542,2016-06-26,TECH,0.029722345992922783,0.9282606840133667,0.04201700538396835
+technology,"Freedom 251, $4 smartphone, finally has a ship date after sparking investigations",,119,472,2016-06-26,TECH,0.01840994879603386,0.8947491645812988,0.0868409052491188
+gadgets,India's $4 smartphone will begin shipping next week,,81,395,2016-06-26,TECH,0.012160188518464565,0.8566232919692993,0.13121648132801056
+technology,"Google, Facebook move toward automatic blocking of 'extremist videos'",,52,172,2016-06-26,TECH,0.02735019475221634,0.8967257738113403,0.07592405378818512
+technology,Facebook and Google may be using copyright scanners to suppress 'extremist' speech,,13,89,2016-06-26,TECH,0.0322328582406044,0.9462174773216248,0.021549588069319725
+technology,"Tor Project Battled Over Hiring Ex-CIA Agent, Chat Logs Show",,4,73,2016-06-26,TECH,0.06666616350412369,0.9113081693649292,0.022025682032108307
+technology,Student creates glove that reduces Parkinson's tremors by 80%,,2,56,2016-06-26,TECH,0.030181074514985085,0.9112659096717834,0.05855308473110199
+technology,"Woman wins $10,000 judgment against Microsoft for forced Windows 10 upgrade",,3675,7154,2016-06-27,TECH,0.04775838181376457,0.5215868949890137,0.43065470457077026
+technology,Solar Power to Grow Sixfold as Sun Becoming Cheapest Resource,,583,4076,2016-06-27,TECH,0.014855139888823032,0.8537519574165344,0.1313929408788681
+technology,President Obama should pardon Edward Snowden before leaving office,,569,3730,2016-06-27,TECH,0.5291711688041687,0.40694788098335266,0.06388089060783386
+gadgets,Google Earth and Maps get sharper satellite imagery with new update,,259,3079,2016-06-27,TECH,0.027470197528600693,0.9334530830383301,0.03907672315835953
+gadgets,"Ford gave its $450,000 GT supercar a limited-edition '60s race car makeover",,195,1816,2016-06-27,TECH,0.01705249398946762,0.895505964756012,0.08744156360626221
+technology,"Judge Dismisses Movie Piracy Case, IP-Address Doesn't Prove Anything",,84,1453,2016-06-27,TECH,0.5261794328689575,0.4457099437713623,0.028110632672905922
+technology,"The floodgates are now open, women wins lawsuit against MS for auto-update to Win10",,313,1222,2016-06-27,TECH,0.02212514914572239,0.8672251105308533,0.1106497272849083
+technology,Facebook is using phone location data to suggest new friends--which could be a privacy disaster,,188,1112,2016-06-27,TECH,0.022424397990107536,0.9236644506454468,0.053911179304122925
+gadgets,The good Schiit: Bifrost Multibit digital converter,,179,519,2016-06-27,TECH,0.01863439753651619,0.9291340708732605,0.052231501787900925
+technology,Tor offers new defense for its browser called Selfrando. The new defense is completely unnoticeable to users while offering them a drastically safer browsing experience.,,23,296,2016-06-27,TECH,0.009919779375195503,0.787897527217865,0.20218269526958466
+technology,"TIL that someone can change your Facebook email, password, and two step verification just by asking Facebook to turn off login approvals, and sending in a fake ID. (Happened to me lost all my business pages)","Here is a link to a screenshot of it happening: http://imgur.com/a/L0pTI
+
+I'm obviously pretty devastated as that's a lot of years and money down the drain.
+
+Edit: Also, just to prove this actually happened, you can visit the url in the screenshots for viewing the support ticket and it should show the exact conversation. The hacker also sent my fiance a picture of his genitals, at this point it's blatant harassment.
+
+Edit: I would fly to their office if I could, but they don't allow visits that way. I also tried calling their publicly listed phone number, and it referred me to the help section on their website. I'm trying to communicate through the help section forms, but I keep getting different people, and they all keep referring me to the help section. Which I then go to, and submit the form, and get another person that refers me to the help section. Infinite loop.
+
+Edit: u/lucozad3 informed me of this: ""FYI the attachment contains an imgur identification code, meaning anyone can look at your screenshots and find the fake id that the hacker used, here it is: (I was told by a reddit user that having this imgur link here could have this post removed because it displays personal information even though it's a fake ID, so I'm removing that for now)
+
+You might not be worried about this but if the fake ID contains your personal information, like birthday and photo, you might be making yourself a further target.""
+
+The ID isn't me it's a random black guy with my name, all other information is wrong, such as the birthday, etc, I don't even own a passport, and the passport that they used wasn't even signed 
+
+Edit: I have the emails the hacker use to communicate with Facebook, but I'm unsure if I should post them here.
+
+Edit: As requested I've added the link to me tweeting Facebook: https://twitter.com/yhuthere/status/747767804292530176
+
+Edit: I am black, me referencing that it was a random black guy, was to say that's the only thing that I and the man in the fake passport have in common, all other information is different.
+
+Edit: Since this keeps on being asked, the hacker didn't have access to my email or password, they just said they no longer had access to my phone number or email, and facebook allowed them to choose the email to lodge the support ticket from. The support ticket in the screenshot is them emailing facebook support from the email the hacker chose
+
+Edit: Facebook just removed the hacked account from Facebook, but there's no news on the business pages yet. 
+
+Edit: I just received contact from a Facebook employee informing they've secured the pages and account, and are working to restore access
+
+Edit: We're just waiting on Facebook to restore access to the pages, I gave her an exact link to the pages that are still missing hope to hear updates soon. 
+
+Edit: Facebook has restored a few more pages, there are 5 still missing, also upvotes are disappearing from this post which I find weird but thanks reddit, I don't know what would have happened without you
+
+Edit: All but two pages have been returned, I'm expecting they will be back soon. 
+
+Edit: Facebook returned each and every business page, and gave the Facebook account back. They really saved the day. I am going to see if there are anyways they can help me reveal the hackers, or pursue them through legal means, since they impersonated me and stole from my business. The power of social media is real, and even though this happened Facebook is still my favorite company on earth, I built my businesses and met my future wife all on Facebook. Thanks reddit!
+
+Edit: I wanted to add my thoughts on a possible solution, as a final edit to this post. This hacker was able to submit this request and hack the profile in 4 hours, all while I was sleeping. I didn't even have time to see that someone was requesting this, there was no notification on Facebook, no notification on my cell phone, there was a notification in my email account, but it's not an email account I check daily. Given the severity of the theft of information if someone where to hack into your account, I think Facebook should freeze the account to see if the owner does eventually use the original email, or phone number to get back into the account. I'd say the account should be frozen for at least 30 days before they allow photo ID to be accepted. Yes this may annoy some people who actually lost access, but they can likely get access to their phone number or email faster than 30 days. Plus Facebook has post blocks that are 30 days so it's not like it's an unreasonable time span. I think this rule should also be applied to any request to turn off two step verification. Maybe even a text message/email should go out asking if it's you if that's requested. If the request is from a suspicious IP that seems unrelated with the normal IP of the account, it shouldn't be accepted. Allowing users to willingly file a copy of their ID (with blurred info) with Facebook in case of these sort of situations is an idea as well, so when something like this happens, the user has to respond with the ID they previously filed. Also, if trusted friends is added on the account, I feel like they should accept that over ID to verify identity. Just my 4am thoughts, going back to sleep. Thank you all.",1837,7083,2016-06-28,TECH,0.09259120933711529,0.8764965832233429,0.030912207439541817
+technology,Judge Says IP Address Doesn't Prove Anything in Piracy Case,,839,6442,2016-06-28,TECH,0.48083531856536865,0.49134203791618347,0.027822552248835564
+technology,'I urge everyone to fight back' -- woman wins $10k from Microsoft over Windows 10 misery,,433,2120,2016-06-28,TECH,0.022089414298534393,0.8774441480636597,0.10046641528606415
+gadgets,The Roam-e Flying Selfie drone camera from Australia takes 360 degree shots.,,112,947,2016-06-28,TECH,0.026872776448726654,0.9447759389877319,0.028351278975605965
+technology,This can't be good: A.I. pilot is unbeatable in dogfight simulations,[deleted],375,891,2016-06-28,TECH,0.031115597113966942,0.9197615385055542,0.04912281036376953
+gadgets,Doppler Labs' new augmented reality earbuds can also stream audio from your phone,,96,744,2016-06-28,TECH,0.015165104530751705,0.9446954131126404,0.04013952240347862
+technology,Don't let telecoms write EU Net Neutrality rules: Leave a comment with BEREC to #SaveTheInternet,,17,595,2016-06-28,TECH,0.05619021877646446,0.9104159474372864,0.03339379280805588
+technology,Hillary Clinton's Tech Policy Plan Includes Some Empty Broadband Promises And A Continued War On Encryption,,77,567,2016-06-28,TECH,0.05145150423049927,0.8674918413162231,0.0810566246509552
+gadgets,Devialet's new Phantom speaker will bring down your walls | PC Gamer,,124,383,2016-06-28,TECH,0.01929146610200405,0.8631673455238342,0.11754116415977478
+technology,FBI Surveillance Expansion Stalls as Activists Ramp Up 'No' Campaign,,11,286,2016-06-28,TECH,0.6816848516464233,0.2686188519001007,0.04969631880521774
+technology,"Google's FASTER is the first trans-Pacific submarine fiber optic cable system designed to deliver 60 Terabits per second (Tbps) of bandwidth using a six-fibre pair cable across the Pacific. It will go live tomorrow, and essentially doubles existing capacity along the route.",,1481,6128,2016-06-29,TECH,0.010036355815827847,0.6945341229438782,0.295429527759552
+technology,"The DoNotPay bot has beaten 160,000 traffic tickets — “I think the people getting parking tickets are the most vulnerable in society,” said the creator. “These people aren’t looking to break the law. I think they’re being exploited as a revenue source by the local government.”",,332,3747,2016-06-29,TECH,0.05879664421081543,0.9189276099205017,0.022275712341070175
+gadgets,OnePlus 3: A great $400 phone you can actually buy,,1381,2822,2016-06-29,TECH,0.013531439006328583,0.9011733531951904,0.08529523760080338
+gadgets,"Google Launches Project Bloks: Similar to Legos, but designed to help teach kids ""tangible programming""",,131,1770,2016-06-29,TECH,0.01148224901407957,0.8298282623291016,0.1586894392967224
+technology,"Products from Symantec that are supposed to protect users have made them much more open to attack, according to Google.",,133,1691,2016-06-29,TECH,0.1646478772163391,0.8012524247169495,0.0340997613966465
+gadgets,"Microsoft pays woman $10,000 over forced Windows 10 upgrade",,281,897,2016-06-29,TECH,0.024322282522916794,0.7197127938270569,0.255964994430542
+technology,"Home Computers Connected to the Internet Aren't Private, Court Rules",,145,538,2016-06-29,TECH,0.052565865218639374,0.9266796112060547,0.02075447142124176
+technology,New ACLU lawsuit takes on the internet’s most hated hacking law,,26,463,2016-06-29,TECH,0.0953260287642479,0.8760895133018494,0.028584424406290054
+technology,"Wi-Fi gets multi-gigabit, multi-user boost with upgrades to 802.11ac",,103,364,2016-06-29,TECH,0.01625746861100197,0.9136179685592651,0.0701245442032814
+technology,"DMCA Notices Nuke 8,268 Projects on Github",,40,271,2016-06-29,TECH,0.030697377398610115,0.9099000692367554,0.05940253287553787
+technology,What media companies don’t want you to know about ad blockers: Ad blockers can protect you against ransomware and other malware,,1459,6330,2016-06-30,TECH,0.08535373955965042,0.8939070701599121,0.020739233121275902
+technology,"Tesla driver killed in crash with Autopilot active, NHTSA investigating",,3996,5309,2016-06-30,TECH,0.043079424649477005,0.9246716499328613,0.03224901109933853
+technology,Upcoming Firefox 50 will allow you to have multiple tabs of the same site isolated from each other. So you could have two different gmail accounts open at the same time.,,239,1743,2016-06-30,TECH,0.026818260550498962,0.9480873942375183,0.025094348937273026
+gadgets,"HP Spectre 13 reviewed: Remarkably thin, but not light on power",,307,893,2016-06-30,TECH,0.020205281674861908,0.10485399514436722,0.8749407529830933
+technology,"First Tesla Auto Pilot fatality occurs after 130 million autonomous miles when the car interpreted the side of a white tractor trailer as a uniformly cloudy sky, plowing into it at full speed.",,299,864,2016-06-30,TECH,0.024517780169844627,0.9189578890800476,0.05652427300810814
+technology,"US efforts to regulate encryption have been flawed, government report finds: Weighing in on the encryption debate, a new government report says that lawmakers need to to learn more about technology before trying to regulate it",,32,537,2016-06-30,TECH,0.32748448848724365,0.5736754536628723,0.09884011745452881
+technology,"Elizabeth Warren blasts Comcast, calls for stronger anti-trust enforcement",,99,460,2016-06-30,TECH,0.06734151393175125,0.8824914693832397,0.050167016685009
+technology,"Win7/8.1 ""recommended"" patch KB 3173040 generates purple full-screen Win10 upgrade notice",,111,261,2016-06-30,TECH,0.018231889232993126,0.8786463737487793,0.10312173515558243
+technology,Spotify Accuses Apple of “Causing Grave Harm” By Rejecting App Update,,38,111,2016-06-30,TECH,0.9108286499977112,0.07487382739782333,0.01429753191769123
+technology,"Apple gets patent for remotely disabling iPhone cameras, raising censorship fears",,39,89,2016-06-30,TECH,0.8298118710517883,0.1468886137008667,0.02329951338469982

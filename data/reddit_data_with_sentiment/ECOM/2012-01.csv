@@ -1,0 +1,60 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+ecommerce,Россияне стали чаще покупать в интернете,,0,1,2012-01-02,ECOM,0.0,0.0,0.0
+ecommerce,6 способов увеличить предпраздничные продажи в интернет-магазинах,,0,1,2012-01-02,ECOM,0.06943821907043457,0.8835777640342712,0.046983957290649414
+ecommerce,hypnose MP3 download,,1,0,2012-01-06,ECOM,0.044274624437093735,0.9309890270233154,0.02473626285791397
+ecommerce,Great shopping cart?,"I'm trying to decide which shopping cart software to review next.  Anyone know of a great shopping cart that doesn't get much exposure that I should feature??
+
+So far I've done reviews for Volusion, BigCommerce, Shopify, CoreCommerce, WooCommerce, PinnacleCart, 3dcart",0,0,2012-01-07,ECOM,0.0199272520840168,0.9184861779212952,0.06158654764294624
+ecommerce,eCommerce Opportunities in Australia - WebLog - bwired,,0,1,2012-01-09,ECOM,0.04059233516454697,0.9208311438560486,0.038576461374759674
+ecommerce,How to Take Pictures of Your Handmade Jewellery for Display Online,,0,1,2012-01-10,ECOM,0.028826192021369934,0.9374282956123352,0.033745478838682175
+ecommerce,5 Reasons to Talk to Your Merchant Acquirer About How To Accept Online Payments,,0,1,2012-01-11,ECOM,0.014385432004928589,0.9283284544944763,0.057286135852336884
+ecommerce,Ecommerce solution India,,1,1,2012-01-11,ECOM,0.02330036833882332,0.9114258885383606,0.0652737244963646
+ecommerce,Pay-what-you-want site software recommendations? (xpost),"Cross-posting from r/computing since I didn't get any answers there...
+
+---
+
+I'm a Master's Student studying Information Science. I am also a writer in my spare time. For my master's project I am planning to sell one of my novels via a pay-what-you-can model. I want users to be able to choose the distribution of what they pay, as well. (X amount to the author, Y amount to the editor, Z amount to charity, etc.) My goal with this project is not to make money. Rather, I specifically wanted to gather original data on how a new/unknown novelist can fare in the constantly evolving digital marketplace using new methods such as pay-what-you-want.
+
+I have some web design experience but virtually no e-commerce experience specifically. So one of the most daunting tasks in planning for my project has been setting up the somewhat-beyond-my-abilities e-commerce page. Fortunately I'm also a gamer and when I went to purchase the Humble Indie Bundle 4 this year I realized that the layout of the site is precisely what I had in mind down to the slightest detail (albeit way more polished than even I could've imagined). I contacted the good folks behind the Humble Bundle to see about licensing or borrowing their code, but unfortunately they can’t help for the time being.
+
+I’ve investigated a few potential ecommerce packages, but nothing seems to fit in terms of flexibility and specifics quite like the Humble Indie Bundle’s setup. The difficulty probably has a lot to do with my being greedy; I really want all of the various features that the Bundle’s site has for maximum flexibility and more thorough data collection. Am I asking too much?
+
+In addition to data I gather from my direct experience I also plan to utilize Humble Indie Bundle's publicly-available data as well as that of other pay-what-you-can examples from other entertainment mediums. My goal is to encourage greater use of new payment models by presenting positive data in an academic fashion.
+
+Any redditors have experience with pay-what-you-can models? What sort of setup did you use? Did you license the software from a vendor or did you have to design it on your own? Any advice would be greatly appreciated.",0,0,2012-01-12,ECOM,0.032492201775312424,0.9295765161514282,0.037931255996227264
+ecommerce,Affiliate Marketing in the e-commerce sites,,0,1,2012-01-14,ECOM,0.025942400097846985,0.935938835144043,0.038118813186883926
+ecommerce,"Demand for mobile payments at the point of sale is growing, but it'll be at least a year before takeoff",,0,2,2012-01-17,ECOM,0.023227835074067116,0.44585031270980835,0.5309218168258667
+ecommerce,"My developer screwed me over, Need to make a functioning shop - which commerce store should I use?","My developer has refused to do any more work on my site. We have had problems with them in the past. I feel that we got scammed. Our business is to sell storage boxes and I would like a widget that will quickly help customers find the right size box by specifying dimensions. We use drop shippers but would like to ship from our own place in the future. Any suggestions? Magento, oscommerce?
+
+Edit: Thanks for you your responses. I have nearly completed a project outline which (when finished) I will use to compare the different software. I had a look at Magento, which does support everything I have project so far - but I don't feel like using something that would be overly complicated. I will look into OpenCart, Volusion, and BigCommerce to see if they are less complicated.",7,2,2012-01-17,ECOM,0.046348944306373596,0.9203736186027527,0.03327750414609909
+ecommerce,So You Want to Set Up an eBay Store?,,0,0,2012-01-17,ECOM,0.02623066119849682,0.9166666269302368,0.057102736085653305
+ecommerce,Ecommerce website design,,1,0,2012-01-18,ECOM,0.03455524519085884,0.9333352446556091,0.03210950642824173
+ecommerce,Suggest an ecommerce / inventory system that might work for me?,"Apologies for pestering you wonderful people, but I was hoping for a bit of advice.  My step Father owns a business that ships physical products throughout the US, but they do not have a website... like at all.  They handle all their orders via telephone.  He recently came to terms with the fact that it is 2012 and came to me, the resident ""tech guy"" of my family.  I've got basic HTML/Java/android development skills, but fear I'm in over my head. I'm looking for suggestions software solutions.  In the interest of keeping this organized here are the facts/requirements of what this website/software solution should do:
+
+* Inventory Management: The company currently uses overly complicated excel spreadsheets to track their inventory.  The inventory management should link to the website to provide out of stock messaging.
+
+* Order Quoting: because they base their pricing on cost of replacement rather than their cost of the products they sell, and that different customers are given different discounts the website does not need to display pricing at all - or be able to actually process orders.  It should let the customers generate a ""cart"" that would then be forwarded to the sales staff to work up a current quote for the customer.
+
+* Order tracking (not a requirement, but a wish)  It would be nice if after an order is processed order tracking information could be available to the customer via the website.  Like a ""my orders"" section that would have a summary of the order and tracking info if available. 
+
+Sorry if this is a super newb question.  I'm totally expecting to need to do a ton of reading and learning.  Any pointers on good documentation sources or relevant websites are welcome too!",13,5,2012-01-19,ECOM,0.04532366991043091,0.9314432740211487,0.023233093321323395
+ecommerce,How to Build an Ecommerce Site,,0,1,2012-01-19,ECOM,0.0163912083953619,0.9085772037506104,0.0750315710902214
+ecommerce,Shipping each cart item to a different address?,"Im looking for a hosted eCommerce platform, similar to Shopify, that will let me attach a different shipping address to each cart item purchased? Any suggestions would be greatly appreciated.",1,1,2012-01-19,ECOM,0.011618413962423801,0.8284686803817749,0.15991292893886566
+ecommerce,HandMade LeatherWork for men,,1,1,2012-01-20,ECOM,0.041386593133211136,0.9215497970581055,0.03706362098455429
+ecommerce,How SOPA can affect an ecommerce Store,,0,1,2012-01-20,ECOM,0.033487576991319656,0.9105563759803772,0.055956073105335236
+ecommerce,Application Development Services and Custom Web Application Developer,Looking for Application Development? Kaushalam is the ideal company for your Custom Application Development Services needs. Our Application Development Services are completely professional and as per your need. As Custom Web Application Developer we value your requirement. Rapid Application Development Services is also available. Get Web Application development &amp; Application Development Services in most reasonable package.,0,1,2012-01-21,ECOM,0.017662648111581802,0.9425046443939209,0.03983273729681969
+ecommerce,Need a Point-of-sale system that synchronizes retail store inventory with eCommerce inventory,"I am building a new website for a small business that needs the online and retail inventories to be 100% synced up, they are currently using a retail POS system that does not support this feature.
+
+I have never done this before, any suggestions will be helpful!",5,3,2012-01-23,ECOM,0.025408320128917694,0.9326468110084534,0.041944898664951324
+ecommerce,"eBay is piling up profits, should you find an alternative?",,0,0,2012-01-23,ECOM,0.03209853917360306,0.9113845825195312,0.056516844779253006
+ecommerce,Online Virtual Assistants,,1,1,2012-01-24,ECOM,0.03670496121048927,0.9382761120796204,0.02501889318227768
+ecommerce,Ecotecsurfboards,,0,1,2012-01-26,ECOM,0.036604586988687515,0.927370548248291,0.03602488711476326
+ecommerce,"For Sale on Flippa: VOTE.DO - VOTE.COM SOLD for $250,000 in 2003, probably worth a MILLION today!",,1,1,2012-01-27,ECOM,0.019978193566203117,0.890877366065979,0.08914442360401154
+ecommerce,eCommerce platform with charge per category?,"I'm in need of a eCommerce platform that allows for applying a charge to orders based on the category of product added, in addition to regular product prices. The unique part is that it (a $5 fee) only applies to categories on an order, not products. 
+
+In other words, if 3 products are ordered from Category A, a $5 fee is applied. If 3 products from Category A and 2 from Category B are ordered, a $10 fee would be applied. If 1 product is from A, 1 from B, and 1 from C, $15 would be applied.
+
+Looking at various common platforms, I haven't found one that guarantees this type of functionality. Does anyone have any suggestions as to options that will let me accomplish this?",2,3,2012-01-28,ECOM,0.021675491705536842,0.9384989738464355,0.03982554003596306
+ecommerce,How We Optimise Images for SEO and Fast Page Loading Times,,1,0,2012-01-29,ECOM,0.034217365086078644,0.9312565326690674,0.03452612832188606
+ecommerce,"For an online retailer, ecommerce shopping store owner has to be updated with latest development in the technologies used in ecommerce web design and development. This will help you to put less efforts to get traffic, conversion and sales via search engines.  I invite you to subscribe this blog.",,0,1,2012-01-30,ECOM,0.015639744699001312,0.9104387760162354,0.07392153888940811
+ecommerce,ABCs of BrownCor: X is for BoXes | BrownCor Blog,,0,0,2012-01-30,ECOM,0.021790258586406708,0.9230763912200928,0.05513335391879082

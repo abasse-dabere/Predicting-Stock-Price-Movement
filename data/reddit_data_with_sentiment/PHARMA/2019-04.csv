@@ -1,0 +1,737 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+medicine,After becoming a physician - do you feel like your daily interactions with people changed? I feel like people are constantly trying to “test” me and they relish the moments they can pull one over on me.,"Maybe this is all in my head, but I am a young physician. I feel like since being christened with that title, that my every day interactions with people have changed for the worse. 
+
+It’s usually from people that are slightly younger than me and I imagine that they feel like they have to prove themselves. I feel like people are constantly trying to test my “value” either cognitively or in other aspects of my life. Then, when someone finally finds a chink in that chain they are elated and they relish those moments. I know that there is a certain level of this with any interaction with people, but since becoming a physician it has become quite explicit and damn near constant with certain types of people especially.
+
+It’s become rather exhausting. So much so that I avoid interactions with certain people. I believe I’m usually pleasant and amiable in talking to people but there are times when I’ve consciously changed my personality to be more stern, demanding and short with people so as to avoid any of the above interactions (and it’s worked).
+
+Anyone experienced similar issues?",226,535,2019-04-01,PHARMA,0.1578206717967987,0.8164307475090027,0.025748563930392265
+Health,"Dubstep music by Skrillex was found to protect against mosquito bites in a new study, with its mix of very high and very low frequencies. Such music, which appears to delay host attack, reduce blood feeding, and disrupt mating, may provide new avenues for music-based personal protective measures.",,38,468,2019-04-01,PHARMA,0.01879873313009739,0.9077059626579285,0.0734952762722969
+medicine,Skrillex Reduces Mosquito Attacks and Mating Success,,24,408,2019-04-01,PHARMA,0.03804295137524605,0.9038445353507996,0.05811255797743797
+Health,Teenage psychotic experiences more common in areas with high air pollution,,33,328,2019-04-01,PHARMA,0.44029924273490906,0.5353785157203674,0.024322206154465675
+Health,The true dollar cost of the anti-vaccine movement - Necessary bills for unnecessary outbreaks are being paid by all of us.,,52,256,2019-04-01,PHARMA,0.1274138242006302,0.8423401117324829,0.030246088281273842
+medicine,Calcified Peritoneal Arachnoidosis,,43,236,2019-04-01,PHARMA,0.03126733750104904,0.9228487014770508,0.04588400200009346
+pharmacy,I guess exceeding someone’s expectations CAN be a bad thing..,,49,157,2019-04-01,PHARMA,0.660274863243103,0.29671403765678406,0.04301108792424202
+Health,"Easter eggs 'being pushed too early in shops' - Calorie-filled Easter eggs are being sold in shops far too early and that is tempting parents to buy unhealthy treats for their children, a public health body says.",,29,109,2019-04-01,PHARMA,0.024318289011716843,0.9112734794616699,0.06440824270248413
+pharmacy,Bernie Sanders vows to cut prescription drug prices by half if he's elected,,55,103,2019-04-01,PHARMA,0.22999896109104156,0.29372304677963257,0.47627803683280945
+medicine,Psychiatrists sue ABPN over its MOC process,,24,76,2019-04-01,PHARMA,0.02803763933479786,0.9364428520202637,0.03551948815584183
+medicine,Nova Scotia becomes first North American Jurisdiction with opt-out organ donation!,,73,707,2019-04-02,PHARMA,0.07116827368736267,0.8869968056678772,0.04183496534824371
+pharmacy,"My wife (pharmacist) and I (developer) made a calculator app for pharmacists and techs. It does calculations like days supply, quantity, opioid equivalents, refill dates, etc. Just launched today, looking for feedback!",,137,646,2019-04-02,PHARMA,0.016302326694130898,0.9202982783317566,0.06339941918849945
+Health,Hundreds pack hearing on bill to end most exemptions for kids’ vaccinations - The measure would eliminate nonmedical exemptions to vaccinations for measles and other infectious diseases that are required before children enter school.,,41,560,2019-04-02,PHARMA,0.04893775284290314,0.9170634746551514,0.033998798578977585
+Health,Anti-vaxxers appear to be losing ground in the online vaccine debate,,90,405,2019-04-02,PHARMA,0.9661738276481628,0.02295588329434395,0.010870320722460747
+medicine,"How can actual healthcare providers help push back against the rise of pseudoscientific ""professions""?","EDIT: Some really interesting points so far. If anyone also has suggestions about addressing the political side of it (i.e. petitions to limit scope, add 3rd party regulation, etc), that would also be great.
+
+Something I've been thinking of after watching the news recently. It seems that pseudoscientific professions like ~~chiromancers~~ chiropractors and naturopaths are getting more and more rights and impact in government, usually through lobbying politicians that don't know any better.
+
+However, aside from some meek attempts from some colleges/associations, there's not a lot of push-back against this sort of BS. And the problem is that once these fields get certain rights, it's just not realistic to reverse them, [no](https://nationalpost.com/news/college-of-chiropractors-of-ontario-anti-vaccine) [matter](https://www.cbc.ca/news/canada/british-columbia/naturopaths-discipline-unnacceptable-claims-1.4982339) [how](https://www.cbc.ca/news/canada/british-columbia/chiropractic-treatment-children-bc-review-1.5042864) [many](https://www.redding.com/story/news/local/2019/03/15/palo-cedro-chiropractor-facing-criminal-charges-has-license-reinstated/3181698002/) [cases](https://www.cbc.ca/news/canada/british-columbia/naturopath-rabid-dog-saliva-zimmerman-1.4897090) [of](https://www.theguardian.com/commentisfree/2019/mar/25/naturopaths-are-snake-oil-salespeople-masquerading-as-health-professionals) [incompetence](https://www.bizjournals.com/kansascity/news/2018/12/31/state-takes-action-against-physician-chiropractor.html) [or](https://scienceblogs.com/insolence/2015/07/10/this-is-what-happens-when-you-trust-a-naturopath-to-treat-a-real-disease) [harm](https://labblog.uofmhealth.org/body-work/examining-ties-between-chiropractic-treatment-and-vision-loss) [we](https://www.cbc.ca/news/canada/montreal/montreal-naturopath-found-guilty-of-manslaughter-as-quebec-court-of-appeal-overturns-acquittal-1.4686317) [see](https://www.abc.net.au/news/2019-03-29/evidence-based-care-experts-and-patients-question-chiropract/10952074).
+
+What I'd like to know from any of the readers here is realistic ways healthcare providers can help push back against this. I do a lot of patient education as is, but I just feel like I should be doing more. Most patients I see don't even realize that the majority of actual health care providers think naturopaths and ~~bone wizards~~ chiropractors are charlatans.
+
+Any insight would be appreciated.",221,388,2019-04-02,PHARMA,0.02911398932337761,0.9282639622688293,0.04262212663888931
+medicine,Financial Advice for Third Year Med Students,"On rounds this morning we started discussing physician compensation rates (and how atrocious PedsID pay is) and our med students started complaining that they get little to no education about financial aspects of being a physician. Specifically, making specialty decisions, but also about post residency: single vs group practice vs hospital based and how that affects pay, negotiating contacts, opportunities outside of clinical practice and how to add income, financial advice (minimize loans, loan forgiveness etc). Basically all the financial stuff many of us learned the painful way. 
+
+What financial/career planning advice would you all give these students?
+
+Edit: you guys all rock for putting the time to comment. I'm going to try to compile a lot of this wisdom into a lecture for them. Although I bet Buzzfeed is already writing ""Top ten ways physicians get rich: you won't believe number four!!""",236,339,2019-04-02,PHARMA,0.04460063949227333,0.9211879968643188,0.03421131893992424
+pharmacy,Graduated 2 years ago and haven't worked since--do I have any options?,"Hi everyone,
+
+I graduated from pharmacy school almost exactly 2 years ago, and I have not had any work experience since, and I have not even taken my board exams. I know that sounds really bad but I am trying to change for the better. I am writing to ask what my options are for employment, and what the best way of going about that would be. I am worried that my lack of work these past 2 years has totally erased the possibility of finding a job
+
+&amp;#x200B;
+
+My work experience during pharmacy school has been 6 months at a retail chain and 4 months interning at a pharmaceutical company as a medical writer. I am most interested in doing something that does not involve making clinical decisions. I am also interested to hear if there are any jobs that don't specifically require a pharmacy degree but where such a degree would be very helpful for employment.
+
+&amp;#x200B;
+
+I would like to respectfully request that when replying, please do not unnecessarily criticize me or tell me what I ""should"" have done. I was unable to work for mental health reasons that I do not want to go into, but now I feel that I am ready to face the challenges. I decided that instead of committing suicide I will rise up and try to transform my life, and I am willing to do anything to make that happen. Anyway, it is what it is right now, I cannot go back in time, and I just need a little help to see if I can become a functioning member of society again. Thank you.",74,233,2019-04-02,PHARMA,0.05239289999008179,0.9145858287811279,0.03302128240466118
+pharmacy,DM said we're doubling tech coverage district-wide!,April Fools.,14,229,2019-04-02,PHARMA,0.019666433334350586,0.9108916521072388,0.06944192945957184
+pharmacy,A little close to home.,,3,87,2019-04-02,PHARMA,0.09024282544851303,0.7425693273544312,0.1671878844499588
+medicine,I have an internist and dermatologist in my family. They both spend all of their free time after work on writing charts. Is this normal?,[deleted],74,82,2019-04-02,PHARMA,0.035549670457839966,0.9176174402236938,0.046832941472530365
+medicine,Metastatic Melanoma,,67,983,2019-04-03,PHARMA,0.039975814521312714,0.9248671531677246,0.03515704721212387
+Health,"MDMA may treat PTSD by reopening sociable 'window' which closes after puberty, study suggests ""a single dose of the drug was enough to return adult mice which had lost this heightened interest in socialising, to this adolescent state for up to six weeks.""",,79,548,2019-04-03,PHARMA,0.29615649580955505,0.6386208534240723,0.06522269546985626
+pharmacy,"Whelp, I knew the armed robbery was coming, it happened.","Backstory:  [https://www.reddit.com/r/pharmacy/comments/b67pye/the\_silent\_stress\_that\_the\_schools\_dont\_prepare/](https://www.reddit.com/r/pharmacy/comments/b67pye/the_silent_stress_that_the_schools_dont_prepare/)
+
+&amp;#x200B;
+
+2 guys came into the store this morning.   Fortunately we had about a 3 second jump as we saw them back in all crazy right in front of the store.
+
+Demanded ""All the stuff"".    After 2 rounds from me  and 7 rounds from them they fled.  No injuries except for the walls.  They didn't even get back into the pharmacy.  It was a 20yard shot, getting (friendly) crap that I missed.
+
+I'm not planning on leaving this store, its my baby.  Fuck living your life in fear.  People need medications, we're a service to the community.  Closing the store just punishes the legit people in my area.
+
+This profession is dangerous.  Be safe everyone.
+
+Edit: Clarification - sorta frazzled.
+
+&amp;#x200B;
+
+Edit2: Woke up to random gold.  Thank you kind stranger x 2.  I also want to thank you all for all the support.  Pharmacy is indeed a small community and having the support really helped me a ton last night.
+
+&amp;#x200B;
+
+Now that I have time to think clearly after a shitty nights sleep second guessing myself; to all the people who said that I shouldn't have missed, or I put innocent lives in danger, etc.  I respect your opinions, and I really agree with most of them.  However, its easy to armchair SWAT a situation like this after the fact from the safety of your computer. When you have about 3 seconds to prepare, less than 2 seconds to think, and 1 second to react during a situation that really cannot be planned or prepared for, its hard.  Add a bunch of screaming, yelling, adrenaline, and you have a big pot of suck.  Did I do the right thing? Maybe so, maybe not.  I did the best I could.  I have a /ton/ of range-time under my belt, but nothing, absolutely nothing can simulate the gut wrenching environment of an armed robbery.  Thats all.  Thank you everyone.",112,410,2019-04-03,PHARMA,0.050307221710681915,0.9155381321907043,0.034154631197452545
+Health,Millennials Are Sick of Drinking - But they’re not giving up booze just yet.,,129,244,2019-04-03,PHARMA,0.34772536158561707,0.6214559078216553,0.030818777158856392
+pharmacy,That’s it. I’m done...,,160,230,2019-04-03,PHARMA,0.040175531059503555,0.8788136839866638,0.08101081103086472
+Health,"Sexism, bullying and the NHS - Bullying, sexism, aggression and rudeness are commonplace among the medical profession, doctors say.",,1,81,2019-04-03,PHARMA,0.6215205192565918,0.35619476437568665,0.022284667938947678
+Health,New Research Links Green Spaces to Lower Medicare - A new study finds that counties with more forest &amp; shrub land spend less per person on Medicare than those dominated by agriculture or urban vegetation.,,1,55,2019-04-03,PHARMA,0.036916572600603104,0.7548249959945679,0.20825840532779694
+medicine,"Medical malpractice case, patient not advised of lung mass at urgent care visit.","Patient visited an urgent care for a cough. Xray showed a probable lung mass but no follow-up occurred for 3 years, by which time it had grown significantly. 
+
+&amp;#x200B;
+
+Full medical record and the judge's decision:  [http://www.medmalreviewer.com/case-8-cough/](http://www.medmalreviewer.com/case-8-cough/)",55,43,2019-04-03,PHARMA,0.02681896649301052,0.9071627855300903,0.0660182386636734
+medicine,General perception of Hospitalists among other specialties?,"As someone new to the Hospitalist game (8 months into it now), I'm starting to wonder what the general perception is of Hospitalists among the other specialties, particularly the surgical ones. 
+
+And on that note, what things could we be doing better? What things do we do a great job with already? 
+
+Any input and/or criticism appreciated!",34,38,2019-04-03,PHARMA,0.0225677452981472,0.8267057538032532,0.15072645246982574
+Health,Do animals hold the key to the global organ shortage? Gene-editing technology has accelerated progress on animal organ transplant to the point where scientists will soon begin the first human trials,,3,34,2019-04-03,PHARMA,0.01066815946251154,0.8125212788581848,0.17681050300598145
+medicine,"[Well-being] Love your work, love yourself, never give up your dreams.",,80,902,2019-04-04,PHARMA,0.06161801889538765,0.893617570400238,0.044764451682567596
+medicine,You know that feeling when you wake up in the morning with the warm sunshine on your face,"...and you immediately panic because you normally leave for work at sunrise so you know you overslept badly...
+
+
+What’s the latest you’ve overslept and how much trouble did it get you? I once arrived at work an hour late for the cystoscopy room booked with 26 cases. Blame anesthesia. 
+
+
+Edit: Uh I was the anesthesiology resident for the case... which is why I got blamed...",138,700,2019-04-04,PHARMA,0.4854677617549896,0.4781895577907562,0.036342743784189224
+Health,"Unvaccinated student loses in court after suing health dept during outbreak - Catholic student claims religious objections, but the Catholic Church is pro-vaccines.",,30,624,2019-04-04,PHARMA,0.16037321090698242,0.8139613270759583,0.025665486231446266
+medicine,Hospital Withdraws Job Offer To Doctor Who Tweeted About Giving Jews Wrong Meds,,308,486,2019-04-04,PHARMA,0.30516517162323,0.6568453907966614,0.037989452481269836
+Health,"The routine vaccination of girls with the HPV vaccine in Scotland has led to a ""dramatic"" drop in cervical disease in later life, new research suggests.",,12,334,2019-04-04,PHARMA,0.02046613208949566,0.657505989074707,0.32202789187431335
+Health,"Bad Diets Are Responsible For More Deaths Than Smoking, Global Study Finds - About 11 million deaths a year are linked to poor diet around the globe. We don't eat enough healthy foods including whole grains, nuts, fruits and vegetables, and consume too many sugary drinks, salt and processed meat.",,70,319,2019-04-04,PHARMA,0.11664889752864838,0.8575602173805237,0.025790885090827942
+pharmacy,I turned in my notice. I’m done.,"A day next week will be my last at CVS. I’ve worked on and off for them for well over 20 years, this last stretch being almost 5 years. I have never seen a company care so little about their patients or their employees. I feel like I’m letting my patients down, but when a major mistake happens due to the lack of technician help, and it will happen, I can’t have that be because I failed to protect them. I think that would destroy me. I love my profession. I remember the exact moment that I knew I wanted to be a pharmacist. It changed my life. It gave me purpose. This company has almost destroyed that.
+
+I’ve tried to explain the risks of the current state of my store to my district “leader”, but they don’t want to hear it. We just get told that this is the new CVS. When I tried to explain that I almost missed a dosing error in a medication for an infant because I was so busy worrying about ringing people up, I got the response of, “What does that have to do with me?”  I was left speechless. Why are people that have zero concerns about patient care in charge of how I help protect my patients?
+
+My resolve was finally broken when I had to start working weekends by myself.  Working a seven hour shift with no breaks for food or the restroom is just too much for me. I left over 50 prescriptions in QP last Sunday because I just couldn’t do them.  
+
+I leave my store almost every day feeling defeated and ashamed. Ashamed that my mentors, the pharmacists that I idolized early in my career that have retired or passed away, would have no place in this profession now.
+
+So, I’m done. I give up. I quit.",73,306,2019-04-04,PHARMA,0.1323315054178238,0.8330077528953552,0.0346607081592083
+pharmacy,If you're fed up with chain pharmacy and want to make waves contact me,"I am still collecting information for a reporter for a national publication who is interested in writing a story about how chain pharmacies are endangering patients by slashing hours and increasing demand.
+
+If you would like to speak to the reporter or have any information to pass along, feel free to PM me or email me at pmmeurgreensheets@protonmail.com. I will give whatever contact info you provide to the reporter. Please do not give me any personal information. I recommend you create a protonmail account as communication between these accounts is encrypted. I can also provide you with my public key if you'd like.",94,304,2019-04-04,PHARMA,0.02681676484644413,0.9385528564453125,0.03463039919734001
+medicine,Is it really 'projectile' vomiting?,,22,248,2019-04-04,PHARMA,0.13519321382045746,0.7954230904579163,0.06938375532627106
+pharmacy,Pro tip for retail pharmacists working solo: close the drive-thru!,"I USED to work for a shitty 3-letter pharmacy on the night shift, the majority of the shift alone. One day I started my shift and was informed that the drive thru window was busted, so they had hung a sign indicating so. My shift that night still wasn't that great, but it was a lot better not having to deal with the drive thru. So every night after that, almost as soon as I started the shift, I would hang a sign that read ""Drive thru is closed. Please come inside."" Saved me so much hassle, disappointed that I hadn't thought of it sooner. Got a couple of complaints throughout the time I did this, but I figured my district was so desperate for a night-shift pharmacist at my store that despite the complaints, I got away with it. Hope this helps someone out there!",47,89,2019-04-04,PHARMA,0.18832336366176605,0.7546836137771606,0.0569930374622345
+Health,"There may be no such thing as a ‘sugar rush’ - Sugar does not improve any aspect of mood and can even worsen it, according to new research using data from 31 studies, which found that sugar increases tiredness and lowers alertness within an hour after its consumption.",,55,497,2019-04-05,PHARMA,0.3316163122653961,0.5245794057846069,0.14380425214767456
+medicine,"Do you still believe in the egocentric, powerhungry doctor/surgeon stereotype? Why / Why not?",,290,356,2019-04-05,PHARMA,0.026840928941965103,0.9164429903030396,0.05671605467796326
+pharmacy,When your most unreasonable patient for the day is a prescriber...,"The other day we had a prescriber come in to pick up a CS. We politely informed them that based on the fill date last month, it wouldn’t go through for another ten days. The next day doc calls our pharmacy and is pissed because the fill date on the bottle works out to now, but the system rejection is based on the pick up date. I have this conversation regularly with patients and it’s annoying, but with a Doc?! In the course of our short conversation he lead with threatening to report us to the DEA, taking a jabs at my presumed age, and finishes by saying he’ll just encourage all his patients to pick up their CS as soon as they can do they don’t miss out. WTF? I tried explaining the reasoning behind this, but all that fell on deaf ears. In hindsight, I wish I would have ended the conversation at the initial DEA threat, “sounds good, have a nice day.”  
+
+Edit: Thanks for the gold! And for helping me feel a lot better about the situation.",50,141,2019-04-05,PHARMA,0.031055646017193794,0.8693680763244629,0.09957632422447205
+Health,"Attorneys General Sue Trump Administration Over School Nutrition Rollbacks - The suit, filed on behalf of 6 states &amp; the District of Columbia, says the weakened federal nutrition standards for school meals are putting kids at greater risk of health problems linked to diet.",,4,100,2019-04-05,PHARMA,0.9191603064537048,0.04929915815591812,0.03154059126973152
+pharmacy,CVS to now offer same day delivery.,,80,72,2019-04-05,PHARMA,0.024256430566310883,0.9148784875869751,0.06086506322026253
+medicine,Has anyone had experience doing chart review through SEAK as a side hustle? Is it legit?,"I am looking for opportunities to make some extra cash to pay down those student loans. My contract restricts me from clinical moonlighting. But medical chart review is an option. I have read articles about people who do it from home but the only actual lead I got is through an organization called SEAK. 
+
+Apparently you pay $500 to get your name listed and then you start getting sent charts. When I saw this my “It’s a scam” alarm went berserk. 
+
+However, several websites describe it as legitimate. I am interested in hearing from anyone that currently does this or has done it in the past and hearing about your experience.",9,37,2019-04-05,PHARMA,0.036129698157310486,0.9318166971206665,0.03205360844731331
+pharmacy,Bill SB520 Passes the Senate in Arkansas. Huge win for pharmacy.,,10,28,2019-04-05,PHARMA,0.028479566797614098,0.2618175446987152,0.7097029089927673
+medicine,"Memorial Sloan Kettering Leaders Violated Conflict-of-Interest Rules, Report Finds",,25,23,2019-04-05,PHARMA,0.23713229596614838,0.7396917939186096,0.023175861686468124
+medicine,Dual residency trained military physicians,[removed],15,23,2019-04-05,PHARMA,0.01623358391225338,0.9165111780166626,0.06725523620843887
+biotech,What news sources do you guys read?,"how do you guys keep up to date with what's going on in the industry? looking for best and greatest blogs, magazines, news websites!",19,22,2019-04-05,PHARMA,0.04247859865427017,0.9259026646614075,0.031618691980838776
+Health,"When Psychedelics Make Your Last Months Alive Worth Living ""Cancer patients show dramatic reductions of depression and anxiety that have lasted at least six months and sometimes a year""",,25,695,2019-04-06,PHARMA,0.22383025288581848,0.2136610448360443,0.5625087022781372
+pharmacy,Where’s Waldo?,,56,340,2019-04-06,PHARMA,0.07163026928901672,0.8984397649765015,0.029930002987384796
+pharmacy,Can we get these for every pharmacy worker ever please?,,45,335,2019-04-06,PHARMA,0.020176704972982407,0.9124264717102051,0.06739678233861923
+medicine,"NYT: Candida Auris expose ""A Mysterious Infection, Spanning the Globe in a Climate of Secrecy""",,78,315,2019-04-06,PHARMA,0.3154684901237488,0.6569304466247559,0.027601025998592377
+Health,"'Sentencing their dog to death': how the anti-vax movement spread to pets - There has been a spike in people refusing to vaccinate pets against deadly diseases, including some that can infect humans",,4,72,2019-04-06,PHARMA,0.08019832521677017,0.8912860751152039,0.028515564277768135
+pharmacy,We coded a patient in the ED tonight and this made it INSIDE the crash cart. Which one doesn't belong?,,30,58,2019-04-06,PHARMA,0.03166330233216286,0.9147622585296631,0.05357436090707779
+pharmacy,"I’m proud to be a retail pharmacist, how can I help defend our profession?","Hi all! 
+
+I’m a new graduate pharmacist who’s been in the community setting for almost 8 years now (tech turned intern turned rph) and even with all the bs metrics and occasional disgruntled patient I think being a community rph is a rewarding job and serves a huge purpose in society. 
+
+Even though I don’t trust/believe in APhA and especially distrust academia (they don’t have our best interest at heart) I am also in support of provider status and expanding clinical roles for pharmacists since at the end of the day we’re all in the same profession. However, I also enjoy community (granted, I’m in a target store so it’s more relaxed) and when a pharmacy is adequately staffed/has good techs and you open and close on time instead of working off the clock, it’s really a sweet gig that offers a unique flexibility imo. 
+
+With the increasing saturation, exorbitant student debt load and decreasing work opportunities it’s easy for community pharmacists to get burnt out and let community be a “sinking ship”. What can I/we do to help? I apologize if that question sounds naive but I actually genuinely will do whatever I can to make a difference and recruit friends/colleagues with me to help save community AND even clinical/expanded roles since were all in it together. 
+
+And to all the rphs out there please know your work is appreciated! I have 195k of student debt as well and I know how intimidating it seems but realize beyond the corporate demands and flaws with our job we really can make an impact on people and the appreciation is wonderful.",18,50,2019-04-06,PHARMA,0.024205652996897697,0.9039773344993591,0.07181695848703384
+pharmacy,Z-Pak Prior Auth?!,Today we got a script for a regular old 250mg z-pak and insurance denied it and wants a prior auth.  Our PIC called and they confirmed that they would pay for three tabs per rolling 30 days and we would need a prior auth for the full six tabs.  He asked if we could use the 500mg package and they said that needs a prior auth no matter what.  Frustrating.,19,18,2019-04-06,PHARMA,0.048513974994421005,0.9198893308639526,0.031596723943948746
+Health,"A Mysterious Infection, Spanning the Globe in a Climate of Secrecy",,4,18,2019-04-06,PHARMA,0.27436721324920654,0.696357011795044,0.029275840148329735
+pharmacy,Was this inappropriate?,"I had to have a prescription filled for Anastrozole. I guess based on this, the guy helping me knew I was being treated for breast cancer. He started asking me questions about my surgery, was it a single or bilateral, was I going to get implants, etc.  I eventually told him this was making me uncomfortable, and I could tell that shocked him. I believe he was a tech and not the pharmacist.  Was it normal for him to ask me those questions?",19,16,2019-04-06,PHARMA,0.05031440034508705,0.9142861366271973,0.03539952263236046
+medicine,'No need to tell the public': Super fungus that kills nearly half of its victims in 90 days has spread globally,,140,878,2019-04-07,PHARMA,0.26358315348625183,0.7171401977539062,0.019276658073067665
+Health,"Two patients with longstanding schizophrenia experienced complete remission of symptoms with the ketogenic diet, an evidence-based treatment for epilepsy. Both patients were able to stop antipsychotic medications and remained in remission for years now, as reported in journal Schizophrenia Research.",,67,759,2019-04-07,PHARMA,0.04231446236371994,0.9255445003509521,0.03214095160365105
+pharmacy,How many can relate?,,35,456,2019-04-07,PHARMA,0.10004431754350662,0.818522572517395,0.08143315464258194
+medicine,Echo of blown MV Papillary Muscle,[deleted],76,370,2019-04-07,PHARMA,0.023582976311445236,0.8921956419944763,0.08422135561704636
+medicine,"ELI5: Why is ""DICLEGIS"" a thing...and why is it prescription only?","This is a medication marketed for hyperemesis gravidarum.  It's 10mg of doxylamine, which is available OTC, and 10mg of pyridoxine (VitB6, also OTC).  OK, it's delayed-release, but otherwise, why are people prescribing this and/or paying money for it?
+
+\-PGY-14",128,231,2019-04-07,PHARMA,0.04297904670238495,0.9187121391296387,0.03830879554152489
+pharmacy,Warning: corporate pharmacy logs every keystroke.,"This is a cautionary tale that you need to pay attention to. 
+
+When choosing a password , there is generally a set of best practices. One of these is that you should choose a password that is slightly embarrassing, so that you are never tempted to share it.
+
+I chose a unique password for my state PMP that is not the same as my corporate password. It was the sort of thing you don't say in polite society.
+
+About 3 weeks later, I got a district visit and was asked why I was repeatedly typing offensive things while working. 
+
+The corporate level is able to view what you type, even if it is on a third party site like the state PMP. This indicates that they use a keylogger of some sort. 
+
+I just wanted to point this out so someone else doesnt make the same mistake as me.",48,188,2019-04-07,PHARMA,0.10321241617202759,0.8733218312263489,0.023465756326913834
+Health,"What we aren't eating is killing us, global study finds",,31,170,2019-04-07,PHARMA,0.08998661488294601,0.8659878969192505,0.044025469571352005
+pharmacy,Just got my first job as a tech and my brother got me this shirt to celebrate.,"&amp;#x200B;
+
+https://i.redd.it/1k05njuo1rq21.jpg",15,95,2019-04-07,PHARMA,0.01758030615746975,0.8763687014579773,0.106051005423069
+medicine,CT Angio of Massive Saddle PE,,58,89,2019-04-07,PHARMA,0.049536850303411484,0.8500150442123413,0.10044806450605392
+biotech,Is there any subreddit that is actually devoted to talking about biotech?,I’m looking through this sub up to the last 80 days pasta posts and it is overwhelmingly just career advice from undergraduates and people asking if they should go into a PhD program or something similar.,16,47,2019-04-07,PHARMA,0.02094428427517414,0.9082936644554138,0.07076208293437958
+Health,"Exercise officially makes you happier than money, according to Yale and Oxford research",,74,1084,2019-04-08,PHARMA,0.01725880429148674,0.8492134809494019,0.1335277259349823
+medicine,Idaho Pharmacists can now prescribe based on symptoms and basic tests. How do folks feel about this?,,327,376,2019-04-08,PHARMA,0.02593623287975788,0.9399781823158264,0.034085530787706375
+pharmacy,Congratulations to our Idaho brothers and sisters of pharmacy,"As some of you may know, a year ago Idaho implemented a pilot program with some local pharmacies that allowed pharmacists to prescribe for certain conditions like UTI, strep, cold, and other minor ailments. 
+
+I am happy to say House Bill 182 was signed into law recently that will redefine the practice of pharmacy on 7.01.19.
+
+Pharmacists are now allowed to prescribe tobacco cessation and PPD skin tests but perhaps the biggest change is allowing the prescribing of drugs, drug categories, or devices that are prescribed within FDA approved labeling AND do not require a new diagnosis, are minor and generally self limiting, have a test that is used to guide diagnosis or clinical decision making and are CLIA waived.
+
+https://legislature.idaho.gov/sessioninfo/2019/legislation/h0182/
+
+This is absolutely amazing. This law redefines the practice of pharmacy.",120,370,2019-04-08,PHARMA,0.018897181376814842,0.9360899329185486,0.045012883841991425
+medicine,Mohammed Shamji [neurosurgeon] pleads guilty to 2nd-degree murder of physician wife [gp] | CBC News,,89,363,2019-04-08,PHARMA,0.11687854677438736,0.8549433946609497,0.028178026899695396
+medicine,FUCKING Press Gainey,[removed],59,65,2019-04-08,PHARMA,0.12472475320100784,0.8310073614120483,0.0442679226398468
+medicine,What is the consensus of disclosing mental health information to medical school administration?,"I'm a 4th year med student and I've yet to take CK or CS still. I have been suffering from depression since college and it's really caught up to me now. I've also developed alcohol abuse for the past 2 years. I've been about a month sober and it's hard as hell. I want to ask my school for an extension on my exams.. but they previously advised me that if I dont take all my step 2 exams by June I will be kicked out. I just need a little time to seek counseling and right my course but I dunno how to tell my admin that I need some time. They've already given me a year as an academic break but I spent that time working since I'm the only caretaker for my dad, and I just drank to black out everyday when at home. 
+
+I don't want to disclose all of this but could I mention that I have depression without the fear of being kicked out since potential doctors should not have any red flags?",25,36,2019-04-08,PHARMA,0.23631639778614044,0.7365964651107788,0.027087146416306496
+medicine,Mid-level practitioners,"Hi there, as an european medical student I'm genuinely curious about some professional roles existing in the anglophone world, mainly USA and/or UK and Commonwealth countries, or in the army.
+
+See, here it's fairly simple... there are nurses and their assistants, doctors, paramedics and administration personnel. 
+
+Doctors can be in training, already specialized in something and some of the latter have direction/management roles, usually with one or more deputies. 
+
+A portion of nurses are specialized (say critical care, anesthesia, psychiatry, ward management,...) and perform more advanced duties, sometimes doing what was done by doctors in specific tasks and fields, usually with physician supervision (I really never understood why this way of practicing has been developed but it's fine by me, most specialized nurses are freakin' cool and they really know their stuff, I am learning a lot from them too).
+
+In the last months I read about physician assistants, respiratory therapists, emergency medical technicians, nurse anesthetists, advanced practice nurses and so on... I tried to keep track of everything but I quickly became lost. Would someone have the patience and the kindness to shed some light on this matter for all of us simple-minded european folks? :)
+
+Edit: didn’t want to start wars. Future doc here, but father is a nurse, grandmother was a nurse, cousin is a nurse, two exes are nurses, one of my best friends is a nurse. Happy with my decision to become a doctor but complete respect by me towards anyone on here! Just trying to understand the facts and the reasons.",108,35,2019-04-08,PHARMA,0.040061406791210175,0.9287410974502563,0.03119749389588833
+medicine,What is the funniest thing you’ve heard from a patient without having any context?,"Some of my favorites, for example, were while I’ve been at the nursing station or in the hallway. I’ve heard patients in their rooms: 
+
+“What happened to my air hole?!”
+
+“HARK! SHE BLOWS!!” *splash*
+
+“Where did my dick go?”",14,25,2019-04-08,PHARMA,0.04198409616947174,0.914391040802002,0.04362485930323601
+biotech,Should I transition to industry from academia?,"I am in the process of deciding whether to go into industry or academia (currently applying to both academic post docs and companies), and I was hoping to get your input on a few questions:
+
+What are the biggest differences between Industry and academia? 
+
+How much ownership do you have regarding projects in industry, and can you decide what project makes most sense to pursue?
+
+I personally like setting time to read and think of ideas to test – can you still do this in industry?
+
+Can you answer questions regarding projects in any way you'd like in industry? I am comfortable with both bioinformatics as well as molecular biology and I wonder how much I'll forced to specialize even more...this is something I don't personally want to do tbh.",21,24,2019-04-08,PHARMA,0.021931257098913193,0.9279956221580505,0.05007309094071388
+Health,"Antibodies that let old mice think like young ones - Stanford neuroscientists have found a single gene that encodes a protein responsible for age-related cognitive losses, targeted it with antibodies, and shown in mice that these antibodies can rejuvenate old brains to work as well as young ones.",,2,21,2019-04-08,PHARMA,0.02349155768752098,0.919900119304657,0.05660832300782204
+medicine,"Measles Outbreak: New York Declares Health Emergency, Requires Vaccinations in Parts of Brooklyn",,66,682,2019-04-09,PHARMA,0.1783752590417862,0.7950305938720703,0.026594087481498718
+Health,"Decline in physical activity often starts as early as age seven - Overall physical activity starts to decline already around the age of school entry, finds a new study. Having parental support for an active lifestyle was associated with increasing physical activity among children and adolescents.",,10,468,2019-04-09,PHARMA,0.8630580902099609,0.1199987456202507,0.01694313809275627
+Health,"New York City Orders Williamsburg Residents to Get Vaccinated for Measles or Face $1,000 Fine",,53,399,2019-04-09,PHARMA,0.05084557831287384,0.8807823657989502,0.06837203353643417
+medicine,"Prehospital Care of the 13 Hypothermic, Anesthetized Patients in the Thailand Cave Rescue | NEJM",,43,334,2019-04-09,PHARMA,0.03156734257936478,0.904779314994812,0.06365334987640381
+medicine,"Westfield HS principal lapsed into monthlong coma, died after bone marrow donation to help 14-year-old boy.",,83,288,2019-04-09,PHARMA,0.03541439026594162,0.921440601348877,0.043145060539245605
+medicine,[Weekly thread] Patients say the darndest things,"I remember that I forgot to post this thread when I overheard 2 older women discussing about some abdomen pain at the bus stop: ""I think you have gastric rheumatism"".",104,160,2019-04-09,PHARMA,0.09509330987930298,0.8658514022827148,0.03905534744262695
+pharmacy,Invisible Middlemen Are Slowing Down American Health Care,,81,149,2019-04-09,PHARMA,0.05517154186964035,0.8954964876174927,0.04933198541402817
+medicine,"Mental Health Treatment Denied to Customers by Giant Insurer’s Policies, Judge Rules",,13,147,2019-04-09,PHARMA,0.29883894324302673,0.664825439453125,0.036335572600364685
+medicine,Tribunal rules that Dr Bawa Garba will be allowed to return to work,,92,107,2019-04-09,PHARMA,0.04561905190348625,0.9255720973014832,0.02880883403122425
+pharmacy,"Next on ""3 letter agencies live in castles in the sky""","[https://www.fda.gov/Drugs/DrugSafety/ucm635038.htm?utm\_campaign=FDA%20MedWatch-Opioid%20Pain%20Medicines%3A%20Drug%20Safety%20Communication&amp;utm\_medium=email&amp;utm\_source=Eloqua](https://www.fda.gov/Drugs/DrugSafety/ucm635038.htm?utm_campaign=FDA%20MedWatch-Opioid%20Pain%20Medicines%3A%20Drug%20Safety%20Communication&amp;utm_medium=email&amp;utm_source=Eloqua) 
+
+&amp;#x200B;
+
+From the text:
+
+ **\[4-9-2019\]** The U.S. Food and Drug Administration (FDA) has received reports of serious harm in patients who are physically dependent on opioid pain medicines suddenly having these medicines discontinued or the dose rapidly decreased. These include serious withdrawal symptoms, uncontrolled pain, psychological distress, and suicide. 
+
+&amp;#x200B;
+
+So let me get this straight.
+
+Theres an Opioid crisis.  You (the DEA) want to curb opioid use/dependence by making us jump through hoops with 7 day supplies, override codes, etc.  Yet FDA warns of serious harm with sudden discontinuation or reduction of dose.
+
+&amp;#x200B;
+
+Am I the only one who thinks ""What the fuck did you think was going to happen?!?!""",12,52,2019-04-09,PHARMA,0.16287702322006226,0.8071030974388123,0.030019935220479965
+medicine,German doctors walk off job in nationwide strike,,295,742,2019-04-10,PHARMA,0.2672995626926422,0.6454786062240601,0.08722173422574997
+Health,"Invisible Middlemen Are Slowing Down American Health Care - Nurses spend 16 hrs on the phone, medications take months to arrive, &amp; patients suffer as they wait.",,66,550,2019-04-10,PHARMA,0.26357242465019226,0.683549165725708,0.05287846922874451
+medicine,Vanderbilt nurse error killed patient; nurse now being criminally charged,,434,548,2019-04-10,PHARMA,0.7301799654960632,0.23772050440311432,0.032099559903144836
+medicine,Medscape Physician Compensation Report 2019,,221,243,2019-04-10,PHARMA,0.1604909896850586,0.8133004903793335,0.026208525523543358
+pharmacy,"Why don't people bitch about waiting at the DMV, but throw tantrums at the Pharmacy?",You filthy animals,71,210,2019-04-10,PHARMA,0.3152170479297638,0.6649388670921326,0.01984414830803871
+pharmacy,Well at least the nation is paying attention more and more,,14,185,2019-04-10,PHARMA,0.11708992719650269,0.5824173092842102,0.3004927635192871
+medicine,Chlorhexidine versus routine bathing to prevent multidrug-resistant organisms and all-cause bloodstream infections in general medical and surgical units (ABATE Infection trial): a cluster-randomised trial,,25,86,2019-04-10,PHARMA,0.023289857432246208,0.9288384914398193,0.04787158966064453
+medicine,Ketamine infusions for burnout. Already happening in certain places. What are your thoughts?,"Recently found this clinic in Florida who are treating ""Burnout Syndrome"" with ketamine infusions. Anyone tried this? Thoughts on its future viability? To my knowledge, burnout syndrome has yet to make it into the DSM. Ketamine infusions are typically reserved for treatment resistant depression, and other established DSM conditions, but looks like this single clinic (linked below) advertises for burnout. 
+
+I'm feeling that burnout hard (spring of MS-2), but I exercise a ton, which keeps any debilitating anxiety &amp; depression from manifesting. Though I still have lost all interest in what I'm doing, and dream about other non-medical careers every day. Any port in a storm, so was researching this a bit. Very curious to hear r/medicine's thoughts. 
+
+[http://ketamineinstitute.com/burnout/suffering-burnout-ketamine-may-get-back-game/](http://ketamineinstitute.com/burnout/suffering-burnout-ketamine-may-get-back-game/)",74,58,2019-04-10,PHARMA,0.05994044989347458,0.9080243110656738,0.03203532099723816
+medicine,"Hot button: as a mandatory reporter, would you refer a 2yo child for evaluation by CPS for neglect when they arrive to the ER with no pediatrician and no vaccinations?","Despite the ED complaint, even if well appearing, is it at least worth reporting if there is no apparent medical or religious reason for no vaccines?",102,54,2019-04-10,PHARMA,0.028043624013662338,0.9066922664642334,0.06526406854391098
+Health,"Attorney General William Barr today doubled down on killing Affordable Care Act with nothing to replace it, leaving tens of millions of Americans uninsured",,2,52,2019-04-10,PHARMA,0.11476927250623703,0.8131985068321228,0.07203218340873718
+medicine,Do you continue to see patients in primary care who are seeing another doctor for high dose controlled substances that you feel are not indicated?,"I've turned down many patients for a refill who are on ambien and xanax 3 times a day including one Xanax ER a day. At best I'll offer a weaning schedule so that we don't stop them cold turkey. Many times they will refuse. 
+
+There is a doctor near where I practice who has switched to direct medicine or concierge medicine. Ever since the switch, we have had a flood of new patients who are all on the same meds. Without fail, every patient I have of his is on the same regimen. Ambien 10mg nightly, xanax 1mg tid, and xanax ER once daily. Sometimes a norco or muscle relaxer will be on their profile too. 
+
+I've noticed that this direct pay doctor will not fill anything but those meds for them and leave the DM II management with A1c of 13's up to me their new insurance taking primary care doctor. (me)
+
+How do you guys/gals deal with this? I'm tempted to reach out to him and more or less be like bro...wtf is going on? I'm confused what my and your role is here.
+
+On one hand I want to help their medical problems but on the other I find it hard when they have two different primary care doctors, one of which seems to only be treating anxiety or insomnia with high dose benzos. Since I do treat those disorders but not with benzos long term, these patients will flock to the cash pay doctors near me to get their fill.
+
+Should I start refusing to see these types of patients to treat their diabetes, HLD, thyroid disorders, etc? What would you do?",142,427,2019-04-11,PHARMA,0.04851541295647621,0.9219202995300293,0.02956429123878479
+medicine,"NB nurse accused of rogue administration of oxytocin, resulting in multiple emergency C-sections",,115,410,2019-04-11,PHARMA,0.38356032967567444,0.5936539173126221,0.02278575673699379
+pharmacy,Found THE best ever license plate today. At Walmart no less 🤦🏻‍♀️😂,,31,396,2019-04-11,PHARMA,0.014077900908887386,0.31872546672821045,0.6671966314315796
+Health,What’s Causing an Outbreak of a Mysterious Fungal Infection? America’s Farms Offer a Clue. - Fungicide use “most likely” played a role in the rise of a deadly drug-resistant germ.,,21,300,2019-04-11,PHARMA,0.03954145312309265,0.9034037590026855,0.05705476924777031
+Health,"Why Europeans Don’t Get Huge Medical Bills - Other countries still have health insurers, but they avoid 5-figure medical bills. The answer lies in how the insurers &amp; doctors are regulated.",,11,211,2019-04-11,PHARMA,0.033275678753852844,0.9253519773483276,0.0413723923265934
+Health,Ketamine reverses neural changes underlying depression-related behaviors in mice,,14,127,2019-04-11,PHARMA,0.16239610314369202,0.7914325594902039,0.04617137089371681
+Health,The nutrition study the $30B supplement industry doesn’t want you to see - Vitamins and minerals have health benefits—but only when eaten in foods,,27,106,2019-04-11,PHARMA,0.031136099249124527,0.9271790385246277,0.0416848249733448
+pharmacy,Cross posting. Update on the Vanderbilt versed/vecuronium med error that led to patient death. RN charged criminally - I think this is an awful precedent to set.,,66,93,2019-04-11,PHARMA,0.371501088142395,0.5950379967689514,0.03346094489097595
+pharmacy,Making more drugs available ‘over the counter’ would be a win for the public and the health care system,,69,81,2019-04-11,PHARMA,0.01153377816081047,0.3818683326244354,0.606597900390625
+medicine,Chest Binding: A Physician's Guide,,25,57,2019-04-11,PHARMA,0.02925141341984272,0.9340535402297974,0.0366949699819088
+Health,Mushrooms are “brain food” for seniors: Seniors who consume more than two portions of mushroom a week may have 50% reduced odds of suffering from mild cognitive impairment,,42,737,2019-04-12,PHARMA,0.2188304364681244,0.45010796189308167,0.33106160163879395
+medicine,The Scary Shortage of Infectious-Disease Doctors NY Times Op Ed,,262,528,2019-04-12,PHARMA,0.07131883502006531,0.8649589419364929,0.06372223049402237
+Health,French court finds Monsanto guilty of poisoning farmer. Ruling says chemicals giant knew of weedkiller’s dangers but label lacked warning,,5,367,2019-04-12,PHARMA,0.6378504633903503,0.30576446652412415,0.0563851073384285
+pharmacy,Is venting allowed?,"If the pharmacy closes at 7, and you show up after 7 to pick up, but want to try 3 different GoodRx cards, you are an asshole.",86,295,2019-04-12,PHARMA,0.016983555629849434,0.9039664268493652,0.07905004173517227
+medicine,How do you balance finishing notes/leaving on time/home life?,"Long story short, our first child is almost 3mo old. I’m having the age old dilemma : feeling guilty about not being home if I stay late at work; feeling delinquent if I leave to go home before all charts are closed. I’m full time clinic primary care with night clinic duties 4 times a month. I close 50-90% of my charts that day but on bad days or hard weeks sometimes my charts stack up 4-5 days and results stack up 48 hours.... and I’m left with a choice:
+
+1) stay late to finish notes on time
+2) go home, see kid, sacrifice quality of time/precious sleep and try to finish notes at home on time
+3) go home, see kid fully, sleep, finish notes in a slightly delinquent fashion (our clinic does not have a rule about timing and many physicians leave charts open for longer than I do/shittier notes).
+
+I will say : all my orders, diagnoses, and almost always my HPIs are fully completed shortly after leaving the room, so others see this even if my ROS/PE/plan justification is not. Also I am struggling to get 6hrs of interrupted sleep, already work through lunch, don’t spend any time relaxing, and kid sleeps at 8pm so barely spend 2hrs with her each day.",158,223,2019-04-12,PHARMA,0.11030759662389755,0.8624162077903748,0.0272761732339859
+medicine,How do attending hospitalists feel about Telemedicine MD’s covering for you overnight?,"Have you found this useful? Or is it causing additional work for you by having to reconcile new issues and orders from a physician that most of the time has little information about your patient? We have 1-2 hospitalist to cover admissions and emergent situations, but we also have the resource of the telemedicine provider for non-emergent issues. At times, these providers are unaware of protocols, standards, and order sets of our hospital.",15,62,2019-04-12,PHARMA,0.04379323497414589,0.9275657534599304,0.028641043230891228
+pharmacy,Retail pharmacists,,6,43,2019-04-12,PHARMA,0.028040515258908272,0.9314293265342712,0.04053017124533653
+medicine,What vitamins or supplements or other daily OTC products do you take?,"As we know, patients take many different vitamins for non-evidence based reasons, and I am sure many medical providers do as well.  I would be curious to know what you take on a regular basis and why. This would exclude prescribed or medically indicated (eg vit E and NASH)  things.  This could also include whether or not you take a baby ASA as primary prevention, so not confined to typical idea of 'vitamin' only products.
+
+I took the time to inspect the vitamin aisle at the grocery store and was pretty impressed by the selection and prices. I find it fascinating the odd beliefs people acquire to take a random manufactured pill vs. struggle to be to motivated to take well and developed medications.",136,25,2019-04-12,PHARMA,0.03686543181538582,0.9300628304481506,0.03307167440652847
+pharmacy,Need help with Ketorolac.,"I have a customer who has shoulder pain and is on ketorolac bid , she gets 10 tabs every time. My question is how many times you can be Ketorolac regime in one month? I mean can she get a 5 day regime every 10 days?",27,25,2019-04-12,PHARMA,0.04673246666789055,0.9045903086662292,0.0486772321164608
+pharmacy,Interesting article - Pharmacist authorship on clinical practice guidelines (Spoiler alert - we are under-represented),,9,24,2019-04-12,PHARMA,0.03099949285387993,0.9329022169113159,0.036098312586545944
+Health,"Medicaid could save $2.6 billion within a year if just 1% of its recipients quit smoking, according to new research by UCSF.",,18,366,2019-04-13,PHARMA,0.01297252718359232,0.7851056456565857,0.20192180573940277
+medicine,Any surgeons here ever have to open a patient at the bedside?,"Just curious if anyone here has a story where they had to open a patient up so emergently they couldn’t wait to transport them to the OR. If so, what was the indication? What was the outcome?",419,364,2019-04-13,PHARMA,0.03739737719297409,0.9035699367523193,0.05903264507651329
+pharmacy,I ride to work and found a nice use for moving totes around.,,10,71,2019-04-13,PHARMA,0.012455899268388748,0.69182950258255,0.2957145869731903
+pharmacy,You’d think the creation of text messages will make Pharmacy communications more efficient....,"Got an incoherent complaint from a patient who is fed up with receiving texts about things that are ready and then it not being really ready at the pharmacy.  He demanded a return phone call for an explanation. 
+
+DL forwards the complaint to me telling me to get it situated and give the man a $10 gift card. 
+
+
+So....the man’s wife apparently handles his meds and gets texts asking....”Do you need a refill on the prescription [insert first 3 letter of some drug name]?  Reply with Yes or No.” 
+
+Turns out......the woman has been replying in full fucking sentences — “Yes, I would like to refill this medication.”  
+
+❓⁉️❌♨️💢🚫📛 🙄
+
+And that’s why we don’t have anything filled. And then we get shit on. And then they get rewarded with a fckin gift card.",12,64,2019-04-13,PHARMA,0.035786423832178116,0.9291113018989563,0.035102199763059616
+pharmacy,"What’s the ballsiest move/risk you made or took, career-wise?","I have nothing lined up, but I want to quit my full-time job in retail hell despite that. I wanted to see if anyone did anything remotely similar/risky and how that turned out for you guys.",134,61,2019-04-13,PHARMA,0.10039384663105011,0.8567711114883423,0.04283507913351059
+medicine,Are you guys still using CK-MB for reinfarction? Please state your specialty if you respond.,[deleted],38,36,2019-04-13,PHARMA,0.026308564469218254,0.9399512410163879,0.03374025225639343
+Health,"NASA's Twins Study confirms spaceflight can: damage DNA; change how thousands of genes are expressed; increase the length of telomeres (the caps that protect chromosomes); increase inflammation; and thicken carotid artery walls. However, over 90% of the changes returned to normal post-flight.",,1,30,2019-04-13,PHARMA,0.031656455248594284,0.8535664677619934,0.1147770881652832
+medicine,I've been on vacation so I'm prepping myself in the most authentic way possible: Playing Theme Hospital,"Adding more items and being in bigger rooms makes the staff feel more important and perform better. Constant shrieks for two surgeons in the operating theater. Trash and vomit. An unending series of overhead pages. It's more accurate than it should be. It's very stressful. If only there were a slow-down button in real life. The main differences are the large freestanding video game consoles in the staff room, the nurses and handymen sharing the staff room with the doctors, and the inability of real life to crash when a surgeon tries to enter an operating room he is already operating in.",9,30,2019-04-13,PHARMA,0.048727501183748245,0.9080466032028198,0.04322589188814163
+medicine,Nailbed laceration repair help:,FM working in ER part-time.  I am having difficulty finding good resources and videos to discuss technique.  Anyone want to run through how they do it quick and dirty?  Suture type?  Keep nail in or splint?,23,29,2019-04-13,PHARMA,0.060271862894296646,0.9006110429763794,0.03911709040403366
+pharmacy,MPJE Study Material,"Good Afternoon everyone!
+
+Does anyone know of any good MPJE supplemental study material? Didn't do so hot on my 1st MPJE exam and wanted some advice on how to tackle the next one. I've been thinkin about getting RXprep 2019 mpje online review, Prontopass MPJE, and Guide to Federal Pharmacy book (by Reiss).  I've also have looked at my states laws for Virginia but not sure if most of questions on MPJE came from federal or state. All I know i the questions on MPJE are so wierdly worded and could only narrow it down to like 50/50 for everything. 
+
+&amp;#x200B;
+
+Thank you in advance",11,19,2019-04-13,PHARMA,0.022956399247050285,0.9292677640914917,0.047775767743587494
+medicine,Face transplant,,161,1948,2019-04-14,PHARMA,0.0689370185136795,0.8955824971199036,0.03548049554228783
+Health,The rise of 'presenteeism' in the workplace: A study has found that more than 40% of employees said their work was being affected by health problems - a figure that's risen by a third over the last five years. People are putting aside both mental and physical health problems to attend work.,,24,532,2019-04-14,PHARMA,0.8810319900512695,0.08418918401002884,0.03477877378463745
+medicine,When colleagues start shilling MLMs..,[deleted],199,515,2019-04-14,PHARMA,0.03925039619207382,0.9254149794578552,0.03533469885587692
+pharmacy,No food/drink in the pharmacy and no breaks aka we fasting for 10 hours,,177,290,2019-04-14,PHARMA,0.06139779090881348,0.8987871408462524,0.039815038442611694
+Health,Fecal transplants result in massive long-term reduction in autism symptoms,,31,285,2019-04-14,PHARMA,0.08045395463705063,0.8824365735054016,0.03710949048399925
+medicine,North Dakota passes bill allowing PA's to practice independently with at least 4000 supervised experience hours,"Summary of significant changes (from the PA network):
+
+H.B. 1175 makes significant changes to PA practice including:
+
+* Removing the requirement that PAs have a written agreement with a physician if they practice at licensed facilities (e.g., hospitals and nursing homes), facilities with a credentialing and privileging process (clinics), or physician-owned practices;
+* Allowing PAs to own their own practice with approval of the North Dakota Board of Medicine;  
+
+   * PA practice owners with less than 4,000 hours of experience must have a collaborating physician;
+* Defining PAs scope of practice as determined by their education and training;
+* Removing references to physician responsibility for care provided by PAs; and
+* Clarifying that PAs are responsible for the care they provide to patients.
+
+North Dakota Legislature PDF of the bill: [https://www.legis.nd.gov/assembly/66-2019/documents/19-0736-03000.pdf](https://www.legis.nd.gov/assembly/66-2019/documents/19-0736-03000.pdf)
+
+PA Network Summary and response to bill: [https://ndapa.mypanetwork.com/physician-assistant-news/582-passage-of-hb-1175](https://ndapa.mypanetwork.com/physician-assistant-news/582-passage-of-hb-1175)",336,140,2019-04-14,PHARMA,0.02815105766057968,0.9357631802558899,0.03608570992946625
+pharmacy,"We need to take about the financial and moral conflicts of interest between PBMs, Goodrx and insurance companies. And maybe how Goodrx signals the inevitability of Medicare for all.",[deleted],43,124,2019-04-14,PHARMA,0.0123843252658844,0.8745713829994202,0.11304426193237305
+pharmacy,Has anyone experienced transitioning from Pharmacist (RPh) to Physician Assistant (PA)?,"I am a pharmacist (RPh) who has practiced in a retail setting for several years.  Lately, I feel that my passion and dedication to patient care are totally being shadowed by the constant pressure to meet business metrics and profit.  Don't we all?  For that reason, I am considering attending Physician Assistant School.  As  a pharmacist, I can certainly bring a necessary skill set to PA school and it is not as long or as a tedious application as it would be to try MD school.  Has anyone experienced transitioning from RPh to PA?",67,59,2019-04-14,PHARMA,0.01894940249621868,0.9145544767379761,0.0664961114525795
+medicine,[Weekly thread] Patients say the darndest things,"Didn't hear too many ridiculous things recently. But I remembered this one from a patient: ""My feet are just usually smelly, it's not fungus.""
+
+It was fungus that could be seen from km away, but of course you just naturally have smelly feet.",16,56,2019-04-14,PHARMA,0.19692808389663696,0.7739233374595642,0.029148567467927933
+medicine,"TIL that in 1906 when Dr. Alois Alzheimer presented his groundbreaking research on the disease which would later be known as Alzheimer's Disease, the audience asked zero questions and made zero comments because they simply wanted to hear the next lecture (which was about compulsive masturbation)",,8,55,2019-04-14,PHARMA,0.03126063570380211,0.9280763864517212,0.040662895888090134
+Health,"Obesity might soon replace tobacco as top cause of cancer, yet few are aware of the link",,60,634,2019-04-15,PHARMA,0.029158402234315872,0.7773709297180176,0.19347071647644043
+medicine,Bronx woman awarded 110 million because her doctors did not transfer her to an ECMO center for status asthmaticus,,201,559,2019-04-15,PHARMA,0.014110619202256203,0.7427230477333069,0.24316631257534027
+medicine,Do your non-medical peers make you more or less happy with your career choice in medicine?,"i wanted to post in medical school forum, but thought it would be more enlightening to hear from those who have reached the proverbial ""light at the end of the tunnel"" or are at least close to it.
+
+&amp;#x200B;
+
+i acknowledge the ""grass is always greener"" fallacy, but i for one (MS4) am constantly challenged about my choice when around my non-medical peers. most of my friends work in sales. several are earning &gt;100k at 26-27 years old with free weekends 52 weeks a year. the opportunity cost of med school is immense, and with the looming automation revolution, it will be interesting to see how we fare long term given that most current students/trainees will reach a net worth of $0 in our mid 30s.
+
+&amp;#x200B;
+
+curious to hear from others, especially attendings with friends who have been in other industries for a decent amount of time",184,269,2019-04-15,PHARMA,0.018366293981671333,0.9091299176216125,0.07250382751226425
+Health,"Colorado teenage suicide: As numbers rise, kids say adults need to catch up",,38,221,2019-04-15,PHARMA,0.8156391382217407,0.13610713183879852,0.048253703862428665
+pharmacy,"""But my prescription cost (blank) 3 months ago""","Are you paying the same you paid for gas and milk also? Do you bitch to the gas stations, grocery stores?",63,185,2019-04-15,PHARMA,0.05729767307639122,0.9068530797958374,0.035849232226610184
+medicine,Israeli scientists 'print' world's first 3D heart with human tissue,,16,137,2019-04-15,PHARMA,0.02127046138048172,0.9021662473678589,0.07656323909759521
+Health,The disturbing links between Obesity and thirteen types of cancer,,8,99,2019-04-15,PHARMA,0.059299226850271225,0.9023149013519287,0.03838580101728439
+pharmacy,Fellow Pharmacist getting bullied at work,"Can anyone give a bit of advice. My old classmate is also a new Pharmacist at CVS and is getting bullied at work. They are too embarrassed to even post here anonymously... I just want to help them but don't know what to do. They seriously hate going up to work everyday. Everyone there talks bad about them. Makes fun of their appearance. The PIC only schedules them at night (90 - 95% of their shifts are at night) due to the PICs need to ""be with her family"". They aren't the most social person so maybe that's where some of the issues are. I'm also concerned depression is an issue too...
+
+Should they call HR? I would hate to have them have a target on their back (does that even happen?) If they do call HR what happens? Is there an investigation?  Do they get removed from the store or even district? Any advice would be great. Thanks!",51,64,2019-04-15,PHARMA,0.12441857904195786,0.8418710231781006,0.03371046483516693
+medicine,Was your residency too long?,[deleted],90,39,2019-04-15,PHARMA,0.06460371613502502,0.8358281850814819,0.09956809133291245
+pharmacy,Kroger Central Fill Hit by Tornado,[deleted],21,29,2019-04-15,PHARMA,0.5857641100883484,0.33998119831085205,0.07425468415021896
+medicine,"Unaware he had measles, a man traveled from N.Y. to Michigan, infecting 39 people",,127,849,2019-04-16,PHARMA,0.038193345069885254,0.9095754623413086,0.052231162786483765
+Health,"New study finds simple way to inoculate teens against junk food marketing when tapping into teens’ desire to rebel, by framing corporations as manipulative marketers trying to hook consumers on addictive junk food for financial gain. Teenage boys cut back junk food purchases by 31%.",,11,529,2019-04-16,PHARMA,0.31311747431755066,0.6543530225753784,0.032529544085264206
+medicine,[News] Washington University Announces Free or Reduced Tuition for Incoming Students,,59,182,2019-04-16,PHARMA,0.1264345645904541,0.7726667523384094,0.10089865326881409
+pharmacy,"Tomorrow, April 17th at 2:30 pm Arkansas’ Governor, Asa Hutchinson, will be signing bill SB520. Huge win for pharmacy in Arkansas!","The bill passed through the Senate, House of Representatives, and two Insurance and Commerce committees without a single ""no"" vote from a legislator! Summary below.",13,111,2019-04-16,PHARMA,0.023712951689958572,0.8387435674667358,0.13754349946975708
+pharmacy,He should start a pharmacy chain.,,21,67,2019-04-16,PHARMA,0.023793963715434074,0.9263919591903687,0.049814026802778244
+medicine,"How ethical is it to prescribe things for friends, family members, or yourself?",,78,44,2019-04-16,PHARMA,0.04318087175488472,0.9215787649154663,0.03524034097790718
+pharmacy,Dealing with techs who won’t grab the counter/cashier,"I worked as a tech before being a pharmacist and always knew it was my place to cashier/ grab counter. There are 2 techs in the district I absolutely hate working with. One of them tells patients “she will be right with you” when she’s doing nothing and I’m trying to verify prescriptions. I don’t mind helping sometimes when the techs legit busy, but it’s annoying when she’s actively passing the front counter on me. Any Rphs with similar issues? I don’t want to seem lazy but it’s getting frustrating",45,33,2019-04-16,PHARMA,0.5399119257926941,0.4382874071598053,0.021800706163048744
+Health,"Measles cases triple globally in 2019, says UN: Africa had witnessed the most dramatic rise - up 700%. Since September, at least 800 people have died from measles in Madagascar alone. Outbreaks have also hit Brazil, Pakistan and Yemen, ""causing many deaths - mostly among young children"".",,2,26,2019-04-16,PHARMA,0.7736333012580872,0.16569273173809052,0.06067400053143501
+pharmacy,Do-not-tube list,Does anyone know of an organized comprehensive list of drugs that should NOT be sent in a pneumatic tube system? My hospital is running off of a handwritten messy hodgepodge list that is pretty outdated.,6,24,2019-04-16,PHARMA,0.04465242102742195,0.9262128472328186,0.029134659096598625
+medicine,A Cooks cervical dilator balloon for induction of labor.,,10,18,2019-04-16,PHARMA,0.04079608991742134,0.9200531840324402,0.039150744676589966
+medicine,"Doctors, pharmacists in 5 states charged in prescription pain pill bust totaling 32 million pills",,122,548,2019-04-17,PHARMA,0.21001721918582916,0.7258007526397705,0.06418196111917496
+medicine,Man who killed cardiothoracic surgeron Patrick Pritzwald-Stegmann jailed for 10 years,,126,470,2019-04-17,PHARMA,0.04043189063668251,0.9139178395271301,0.04565022140741348
+Health,"Israeli flight attendant in coma after getting measles - she might have contracted the virus in New York, in Israel or on a flight between the two",,49,430,2019-04-17,PHARMA,0.3869098722934723,0.567557692527771,0.04553242027759552
+Health,Anti-vax moms sue NYC as US heads toward record measles spread,[deleted],55,262,2019-04-17,PHARMA,0.026795335114002228,0.8761839866638184,0.09702066332101822
+medicine,"[meta] Let's talk about subreddit content, midlevels, and moderation.","A few times a year, we meddit moderators like to have a meta thread to discuss general moderation trends, content issues, and to invite feedback from the community about moderation. These threads help us get a feel for what the community enjoys about the subreddit and what they'd like to see change.
+
+It's been a little while since our last one, so I'm sure there's a lot to talk about. Let's start with some stats:
+
+We have eight moderators for this subreddit of ~228000 subscribers, a ratio of roughly 1:28,500. In 2019 so far, we've performed a collective 5320 moderation actions exclusive of discussions in modmail. This amounts to almost exactly 50 moderation actions per day. Being generous and assuming each takes about one minute to read in context, judge, action, and document, that's 50 minutes of moderating required between us in a 24-hour period. March 2019 was our busiest month ever in terms of traffic and moderation and that continues a trend of increasing traffic each month this year.
+
+In terms of content, I think we need to start with the issue of this community's approach to midlevels. I believe that this is a pretty USA-centric problem, and so I'm not bringing much experience to the discussion here, but this has definitely been a recurrent issue on this subreddit.
+
+This subreddit was founded to be a 'lounge' for medical professionals but has standards of civility that effectively amount to ""if you wouldn't say it to a new colleague you're just meeting in the break room, don't say it here"". Since the last meta thread, and probably even before then, we've been seeing a significant increase in [sweeping disparaging remarks](https://www.reddit.com/r/medicine/comments/bd5ggv/north_dakota_passes_bill_allowing_pas_to_practice/) putting down entire groups of healthcare professionals. This is typically aimed at mid-levels (PAs, NPs, CRNAs, etc) from doctors and medical students. I have been approached privately and [on the subreddit](https://www.reddit.com/r/medicine/comments/b66ilq/what_will_keep_the_amas_ama_on_burn_out_from/ejoxsr3/?context=3) by a number of midlevels who feel that this [atmosphere](https://www.reddit.com/r/medicine/comments/bd5ggv/north_dakota_passes_bill_allowing_pas_to_practice/ekwagv0/) makes it very difficult for them to participate in the subreddit and who are increasingly viewing meddit as an unpleasant place to visit.
+
+I don't have the pleasure of being a part of a system where increasing midlevel autonomy is a hot topic or a 'threat', but I think that the tone of this subreddit with respect to these topics has certainly become increasingly toxic. This is, of course, on a background of the subreddit nearly doubling in size over the last year and globally polarised polemic becoming an increasingly common method of default communication. At the moment, we moderators have to balance censorship with civility, and regardless of our approach, we will be upsetting someone. Our steering approach has often been deliberately quite heavy-handed on this professional subreddit but we do recognise that this subreddit exists primarily for the benefit of the users, not the moderators, and to a certain extent we should tailor our moderation strategy around that.
+
+So, that's the main reason this post exists. We'd like to hear your (constructive) thoughts on whether we should be more overt in prohibiting and removing content that is disparaging to midlevels (and where the lines should be, or whether it's best to leave it in our nebulous but hopefully capable hands), or whether the best plan is to trust the community to police itself with upvotes and downvotes alone. It would be really helpful if you could provide links to examples with your posts if possible to help us quantify the problem.
+
+In other news, we are still seeing a fair amount of politics creeping into this subreddit. We've been removing content that is not explicitly and primarily related to the practice of medicine but, as with everything we do, there are people who feel that we allow too much and those that feel that we censor too much. What's the consensus on that recently in terms of community feeling?
+
+We've been able to run a few AMAs this year and are looking for more. If you're an interesting person (sorry, 99% of you) and want the undying adoration of a quarter million people, get in touch.
+
+Lastly, any and all other suggestions or comments are welcome here. This post will remain stickied for one week and we moderators will try to reply to things on a daily basis. As always, this is a subreddit that relies entirely on international volunteers with full-time day jobs, night jobs, and on-calls to moderate in their spare time and we couldn't make this subreddit work without our moderation team's efforts. If you've got a suggestion - or if you'd like to genuinely offer your help to the team (bearing in mind it can take up about a full hour each week), send us a modmail. If you've got a long history of good posts in meddit, we can even pay you in salt.",619,230,2019-04-17,PHARMA,0.059382143430411816,0.8565656840801239,0.08405218180269003
+pharmacy,"Doctors, pharmacists in 5 states charged in prescription pain pill bust totaling 32 million pills",,28,187,2019-04-17,PHARMA,0.21001721918582916,0.7258007526397705,0.06418196111917496
+medicine,"Thirty one doctors, seven pharmacists, and eight nurses indicted in federal crackdown on illegal opiate prescribing",,8,115,2019-04-17,PHARMA,0.22617676854133606,0.7471756935119629,0.02664755843579769
+pharmacy,Florida about 10 years back,"So I am NOT a pharmacy employee in any way. However I watched a documentary called the Oxy Express that was shot about a decade ago on pain clinics in Florida. For those of you who were pharmacists during this time in the state how did you cope with it and what’s your craziest story? The documentary said at the time, Florida prescribed more oxycodone than all other 49 states combined, multiplied by 10.",26,85,2019-04-17,PHARMA,0.03737109899520874,0.919574499130249,0.04305438697338104
+Health,Scotland post-surgical deaths 'drop by a third' through implementation of a safety checklist,,2,68,2019-04-17,PHARMA,0.7438575625419617,0.2366950511932373,0.01944742724299431
+medicine,"OB/GYNs, please help me be a better Peds preceptor","Hi, colleagues.  I'm a preceptor/adjunct prof at a medical school and I am assigned one-on-one to medical students.  My student this month wants to be an OB/GYN.  I try to tailor my teaching to the student' career interest if they express a clear career direction and try to give them cases and discussion relevant to their chosen specialty.  I have a lot of students who want to do IM or FP or Surgery, some psych, but this is one of the few ""definitely OB/GYN"" students I've had.  And OB/GYN is a weak spot for me.
+
+As OB/GYNs, what did you learn on your medical school Pediatrics rotation that you still use in your career?  What do you wish you had learned?
+
+Currently, I plan to let her have a birth control talk with a teenage girl if the opportunity comes up and I'm going to try to push as many adolescent girls in her direction as I can.  What else do you want me to teach her?  I'm going to post this in r/residency, too.
+
+\-PGY-14",16,57,2019-04-17,PHARMA,0.025810126215219498,0.9239634871482849,0.05022641271352768
+Health,Dentistry is much less scientific - and more prone to gratuitous procedures - than you may think.,,97,387,2019-04-18,PHARMA,0.061985794454813004,0.9081335067749023,0.029880672693252563
+Health,High-Deductible Health Policies Linked To Delayed Diagnosis And Treatment,,33,385,2019-04-18,PHARMA,0.08534982055425644,0.8912872076034546,0.023362940177321434
+medicine,Let's generate a guide for effective email communication with a busy professional,"We are all drowning in work, and when we get irrelevant, inane, or poorly-written email it really stings.
+
+Help me generate a practical list of actionable tips on ""**How to communicate with a really busy person**"".
+
+Examples on from my own experience are
+
+* **never reply ""thank you"" to an email** - if you are genuinely thankful, send a card. Otherwise, the most sincere thanks is letting their inbox stay empty for an extra 15 minutes
+* **send anything that can be answered by the secretary to the secretary** - the administrative assistant knows exactly what the doctor needs to see, and can respond to many questions directly. You will get a faster answer, and the physician won't have to pay your attention tax
+* **one issue per email** - since the inbox functions as a defacto ""to do"" list, don't put a long email with four different things you need in a single message ; make each one a message, and make them all succinct
+* **make the subject meaningful** - the best email is the one you don't even need to open, because the subject says it all
+* **use (NNTR) in the subject** - when you *have* to say something, but also don't need a reply back, put (NNTR) as the very first item in the subject. This tells the recipient that there is **N**o **N**eed **T**o **R**espond, which is an emotional gift when the inbox is full.
+
+What are yours?",125,302,2019-04-18,PHARMA,0.053394634276628494,0.9238107204437256,0.02279457449913025
+medicine,"NYT: How a Chicago Woman Fell Victim to Candida Auris, a Drug-Resistant Fungus",,27,194,2019-04-18,PHARMA,0.23392580449581146,0.7114720940589905,0.05460212379693985
+pharmacy,"Is the holy trinity “cocktail” of soma, norco and Xanax every clinically indicated? What rationale do doctors even have for writing them together?",,68,82,2019-04-18,PHARMA,0.03043990395963192,0.9196925759315491,0.04986747354269028
+VACCINES,what anti-vac in a nut shell,,0,74,2019-04-18,PHARMA,0.2568585276603699,0.711205244064331,0.031936243176460266
+pharmacy,Insulin Resource (storage/wastage/etc),,9,69,2019-04-18,PHARMA,0.05238435044884682,0.9258726239204407,0.021742958575487137
+medicine,"Here is a collection of historical free ebooks about sexual health, sexual education, and childbirth from Project Gutenberg. Most of these are from the 1800s or early 1900s and contain highly questionable ideas that are fascinating reading.",,2,56,2019-04-18,PHARMA,0.15958192944526672,0.8124449849128723,0.027973126620054245
+Health,Snoring is harmless. Five hours of sleep is enough. Alcohol before bed helps. These are all sleep myths debunked as false in a new study published in the National Sleep Foundation's journal Sleep Health.,,6,55,2019-04-18,PHARMA,0.021565565839409828,0.8847891688346863,0.09364526718854904
+medicine,Mental health and substance abuse treatment options for physicians,"A physician friend of mine is battling severe anxiety and moderate depression which he is treating with marijuana and alcohol.  While I can’t speak on his professional performance, he partakes in risky behavior outside of work and it is taking its toll on his family. 
+
+This is a very intelligent, kind human being and he needs help. I don’t know if he is at that place yet where he recognizes he needs help. When he is ready, is it possible for him to seek professional help without repercussions to his medical career.",31,50,2019-04-18,PHARMA,0.05862787365913391,0.9065200090408325,0.03485216945409775
+medicine,Medicine is the best.,"Despite the tedious admin and sometimes shitty hours and upset patients, the human body is so intricate and amazing. 
+Getting to do this every day (even after the 100th stroke or heart attack or bowel obstruction) still feels so *cool.* And add in the niche presentations or rarer complex conditions... damn I love this job. 
+Hope you’re all having a wonderful start to the weekend!",129,839,2019-04-19,PHARMA,0.029647279530763626,0.8859707117080688,0.08438199758529663
+pharmacy,My boss just sent me this figured I’d share,,27,804,2019-04-19,PHARMA,0.03606124967336655,0.908439576625824,0.05549919605255127
+medicine,Received this questionable free magazine in the mail today. Check out the circled featured article- ahhh the brilliant mind of Dr Oz.,,130,630,2019-04-19,PHARMA,0.016556575894355774,0.8770132660865784,0.10643021017313004
+Health,Report: Bottled water made by Whole Foods and Dr. Pepper has unsafe amounts of arsenic,,12,367,2019-04-19,PHARMA,0.9348493814468384,0.05269823223352432,0.01245241891592741
+Health,"Measles in 2019 — Going Backward: In 2000, the US achieved a historic public health goal: the elimination of measles, defined by the absence of sustained transmission of the virus for more than 12 months. Unfortunately, that momentous achievement was short-lived.",,48,316,2019-04-19,PHARMA,0.02193363942205906,0.8769259452819824,0.10114043205976486
+Health,"Marijuana users weigh less, defying the munchies, suggests new research based on a conceptual model for BMI determinants (n = 33,000), which found that those who smoke cannabis, or marijuana, weigh less compared to adults who don't.",,26,315,2019-04-19,PHARMA,0.03040890395641327,0.8776959776878357,0.09189516305923462
+pharmacy,Did it guys! No longer chained by the devil.,"Leaving Come Visit Satan for a pediatric staffing job (7 on/7 off) and could not be more excited. 
+
+People thought I was crazy for leaving...since I apparently had the position of a life time.  
+
+Was a PIC at a low-volume store (100-250 per day) making mid to high $60s/hour.....with incredible technicians and generally amazing patients.   
+
+But money wasn’t everything and I wasn’t happy with where we were heading as a company...and I was done with retail BS.  My DL was heartbroken when I put in my notice; tried to talk me into staying.  Said I was one of the best in the district.  I felt so bad, but in the end...I had to do what I felt was right. 
+
+Am I crazy for leaving?",57,191,2019-04-19,PHARMA,0.10713038593530655,0.8523092865943909,0.0405602864921093
+pharmacy,Why do pharmacies have phones that ring?,"It is extremely rare for the phones to not be ringing at my store. It doesnt even make sense for there to be phones ringing, as I could pick up a the phone at any time and someone will be there on the other line.",59,97,2019-04-19,PHARMA,0.06363921612501144,0.9115720987319946,0.02478872425854206
+medicine,Pearls from a dermatology resident.,,12,87,2019-04-19,PHARMA,0.04473000392317772,0.9022113084793091,0.05305875465273857
+pharmacy,Everyone who warns current pharmacy students to stay away from the profession: what do you recommend we do instead?,What would you do if you could go back &amp; start over from your undergraduate career?,96,76,2019-04-19,PHARMA,0.20946545898914337,0.7512276768684387,0.0393068753182888
+medicine,I Lied When I Said We Did Everything We Could,,133,560,2019-04-20,PHARMA,0.026210246607661247,0.8715800642967224,0.1022096648812294
+Health,"Housework could keep brain young: Even light activity such as household chores might help to keep the brain young, suggests a new study (n=2,354), which found every extra hour of light physical activity per day was linked to 0.22% greater brain volume, equal to just over a year’s less brain ageing.",,14,481,2019-04-20,PHARMA,0.02535553090274334,0.7385547757148743,0.23608966171741486
+Health,"Anti-vax parents lose in NY court, face steep fines for not vaccinating",,8,235,2019-04-20,PHARMA,0.5613119006156921,0.4087055027484894,0.02998247556388378
+medicine,MD Anderson Cancer Center ousts 3 Chinese scientists over concerns about data theft,,18,122,2019-04-20,PHARMA,0.0643215999007225,0.8647674322128296,0.07091102004051208
+Health,"HIV used to cure 'bubble boy' disease: US scientists say they used HIV to make a gene therapy that cured eight infants of severe combined immunodeficiency, or ""bubble boy"" disease.",,5,106,2019-04-20,PHARMA,0.038263652473688126,0.8216490745544434,0.14008726179599762
+pharmacy,CVS pays IG influencers for advertisements but cuts technician hours. Techs just aren’t in the budget I guess!,,13,62,2019-04-20,PHARMA,0.3648274540901184,0.6106842756271362,0.024488287046551704
+pharmacy,"Yes, I don’t have anything better to do besides calling ALL the pharmacies in town FOR YOU.","Patient came in with a prescription for eye drop on a Saturday. Turns out I don’t have it, won’t get it in till Monday. I called the only other three letter in town that MIGHT have it, was on hold for 15 minutes and turned out they don’t have it either. 
+
+Me: “no three letter within 20 miles of us has this. I can order it for Monday for you, or you can check with another chain.” 
+
+Patient: “well can you call around to find out who has it?”
+
+Me: (????????) NO I CANNOT. As a patient it is YOUR responsibility to find the medication given by your doctor. I already called my sister store and they don’t have it. You can check with a different retail chain if you like.” 
+
+
+So between filling , pick up, drive thru, and 8 pages of PCQ calls, patients expect me to literally call all pharmacies in town to find a medication for them? And they have the audacity to get upset when I refuse to babysit them like they’re 5 year olds?",65,59,2019-04-20,PHARMA,0.060807760804891586,0.9061524271965027,0.033039793372154236
+VACCINES,Vaccinate Your Crotch Goblins,,0,57,2019-04-20,PHARMA,0.03336664289236069,0.9126325249671936,0.0540008544921875
+Health,"NIH researchers make progress toward Epstein-Barr virus (EBV) vaccine, with novel vaccine candidates that, in animals, elicited potent anti-EBV antibody responses that blocked infection of cell types involved in EBV-associated cancers. Worldwide, EBV-associated cancers results in 140,000 deaths.",,1,40,2019-04-20,PHARMA,0.017677508294582367,0.8920727372169495,0.09024977684020996
+medicine,Case study - hypervitaminosis d resulting in kidney failure after being given vitamin d drops by naturopath.,,15,35,2019-04-20,PHARMA,0.23922120034694672,0.7371688485145569,0.023609910160303116
+medicine,Why isn't this pertussis death in CA all over the national news? Same with measles encephalitis and fraternity mumps outbreak cases (see links in comment below),,97,844,2019-04-21,PHARMA,0.03638094291090965,0.9319576621055603,0.031661320477724075
+Health,"You’re not getting enough sleep—and it’s killing you: “The decimation of sleep throughout industrialized nations is having a catastrophic impact on our health, our wellness, even the safety and education of our children. It's a silent sleep-loss epidemic.”",,91,762,2019-04-21,PHARMA,0.0496167428791523,0.9129561185836792,0.03742717206478119
+medicine,Why do we s**t on other professions?,"I’m in the healthcare personally for more than six years. I was raised by a mother who was a nurse for something close to 40 years, and one things bothers me to this day… actually almost every day: why a lot of people working in healthcare have a tendency to dismiss other professions and make themselves look better?
+
+Let me explain, starting from the bottom:  
+
+- **CPR instructors:** when I was doing a CPR training the instructors were describing how neither EMTs nor nurses can provide a good CPR and how much they’re better at this.
+- **Phlebotomists:** I had an occasion to audit parts of the course as well as encounter phlebotomists both in the field and also drawing me. Due to limited SoP the main point of contention is how nursers are unable to draw, don’t know the order of draw, use too big of a needle etc.
+- **EMT-Bs:** I went throughout the program and I currently teach it. I see a tendency of saying how paramedics or (especially) nurses are incompetent and how EMT-B will do a much better job at e.g. CPR or assessment. 
+- **EMT-Ps/Paramedics:** Here I could write an essay but in short it’s a daily occurrence to complain at the nursing personnel. I constantly hear how capno, FAST, or intubation are some sort of black magic which paramedics excel at. Additionally there’s a constant finger-pointing about nurses being tethered to a physician with everything while paramedics are free to do almost anything (?!).
+- **Nurses:** Here the complains are both downward facing (EMS) and upward facing to PAs and MDs/DOs. I constantly hear how the process of diagnosing patients is so much better while performed by a nurses, since they are able to spend more time with the pt. Additionally the drug dosing and tests results interpretation seems to be the biggest advantage of NPs over PAs/MDs/DOs.
+- **PAs:** I don’t have a big exposure to that group, but a number of times (sometimes publicly and/or on social media) I’ve encounter Physician Assistants presenting doctors as money-grabbing machines with just „slightly more wasted years“ (an actual quote).
+
+
+I deliberately left MDs/DOs out of the list, since the issue there seems to be way more complicated (e.g. fights between specialties, trying to prove that one residency is better than the other etc).  
+
+### Why, just why we s**t into our own bed?!
+I just wonder what’s your opinion on that? I personally think this is really inappropriate and simply selfish - we **are a team**, when even one of the preciously crafted gear of the medical machine is missing the work becomes harder and patients suffer as the result. Not to mention such behaviors simply look bad in the eyes of patients.  
+While I can agree on some points looking at some HCPs most of the time it’s a typical BS IMHO.",406,675,2019-04-21,PHARMA,0.08961819112300873,0.8819872140884399,0.028394538909196854
+medicine,"State senator opposes bill with breaks for nurses because ""they play cards for a considerable amount t of the day""",,84,394,2019-04-21,PHARMA,0.14669665694236755,0.7649679780006409,0.08833541721105576
+pharmacy,Also wanted to show off our collection,,35,388,2019-04-21,PHARMA,0.037126410752534866,0.9304925203323364,0.032381076365709305
+medicine,"Med school dropout with $430,000 of student loans calls into a radio station seeking financial advice.",,275,196,2019-04-21,PHARMA,0.05945463851094246,0.89688640832901,0.043658968061208725
+pharmacy,"Tennessee Pharmacists: Stand up and advocate on behalf of your patients, and share the importance and value of the pharmacy profession with YOUR state Representative and state Senator!","This is a step in right direction for our profession (corporate and independent pharmacists both)
+
+House Bill 786 and Senate Bill 650 (Comprehensive PBM Reform) Will Be Heard in House and Senate Finance Committees This Week!
+--- Strengthens audit protections regarding pharmacy's right to amend claims prior to recoupments, including recoupments due to clerical and record-keeping errors.
+
+--- Prohibits PBMs from recouping the cost of the drug or dispensed product through audit, except in cases of fraud, excess dispensing, and dispensing outside of prescriber's orders.
+
+--- Prohibits PBMs from charging retroactive or non-apparent fees (e.g., DIR fees) to pharmacists or pharmacies at the state level.
+Prohibits PBMs from using contractual language to require a pharmacist to dispense a drug or product to a patient contrary to the pharmacist's professional judgement.
+
+--- Establishes notification requirements for PBMs regarding a pharmacy's network status.
+
+--- Requires PBMs to disclose any material change to contracts to a pharmacy or pharmacist in its network at least thirty (30) days before the effective date of the change.
+
+--- Establishes certain contract standards and prohibitions between PBMs and pharmacies.
+
+--- Establishes that PBMs shall not engage in a pattern or practice of reimbursing a pharmacy or pharmacist less than it would reimburse itself or an affiliate for providing the same drug or dispensed product.
+
+
+Email YOUR State Representative and State Senator: Send an email to your elected officials to share your personal story and request their support for House Bill 786 and Senate Bill 650. 
+
+Call YOUR State Representative and State Senator: Make calls to the offices of your elected officials to voice your support for House Bill 786 and Senate Bill 650. 
+
+Meet with Your Elected Officials: Invite your elected officials to meet with you at your pharmacy to educate them on the importance of House Bill 786 and Senate Bill 650. 
+
+Make Your Emails and Calls Personal!
+1) Utilize the Quick Guide to Advocating for Comprehensive Pharmacy Benefits Manager Reform.
+2) Share your experience and explain why comprehensive PBM reform is needed.
+3) Provide de-identified examples of negative patient outcomes caused by PBMs.
+4) Share examples of egregious pharmacy audits and contracting issues.
+5) Discuss the negative impact of retroactive fees (such as DIR fees) on your practice.
+6) Ask legislators to support pharmacists and patients by supporting and voting for HB 786 and SB 650.
+
+[Click here to find the contact information for your State Representative and State Senator.] (http://www.capitol.tn.gov/legislators/)
+
+Thanks",14,144,2019-04-21,PHARMA,0.08107950538396835,0.8960944414138794,0.022826068103313446
+Health,A Washington State Senator Said Some Nurses Spent Too Much Time Playing Cards. Then Nurses Replied.,,2,68,2019-04-21,PHARMA,0.11673680692911148,0.8447160124778748,0.038547173142433167
+medicine,Here’s a new vagal maneuver for you to try.,,11,62,2019-04-21,PHARMA,0.019005058333277702,0.8377434015274048,0.14325152337551117
+Health,"Report: 'Church' Advertising 'Miracle Cure' Event in Washington, Despite FDA Warnings It's Just Bleach",,4,28,2019-04-21,PHARMA,0.022481000050902367,0.7695679664611816,0.20795100927352905
+medicine,Doctors Who Use Weed Off-Duty Are Getting Their Licenses Suspended,,336,775,2019-04-22,PHARMA,0.07833107560873032,0.8973365426063538,0.024332407861948013
+Health,"Rates of people with cancer using marijuana have increased over time in US, and patients with cancer are more likely to use prescription opioids, finds a new study. “If patients substituted marijuana for opioids, this may introduce an opportunity for reducing opioid-related morbidity and mortality.”",,7,318,2019-04-22,PHARMA,0.023091284558176994,0.8838728070259094,0.09303587675094604
+medicine,"I asked if I could start another pressor. My attending replied “it don’t matter what you do, she gonna die anyway”",,131,191,2019-04-22,PHARMA,0.04239466413855553,0.9265990853309631,0.03100625053048134
+pharmacy,"The Giants at the Heart of the Opioid Crisis: the Distributors--Cardinal Health, McKesson and AmerisourceBergen...",,30,56,2019-04-22,PHARMA,0.031509753316640854,0.9182012677192688,0.050288934260606766
+medicine,What is the most interesting diagnosis you have ever encountered during your career in medicine?,"Had a patient who had the diagnosis „Sudden Cardiac Death Survivor“ which I thought was very metal, so I wanted to know which diagnoses have had a lasting impression on you guys.",116,55,2019-04-22,PHARMA,0.03328267112374306,0.8988257050514221,0.06789163500070572
+medicine,Anyone here work at a critical access hospital?,"I'm sure a lot of you have seen the news about a state senator making a comment about nurses at critical access hospitals sitting around playing cards. I've been surprised to learn about these hospitals (I never would have guessed there are over 1000 of them), and I'm curious what it's really like. I assume a 15-bed hospital is very different than a 500-bed hospital.",26,47,2019-04-22,PHARMA,0.03306727483868599,0.9194332957267761,0.0474993996322155
+pharmacy,Criteria for asymptomatic bacteriuria during pregnancy diagnosis in the ED?,"Can we diagnose asymptomatic bacteriuria during pregnancy in the ED with just a UA? 
+
+So patient comes in with no symptoms for a completely unrelated matter and gets a UA to confirm pregnancy status or something else. UA comes back positive for 5-10 WBC. MD starts treating right away.
+
+I didn't think this meets criteria of &gt;100k x2 visits or whatnot.
+
+Am I misreading the IDSA guidelines or can they diagnose with just a UA of 5-10 WBC?",26,36,2019-04-22,PHARMA,0.05389944463968277,0.9126551747322083,0.03344535082578659
+pharmacy,Always forgotten 😕,,3,29,2019-04-22,PHARMA,0.03241697698831558,0.861080527305603,0.1065024584531784
+pharmacy,Independent Pharmacy Question GER and DIR FEES!!,So recently we encountered our first GER fee issue. I wanted to know if anyone has any type of strategy in place to deal with GER and DIR fee's at their pharmacy. At the moment it seems like we just have to bend over a take it every 6 months?! WTF!!,38,24,2019-04-22,PHARMA,0.03849967569112778,0.9312565326690674,0.030243730172514915
+VACCINES,California minors vaccine consent?,"There's a law in California that states that minors 12 and older are entitled to confidential sexual health services without parental consent. This includes things like the HPV vaccine, birth control, and other medicine (though it also asserts that it's not the parent's responsibility to pay for it). I couldn't find whether there was a similar law for other contagious, preventable disease vaccinations. Does anybody know what the policy on this is?",8,16,2019-04-22,PHARMA,0.03870387002825737,0.9366118907928467,0.024684250354766846
+Health,"On any given day, 1 in 5 American youngsters don't drink any water at all, finds a new study of US children and young adults in JAMA Pediatrics, and those who don't end up consuming almost twice as many calories from sugar-sweetened beverages. “Drinking water is the healthiest beverage to drink”.",,38,499,2019-04-23,PHARMA,0.02561679109930992,0.919162392616272,0.05522076413035393
+medicine,"Doctors, are there specialties/subspecialties you would advise AGAINST going into in the near future? Why/Why not?","I'm an IMG doing my (compulsory) internship, and for the past 3 years I've been thinking about interventional cardiology.
+
+Sometimes I talk to notable doctors, and today I talked to an orthopedic surgeon who told me it would be a mistake for me to go into such specialty. He said the lifestyle and pay weren't worth it, and that interventional radiology would soon be taking over the work of interventional cardiologists.
+
+Frankly, he was experienced enough and seemed knowledgeable enough that he practically put me in a mid-life crisis situation where I started doubting if I wanted to go into internal medicine at all.
+
+* What do you foresee in the near future? 
+* Are there drastic changes happening in your field?
+* Would you have picked something else had you known what you know now?
+* Do new advances in technology and AI make you worry about your job security?
+
+
+
+I did my elective in interventional cardiology - I liked the subject, the ability to immediately improve the condition of the patient, and the work itself was mostly fine by me - though I'm sure on-calls are not *great*.",564,446,2019-04-23,PHARMA,0.026320545002818108,0.9127198457717896,0.060959648340940475
+pharmacy,"Found this doozie at my local convenience store and I swear, smells like the real stuff.",[deleted],99,384,2019-04-23,PHARMA,0.014813422225415707,0.8990658521652222,0.08612069487571716
+Health,Research shows psilocybin — a Schedule I narcotic — to be of great help to cancer patients with end-of-life problems,,3,291,2019-04-23,PHARMA,0.047710251063108444,0.9132324457168579,0.03905734792351723
+medicine,Anaesthetist fired for doing PR at invitation of surgeon,,143,183,2019-04-23,PHARMA,0.031817641109228134,0.8758605718612671,0.09232176095247269
+pharmacy,"A must read, IMO.",,29,96,2019-04-23,PHARMA,0.03970186039805412,0.9224966764450073,0.037801507860422134
+medicine,Family Members and Awkward Healthcare Scenarios,"This might be as much of a vent as it is an inquiry to how people may have handled similar situations. My family members -- most specifically my mother and father -- are constantly inserting me into their healthcare scenarios, but not in a way that I feel is okay.
+
+&amp;#x200B;
+
+My opioid-addicted father calls me 5 minutes after any healthcare professional leaves the room, most recently, IM and Surgery teams, to get a confirmation bias that ""they aren't doing everything they can"" (read as ""they didn't give me dilaudid"").  He has also called me to vent about the limitations of the number of Percocet his insurance company will let him have per month and to ask me ""what should I tell my pain doc?"" I don't have any intention of aiding his habits and have only ever tried to provide the idea that there are far better solutions but this is going on 20 years, almost as long as I can remember and I'm afraid ""precontemplative"" would still be a generous description. He has verbally stated, ""I'd rather live pain-free and die from my liver/kidney/heart/lungs than do anything else.""
+
+&amp;#x200B;
+
+My mother, on the other hand, is a pain-in-the-ass-by-proxy. She is a physicians worst nightmare as she has accompanied my step-father through his cancer diagnosis and subsequent surgery and his heart attack over the last 10 years. Everything is questionable with google at the ready. She has an astonishing, Dunning-Kruger-like level of confidence in her medical knowledge and is dismissive of anything other than what she thinks is best. She fires physicians regularly and my step-father long ago realized arguing with her is futile.
+
+&amp;#x200B;
+
+To make things worse, they mention me in these interactions. I happen to have good marks and am doing pretty well, which they use as ammunition in sort of a ""let me check with my son, he's an honor medical student"" way or a ""well I think my opinion is valid, my son is a medical student"" way... even typing that is cringeworthy. They put me on speaker and ask my opinion but only in the ""\[medical team\] wants to do X but I think Y is more appropriate, don't you?"" way. 
+
+&amp;#x200B;
+
+There could be so much more I could get into, with other family members my mother has represented in healthcare scenarios, but you get the gist...  I've attempted to avoid these scenarios but the not so subtle, yet honest ""please stop doing that"" has so far been fairly ineffective.
+
+&amp;#x200B;
+
+Has anyone else had to deal with this? Especially from the provider side of things with difficult families or families with healthcare professionals in them? I really don't mind talking to them if they wanted to have a realistic conversation, but the situations I find myself in are uncomfortable and forced.",20,94,2019-04-23,PHARMA,0.12234200537204742,0.8507459759712219,0.02691200003027916
+pharmacy,Dealing with anxiety,"I hate to post this here because I know we deal with so much more bs in our profession, and I'm fortunate enough to land a clinical job near my home considering the job market nowadays. However, whenever it's my day off, I feel so consumed with anxiety that I can't relax. My biggest fear is making a mistake that ultimately causes patient harm. I literally can't sleep at night because I'm always going over my day thinking if there was anything in particular that I may have done wrong. Not really sure what to do as I'm still relatively new to this. 
+
+
+Does anyone have any advice on minimizing the risk of making mistakes at work?",45,83,2019-04-23,PHARMA,0.19424527883529663,0.7749164700508118,0.030838225036859512
+medicine,How IBM Watson Overpromised and Underdelivered on AI Health Care,,34,74,2019-04-23,PHARMA,0.030294915661215782,0.9318081140518188,0.03789694607257843
+medicine,What is your favorite patient story?,"Most of us went into this profession to help others.  Sometimes that's hard to remember when we're working all hours chasing some quality metric or satisfying the gods of bureaucracy.  I think we all need these stories, these heartwarming memories of times when we knew we made a difference.  They rekindle our passion, and help us refocus on what really matters.  I'd love to hear from those of you willing to share some of your patient stories.",52,68,2019-04-23,PHARMA,0.030889011919498444,0.8998839259147644,0.06922711431980133
+medicine,Asphyxiation due to orange slice,,197,970,2019-04-24,PHARMA,0.026054900139570236,0.9298830628395081,0.04406207054853439
+Health,Inflammation might be the root of preventable disease | Harvard Magazine,,79,445,2019-04-24,PHARMA,0.03946434706449509,0.8111900687217712,0.14934560656547546
+Health,"Untreatable form of Lyme disease could hit 2 million Americans by 2020, scientists warn - Symptoms of post-treatment Lyme disease can derail normal life",,118,442,2019-04-24,PHARMA,0.07448558509349823,0.8730851411819458,0.05242932587862015
+medicine,World's First Malaria Vaccine Launches In Sub-Saharan Africa,,18,434,2019-04-24,PHARMA,0.012874295935034752,0.8048396706581116,0.1822860687971115
+Health,WHO: Infants under 1 year old shouldn’t be exposed to any electronic screens,,25,396,2019-04-24,PHARMA,0.09359601885080338,0.8800817131996155,0.02632223814725876
+pharmacy,Speeding up pills dissolving,,23,337,2019-04-24,PHARMA,0.05301586166024208,0.9129376411437988,0.03404644876718521
+medicine,CDC: Doctors were too cautious about opioid pain pill prescribing,,221,252,2019-04-24,PHARMA,0.0836617574095726,0.8635445237159729,0.052793748676776886
+pharmacy,Potato Intervention (p &lt; 0.05),,2,119,2019-04-24,PHARMA,0.03425603359937668,0.915677011013031,0.050066933035850525
+Health,"When You Give Birth, Your Body … Rips. That Might Suck a Little Less if We Talked About It More. ""Physical recovery from childbirth is not always straightforward, and even in the best of circumstances, it’s messy.""",,5,80,2019-04-24,PHARMA,0.03887058049440384,0.875861644744873,0.08526773750782013
+medicine,[Discussion] Is there something uniquely bad about health reporting?,"As an embarrassingly basic, upper middle-class, educated, urban liberal, I consume news from the New York Times and NPR in unhealthy amounts. I find their healthcare coverage tends to range from not-great to appallingly bad.
+
+A recent [example](https://www.nytimes.com/2019/04/17/health/candida-auris-fungus-chicago.html?login=smartlock&amp;auth=login-smartlock) is a case of the so-called ""superbug"" _Candida auris_ at Northwestern University's hospital. In an unfortunate series of events, a women with pulmonary manifestations of worsening SLE ended up on ECMO -- due to uncontrollable bleeding s/p lung biopsy -- as a possible bridge to a lung transplant. After a month-long cannulation, she developed drug-resistant candidemia and died shortly thereafter. The article implies that had she not developed drug-resistant candidemia, she would have been completely fine. It never mentions that the odds of successfully treating even non-resistant candidemia while remaining cannulated were very close to zero, or even if she never developed candidemia, the odds of her getting donor lungs and surviving transplant after a month in an ICU were very close to zero. It also never mentions that people without prolonged immunosuppression and/or long-term indwelling catheters are not at risk for candidemia, whatever the drug resistance profile.
+
+The article spins the whole thing as a lurid and unhelpful story about a cover-up because the state public health department isn't whipping up panic and naming every hospital with an identified case of _C. auris_ (it's every big medical center with complex patients in the ICU). They quote the family as wishing the hospital had told them what they were doing to prevent _C. auris_ before she got it (...?). The involved hospital unsurprisingly declined to comment, and the reporter included only a brief line from a CDC doc saying, ""yep we are seeing some of this"" without tempering any other elements of the story with, I don't know, expert commentary.
+
+Anyway, this is far from the only example. I don't think I've ever heard or read a story in my preferred news sources on healthcare that left me thinking, ""what a good article."" Which got me wondering -- are all the stories on all the topics so distorted, superficial and sensationalized but I just don't know enough about international politics or finance to know better on non-healthcare topics? Or is there something uniquely difficult about reporting on something so personal and emotionally fraught as healthcare? Are there any sources in mainstream news media that tend to do a good job with health reporting?
+
+My impression is that all news is imperfect, especially the short-form, 4th-grade-reading-level article which need to drive clicks, but that reporting on the complexity of healthcare is inherently more difficult than reporting on a military skirmish or political disagreement. Is that just my bias showing (healthcare is special because it's *my* thing)? Your thoughts, meddit?",31,65,2019-04-24,PHARMA,0.09971190989017487,0.8778918981552124,0.022396234795451164
+medicine,A duck walks in to an alternative medicine practicioners office. It angrily points a wing at the man behind the desk and says with a frown:,"""Quack""",58,857,2019-04-25,PHARMA,0.1124306172132492,0.8541558384895325,0.033413540571928024
+pharmacy,Bedtime snack?,,34,396,2019-04-25,PHARMA,0.08191484957933426,0.8668039441108704,0.051281172782182693
+Health,"21 million children miss first dose of measles vaccine every year - Unicef says low vaccination rates worldwide reflect “lack of access, poor health systems, complacency, and in some cases fear or scepticism about vaccines”.",,15,343,2019-04-25,PHARMA,0.08788792043924332,0.8775772452354431,0.03453487157821655
+medicine,What's the dumbest thing you've done in your training?,"A few examples have come to mind that shock me to this day
+
+&amp;#x200B;
+
+1. I was in a family medicine setting, I was going to vaccinate a 9 month old but didn't put the needle in the syringe correctly. As I injected, half of the vaccine leaked out. The mother started crying (and the baby), and wanted to apologize. The nurses vehemently discouraged me to do that. The staff doc laughed and said ""it happens all the time"".  I still regret not talking to the mom and apologizing.
+
+&amp;#x200B;
+
+2) On IM , we were individually rounding and was told a patient had a fall that AM and was anti-coagulation. I saw them and everything seemed fine. When running the list, the senior said ""she must be on anticoagulation for a while given the senile purpura"". I then realized it was the wrong patient -- mine didn't have any senile purpura. I told my senior in confidence and instead of scolding me said ""good for you to apologize and realizing your mistake. Not many do that. I hope to work with you again sometime"". It was truly bizarre feedback since it's a major fuck up
+
+&amp;#x200B;
+
+3) I was on IM rounding as a very very junior clerk. A guy just randomly fell to the ground and claimed his left arm went numb. I thought I was clever and called the code stroke before telling the resident.  The neuro team came and noticed he has chronic pseudo-seizures especially when he's about to be discharged :S. I had forgotten to read his admission note",200,172,2019-04-25,PHARMA,0.10589130967855453,0.8602745532989502,0.0338340625166893
+medicine,"Was arguing with a colleague about ""hypercarbia"" vs ""hypercapnia"" and stumbled across this correspondence gem from 1961",,77,121,2019-04-25,PHARMA,0.14478972554206848,0.6573762893676758,0.19783394038677216
+pharmacy,Questions for an old pharmacist,"Hello Reddit Pharmacy,
+
+My father has been a pharmacist his entire life. He is still working part-time now and belive it or not he started his apprenticeship about 60 years ago, in the 1950s. He has worked primarily in New Zealand but also briefly in the USA (NY) and UK (London).
+
+He has such a wealth of experience and knowledge about the 'old days' so I am thinking of getting a video camera and doing an 'interview' where I can ask him questions about his experiences. Kind of an 'oral history' project.  (Also, demonstration of manual compounding, tablet making etc!)
+
+So my questions to you are:
+
+a) Does this sound worthwhile, and
+
+b) Any particular questions you would like me to ask?
+
+If the video goes ahead I will post it on youtube for everyone to see.
+
+Thanks!
+
+&amp;#x200B;
+
+Edit: Thanks a lot for the positive feedback and advice everyone. I will work on the video and announce here when it is done.",36,116,2019-04-25,PHARMA,0.023049121722579002,0.9186589121818542,0.05829194188117981
+medicine,"Doctors of Reddit, what do you tell people when they ask what you do for a living?","I've worked with docs who don't like to tell people they're a doctor to avoid questions, etc.",207,71,2019-04-25,PHARMA,0.12329714745283127,0.8557088375091553,0.020994018763303757
+Health,"Dementia vs. Alzheimer's: Differences, Diagnosis and Treatment",,2,49,2019-04-25,PHARMA,0.11957542598247528,0.8341988921165466,0.046225666999816895
+pharmacy,CVS seems sketchy?,"CVS keeps texting me for refills (auto-refill is turned off) for any brand name drugs I have refills on. I have a prescription for Flonase that I used once for a cold but don’t need it. I don’t reply to the texts since I find them intrusive. 
+
+Last week CVS texted me that they are still waiting for my Dr. to approve a refill. Then a few days *after* that they ask if I would like the pharmacist to refill it. Which seems to be the pattern - they act like they are waiting on the Dr or something is being processed then it loops back to asking for my permission again.
+
+Last night my Dr’s office emailed me that they sent in the refill. I checked and sure enough, CVS had requested a refill for the drug and was processing it for me to pick up.
+
+Maybe it’s a glitch in their system but it seems very aggressive/unethical  - how can they contact a Dr. for a refill that I never asked for. The pharmacy said it was all automated and they get tons of complaints about it.
+
+
+1rst message 
+CVS Pharmacy: X, WE'RE STILL WAITING for your DR TO APPROVE a refill for FL. Please call your Dr. for more information. Reply HELP for help.
+
+2nd message 
+CVS Pharmacy: PLEASE RESPOND: X, would you like your pharmacist to refill Rx FL that's due for refill? Txt YES or NO. Txt NAME for full Rx name.",36,42,2019-04-25,PHARMA,0.08262147754430771,0.891745388507843,0.025633081793785095
+Health,Study Suggests Overdiagnosis of Schizophrenia,,4,41,2019-04-25,PHARMA,0.056523196399211884,0.9080398082733154,0.0354369692504406
+pharmacy,"When all the nurses are playing cards, pharmacists are over here like",,47,888,2019-04-26,PHARMA,0.05234963074326515,0.9171024560928345,0.030547887086868286
+medicine,Internal medicine interns spend only 13% of workday on direct patient care,,142,788,2019-04-26,PHARMA,0.041460707783699036,0.9312086701393127,0.027330605313181877
+medicine,USC cardiovascular fellowship to be stripped of national accreditation,,186,783,2019-04-26,PHARMA,0.06778273731470108,0.8196418285369873,0.11257541924715042
+pharmacy,I made the starry night out of vial caps,,28,745,2019-04-26,PHARMA,0.03292188048362732,0.9073540568351746,0.059724073857069016
+Health,"Teens prefer harm reduction messaging on substance use, instead of the typical “don’t do drugs” talk, suggests a new study, which found that teens generally tuned out abstinence-only or zero-tolerance messaging because it did not reflect the realities of their life.",,32,537,2019-04-26,PHARMA,0.03078319877386093,0.9127109050750732,0.056505948305130005
+medicine,Georgetown University School of Medicine is not permitting medical students to be educated about abortion because its in conflict with the school's religious identity,,82,447,2019-04-26,PHARMA,0.049829281866550446,0.9131662249565125,0.037004437297582626
+medicine,Epileptogenic frontotemporal lobectomy,,28,137,2019-04-26,PHARMA,0.05645366385579109,0.8919408917427063,0.051605455577373505
+Health,"100s Of People At 2 LA Universities Quarantined Due To Measles Exposure - The University of California, Los Angeles, &amp; California State University have told 100s of students &amp; staff to stay home for up to 48 hrs unless they can prove they're immune or vaccinated.",,3,131,2019-04-26,PHARMA,0.025625424459576607,0.8973063826560974,0.07706815749406815
+Health,"Novel vaccine for colorectal cancer proves safe in a small sample of human subjects, in a new phase 1 clinical trial, with early indication that the vaccine could activate immune cells to fight colorectal tumors and metastases. Colon cancer is the second highest cause of cancer deaths in the world.",,4,78,2019-04-26,PHARMA,0.014296280220150948,0.8605561256408691,0.12514758110046387
+medicine,Constipation in Kids [poster],,10,33,2019-04-26,PHARMA,0.041434288024902344,0.9263420701026917,0.0322236567735672
+medicine,What’s your bread and butter and do you like it?,They say that 80% of what most physicians see in a day comes down to about 20 diseases. What are yours and do you enjoy treating them?,427,410,2019-04-27,PHARMA,0.02785973809659481,0.9160411357879639,0.05609912425279617
+Health,No safe amount of alcohol during pregnancy,,56,332,2019-04-27,PHARMA,0.028088025748729706,0.9280928373336792,0.04381915181875229
+Health,The antibiotics industry is broken—but there’s a fix: Attempts to develop new antibiotics are failing because the projects aren't profitable.,,32,238,2019-04-27,PHARMA,0.24514420330524445,0.728632390499115,0.026223374530673027
+medicine,Adult Measles Re-vaccination Recommendations,"With the recent measles outbreaks, my clinic has had a few patients asking about testing for measles immunity. The [CDC guidelines](https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html#note-mmr) suggest that those born after 56 need to either get a booster, have evidence of appropriate vaccination (not the inactivated vaccine from the mid 60s), or lab evidence of illness/immunity.",70,177,2019-04-27,PHARMA,0.023419905453920364,0.9323999285697937,0.044180139899253845
+pharmacy,When you spend half the day on hold and need to entertain yourself...,,12,159,2019-04-27,PHARMA,0.22521747648715973,0.7384123802185059,0.036370132118463516
+pharmacy,"LPT: if your patient needs help paying for a med, go to needymeds.org they list and link all copay assistance coupons as well as any manufacturer direct assistance programs with all paperwork/phone numbers. (I have no affiliation and make no money from this, just like the site)",,23,149,2019-04-27,PHARMA,0.02879759669303894,0.9266530275344849,0.04454933479428291
+Health,"700,000 more baby rocker sleepers recalled after infant deaths, just weeks after Fischer-Price recall of 5,000,000 units",,0,86,2019-04-27,PHARMA,0.039094358682632446,0.9005403518676758,0.060365304350852966
+Health,FDA expands blood pressure drug recall for fifth time this year,,1,80,2019-04-27,PHARMA,0.056994836777448654,0.7642518877983093,0.1787533015012741
+pharmacy,Wal-Mart Wellness Day,Nothing like the feeling of acting as a car salesman for the day. Dog and pony show from start to finish.,21,49,2019-04-27,PHARMA,0.05940983071923256,0.9108803868293762,0.02970976009964943
+medicine,Hep C Potentially Transmitted by Opioid Drug Diversion From Nurse,,28,39,2019-04-27,PHARMA,0.15523669123649597,0.823441743850708,0.02132156491279602
+medicine,Hospital CEOs get big raises despite pressure to control health care costs,,178,867,2019-04-28,PHARMA,0.0186406672000885,0.12204544246196747,0.8593138456344604
+pharmacy,Pharmacist should also have a degree in Physician Text translation,,54,441,2019-04-28,PHARMA,0.03082071803510189,0.935056209564209,0.03412312641739845
+Health,"Mapping the 2nd brain: The latest science on the effect of your gut bacteria - “You personally might be better off eating the cheapest white bread at the supermarket, or you might need fancy wholegrain bread.” Variety is the key. What works for one may not work for another.",,42,390,2019-04-28,PHARMA,0.023036208003759384,0.9099398255348206,0.06702392548322678
+Health,"""The prevalence of tattoos is higher among people with mental disorders and those likely to come in contact with mental health services.""",,53,299,2019-04-28,PHARMA,0.606255292892456,0.27693602442741394,0.11680868268013
+pharmacy,RIP retail pharmacists,,32,178,2019-04-28,PHARMA,0.041475988924503326,0.9145982265472412,0.04392576590180397
+Health,"Chicken often contains fecal bacteria, lawsuit against USDA claims",,8,147,2019-04-28,PHARMA,0.02992829866707325,0.9320241808891296,0.03804749250411987
+Health,MMR vaccine and autism link debunked again: MMR vaccine reduces ASD risk in subgroup of girls,,12,91,2019-04-28,PHARMA,0.061060626059770584,0.8967961668968201,0.042143240571022034
+Health,Listening to music may improve stroke recovery - HVY,,2,84,2019-04-28,PHARMA,0.01921045407652855,0.3755185902118683,0.6052709221839905
+Health,"Trump says anti-vaxxers 'have to get their shots' despite repeatedly linking vaccinations to autism: 'The vaccinations are so important,' president says outside the White House",,11,81,2019-04-28,PHARMA,0.048336610198020935,0.9044831395149231,0.04718027636408806
+medicine,That lede is… wow. That's something special.,"&amp;#x200B;
+
+https://i.redd.it/y45loq5o4yu21.png",46,53,2019-04-28,PHARMA,0.014586013741791248,0.85068678855896,0.13472719490528107
+Health,Antibiotic resistance as big a threat as climate change – chief medic,,30,380,2019-04-29,PHARMA,0.028387922793626785,0.9187504649162292,0.05286156013607979
+medicine,"A JetBlue flight from Santo Domingo, Dominican Republic has just landed at JFK reporting two active measles cases on board, according to sources with strong knowledge of the situation. The plane is being moved to a temporary quarantine area.",,26,360,2019-04-29,PHARMA,0.06157813221216202,0.8706778883934021,0.06774398684501648
+medicine,Declining empathy in medical school,"So a time ago I read [this article](https://journals.lww.com/academicmedicine/Fulltext/2009/09000/The_Devil_is_in_the_Third_Year__A_Longitudinal.12.aspxhttps://journals.lww.com/academicmedicine/Fulltext/2009/09000/The_Devil_is_in_the_Third_Year__A_Longitudinal.12.aspx) that states that empathy in medical students declines when the the curriculum is shifting toward patient-care activities; even though this is when empathy is most essential.
+
+I was wondering if any one of you know has an theory why this decline of empathy happens specific when the students attend patient-care activities?  
+
+
+  [https://journals.lww.com/academicmedicine/Fulltext/2009/09000/The\_Devil\_is\_in\_the\_Third\_Year\_\_A\_Longitudinal.12.aspx](https://journals.lww.com/academicmedicine/Fulltext/2009/09000/The_Devil_is_in_the_Third_Year__A_Longitudinal.12.aspx)",168,311,2019-04-29,PHARMA,0.6837275624275208,0.2812964916229248,0.03497594594955444
+medicine,“Don’t take before checking with your doctor.”,"As a new mom who has found that her pediatric training covers maybe 5% of the practical knowledge I need as a parent, I’m reading ex. Teething? Ask your doctor if it’s ok before using tylenol. 
+
+Does anyone know the point of this? I can’t imagine any situation in which a parent and their teething 6mo old comes into my office and I say no to “can I use Tylenol at the recommended dose”. Same with a pregnant woman who wants to take a tums.
+
+Edit: I’ve heard:
+1) guidelines can change at any time making the med inappropriate, and only doctors may know the change
+2) med interaction including another otc containing the same med
+3) wanting the underlying condition treated in a timely fashion instead of masking symptoms/using the otc inappropriately",39,69,2019-04-29,PHARMA,0.04206811264157295,0.9165669679641724,0.04136493057012558
+medicine,Maine considers protecting quacks from accountability to regulators and patients,,6,55,2019-04-29,PHARMA,0.03057190775871277,0.9186309576034546,0.05079713463783264
+pharmacy,New Cialis Generic much more affordable,Not sure if anyone noticed but it looks like a couple new manufacturers started making Tadalafil tablets. Good RX now has a coupon for 30 x 5 mg for $30. It seems like overnight the price plummeted.,22,49,2019-04-29,PHARMA,0.02701430954039097,0.895818293094635,0.07716738432645798
+pharmacy,"It's me again, bitching about GER fees some more","Finally got a look at the GER fees on an individual RX basis.  I had one RX that had a fee of $986 resulting in a total margin of -$900.  I called my PSAO to see if I can appeal or do anything, of course the answer was no.
+
+What the fucking fuck?  How the hell am I supposed to account for this kind of thing?",59,46,2019-04-29,PHARMA,0.045020587742328644,0.9120557308197021,0.042923666536808014
+medicine,Resident Wellness is a Lie (3/3) - Thoughts?,,25,34,2019-04-29,PHARMA,0.15360930562019348,0.7702515125274658,0.0761391744017601
+biotech,In the pipeline informal salary survey,,2,28,2019-04-29,PHARMA,0.11042353510856628,0.8518064022064209,0.03777008503675461
+VACCINES,"Trump, once a vaccine skeptic, changes his tune amid measles outbreaks",,1,23,2019-04-29,PHARMA,0.06967542320489883,0.8742532134056091,0.05607140064239502
+medicine,Drone delivers kidney for transplant over Baltimore,,50,610,2019-04-30,PHARMA,0.03647863119840622,0.8862354755401611,0.07728587836027145
+medicine,"Just finished my first autopsy on a baby. Trying not to think about the patient’s neonatologist who came down, post call, to join us.",,107,554,2019-04-30,PHARMA,0.02097158692777157,0.9236114025115967,0.055417027324438095
+pharmacy,This Porsche looks like it needs an Epi-pen.,,15,502,2019-04-30,PHARMA,0.01459292508661747,0.906648576259613,0.07875850051641464
+Health,"Eight out of 10 marijuana users in states where cannabis is legal say they partake in the drug shortly before or after exercise, and most report that it motivates them to work out, helps them enjoy exercise more and improves their recovery, according to new research (n=605).",,47,469,2019-04-30,PHARMA,0.017728343605995178,0.8776323795318604,0.10463926196098328
+Health,'Completely avoidable' measles outbreak hits 25-year high in US - health officials report that more than 700 people have been infected by measles this year,,28,301,2019-04-30,PHARMA,0.5956544280052185,0.3569333255290985,0.04741223528981209
+Health,"Bill Of The Month: Camper's Snakebite Runs Up $143,938 Bill",,27,277,2019-04-30,PHARMA,0.04337606206536293,0.9204017519950867,0.036222171038389206
+pharmacy,My manager is giving me a tough time for not selling enough clown noses.,"I'm a recent grad. I work at a chain that sells clown noses at the pharmacy. Recently, my manager asked me to meet him in the office and told me that I need to sell more clown noses, as he is having a contest with another store. He said I have only sold 3, and all the other staff have sold more. I was kind of shocked. Is this a thing that people actually take seriously? He seemed to be genuinely serious and said I had to carry my own weight. 
+
+Am I alone in thinking this is outrageous?",82,169,2019-04-30,PHARMA,0.06516284495592117,0.8757545948028564,0.05908260866999626
+Health,A record-breaking measles outbreak owes its existence to the anti-vaccination movement,,10,150,2019-04-30,PHARMA,0.0826885998249054,0.8770383596420288,0.040273040533065796
+medicine,"FDA adds black box warning and contraindication to the Z drugs (eszopiclone/lunesta, zaleplon/sonata, zolpidem/ambien)",,82,67,2019-04-30,PHARMA,0.07195208966732025,0.8917284607887268,0.036319490522146225
+pharmacy,Anyone worked in the field of pharmacovigilance?,"I moved to an area where the pharmacist market is saturated, and am looking at alternative jobs.  I’ve come across a few ‘remote / from home’ jobs as a pharmacovigilance specialist / associate.  
+
+Anyone familiar with this area? Any details on the day-to-day, job specs, salary would all be appreciated.",12,44,2019-04-30,PHARMA,0.0450575016438961,0.9056187868118286,0.04932373762130737

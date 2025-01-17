@@ -1,0 +1,728 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,Did the iPhone alarm fail to go off this morning for anyone else? (DST bug?),,195,149,2010-11-01,AAPL,0.2427532970905304,0.7312749028205872,0.025971824303269386
+apple,iPhone 5 Will Enable Ambitious Remote Computing Program,,63,137,2010-11-01,AAPL,0.00823740940541029,0.7218195199966431,0.2699430584907532
+iphone,Europeans wake up an hour late as Apple fails to fix iPhone alarm clock bug.,,22,76,2010-11-01,AAPL,0.5198038816452026,0.43617871403694153,0.04401741176843643
+apple,iPhone users - did you get rid of your 'sent from my iPhone signature?',"Because I did, and frankly, every time I see one I cringe. Thoughts on this (actually really clever) constant advertising for Apple?
+
+Edit- Never thought about the fact it might be to excuse brevity and spelling mistakes, but I must argue that it isn't hard to send a long bit of text from your phone, nor is it hard to fix splelling mstikes.. If you're one of those douchebags that sends notin bt abbrvatd emails all th time then I can understand that, even if I hate you. (this was actually sent from an iPhone)",122,51,2010-11-01,AAPL,0.043873511254787445,0.9040640592575073,0.05206242948770523
+apple,"VLC, the GPL, and the App Store (or, Why I dislike the GPL: It's a virus.)",,68,41,2010-11-01,AAPL,0.02962988242506981,0.9301174879074097,0.040252603590488434
+iphone,iPhone Alarm Fail makes thousands of UK owners late for work,,9,18,2010-11-01,AAPL,0.9431902766227722,0.04631086438894272,0.01049885805696249
+ipad,Adobe Unveils Flash-to-HTML5 Converter.  Possible Flash solution for the iPad?,,1,17,2010-11-01,AAPL,0.021056415513157845,0.9277690052986145,0.05117461457848549
+ipad,New Ipad. Dead pixel after 2 days. Take it back or just live with it?,[deleted],15,14,2010-11-01,AAPL,0.036831218749284744,0.9110191464424133,0.05214959755539894
+apple,Great Moments in Apple History: Is 2000 a Leap Year?,,1,12,2010-11-01,AAPL,0.04262557253241539,0.8974535465240479,0.05992088094353676
+apple,"Avoiding the DST bug (for people who've already switched, and for the US switching next week)","So as Europe discovered today (and Oz discovered a few weeks ago), there is a DST bug with recurring alarms in iOS4: the alarm goes off 1h too late in some cases.
+
+It is important to understand when this bug occurs, because it doesn't occur all the time.
+
+## 1. It doesn't occur for non-recurring alarms
+
+If you like having a routine, you can just use non-recurring alarms until the bug is fixed, as long as you remember to re-set them there should be no trouble
+
+## 2. It does *not* occur if your alarm recurs every single day
+
+If you select a recurring alarm for all days of the week, you should not have any issue
+
+## 3. Unless the alarm was created before the switch?
+
+I can not confirm this, but there are reports that alarms created before the DST switch, even if they occur each day of the week, will be buggy. You might want to create a non-recurring alarm to wake up after the DST switch just in case
+
+## 4. Recurring alarms which aren't set on every day of the week are broken
+
+This means weekday alarms to go to work or weekend alarms (for whatever reason) *will not work correctly* and will be off 1h.
+
+## 5. Apple where is the fucking fix?
+
+Nobody knows, according to Apple Australia the fix is done and will be rolled out, but it is likely it'll only be rolled out in November with iOS 4.2, which means it will be rolled out *after* everybody has switched and is pissed off [0]
+
+Please pass this along to your iPhone-toting friends and colleagues if you're in the Americas and in a DST-observing country.
+
+[0] this is definitely an argument for small, over-the-air updates to the OS rather than big ""let's replace everything at once"" roll-outs of OS updates.",3,11,2010-11-01,AAPL,0.10062350332736969,0.8717008829116821,0.02767559513449669
+apple,DVD Player Patch Allows Skipping of Trailers and Warnings on Macs,,37,238,2010-11-02,AAPL,0.03558405116200447,0.9295967817306519,0.03481919318437576
+apple,"Awesome PSX Emulator for Mac - it does exist, to my great delight!",[deleted],89,121,2010-11-02,AAPL,0.013927838765084743,0.8406405448913574,0.14543160796165466
+iphone,8Pen Spiral Keyboard Is Coming To The iPhone &amp; iPad,[deleted],62,94,2010-11-02,AAPL,0.013577700592577457,0.8871590495109558,0.09926322102546692
+apple,iOS 4.2 Gold Master released,,50,84,2010-11-02,AAPL,0.012854769825935364,0.8793152570724487,0.10782993584871292
+apple,I seem to have missed the desktop/dock posts. Here's my desktop,,92,80,2010-11-02,AAPL,0.08859728276729584,0.8879191279411316,0.02348361164331436
+apple,8Pen Spiral Keyboard Is Coming To The iPhone &amp; iPad,[deleted],34,65,2010-11-02,AAPL,0.013577700592577457,0.8871590495109558,0.09926322102546692
+iphone,Everyone here can relate to this [NSFW],[deleted],15,52,2010-11-02,AAPL,0.029253046959638596,0.9239600896835327,0.046786826103925705
+iphone,"Finally, Not So Ugly iPhone Gloves",,18,51,2010-11-02,AAPL,0.10997630655765533,0.7471567392349243,0.14286701381206512
+apple,AppleCare protection plans now transferable to new products.,,17,46,2010-11-02,AAPL,0.013486320152878761,0.8927896022796631,0.09372413903474808
+apple,Does anyone else find that Chrome clogs up on Mac? Also when using WordPress I can't autosize pics by dragging using Chrome on Mac - I might have to go back to FF but I find it take a while to load up.,,50,29,2010-11-02,AAPL,0.034984834492206573,0.9340121746063232,0.031002992764115334
+apple,"C'mon, apple mail. This no-brainer can't be that hard to implement:",,93,168,2010-11-03,AAPL,0.04682041332125664,0.9147308468818665,0.038448724895715714
+iphone,iPhone 3G/3GS users: have you been noticing that your phone seems *way* slower now than it did last year? Me fucking too.,[deleted],112,152,2010-11-03,AAPL,0.1461072862148285,0.7623904347419739,0.09150229394435883
+apple,"Omnigraffle is my secret weapon - ""this is what quality software looks like, folks.""",,75,110,2010-11-03,AAPL,0.014358676970005035,0.8954472541809082,0.09019407629966736
+iphone,Got my aluminum iPhone 4 back today...it is pure sex.,,95,105,2010-11-03,AAPL,0.012073389254510403,0.6239356994628906,0.3639909029006958
+apple,"The future of notebooks: Ars reviews the 11"" MacBook Air",,9,24,2010-11-03,AAPL,0.024637069553136826,0.9247558116912842,0.050607118755578995
+apple,iTunes did what?,[deleted],15,23,2010-11-03,AAPL,0.026740852743387222,0.9363095760345459,0.036949556320905685
+apple,Lucky 13: Using a MacBook Air as a Primary Mac,[deleted],15,23,2010-11-03,AAPL,0.01800614222884178,0.9275639057159424,0.05442998930811882
+apple,Omnifocus vs Things,"I have Things for the Mac, iPhone &amp; iPad and I use it as a pad for when I want to remember something. Occasionally I go back and organize the notes into Projects.
+
+Recently I have been tempted to get Omnifocus. 
+
+* Is there anyway to use them together that makes sense? 
+* Have you switched from Things to Omnifocus or vice versa? 
+* Neither are cheap, especially if you buy them for all platforms. Is it worth switching?",62,19,2010-11-03,AAPL,0.02110002562403679,0.9295868277549744,0.049313176423311234
+apple,table-size iPhone,,6,16,2010-11-03,AAPL,0.03442626819014549,0.9060704112052917,0.059503376483917236
+iphone,Didn't even get my chance to try it..,,40,15,2010-11-03,AAPL,0.0796271488070488,0.8128500580787659,0.10752279311418533
+apple,Dropping Adobe Flash boosts Apple's MacBook Air battery life by 2 hours,,96,189,2010-11-04,AAPL,0.027879389002919197,0.9031417369842529,0.0689789205789566
+apple,iphone app lets users play Star Wars over their own city,,40,134,2010-11-04,AAPL,0.013666920363903046,0.9322035312652588,0.054129499942064285
+apple,Want to use your Xbox/PS3/Wii controllers with a Mac? Here's how.,,32,63,2010-11-04,AAPL,0.021000003442168236,0.9265280365943909,0.052471987903118134
+apple,skype5 beta for mac is available and is ugly,,59,50,2010-11-04,AAPL,0.0128733329474926,0.9063968062400818,0.0807298868894577
+apple,What makes Reddit even better on a mac?: A Safari Extension that auto previews imgur/etc links,"[HoverZoom](http://sidetree.com/extensions.html#HoverZoom)
+
+PS: No affiliation, Since a lot of Reddit posts are imgur links - this makes it pretty handy. 
+
+EDIT: [Reddit Enhancement Suite](http://reddit.honestbleeps.com/) &gt; HoverZoom
+
+EDIT2: [Hover Zoom](http://https://chrome.google.com/extensions/detail/nonjdcjchghhkdoolnlbekcfllmednbl?hl=en) is available on Chrome too... Man I loves me some Chrome.",63,39,2010-11-04,AAPL,0.012229176238179207,0.8196418285369873,0.16812896728515625
+apple,Does your iPhone 4 suffer from reception issues or was the whole thing just a giant hyped up rumor??,"I have had my iPhone 4 for 2 months now and I have yet to experience ANY reception issues. This is leading me to believe that all that ""news"" about dropped calls and poor reception was severely exaggerated or  was non-existent in the first place.",108,38,2010-11-04,AAPL,0.47182077169418335,0.46921008825302124,0.0589691586792469
+iphone,"Reddit, why does my Youtube app ask me this every time I open it? I hit merge every single time!",,14,36,2010-11-04,AAPL,0.03105669468641281,0.930685818195343,0.038257479667663574
+apple,DAE have a MacBook Pro that does this?,,38,20,2010-11-04,AAPL,0.02979934588074684,0.9266259074211121,0.043574728071689606
+apple,"Home, Sweet Home: Man builds scale model of OS X home icon",,6,19,2010-11-04,AAPL,0.014861581847071648,0.8601691722869873,0.1249692514538765
+apple,Have an iPhone 4 with iOS4.1? Type *3001#12345#* into the keypad in Phone to test your signal strength...,"...and test the death grip... Needs no jailbreak, not harmful in any way... Only works on 4.1, not 4.0.x
+
+I have crappy coverage in my house(Rogers), and it drops from -90 sitting on the table to -107 when I hold it death grip.... what are your results?",17,17,2010-11-04,AAPL,0.06560572981834412,0.8868981003761292,0.047496095299720764
+apple,Has this happend to anybody else's MacBook Pro?,,195,152,2010-11-05,AAPL,0.0459570586681366,0.9212324023246765,0.032810524106025696
+apple,Apple is discontinuing the Xserve. What does this mean for Apple in Enterprise? What are the alternative for a Mac-based company?,"I manage a small Mac Consultancy in London. We're part of the Apple Consultants Network, and have been told by various Apple employees that 'Enterprise is not a priority' and that they prefer to focus on being a consumer electronics company. What do you think lies ahead for Mac using companies?",224,134,2010-11-05,AAPL,0.025632580742239952,0.9154275059700012,0.05893988534808159
+apple,"""The App Store is much easier to enter and more egalitarian than traditional publishing deals."" — John Carmack, founder of Id Software (Wolfenstein, Doom, Quake, Rage)",,27,89,2010-11-05,AAPL,0.03996027261018753,0.9213008284568787,0.038738913834095
+apple,For new Mac users: the Mac menu symbols,"Symbols you may see in menus on a Mac (these fonts require being on a Mac):
+
+* ⌘ = Command
+* ⇧ = Shift 
+* ⌫ = Backspace/Delete 
+* ⇪ = Caps lock
+* ⌥ = Option/Alt
+* ⌃ = Control
+* ⎋ = escape
+* ←↑→↓ = arrow keys 
+* ↩ = Return
+* ⇥ = Tab
+
+Rare:
+
+* ↖ = Home
+* ↘ = End
+* ⇞ = Page up
+* ⇟ = Page down
+* ⌧ = Clear (on num pad)
+* ↵ = Enter (on num pad)
+
+Extremely rare:
+
+* ⌦ = Forward Delete (OLD mac keyboards -- nuBus only??)
+*  = Usually ⌘ but may be used in documentation or incorrectly
+* ⎇ = alternative
+* F13 - F19 = On full size mac keyboards
+* ↳ ↪ = Enter in Left to Right mode.
+* ⏏ = Eject (not really an assignable hotkey but used in the Apple menu for sleep) 
+
+
+I get asked this several times a year. Hope this clears things up. 
+
+**Edit**: added rare items",45,67,2010-11-05,AAPL,0.05103055760264397,0.916412889957428,0.03255655989050865
+iphone,I'm looking for a good old school style RPG game for iPhone. Any suggestions?,[deleted],63,63,2010-11-05,AAPL,0.013517796993255615,0.8595840930938721,0.12689809501171112
+apple,"11"" MacBook Air is as thick as the *lid* of the 12"" PowerBook G4",[deleted],18,38,2010-11-05,AAPL,0.021442227065563202,0.9282054901123047,0.050352223217487335
+iphone,"Hey /r/iPhone, Care to share some of your ringtones?",Just bought an iPhone and I'm looking for a few cool ringtones. Any shares are appreciated.,70,35,2010-11-05,AAPL,0.013532289303839207,0.8768982887268066,0.10956943035125732
+iphone,I am so freaking excited for this iphone 4 tripod!,,20,31,2010-11-05,AAPL,0.04877765476703644,0.8641335368156433,0.08708885312080383
+ipad,I just got my iPad out of its case for the first time in 3 months.  I had forgotten how sexy it feels in your hands. You should try it.,,25,30,2010-11-05,AAPL,0.01830931007862091,0.8367761373519897,0.14491452276706696
+apple,Does anyone actually use Ping?,,61,27,2010-11-05,AAPL,0.029729284346103668,0.9385186433792114,0.03175213560461998
+apple,Airlock determines whether you’re near your computer. When you leave the room - poof! - your Mac locks itself. “And when I come back?” You guessed it: your Mac unlocks.,,44,101,2010-11-06,AAPL,0.026970162987709045,0.9409353733062744,0.032094452530145645
+iphone,"Switching from iPhone 3g to Captivate, then back to iPhone 4","Like many 3G owners I was irked at the performance of my phone after the ""upgrade"" to iOS4. This topped with all the news of the whole antenna issue I decided to make the switch to Android.
+
+I had the Captivate for 29.5 days and returned it. The phone itself was very solid and the screen was beautiful, though not in direct sunlight.
+
+My first week with the phone was joyous. Rooting it, and tweaking the interface, installing widgets and doing all the things I couldn't do on the iPhone.
+
+I soon started seeing issues with the phone. The time widgets weren't updating, I wasn't getting email, and I couldn't find a good app to sync my podcasts and music with. Songbird, Double Twist and TuneSync all proved to suck, especially on OSX.
+
+Long story short, I spent too much time tweaking, troubleshooting and admining my phone that I felt like I was using Windows 95 again. 
+
+I don't hate android nor the Galaxy S phones. I just think that Android is not the mature product that iOS is. The Android Market is crap, though, App Brain has it's shit together, but still the apps pretty much suck.
+
+That all being said, I will probably get one of the Android tablets next year.
+
+**Edit 1:** Wow, this is on my front page. Been coming to reddit now for over 2 years and it's my first front page.",68,52,2010-11-06,AAPL,0.030848294496536255,0.930700957775116,0.0384506992995739
+apple,"Quake 3 Arena for iPad, now available for free download via Cydia",,20,41,2010-11-06,AAPL,0.014240548945963383,0.935860812664032,0.04989861324429512
+apple,"Skype 5 for Mac, but without the whitespace",,15,39,2010-11-06,AAPL,0.03864434361457825,0.9090660810470581,0.052289556711912155
+apple,"Oh Yahoo Answers, you never fail to disappoint (humour).",,46,27,2010-11-06,AAPL,0.038324132561683655,0.9128997325897217,0.04877619072794914
+iphone,"Daylight Savings glitch in iPhone alarm app, better check your shit before you're late Monday.",,19,22,2010-11-06,AAPL,0.030551688745617867,0.9086302518844604,0.060818057507276535
+apple,"I've got to give it a shout out - this little bad boy just turned my MacBook Pro into a full Home Theater Media Center, playing DVDs, iTunes HD rentals, Netflix, and whatever 'other' sources of media I happen to come across on my flatscreen TV",,28,22,2010-11-06,AAPL,0.029678460210561752,0.9267694354057312,0.04355211928486824
+mac,Note to self: Don't accidentally drag and drop over 4000 files to the Desktop - How to recover a crashed Finder,"Not wanting to run the risk of losing my precious iPhoto libabry, when I recently did a reinstall of OS Snow Leopard, I took the precaution of opening up the iPhoto library via right-click &gt; Show Package Contents and manually copied the RAW and JPEG image files directly onto a remote drive.
+
+But rather than being patient when it came to dragging and dropping the whole mess back onto iPhoto, after reinstalling the OS, I left hold of the mouse button too early and accidentally started copying all 4000+ files onto the Desktop.
+
+After having no choice but to force the computer to restart, things then got worse after reboot when Finder tried to display the 1000+ image icons that had already been copied to the Desktop which had successfully copied themselves over while Finder was hanging, previous to my forcing a restart.  This left the boot-up procedure unable to complete and I had no way of launching Finder to rescue it from itself.
+
+So I did something I've never done before but was surprised to find how easy it was, so I'm passing it along to you.
+
+If Finder gets stuck on something that won't allow you to boot normally—or boot for long enough to fix something that prevents normal operation—boot from the OS X installer CDROM and choose Terminal from the Utilities menu.
+
+Even though you can't see any of your hard drives on the desktop (because the installer CDROM doesn't launch Finder) you can still mount and unmount your connected hard drives from inside Disk Utilities and Terminal.
+
+In Terminal type:
+
+    cd /Volumes/Macintosh\ HD
+    
+to navigate to the folder or folders you think are causing the issue.  In my case it was the Desktop folder in my user directory.  Once there I used the UNIX command mv to move all image files to another folder, like so, after first creating the target folder with the command mkdir:
+
+    mkdir /Volumes/Macintosh\ HD/JPEGMoved
+    mv *.jpg /Volumes/Macintosh\ HD/JPEGMoved
+    mkdir /Volumes/Macintosh\ HD/RawMoved
+    mv *.crw /Volumes/Macintosh\ HD/RawMoved
+
+You can then reboot as normal and everything inadvertently moved to the Desktop will have been moved into a folder inside your main Macintosh HD, in this case named RawMoved and JPEGMoved, or whatever you chose to name it with the mkdir command
+
+Note, you don't have to type the full /Volumes/Macintosh\ HD path each time you want to move to a different folder.  Just hit TAB once you've completed the first few characters of your drive name and Terminal will predict the rest of the path for you.
+
+Hope that helps!",21,17,2010-11-06,AAPL,0.11268468201160431,0.86487877368927,0.02243659645318985
+apple,Apple offers new Mac Pro Server configuration to replace Xserve,,3,16,2010-11-06,AAPL,0.011411569081246853,0.8469164371490479,0.1416720598936081
+apple,I just found out you can click and hold an icon and it will bring that app forward with options,,13,11,2010-11-06,AAPL,0.017870372161269188,0.9156683683395386,0.06646126508712769
+apple,This is my lovely daughter who 2 days ago peed on my iPhone 4. The apple store on 68th in NYC just replaced my phone free of cost even with the water (urine) damage. Go Apple customer service! (and see how happy she is now!),,81,80,2010-11-07,AAPL,0.04204965755343437,0.9093490839004517,0.048601288348436356
+apple,EXACTLY How To Make Firefox Show The Look Of Disapproval on Mac ಠ_ಠ (Preferences -&gt;Content -&gt;Advanced and set it up like this image),,36,29,2010-11-07,AAPL,0.022629838436841965,0.9290567636489868,0.04831334203481674
+apple,iMac or macbook?,"I'm going to get a new apple computer. My macbook is about 6 years old and when I got it I think I was too young to appreciate what I had. Anywho I never turned the battery off (which is dead now, if the plug comes out for a second it turns off), the cooling fan makes a loud clicking noise when the computer starts to get too hot, and there is a pretty solid crack in the screen. Anywho I'm looking to get a new mac and I don't know if I want to get another Macbook or I'm strongly leaning toward getting an iMac. Any intake on towards which one would be a better idea? 
+
+EDIT: I'm still in college but I do not need the laptop as I'm commuting and living at home nowadays so that need not be a factor.",132,24,2010-11-07,AAPL,0.023272773250937462,0.9066075086593628,0.0701197162270546
+iphone,"Thanks to the help by a few awesome redditors, we've just released our new game: ""Tower Assault! Curse of Zombie Island"" - Fire brains from a cannon in this reverse TD adventure!",[deleted],9,12,2010-11-07,AAPL,0.021922213956713676,0.8715079426765442,0.10656986385583878
+apple,"I know about the alarm issues, but anyone else's iPhone clock not recognizing the end of DST?","If I manually set the time zone, it recognizes the shift, but leaving the ""Set Automatically"" option on puts me an hour ahead.",23,11,2010-11-07,AAPL,0.0827360674738884,0.8961753249168396,0.02108864113688469
+ipad,"Getting my wife an iPad for Xmas, need advice...","I was wondering what /r/ipad thinks about the likeliness of a new iPad being announced or even released before the end of the year. I know there's been some rumours that it would coincide with the 4.2 iOS release, adding facetime and no doubt some other awesomeness. The real question is, how long do I wait to find out?
+
+Trying to balance two risks... one, that they do announce a new one and it either doesn't get released in time (which given the expected holiday sales would seem strange) or I am unable to get one, or two, that I wait too long, nothing is announced, and stock disappears of the regular one in the lead up to the aforementioned holiday shopping.
+
+Any thoughts?
+
+Edit: thanks for the good advice fellow iPad fans. I will get it now, and probably go for earlier than Xmas deployment. Though I have settled on no engraving, to preserve the resale value. Thanks all.",24,10,2010-11-07,AAPL,0.027378970757126808,0.9001729488372803,0.07244811207056046
+apple,Is there a way to make exposé show your windows at different sizes like it used to in Leopard and Tiger?,,9,10,2010-11-07,AAPL,0.019581284373998642,0.9397734999656677,0.04064520448446274
+apple,Is there a Citation-Generating Safari extension?,"I had an interesting idea this morning for a Safari extension. When you press a button on the webpage you're looking at it generates an MLA/APA/Chicago formatted citation. I have no programming prowess to create this type of thing, so do any of you know if there is an extension like this already?",20,10,2010-11-07,AAPL,0.019517263397574425,0.9380606412887573,0.04242214187979698
+iphone,iPhone 4 uber time glitch?,"OK.  I've read all the ""my clock didn't set itself back"" posts.  My wife and I seem to be having a VERY strange problem.  It's far worse than originally reported.  Our clocks set themselves back like 7 hours.  Current time here is 10:19 AM.  The auto setting of the iPhone tells me that it is 3:25 AM.  Has anyone else experiacned this glitch?  I have fixed it with the manual time, but I travel and like having the auto time switch.  Are we alone?",24,10,2010-11-07,AAPL,0.04110834002494812,0.9217689633369446,0.037122759968042374
+apple,Who has a new macbook air?,"What do you think? Is it worth the cost? I'm planning on picking up a 13 inch one. I've heard that the case feels a bit flimsy, is this true?",41,10,2010-11-07,AAPL,0.02654993161559105,0.8676436543464661,0.10580644756555557
+iphone,Free live TV on iPhone and Android (including a NSFW channel),,66,153,2010-11-08,AAPL,0.013877532444894314,0.9200190901756287,0.06610333919525146
+apple,TIL you can move the background windows without bringing them forward. Nice.,,35,119,2010-11-08,AAPL,0.03311825916171074,0.9385340809822083,0.028347685933113098
+apple,TIL: The iPhone will auto-convert UPS tracking numbers into URLs in email.,,50,114,2010-11-08,AAPL,0.03222844377160072,0.9288326501846313,0.03893895447254181
+apple,Is there a way to get iTunes to not take 5 minutes to start up?,[deleted],231,59,2010-11-08,AAPL,0.023381398990750313,0.9256293773651123,0.050989240407943726
+apple,"Thanks To Squatters, Many Of The Most Popular Mac Apps Are Being Kept Out Of The Mac App Store",,21,58,2010-11-08,AAPL,0.01585666462779045,0.8885482549667358,0.09559512138366699
+apple,Macintosh SE/30 Resurrected As A Server And Mac Emulator,,11,55,2010-11-08,AAPL,0.019093208014965057,0.9240322709083557,0.056874483823776245
+apple,Stun Gun For iPhone!!!,,53,55,2010-11-08,AAPL,0.07437404990196228,0.8911679983139038,0.034457914531230927
+iphone,Video of iOS 4.2 on iPhone 3G -- Looks like 4.2 fixes the performance issues introduced with 4.0. Much better speed.,,22,53,2010-11-08,AAPL,0.057135194540023804,0.7038121819496155,0.2390526384115219
+iphone,Indispensable apps?,"What apps have become indispensable in your life?  
+
+I've become an appaholic with 5 or 6 app finder apps I use regularly, two of which (""Free App A Day"" and ""Open Feint"") offer free apps every day.  
+
+One that I use most often (besides ""Alien Blue"", of course) is, surprisingly, ""Martha's Everyday Food"".  I'd never been a Martha Stewart fan, but downloaded her app when I was looking for something to make grocery shopping easier.  This app supplies a new recipe every day, has a recipe database (nice in that you can add any recipe found on the web), allows you to search her website for recipes, and has an integrated and customizable shopping list.  The shopping list is easily shared because it is integrated with the ""Zip List"" website.  You can add to the (already huge) shopping list database via manual entry or by barcode scan.
+
+The daily recipes are mostly to my family's taste, and include a nice selection of authentic international dishes.  They're relatively healthy, usually tasty, and consist of 1-pot meals (meaning entree &amp; side dishes included) that you can make in less than an hour.  Now, I simply decide which recipes I'm going to use for the week and my shopping list is automatically created.  No more frustration because I find out at the last minute that I'm lacking one important ingredient to finish cooking a meal!
+
+Negatives?  1.  It's hard to keep the list open while I'm shopping...but that's more an iPhone problem.  2. Data entry for the items database could/should be better designed. 
+
+What's the app that makes your life just a little bit easier?",66,48,2010-11-08,AAPL,0.025807468220591545,0.9221184253692627,0.05207408592104912
+apple,So I made this ad for my MacBook...,[deleted],66,43,2010-11-08,AAPL,0.02724381908774376,0.9133834838867188,0.0593726821243763
+apple,Apple's pricing advantage,,226,230,2010-11-09,AAPL,0.017043765634298325,0.8505899906158447,0.13236622512340546
+apple,An Open Letter to Apple on Server Technologies and Virtualization of OS X Server,,117,180,2010-11-09,AAPL,0.018257630988955498,0.9344983100891113,0.04724404215812683
+iphone,Does anybody else hate that you cannot zoom in on most mobile versions of websites?,Is there a work around? I would still like to zoom in on text.,24,142,2010-11-09,AAPL,0.03254666551947594,0.9350496530532837,0.03240372985601425
+apple,Make iTunes 10 work for you,,43,77,2010-11-09,AAPL,0.02027761936187744,0.8934595584869385,0.08626285195350647
+apple,The Woz and I [PIC],"Look [who](http://imgur.com/8UMEt.jpg) i ran into at a concert up in Mountain View, California a few months ago.  He was in good spirits and didn't mind taking a pic at all.  It isn't until now that i'm realizing the irony of this......shitty, blurry pic was taken with an iPhone.",26,43,2010-11-09,AAPL,0.039917297661304474,0.9146554470062256,0.04542721062898636
+apple,I spend most of my day clicking on this.,,28,19,2010-11-09,AAPL,0.09565221518278122,0.8723269104957581,0.03202088922262192
+apple,"Apple investigating scrollable menus, toolbars for Mac OS X, iOS",,14,16,2010-11-09,AAPL,0.019982444122433662,0.9378865361213684,0.04213104769587517
+apple,"iTunes 10.1 and OS X 10.6.5 Coming Tomorrow, iOS 4.2 On Friday at 10 AM PST -- According to Macstories",,15,14,2010-11-09,AAPL,0.030694104731082916,0.9242559671401978,0.04504998400807381
+iphone,Now you can install Android OS on your iPhone :D,,29,13,2010-11-09,AAPL,0.04424895718693733,0.916584312915802,0.03916672244668007
+iphone,Viewmaster for the iPhone - 3D augmented reality for cheap,,3,12,2010-11-09,AAPL,0.01731029897928238,0.9338905215263367,0.04879913851618767
+apple,"Mac OS X 10.6.5 is out, go to Software Update!",,229,177,2010-11-10,AAPL,0.02006520703434944,0.9125975966453552,0.06733723729848862
+apple,Why can't we test apps before buying them.,"I honestly wish that there was a way that you could test the app before buying it. I'm not talking about all the .99 cent apps of really anything under 9.99 but I think apps that cost more than 9.99 should be testable or at the least refundable within a certain amount of time. I need to get a psychiatry encyclopaedia and I'm looking at the oxford app and it's $59.99 now I'm willing to pay for it if the app is of good quality but there are NO reviews at all. 
+
+I really feel Apple should either make a way to be able to download an app without paying for it for like 5 minutes and then it erases itself or something. I realize that wouldn't really be worth Apple's time but another alternative would be for Apple (I don't even know if this is possible) to make a way for a user to use/test the app through a simulator or emulator (whatever it's called) on itunes for a preset amount of time. Again that may take up to many resources to hardly make it worth doing. But I REALLY hope at some point Apple addresses this issue because at the moment there are at least three apps over $60.00 I am looking at but am much to scared to purchase. 
+
+Edit: I don't really know why but it seems every reply I make within this thread is receiving downvotes I don't exactly know why as no one has argued with me over anything and if you are downvoting my comments because you either don't like iPhones or you think the idea is stupid please don't. My comments are adding to the conversation topic of this thread, if you don't like the topic of the thread then just downvote the thread and move on.",108,65,2010-11-10,AAPL,0.033139169216156006,0.9277389049530029,0.03912192955613136
+iphone,Installing Android on an iPhone?  Anyone tried this?  I'm very tempted.,,81,49,2010-11-10,AAPL,0.03206363320350647,0.9367396831512451,0.031196633353829384
+iphone,"G'day /r/iPhone, our game Train Conductor is currently FREE. We'd love to know what you think!","Website: http://www.thevoxelagents.com/trainconductor/
+
+Youtube: http://youtu.be/HztGEsZYL5Y 
+
+iTunes link: http://itunes.apple.com/app/train-conductor/id344442490",30,39,2010-11-10,AAPL,0.02029140293598175,0.9383256435394287,0.04138292372226715
+apple,TIL that the word 'ghoti' is pronounced 'fish' by OS X's default speech synthesiser.,"For those of you who don't know:
+
+
+
+It was a made up word to describe the ways that the English language can be absurd and hard to learn.
+
+gh, pronounced 'f' as in tough
+
+o, pronounced 'i' as in women
+
+ti, pronounced 'sh' as in nation
+
+Edit: This may only work in 10.6 but I don't have another one to test it on.",62,35,2010-11-10,AAPL,0.05026944726705551,0.904792308807373,0.04493827000260353
+apple,What happens when your cat tries to jump over your MacBook Air and fails?,,82,34,2010-11-10,AAPL,0.02892000414431095,0.9232387542724609,0.04784129932522774
+iphone,File this under: 'what not to steal',,3,17,2010-11-10,AAPL,0.056930843740701675,0.9199588298797607,0.023110276088118553
+apple,"Apple Update.... THIS is a very,VERY fast connection...",,10,16,2010-11-10,AAPL,0.026448257267475128,0.8607645034790039,0.11278722435235977
+apple,Ipad Case and Keyboard Combo,,8,14,2010-11-10,AAPL,0.03139547258615494,0.9309931993484497,0.03761134669184685
+apple,"So, who's upgraded to an SSD in their unibody MBP? How'd it go for you? How's the speed? Specifically looking for input from people who upgraded, not bought it with the SSD.",[deleted],29,13,2010-11-10,AAPL,0.015127193182706833,0.8759779334068298,0.10889486223459244
+apple,Wonder why Apple hates Adobe Flash? Cause it is 42% of security patches in Mac OS X 10.6.5!,,125,340,2010-11-11,AAPL,0.482530415058136,0.48205310106277466,0.03541646897792816
+apple,"A zombie keyboard, an app-store rejection, a call from Steve Jobs",,25,82,2010-11-11,AAPL,0.19013270735740662,0.787807285785675,0.022060027346014977
+apple,iPad developer receives phone call from Steve Jobs,,13,51,2010-11-11,AAPL,0.029717814177274704,0.9184682965278625,0.051813915371894836
+apple,Not quite sure who's at fault...,,53,49,2010-11-11,AAPL,0.06381718069314957,0.8699434399604797,0.06623934209346771
+apple,Do not install 10.6.5 if you use PGP Whole Disk Encryption,,5,36,2010-11-11,AAPL,0.02377781830728054,0.9511748552322388,0.02504734694957733
+iphone,"iTunes Ping Actually Goes Social With Full Twitter Integration; Careful, It Will Auto-Tweet",,4,25,2010-11-11,AAPL,0.033494982868433,0.9129894375801086,0.05351555347442627
+iphone,Headphone for iphone 4,"Well my apple ear buds failed on me.  Does anyone have a suggestion on a good set of ear buds that are comfortable, produce good sound, and have the same inline controls that the stock iphone 4 ear buds come with?",38,23,2010-11-11,AAPL,0.012137572281062603,0.672336995601654,0.31552544236183167
+apple,This is how you protest in 21st century!,,5,17,2010-11-11,AAPL,0.045906368643045425,0.8444138169288635,0.10967973619699478
+mac,"Apple releases Mac OS X 10.6.5 with graphics fixes, no AirPrint",,5,16,2010-11-11,AAPL,0.022999411448836327,0.9189956784248352,0.05800488591194153
+iphone,"Minigore monster design competition with a top of the line Wacom tablet as top prize, evil genius apply within",,0,13,2010-11-11,AAPL,0.032744355499744415,0.8861683011054993,0.08108741790056229
+apple,The day Steve Jobs dissed me in a keynote,,169,541,2010-11-12,AAPL,0.33522629737854004,0.6139585375785828,0.05081518739461899
+apple,"rstevens ""I was a Mac user when Apple was doomed"" shirt (in Apple Garamond glory)",,64,70,2010-11-12,AAPL,0.02098843827843666,0.9304087162017822,0.04860279709100723
+ipad,The iPad battery life is ridiculously good,"After 2 months of ownership, I am still amazed at how long it lasts.",18,45,2010-11-12,AAPL,0.1972704529762268,0.7142441272735596,0.08848541975021362
+iphone,Apple's iOS 4.2 release is on hold to fix WiFi connection issues,,17,45,2010-11-12,AAPL,0.06152829900383949,0.9201912879943848,0.01828046515583992
+iphone,Massive 58-inch iPhone table,,17,38,2010-11-12,AAPL,0.024063222110271454,0.9022519588470459,0.07368489354848862
+apple,The next Gorillaz album is being recorded on an iPad,,47,36,2010-11-12,AAPL,0.02397703193128109,0.913944661617279,0.06207834929227829
+mac,TIL How to screen grab a single window in OSX,"Command + Shift + 4, then press SPACE and click the window you want to capture.
+
+I'm sure this is hardly news to anyone, but I discovered it today and it has been incredibly helpful.",16,33,2010-11-12,AAPL,0.03713017329573631,0.9194634556770325,0.043406374752521515
+apple,AppleInsider | Oracle and Apple announce OpenJDK Project for Java on Mac OS X,[deleted],2,27,2010-11-12,AAPL,0.022009946405887604,0.9270685911178589,0.05092141032218933
+apple,"For Sale: A $160,000 Apple Computer",,7,15,2010-11-12,AAPL,0.01982135884463787,0.9196052551269531,0.060573380440473557
+iphone,"Are any of you bowlers? You might be interested in Bowler's Log, my new app.","Apple recently approved my new iPhone app, [Bowler's Log.](http://itunes.apple.com/us/app/bowlers-log/id401545602?mt=8) It's a utility for storing your bowling scores for future reference. It automatically figures your current average and can generate charts to visually display your progress.
+
+It's [available here](http://itunes.apple.com/us/app/bowlers-log/id401545602?mt=8) for $2.99. If you want to check it out, here are a few promo codes:
+
+JPYTA6XAHXF6
+
+XNKXHRTF7YRJ
+
+WLYW7RJAX7EH
+
+I admit the app is a bit niche, but it's something I partially made for my own use. If you bowl, or know someone who does, give it a look. :)",6,13,2010-11-12,AAPL,0.01723017916083336,0.9185282588005066,0.06424161046743393
+apple,"If there are any apps that you love, take 2 minutes and send an email like this.  It makes a developer's day SO much better.",,67,236,2010-11-13,AAPL,0.01992531307041645,0.9149271845817566,0.06514745950698853
+iphone,"Shit like this, AT&amp;T.",[deleted],39,167,2010-11-13,AAPL,0.06658484041690826,0.901910662651062,0.03150453418493271
+apple,Daring Fireball: Masquerading as Mobile Safari to Get Websites to Serve HTML5 Video to Safari on Mac OS X,,32,77,2010-11-13,AAPL,0.023479992523789406,0.9314665794372559,0.04505348578095436
+iphone,"Sorry - if AT&amp;T is the top contributor to the Tea Party House Caucus, then they lose my business",,4,20,2010-11-13,AAPL,0.8004807829856873,0.16015538573265076,0.03936384990811348
+ipad,Anyone else use their iPad as a laptop?,"Right after I got my iPad in June, my Macbook stopped being able to charge, and I can't afford to fix it, so I bought the iPad keyboard dock instead and I use it for all my internet browsing and homework.
+
+Does anyone else do something similar? Do you have any tips, favorite apps, etc?",20,19,2010-11-13,AAPL,0.026217546314001083,0.9406666159629822,0.03311585262417793
+iphone,If you liked Train Conductor: Try....,[removed],27,14,2010-11-13,AAPL,0.025535965338349342,0.8526745438575745,0.12178950011730194
+iphone,I'm so not getting this update,[deleted],4,12,2010-11-13,AAPL,0.02869989350438118,0.920286238193512,0.05101389437913895
+ipad,"iOS4 for the iPad delayed, because of of WiFi issues.",,6,10,2010-11-13,AAPL,0.07299333810806274,0.8974952697753906,0.029511399567127228
+apple,Will the IT guy learn to love Apple?,,56,9,2010-11-13,AAPL,0.022897755727171898,0.8986126780509949,0.07848948985338211
+mac,Whats the best college notetaking application for OSX?,Evernote? Yojimbo? Textedit? What do you use?,57,9,2010-11-13,AAPL,0.02976762317121029,0.9253391027450562,0.044893231242895126
+apple,Special Delivery (pic),,13,154,2010-11-14,AAPL,0.026115739718079567,0.9357710480690002,0.03811328113079071
+apple,New iPhone Killer: John's Phone!,,95,100,2010-11-14,AAPL,0.01595410704612732,0.8544742465019226,0.1295715868473053
+apple,Anybody else hate how iTunes handles libraries?,"I have a huge collection of music that's too big to fit on my laptop. I keep it all on a 2 TB Hard Drive, and keep only my most frequently listened to music on my laptop for when I study or travel. But when I'm at home, I often have the external hard drive plugged in, so I've set that folder to be a part of my iTunes library.
+
+Now, whenever my external hard drive isn't plugged in, I have to sort through the songs and try to remember which ones are actually on the computer. Usually, this results in an annoying little ""?"" popping up next to the song title and you getting a prompt to locate the file.
+
+This is incredibly annoying. They need to have some kind of switch so you can toggle between the different folders that make up your library.",74,72,2010-11-14,AAPL,0.062337152659893036,0.9092175960540771,0.028445210307836533
+apple,"Grand Theft Auto III, Vice City, and San Andreas Come to the Mac",,25,25,2010-11-14,AAPL,0.06464453786611557,0.8974667191505432,0.037888750433921814
+apple,Apple gave me a $50 keyboard for free!,"So yesterday I bought my new iMac. 21.5 inch and I'm thrilled with it. I went there with my sister and she was talking to the sales associate about how she works with iMacs and she's not a fan of having the tiny keyboards with no numeric pad on the far right. The salesman offered to set up a business account for her just to have incase she does decide to make any business purchases in the future. After she finished making the account, the salesman brings over a keyboard with the numeric pad on right and takes $50 off my computer. Once again apple, you never cease to amaze. P.S. new iMac kicks ass",28,15,2010-11-14,AAPL,0.022519394755363464,0.9196648597717285,0.05781572684645653
+apple,Gorillaz next album to be created solely with an iPad,,9,8,2010-11-14,AAPL,0.022731751203536987,0.927423357963562,0.049844879657030106
+iphone,Decent weather app for an iPhone 4 running iOS 4.1?,[deleted],25,8,2010-11-14,AAPL,0.015819109976291656,0.8977726697921753,0.08640819787979126
+apple,Local apple store saved me $80,"After my cat chewed up my MagSafe adapter right at the magnetic connector, I went to my local apple pusher to get a new one, but first I thought I'd check if I could get it fixed cheaper than buying a new one, it's over three years old so definitely no coverage. They said no, but then I asked the guy if he had a broken cable with a MagSafe on the end I could have, he went out back to check (I was surprised he even considered it) and luckily he had one.
+
+A quick wire stripping and shrink tube later I had a brand new MagSafe adapter with the new snazzy l-shaped connector on the end! Shit like this Steve!
+
+tl:dr cat chewed MagSafe cable up, got a free spare piece of MagSafe wire from apple store to patch it up myself, saved $80!",25,7,2010-11-14,AAPL,0.02090846188366413,0.9067596197128296,0.07233191281557083
+iphone,iPhone 4 case recommendation,"Any recommendations????
+
+I was thinking this one http://www.dealextreme.com/details.dx/sku.48485
+
+Any reason to choose soft case vs hard case?
+
+I cant decide.
+
+Edit: anyone know of any film to cover the antenna (all the sides) with to eliminate antennagate, instead of getting a case?
+
+Edit: Im the type of person who had the 3g and had a case on it (silicon case) within the first week, but I took it off after a year, cause I realized how much it sucked, and coincidently the warranty expired, but anyways, when I took off the case, I loved it even more.  The form factor became very important to me.  Now with the 4 I dont want to loose the form and feel of the phone.  I love not having a case, but the antannagate is annoying.  thats the only reason for me to get a case.",32,7,2010-11-14,AAPL,0.026018735021352768,0.924350380897522,0.04963091015815735
+apple,Am I the only one whose Dock is different after the 10.6.5 update?,,20,6,2010-11-14,AAPL,0.04677606001496315,0.8986347317695618,0.054589223116636276
+apple,Tomorrow is just another day. That you'll never forget.,,599,314,2010-11-15,AAPL,0.08619193732738495,0.8390469551086426,0.07476106286048889
+apple,Apple gets the rights to sell Beatles music in iTunes,,113,147,2010-11-15,AAPL,0.01111871749162674,0.8753868341445923,0.11349444836378098
+apple,"TIL that QuickTime has a built-in, full-quality screen recorder.","File &gt; New Screen Recording.
+
+:O
+
+EDIT: Apparently only on Snow Leopard. Other people, sorry about that.",65,139,2010-11-15,AAPL,0.07244288176298141,0.8960762619972229,0.03148084506392479
+iphone,Tomorrow is just another day. That you'll never forget.,[deleted],70,47,2010-11-15,AAPL,0.0834546685218811,0.8478838205337524,0.06866147369146347
+iphone,What are some of your favorite wallpapers that make use of the icon areas?,I'm looking for some new wallpaper that work around the icons. I prefer video game themed ones as the 8-bit ones seem to work really well. Currently I'm rotating between these [1](http://imgur.com/DgqMZ.jpg) [2](http://imgur.com/rOOs2.jpg),16,21,2010-11-15,AAPL,0.013688839040696621,0.8832310438156128,0.1030801385641098
+iphone,"iPhone owners, our underwear prayers have finally been answered!",,20,20,2010-11-15,AAPL,0.023616984486579895,0.8151147365570068,0.16126829385757446
+apple,Why I'm positive that tomorrow's Apple announcement is not iTunes streaming.,"There is absolutely no way Apple would release something that huge without a full press conference and demo from Jobs.
+
+I'm willing to be it's The Beatles and nothing more.",33,16,2010-11-15,AAPL,0.0223870687186718,0.8760761618614197,0.10153680294752121
+apple,Apple has enough money to buy Slovenia's entire yearly production,,14,13,2010-11-15,AAPL,0.010171403177082539,0.7102832794189453,0.2795453369617462
+apple,Apple Destroyed Products - Sad but still beautiful,,12,10,2010-11-15,AAPL,0.3817443251609802,0.5683315992355347,0.04992404207587242
+apple,"For Sale: A $160,000 (maybe $240,000!) Apple Computer - NYTimes.com",,2,8,2010-11-15,AAPL,0.028658298775553703,0.9228969216346741,0.048444751650094986
+apple,And the award for the lamest iTunes announcement goes to...,,355,845,2010-11-16,AAPL,0.03742758184671402,0.9180722832679749,0.04450015351176262
+apple,Here is my prediction for tomorrow...,,155,541,2010-11-16,AAPL,0.030878892168402672,0.915448784828186,0.053672339767217636
+iphone,The official Google Voice app for iPhone is now available from the Apple App Store.,,88,175,2010-11-16,AAPL,0.02200029417872429,0.9422652721405029,0.035734422504901886
+apple,Beatles Physical Box Set on Amazon is cheaper than digital compressed box set on iTunes.  WTF?,,45,91,2010-11-16,AAPL,0.020621411502361298,0.9053791761398315,0.07399944216012955
+apple,DAE already forget about today?,Beatles? Meh...,44,76,2010-11-16,AAPL,0.13052256405353546,0.8011654615402222,0.06831195205450058
+iphone,Redditor-made Minigore now free for 48 hours. Share and enjoy! :),,30,69,2010-11-16,AAPL,0.015187899582087994,0.9229822158813477,0.061829838901758194
+apple,Keyboard warmer (pic),,9,55,2010-11-16,AAPL,0.056535154581069946,0.7803179621696472,0.16314688324928284
+iphone,"Could we do a comprehensive ""Reddit's iPhone apps recommendations"" list to put in the subreddit descriptions? It seems that every 3-4 days someone asks the same question.","It would allow people a one-glance resource without having to start a new submission where people would eventually get bored of answering. The same could be said for a ""how-to-jailbreak"" post.",20,54,2010-11-16,AAPL,0.09317098557949066,0.8787611126899719,0.02806786820292473
+apple,"Since apple phone support links to your apple account, they should play wait music that they know you got through iTunes.","Just a thought. Just got off of phone support and was rocking to Hall and Oates, then they switched to Owl City and killed it. They could even use Ping integration to play songs they know you've listened to in the past few weeks, so they don't play some song you bought years ago and never listened to.",6,33,2010-11-16,AAPL,0.03288431838154793,0.9209885001182556,0.04612721875309944
+iphone,"I'm looking for an iOS game similar to this one, anyone?",,6,32,2010-11-16,AAPL,0.02434481307864189,0.9310504198074341,0.044604748487472534
+iphone,Google Docs finally enables editing on iOS devices,,11,104,2010-11-17,AAPL,0.008850445970892906,0.8203991055488586,0.1707504689693451
+apple,"Angry Birds Sequel To Feature Pigs Point of View,  Multiplayer Version Coming",,18,104,2010-11-17,AAPL,0.01627708226442337,0.9405767321586609,0.043146196752786636
+apple,"Fascinating little piece on the ""app console model of computing,"" via Daring Fireball",,38,73,2010-11-17,AAPL,0.013287213630974293,0.9030718207359314,0.08364096283912659
+apple,"Before I could stop her, my 15-month-old daughter decided to taste the end of my wall-plugged MagSafe power connector tonight.","And it was no big whoop. No sparks, no flaming baby. Completely uneventful and boring to her; she quickly moved on to other, parentally-approved chew toys.
+
+Anyway, thank you Apple for not electrocuting my daughter: for actually putting the ""Safe"" in MagSafe!",85,64,2010-11-17,AAPL,0.02671833336353302,0.8924140334129333,0.08086764067411423
+apple,"So, I live in my car in cold climes.  It's going to get very cold soon (to the point that my water jugs freeze) and I'm worried about my MacBook Air.  Help?","Will getting that cold destroy the computer?  I've been keeping it under the covers at night just in case.
+
+And, before you ask why I'm living in my car but packing a $1600 computer, my circumstances have been vacillating rather wildly of late.  Disregard rent, acquire mobility.",104,35,2010-11-17,AAPL,0.03915305808186531,0.9229115843772888,0.03793540969491005
+iphone,"Thank You from Minigore devs - now #10 in free games on US appstore, still free for 24 hours","Just wanted to thank everyone who helped spread the word on Minigore. We're a small independent developer so anything that helps recognition is a boon in the app store.
+
+I have no idea how this impacts long term sales or in-app purchases but at least this is a strong indicator that there's still strength in the IP.
+
+While you can never attribute success to just a single factor, at least Reddit played some part in helping this happen. :)
+
+The game is still free for another 24 hours at the writing of this, so you can still pick it up if you didn't already do it, and let us know how we can make it even more fun. It's a niche game so it will never be for everyone, but at least now you can try it out risk-free.
+
+Cheers, and thanks again from our small team in Finland!
+
+[Minigore blog](http://minigore.blogspot.com)
+
+[Minigore on iTunes, FREE](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=324016249&amp;mt=8&amp;affId=1730042&amp;ign-mpt=uo%3D6)
+
+Edit: Now #4 in all free apps, #2 in free games. Nice!",9,20,2010-11-17,AAPL,0.015481481328606606,0.8910430669784546,0.09347551316022873
+apple,So Boxcar came out with an update...and now supports Reddit! Notifications for when you're orangered!,,12,20,2010-11-17,AAPL,0.021113071590662003,0.8911781311035156,0.08770874887704849
+iphone,"Promo codes for my app SynthPad, a touch VA synth for iPhone","Hey Guys,
+Here are some promo codes for my app. Check it out and let me know what you think.
+Link to the app:
+http://itunes.apple.com/us/app/synthpad/id388908456?mt=8
+
+Promo codes:
+
+    JH7W96FEYPM3
+    M96T3MNR9TLY
+    X6E4JHL3EWH7
+    TFJ4473XTJPY
+    K6PRTAAH6A3J
+    H4FPK46EJJE6
+    WM4XX7RNTX6E
+    Y3JNF6NANW3M
+    LN9KYFWHHRFM
+    T7L4KLFHT44X
+
+A video a made with it:
+http://www.youtube.com/watch?v=qMpBKmB-7yk",23,17,2010-11-17,AAPL,0.0485825315117836,0.9067604541778564,0.04465698450803757
+iphone,Developers Can Now Submit Apps With Identical Names in the iOS and Mac App Store,,0,11,2010-11-17,AAPL,0.024376986548304558,0.951203465461731,0.02441958338022232
+apple,"Free Publicity, Steve Jobs style (cross-post from /r/f7u12)",,16,10,2010-11-17,AAPL,0.0222531296312809,0.935834527015686,0.041912343353033066
+apple,"No, Steve Wozniak did not say Android will win the smartphone race, was misquoted",,74,408,2010-11-18,AAPL,0.015471403487026691,0.8540324568748474,0.13049614429473877
+iphone,Isn't competition great?,,39,250,2010-11-18,AAPL,0.040572114288806915,0.896285355091095,0.06314252316951752
+iphone,TIL using Wingdings to label app folders pleases me.,,41,183,2010-11-18,AAPL,0.020648662000894547,0.9355880618095398,0.04376331344246864
+iphone,Rage is here!,,23,45,2010-11-18,AAPL,0.048508770763874054,0.8523857593536377,0.09910542517900467
+apple,Apple Gives You Pro Tips...really.,,10,39,2010-11-18,AAPL,0.016836853697896004,0.8998991847038269,0.08326402306556702
+iphone,yo reddit - you asked me to let you know when i updated my iphone app.  free today only.,,26,33,2010-11-18,AAPL,0.017997024580836296,0.9284260869026184,0.053576935082674026
+apple,"Hi, My Name is iTunes and I am a Hoarder",[deleted],18,31,2010-11-18,AAPL,0.04108824580907822,0.911216676235199,0.04769500717520714
+iphone,Keyboard Buddy Case gives your iPhone 4 a slide-out physical keyboard,[deleted],11,26,2010-11-18,AAPL,0.017679866403341293,0.8929674625396729,0.08935266733169556
+apple,Woz misquoted. Doesn't claim Android will overtake iOS,,1,22,2010-11-18,AAPL,0.037354759871959686,0.9170434474945068,0.04560179263353348
+apple,"I made my own iPod Case, it's hard-bound",,13,20,2010-11-18,AAPL,0.04931514337658882,0.8853510022163391,0.06533385068178177
+apple,Like to use Quick-Look? Quick-look in full screen using option key!,,39,190,2010-11-19,AAPL,0.029103048145771027,0.9475470781326294,0.02334986999630928
+apple,Apple Support Document:How to pick up and carry your iMac G5. [Crosspost from /r/geek],,37,113,2010-11-19,AAPL,0.018555065616965294,0.9114857316017151,0.06995924562215805
+iphone,Genus Aves Iratus (Angry Birds),,11,67,2010-11-19,AAPL,0.4047686755657196,0.5589090585708618,0.03632223233580589
+iphone,Hey guys! Two great apps are free right now.,"Both Train Conductor and Minigore are free at the moment. Both rank in my top 5 iphone games. 
+
+Edit: Actually, three great apps are free! Zen Bound is also available at no charge. Thank Nsfw-Dragoon for the tip. 
+
+Edit2: Four. Four apps. Soviyet pointed out that Rogue Runner is free as well. Though, I haven't played it but it has a good rating. 
+
+Edit3: Between my loading a page that said ""free"" for Rogue Runner and my pressing ""install"" it became $.99. That was annoying.",17,67,2010-11-19,AAPL,0.015013464726507664,0.8666484355926514,0.11833810061216354
+iphone,"hi reddit, I made an iPhone game for the knowledge hungry people (like you), a game about memory and enlightenment",,34,45,2010-11-19,AAPL,0.0195594672113657,0.916454553604126,0.06398600339889526
+mac,Is it really impossible to do this in OSX? I can't work out how...,,16,21,2010-11-19,AAPL,0.08250980079174042,0.8863874077796936,0.031102774664759636
+apple,Apple takes accessibility of Mac to a new level!,,2,21,2010-11-19,AAPL,0.014156607910990715,0.8797996640205383,0.10604378581047058
+apple,"Economist comes to iOS and it's just the way magazine subscriptions should be. Wired, New Yorker, etc. take note!",,9,13,2010-11-19,AAPL,0.03769969195127487,0.9274515509605408,0.03484875708818436
+apple,Update to Reddit Enhancement Suite I wanted to tell you about...,,10,12,2010-11-19,AAPL,0.015786193311214447,0.933928370475769,0.0502854585647583
+apple,34% Would've Have Bought A IPhone If It Had Been Available At Their Service Provider,,8,12,2010-11-19,AAPL,0.011978273279964924,0.8722037672996521,0.11581793427467346
+apple,Daring Fireball: Where Are the Android Killer Apps?,,99,106,2010-11-20,AAPL,0.036214396357536316,0.899302065372467,0.06448348611593246
+iphone,Daring Fireball: Where Are the Android Killer Apps?,,41,79,2010-11-20,AAPL,0.036214396357536316,0.899302065372467,0.06448348611593246
+apple,TIL: option + highlight in Text Edit selects a column of text rather than the entire line,,26,58,2010-11-20,AAPL,0.1306753158569336,0.8521664142608643,0.017158208414912224
+apple,Apple to Offer Free MobileMe Service to Some iOS Users?,,36,54,2010-11-20,AAPL,0.009507511742413044,0.8923614621162415,0.09813106805086136
+apple,What are some less well know iPhone apps that you love ?,,40,30,2010-11-20,AAPL,0.02550191804766655,0.911446213722229,0.06305187195539474
+apple,"An activation fee here, an overage charge there, and your Verizon Galaxy Tab monthly bill for a “$20 plan” is $89.",,23,26,2010-11-20,AAPL,0.020693505182862282,0.9417199492454529,0.037586528807878494
+apple,[Ask /r/apple] Can I boot from the SD card slot on a Macbook (Air)?,"Due to the somewhat limited space on the internal SSD for the Air (128GB since I'm not rich enough for the 256), I was thinking of using the SD slot to expand my ""internal"" storage.  At first I was thinking of just storing movies and music on it, but I had the idea this morning, what if I could install my Bootcamp Windows on a 32GB SD?  Is that a crazy idea or what?  Is the SD reader too slow for an OS?
+
+My Air comes Wednesday or else I'd just try it myself.",35,25,2010-11-20,AAPL,0.02109365351498127,0.9372588396072388,0.04164748638868332
+iphone,Is this a White Verizon iPhone? (pic),,13,25,2010-11-20,AAPL,0.020655568689107895,0.9075433015823364,0.0718010738492012
+mac,I found this while we were cleaning out old software at work the other day...,,15,24,2010-11-20,AAPL,0.6562954187393188,0.31720060110092163,0.026503926143050194
+mac,TIL:  Console Logins,"At the login screen, enter the username
+
+&gt;console (with the right arrow)
+
+and you will be dropped into a unix login prompt. Bye bye fancy GUI effects",8,23,2010-11-20,AAPL,0.06430397182703018,0.9013350605964661,0.034361016005277634
+apple,Microsoft finally figured out how to get people to line up at their stores...,,98,346,2010-11-21,AAPL,0.012040655128657818,0.8091295957565308,0.17882975935935974
+iphone,TIL the iphone isn't as fragile as people think.,"Back in June a friend of mine was in a terrible motorcycle crash. He had his iphone 3g in his pocket during this crash, and it was subsequently flung into the wooded area he eventually landed in. After spending 2 months in the hospital and rehab he purchased a new iphone 4 to replace his lost one. Flash forward to yesterday. A tree service worker was clearing branches from the area and found my friends iphone. It worked enough to get his mom’s number off of it, and he called my friends mom to let her know he had the phone. It had been sitting outside in a forest and still worked after almost 6 months. He is going to pick it up later this week, and I will be sure to keep you guys updated on the status of the phone. Hopefully I can grab a few pictures of it as well.",81,95,2010-11-21,AAPL,0.039097532629966736,0.881931483745575,0.07897090166807175
+apple,Apple customer service,"I had bought a pair of Apple Noise Isolating (In-ear) earphones refurbished on Amazon for $26. After a couple of weeks, I realized they didn't come with the medium size inserts. They only had 2 pair of smalls and 1 pair of large.
+
+I went to the Apple Store in Tysons Corner, VA yesterday. My wife was buying a battery for her MacBook and I thought I would try my luck on getting a pair of medium size inserts. I talked to an Apple Rep, and he was like no problem.  He left came back in less than 5 minutes and asked if I had my earphones and everything with me. I did. 
+
+He just opened a brand new set of the earphones and handed them to me! ""These come with medium on them"", he said. I was like, ""you want me to take a new pair?""  I had told him that I bought them refurbed and he insisted I take the new earphones with the mediums and the case they come in.
+
+I am a customer for life, and seriously considering buying stock now.",62,57,2010-11-21,AAPL,0.033008381724357605,0.9152179956436157,0.05177358165383339
+apple,"Steve Jobs, man of action, is now an action figure","http://macenstein.com/default/2010/11/steve-jobs-man-of-action-is-now-an-action-figure/
+
+Check out the detail on those shoes!",29,39,2010-11-21,AAPL,0.040768690407276154,0.9332440495491028,0.025987189263105392
+ipad,iOS 4.2.1 Review/Recommendation,"So I was sick and tired of waiting for the official release of 4.2.1 iOS for the iPad. I could care less about it for my iPhone because the 4.1 version already has all the features I wanted. Anyway, the features I really wanted for the iPad was the consolidated inbox as well as the multitasking ability. 
+
+After upgrading, I HIGHLY recommend that everyone updates their iPad to iOS 4.2.1 as well. It was extremely simple, no UUID is needed. Here are the bare-bone instructions. Again, like I said, you DO NOT need a password or whatever to install iOS 4.2.1 because it's in it's GM phase. ANYONE can download and install this. 
+
+1. download iOS 4.2.1 (google it)
+2. Plug your iPad into your computer.
+3. Hold down ""Left-shift"" and press ""Restore"" on iTunes.
+4. Click the iOS 4.2.1 file that you downloaded.
+5. Hug yourself for a job well done.  
+
+In addition, because this is the GM release (yeah I'm aware 4.2 was the original GM release) this is exactly what you're going to download when it officially gets released whenever Apple's slow ass decides to do this. In addition, because iTunes was updated in prep for the release of the original iOS 4.2, it even recognizes 4.2.1 as the most up to date version and installing apps via iTunes posed no trouble. I've included a pic below. 
+
+[URL=""https://dl-web.dropbox.com/get/iPad%204.2.1.png?w=9e525229""]https://dl-web.dropbox.com/get/iPad%204.2.1.png?w=9e525229[/URL]
+
+My thoughts on iOS 4.2.1 is nothing but positive. I did a FRESH reinstall, meaning I deleted everything from my iPad and installed everything again. Honestly, this was a huge hassle for me because of all the tweeking I did to my iPad but nonetheless, it still wasn't too bad. 
+
+Maybe it was because I did a complete fresh install of iOS 4.2.1, maybe it's because I'm the shit, but iOS 4.2.1 was just as responsive and fast as the previous version (iOS 3.2.2 I believe). With multiple applications open and couple tabs on my browser, I couldn't notice any difference between iOS 3.2.2 and the new iOS 4.2.1. I know there have been some complaints from people regarding slow response times, lag, etc. but I have yet to witness any of these things. Therefore, I would highly recommend a fresh reinstall. As a side note, it doesn't matter if you have a PC or a Mac, every once in a while, your computer, iPad, iPhone needs a fresh reinstall to clean up all the shit it accumulated. 
+
+In conclusion, I'd highly recommend installing iOS 4.2.1. It makes the iPad so much better. 
+
+*Fixed ""alt"" to ""left-shift""",23,21,2010-11-21,AAPL,0.05743979662656784,0.8913952708244324,0.05116497352719307
+apple,"Old, but I just saw this today. Pro-tip: ignore the bold text until the end.",,4,20,2010-11-21,AAPL,0.07176018506288528,0.8863926529884338,0.04184720665216446
+mac,Advice: How do I speed up a 4-year old macbook?,"I work in construction and I use Google Sketchup and Photoshop often for my designs. Takes ages to render images, especially when I have to make backdrop graphics as big as 2m x 4m (at 200dpi!!!). Formatting and reinstalling speeds things up for only a couple of weeks, and I don't want to buy a new macbook yet.
+
+Model Name: MacBook
+Model Identifier: MacBook2,1
+Processor Name: Intel Core 2 Duo
+Processor Speed: 2 GHz
+Number Of Processors: 1
+Total Number Of Cores: 2
+L2 Cache: 4 MB
+Memory: 1 GB
+Hard Drive is 80GB with 20GB free space. 
+
+What makes a machine slow down after a couple of years? Do I upgrade the RAM? Change the hard drive to a brand new one? Thanks in advance.",69,10,2010-11-21,AAPL,0.019144732505083084,0.9234333634376526,0.05742189288139343
+apple,Started reading the Steve Jobs interview from Playboy Magazing 1985 the other day- The article was pulled before I could finish it..,"Anybody have the full text? I've looked around and can't find it. 
+
+source:  http://www.playboy.co.uk/print/print-article/item77251/
+and http://gizmodo.com/5694765/29+year+old-steve-jobs-extols-californias-virtues-to-playboy-magazine",11,9,2010-11-21,AAPL,0.05459176376461983,0.9151998162269592,0.03020840510725975
+apple,"My iPhone 4's camera lens is terribly scratched.  Is this a stupid design, or am I being dumb? (link in text)","Let me start by saying that I'm neither an Apple fanatic, nor do I hate Apple.  I just thought the iPhone had a really nice user interface, so I got the 3GS and have been extremely happy with it.  I only mention this because while browsing various Apple-related forums about my problem, anyone who complained about Apple was quickly identified as a completely irrational Apple-hating moron and ignored.  I promise, I like Apple products, I really do, but this problem has me scratching my head.
+
+**The Problem:**  My wife's iPhone 4's back camera lens is scratched all to heck and back, to the point that the pictures it takes look blurry.  Neither of us could really figure out how it got that way, because she's only had it a couple of weeks.  This is her first really nice cell phone, and she ***really*** hates the idea of having to pay any extra amount of money due to carelessness, so she has been extremely careful with it.  And I mean really careful; we're talking Fabergé egg filled with babies and nukes careful, here.  She only carries it around in her purse, in a pocket all by itself, which is lined with soft fabric.  We've been looking at cases for it, but we haven't picked one yet.
+
+Anyway, when I got to looking at it, I realized that the glass or whatever it is that covers the camera hole is actually raised slightly above anything else on the back of the phone.  This means that any time the phone is set down on its back on a desk or something, the lens cover is making direct contact with that surface.  Here are some pictures showing what I mean:
+
+[Images showing the lens cover is scratched and raised](http://i.imgur.com/YfoPt.jpg)
+
+[Picture taken with my iPhone 3GS](http://i.imgur.com/bN8ZY.jpg)
+
+[Similar picture taken with my wife's iPhone 4](http://i.imgur.com/kuFaI.jpg)
+
+That seems kinda dumb to me.  I mean, wouldn't it have been better to make the lens cover thingy just a teensy bit recessed rather than raised?
+
+**Update:** I took it to the Apple store and they swapped out the back plate.  Here's a picture of the new one:
+
+[New camera lens cover](http://i.imgur.com/fQGsL.jpg)
+
+The lens cover still looks a bit raised above everything else, but it's not as pronounced as the old one.  Also, the lens is scratch free, so I'm happy.  This thing will be living in a case from now on, so this problem shouldn't happen again.
+
+Thanks for all the info/help!
+
+**Update 2:**  [Here's a thread I started on r/AskReddit](http://www.reddit.com/r/AskReddit/comments/e9rje/can_i_get_some_very_specific_pictures_of_your/) asking for people to submit images of their iPhone 4s, as I am curious if this is common or not.",29,8,2010-11-21,AAPL,0.0698830783367157,0.8951636552810669,0.03495330363512039
+mac,What determines the PATH seen by an Application that starts at login?,"I have found that Applications are no longer able to automatically update themselves and the problem seems to be be related to the PATH. 
+
+When I examine the applications Environment using ""ps -E"" I can see that it doesn't have a full path but an unexpanded $PATH variable and something I added in the path string. I'm trying to find where it comes from.
+
+I have looked at:
+/etc/paths
+~/.profile
+~/.bashrc
+~/.bash_profile
+
+all look normal. Is there anywhere else that determines the PATH?
+
+Later:
+
+I found it in ~/.MacOSX/environment.plist
+via this post: http://superuser.com/questions/69130/where-does-path-get-set-in-os-x-10-6-snow-leopard",0,8,2010-11-21,AAPL,0.054731689393520355,0.913427472114563,0.031840842217206955
+apple,iOS 4.2 is finally out. Find My iPhone no longer requires MobileMe.,,442,368,2010-11-22,AAPL,0.028145140036940575,0.883430004119873,0.08842477947473526
+iphone,"Use Google Voice for free unlimited texting (saving you $20/month)? Now you can use the built-in Messages app (or biteSMS, etc.)!",,27,95,2010-11-22,AAPL,0.023659279569983482,0.9414157867431641,0.03492489084601402
+apple,"""We just wanted to build the best thing we could build. When you're a carpenter making a beautiful chest of drawers, you're not going to use plywood on the back, even though it faces the wall and nobody will ever see it. You'll know it's there, so you're going to use a beautiful piece of wood.""",,18,81,2010-11-22,AAPL,0.027041785418987274,0.9184413552284241,0.05451684817671776
+iphone,PhotoAlbums+ for your iPhone. This should have been standard on the iPhone,,13,54,2010-11-22,AAPL,0.020890289917588234,0.9344297647476196,0.04467996582388878
+ipad,"iOS 4.2.1 now available, brings the iPad into the multitasking era",,76,45,2010-11-22,AAPL,0.013187477365136147,0.9111747145652771,0.07563778012990952
+iphone,iOS 4.2 to be released today at 10:00am PST,,21,42,2010-11-22,AAPL,0.019752172753214836,0.9144847393035889,0.06576307117938995
+apple,Find my iPhone now FREE! No longer requires MobileMe subscription,,34,35,2010-11-22,AAPL,0.02690408006310463,0.9410861134529114,0.032009776681661606
+iphone,How to Enable and Use Find My iPhone for Free on iPhone 3GS and Other Pre-2010 Devices,,5,29,2010-11-22,AAPL,0.018178634345531464,0.9361319541931152,0.045689426362514496
+ipad,World of goo coming to the iPad!!!!!,,6,28,2010-11-22,AAPL,0.1197003722190857,0.7455877661705017,0.1347118318080902
+iphone,How cool would it be if the iPhone ha changing environments?,"What I mean by this is that let's say there is a morning mode for the phone that activates at a certain time (let's say 8) and changes all you springboard apps on the home screen to what you usually do in the morning. For one example it changes to an environment in which it consists of your favorite newspaper app, reddit Facebook etc. Then when you set a timer that between 9-5 weekdays (work mode per say) it changes the home screen to apps that help you out during work. (calcs, email docs and whAtever else).",23,17,2010-11-22,AAPL,0.030205916613340378,0.9316986203193665,0.03809548169374466
+apple,"It's this kinda shit, Steve...","I went into an iStore today with a busted iPod.  Evidently, it's run out of juice, and no longer has enough juice to run.
+
+I talk with a guy and he tells me I need to buy a wall adapter.  He plugs it into an adapter he has with him, and it seems to work until he unplugs it.  The whole screen goes blank again.
+
+He says ""Hmm.  I guess the battery is just toast.""
+
+""So what, do you have to replace the battery?""
+
+""Oh, no.  We're just going to give you a new iPod.  I'll be right back.""
+
+3 minutes later, I've upgraded from a 1.5 year old 16GB to a brand new, straight out of the box 32GB iPod for free.
+
+Thanks Apple.  Way to lead the market in good customer service.",660,829,2010-11-23,AAPL,0.017151040956377983,0.8443725109100342,0.13847646117210388
+apple,Reminder: Civ 5 is available for Mac today on Steam. There goes the rest of the week.,,136,121,2010-11-23,AAPL,0.05018325522542,0.8943406939506531,0.05547603592276573
+iphone,swipe right one more time on the multitasking bar,,46,98,2010-11-23,AAPL,0.02740379050374031,0.9168140888214111,0.05578210577368736
+apple,DAE feel annoyed when others say iTouch?,What's an iTouch? It sounds like some brand of dildos.,56,65,2010-11-23,AAPL,0.027666470035910606,0.9103326797485352,0.06200087070465088
+apple,A profanity-laden tirade against the new iOS 4.2 text alert sounds,,49,50,2010-11-23,AAPL,0.02906346507370472,0.9380366206169128,0.03289990499615669
+ipad,I want the screen lock BACK!,I can't be the only one that used it.,40,45,2010-11-23,AAPL,0.08982972055673599,0.8848086595535278,0.02536162920296192
+apple,iOS 4.2 makes my 3G work again!,"Just installed, I had forgotten what it was like to have a phone that didn't take seconds to give me a dialpad...
+
+Thanks Apple for making my phone work (although piss off for breaking it for like 6 months).
+
+Update: I had gotten so used to the inhibited version that I'm having trouble operating it...",67,43,2010-11-23,AAPL,0.10471503436565399,0.853710412979126,0.04157455265522003
+iphone,My friend usually wins....Today I shall be victorious (Crosspost from /r/pics),,31,39,2010-11-23,AAPL,0.025169212371110916,0.9234885573387146,0.051342178136110306
+apple,"Shit like this, Steve",[deleted],26,30,2010-11-23,AAPL,0.1378827840089798,0.7852901816368103,0.0768270492553711
+apple,I stick with Apple because I like when developers think of what the user wants.  So I don't have to go through an instructables to figure out how to make my app full screen! (Galaxy),,41,26,2010-11-23,AAPL,0.019909827038645744,0.9243021607398987,0.05578796938061714
+iphone,I am an iOS user interface designer who's been helping to design for Alien Blue. Your feedback needed!,[deleted],56,116,2010-11-24,AAPL,0.017791714519262314,0.901795506477356,0.08041281998157501
+iphone,"Want a tweak in Cydia? Suggest it here, and I'll try and make it.","I'll read the highest-voted items and see which ones are reasonable, and try and implement them. UI tweaks, adding features, making something work better, all good options. What I've done before: http://chpwn.com/apps/
+
+(Note: I reserve the right to charge for these, but I'll only do that if I spend a lot of time on it.)
+
+ 
+
+-- UPDATE --
+
+So I took one of the ideas people had, and made this: http://dl.dropbox.com/u/3177211/IMG_0004.PNG
+It's a replacement for the Spotlight page that lists all your apps for easy access if you forget where you put it. To use the normal spotlight feature, just tap the search bar.
+
+Is anyone interested? How much would you pay for it, if anything?",245,52,2010-11-24,AAPL,0.02624073624610901,0.9178442358970642,0.05591500550508499
+iphone,iOS 4.3 rumored for mid-December with in-app subscriptions,,11,34,2010-11-24,AAPL,0.04223056510090828,0.9155115485191345,0.042257849127054214
+iphone,Am I the only one who wishes Pandemic (the flash game) had an iphone app?,"My life would come to a screeching halt for that right there.
+
+In the event that you dont know what that is (I highly doubt it),
+
+[Pandemic 2](http://www.crazymonkeygames.com/http://www.crazymonkeygames.com/Pandemic-2.html)",11,32,2010-11-24,AAPL,0.03752526268362999,0.912178635597229,0.050296131521463394
+iphone,Can we please stop linking directly to iTunes?,"It's annoying as shit when using my iPad/iPhone. Granted, multitasking makes it less of a pain, but still.",11,31,2010-11-24,AAPL,0.033996351063251495,0.919904351234436,0.0460992157459259
+apple,"Just got this amazing utility for the Mac. Its tags, adds descriptions, and artwork automatically to a movie so its the same as an iTunes purchased one. Great for large libraries.",,24,22,2010-11-24,AAPL,0.011416686698794365,0.807392418384552,0.1811908334493637
+iphone,"Seriously Apple... After 3 years you give us new SMS tones, and these are what you come up with?",I remember feeling excited when I heard about the new SMS tones. 2 usable new tones at best.,19,17,2010-11-24,AAPL,0.013139919377863407,0.8788396716117859,0.10802038758993149
+iphone,How to Jailbreak iOS 4.2.1 on iPhone or iPod Touch with Redsn0w [Mac],,0,17,2010-11-24,AAPL,0.02493710070848465,0.9072136282920837,0.06784923374652863
+apple,"Just got it working now, how to record on a Mac.","I just figured this a few minutes ago, how to record streaming Audio.
+
+1. Download [Audacity](http://audacity.sourceforge.net/), it's a simple (not to mention free and open source) audio editor that's quite handy for the general purpose, nonspecific job.
+2. Download [SoundFlower](http://cycling74.com/products/soundflower/), it's a (free) system extension that allows audio to pass from one app to another.
+3. Install both, of course.
+4. System Preferences &gt; Sound &gt; Output &gt; Soundflower, either 2ch or 16ch.
+5. Audacity &gt; Preferences &gt; Audio I/O tab &gt; Recording &gt; Device, either 2ch or 16ch, it must match the channel (2ch or 16ch) in Soundflower from step 4.
+6. Profit. Well not really.
+
+Audio quality obviously is not amazing, but it works in a pinch. The volume matters here, if you record on a low level volume, you will get a low level recording.
+
+Your mileage may vary, use at your own discretion and risk.
+
+**EDIT**
+
+greatblackowl has offered a tip:
+
+&gt;To maximize the volume without overloading, go to ""effect -&gt; normalize."" Obviously, the best option would be to start with a high-volume input, though.
+
+**EDIT2**
+
+Or you can just go buy Audio Hijack Pro.
+
+I just used Audacity cause I'm more familiar with it and I use it often.
+
+And I mean the quality is dependent on the quality of the file playing.",18,16,2010-11-24,AAPL,0.022880733013153076,0.93327397108078,0.043845247477293015
+mac,What games can I actually play on my macbook?,"I have an Intel GMA 950, and I haven't seen many games that support that but I've seen plenty that exclude it.
+
+I downloaded Steam when Portal was free on it a while ago, but then I figured out it wasn't supported.  Granted, I haven't searched very hard on Steam; but I was hoping you guys could give me some insight.",27,15,2010-11-24,AAPL,0.013053961098194122,0.8468652963638306,0.1400807499885559
+apple,This is How an Apple Fanboy and an Android Fanboy Give Thanks to Each Other.,,150,358,2010-11-25,AAPL,0.02791784144937992,0.9263564944267273,0.04572565108537674
+apple,AT&amp;T selling iPhone 4 for $99 this Friday,,108,73,2010-11-25,AAPL,0.012985650449991226,0.8370521068572998,0.14996224641799927
+iphone,Depict is free at the moment ?,,20,67,2010-11-25,AAPL,0.02534150332212448,0.9054145812988281,0.0692439153790474
+apple,My new app is like user switching for the ipad (sort of),,20,44,2010-11-25,AAPL,0.013249856419861317,0.8548650741577148,0.1318851262331009
+iphone,Happy Thanksgiving! Mega Fill-Up is free for today!,,24,37,2010-11-25,AAPL,0.013832801952958107,0.8211859464645386,0.16498123109340668
+apple,I have a strange request for an iPhone 4 owner...,"I just found my lost iphone. WOOOHOOO! Problem is this:
+ATT is closed so I cant get the new mini sim card today. Well I tried cutting it down to fit. Success... Except I cut it completely wrong.
+
+Is there any way some kind gentlemanly scholar would take a picre of their sim card in the card holder with the chip side facing the camera? I need to realign this fucker so I can start making calls and get in touch with family who want to feed me turkey :D
+
+If you do this I will bless you with upboats and maybe, MAYBE, wish you a happy thanksgiving :D
+
+EDIT: Fixed! Thank you to every one who helped out! It made all the difference! Many upboats for every post on your profile page! TY all :D",32,29,2010-11-25,AAPL,0.04346085339784622,0.8972638845443726,0.059275224804878235
+iphone,Here's some Thanksgiving App Store deals. Post any your find on your own in the comments. Happy Thanksgiving! =),,12,25,2010-11-25,AAPL,0.04556341469287872,0.8446189761161804,0.10981756448745728
+iphone,Tethered Jailbreak vs Untethered Jailbreak,,13,23,2010-11-25,AAPL,0.14162802696228027,0.8229309320449829,0.035441070795059204
+iphone,Ultrasn0w Unlock for iOS 4.1 baseband 5.14.02 releasing this week,,5,19,2010-11-25,AAPL,0.03422181308269501,0.9175986647605896,0.04817952588200569
+apple,Apple Black Friday discounts already up in Australia - here's an idea of what they'll be like for tomorrow,,13,16,2010-11-25,AAPL,0.016266491264104843,0.8600531220436096,0.12368043512105942
+apple,"""The new MacBook Pros will move to solid state storage, up to 512GB, remove the optical drive, and we believe light-peak is being pushed to make it’s first-ever entrance into the market, another Apple exclusive.""",[deleted],214,150,2010-11-26,AAPL,0.01433510147035122,0.9169671535491943,0.06869778037071228
+apple,Is This An Earthquake? (works on iOS 4.2 and Chrome on MBP),,54,140,2010-11-26,AAPL,0.05095567926764488,0.9178751707077026,0.031169122084975243
+iphone,"Behold, my first App! (it's free!)","I posted the release [originally](http://www.reddit.com/r/IndieGaming/comments/ebsvd/retroputt_my_first_ios_game_is_now_on_the_app/) on /r/IndieGames, but I figure some people here probably don't read that, so I thought I'd post here as well. I hope that's not breaking any laws. :)
+
+Anyway, my App is called retroputt and it's essentially a mini-putt style game with a few twists. Hope you guys enjoy it and feel free to leave feedback!
+
+[iTunes Preview](http://itunes.apple.com/us/app/retroputt/id401063090?mt=8&amp;ign-mpt=uo%3D4)
+
+[retroputt website](http://www.retroputt.com)
+
+[dev blog](http://blog.retroputt.com)",36,79,2010-11-26,AAPL,0.0264850202947855,0.9350566267967224,0.03845836967229843
+iphone,Crosspost from gaming: Angry Birds Peace Treaty,,2,40,2010-11-26,AAPL,0.12751053273677826,0.7812127470970154,0.0912766382098198
+mac,Woah - haven't seen this before.,[deleted],13,33,2010-11-26,AAPL,0.19234620034694672,0.7660806775093079,0.041573163121938705
+apple,iTunes is going to do what?,,30,29,2010-11-26,AAPL,0.02840762585401535,0.9384385943412781,0.03315378352999687
+iphone,Is there an app that allows you to upload images to the Internet?,[deleted],22,16,2010-11-26,AAPL,0.016439836472272873,0.9337067008018494,0.0498533770442009
+iphone,TIL that Nethack is available on the iPhone,,4,15,2010-11-26,AAPL,0.020459843799471855,0.9370170831680298,0.042523112148046494
+apple,What Do You Want On The IPhone 5?,,72,13,2010-11-26,AAPL,0.01812164857983589,0.9315228462219238,0.050355568528175354
+ipad,DAE notice more frequent crashes since applying the latest iOS update?,"Since running the update I'm getting apps crashing left and right that worked fine before, anyone else having similar issues?",10,12,2010-11-26,AAPL,0.30175766348838806,0.6760942339897156,0.022148167714476585
+apple,Hey Reddit. Check out the iPhone App cupcakes I made!,,33,228,2010-11-27,AAPL,0.029884105548262596,0.9203188419342041,0.04979705810546875
+apple,"After years of mocking MS Windows relentlessly for the same thing, why do we have this?",,241,205,2010-11-27,AAPL,0.5944850444793701,0.37063831090927124,0.03487662225961685
+iphone,Useful Tips and tricks for iPhone 4 .....,,48,86,2010-11-27,AAPL,0.02322535216808319,0.9131773710250854,0.06359729915857315
+mac,"Heads up, Left 4 Dead 2 is $5 for the next 20 hours.","I know this technically dosen't belong here, but seeing as it is one of the better games available on OS X, I thought you should know. 
+
+Also if there is anyone who already owns the game, do you mind commenting on how it runs on the 320m.",22,29,2010-11-27,AAPL,0.020018447190523148,0.9020986557006836,0.07788297533988953
+apple,Slashdotters are chiming in on the reports that the next MacBooks will use 10Gbps Light Peak ports,,22,26,2010-11-27,AAPL,0.030723614618182182,0.9229738116264343,0.046302586793899536
+apple,"Apple rejects Android magazine from the app store, but lets iPhone magazine go through from the same publisher",,31,18,2010-11-27,AAPL,0.3300716280937195,0.6496348977088928,0.020293444395065308
+apple,Some features that need to be added to iTunes,"After much wailing and gnashing of teeth I have finally given up on Amarok and other OSS music players and switched to iTunes. iTunes is a much more robust and stable music player than Amarok, and I don't have to worry about it becoming neglected or abandoned by it's developers.  Still there are some features that I am amazed are not in iTunes and that I'm hoping will find their way into it soon... I'll be wishing upon a star that somebody on the iTunes dev team reads this.
+
+1. Secondary Sort - So many uses for this option. For me, it would make the process of deleting duplicate songs much faster and easier.
+
+2. A true queue function. iTunes DJ is ok, but still not as good as the queues we could make in Amarok or even Winamp 10 years ago.
+
+3. Stop after Current Song. This is a feature I use all the time. I guess I have a bit of OCD when it comes to stopping play in the middle of a song. The queue and stop after current song functions are a great combo, allowing more convenient creation of impromptu playlists. (edit: [Supreme Fuzzler](http://www.reddit.com/r/apple/comments/ecnci/some_features_that_need_to_be_added_to_itunes/c1754mm) and [Stereo](http://www.reddit.com/r/apple/comments/ecnci/some_features_that_need_to_be_added_to_itunes/c175l95) came up with some good solutions)
+
+
+4. Give half star ratings to songs. Very handy for those 4.5/5 star songs. (edit: thanks [iyttahm](http://www.reddit.com/r/apple/comments/ecnci/some_features_that_need_to_be_added_to_itunes/c173drb))
+
+Anybody else have any features you wish were in iTunes?",46,18,2010-11-27,AAPL,0.02253224141895771,0.9088269472122192,0.0686408057808876
+iphone,Great news for iPhone owners who accidentally upgraded (i.e. me) Unlock coming on sunday to 4.2.1!!,,9,17,2010-11-27,AAPL,0.6799705624580383,0.23548075556755066,0.08454860001802444
+apple,The Glif tripod mount and stand for the iPhone 4 (as popularized by Kickstarter) is now on sale,,4,12,2010-11-27,AAPL,0.02080918662250042,0.9176940321922302,0.061496734619140625
+iphone,"Dear Reddit, can you help with our iPhone game experiment?",[deleted],17,9,2010-11-27,AAPL,0.020624026656150818,0.8683854937553406,0.11099052429199219
+apple,"Yesterday, one of my family friends told me he didnt like macs because it doesnt support Internet Explorer",Lol.,211,280,2010-11-28,AAPL,0.03442618250846863,0.9239331483840942,0.041640687733888626
+iphone,What's this button actually supposed to do? IT NEVER DOES THE SAME THING,,23,74,2010-11-28,AAPL,0.10740762203931808,0.843355119228363,0.049237217754125595
+apple,Free Find My iPhone does work on older hardware after all!,"Hey guys, I just thought I'd share a little tidbit I just discovered. Like a lot of other people, I was disappointed that the new free iPhone finder was only for the newest generation of devices. However, I took a look at Apple's iOS 4.2 features page, and in the fine print it says
+&gt; You can create a free Find My iPhone account on any iPhone 4, iPad, or iPod touch (4th generation) running iOS 4.2. Once you create an account on a qualifying device, use your Apple ID and password to enable Find My iPhone on your other devices running iOS 4.2.
+
+
+I took that to mean that you can *use* your free account on any device running 4.2, but you have to *create* the account on a new iWhatever. It turns out that this is correct. My wife and I both have the iPhone 3G, and after updating to 4.2, I was able to use the free MobileMe account I had created on my iPad to set up Find My iPhone on both of them. So, if you (or a friend) have a new device, you can use it to create the account, and then you can use the service on your older gear. Hope that helps someone.",30,72,2010-11-28,AAPL,0.021746594458818436,0.885112464427948,0.09314100444316864
+iphone,"If you used a statusbar notifier in the iOS 3 days, check out OpenNotifier for iOS 4",,6,15,2010-11-28,AAPL,0.11581162363290787,0.867732584476471,0.016455790027976036
+apple,Why Does Apple Offer Free Engraving?,,38,14,2010-11-28,AAPL,0.013667106628417969,0.9377575516700745,0.04857538267970085
+apple,"If you want 8GB ram in your laptop, now's the time to buy ($89 on newegg)!",,32,12,2010-11-28,AAPL,0.014434452168643475,0.8395860195159912,0.14597955346107483
+apple,Just got an iPad!,[deleted],83,11,2010-11-28,AAPL,0.023025507107377052,0.8832679986953735,0.09370654076337814
+apple,Left 4 Dead 2 selling for $5 only! Limited time offer,,12,10,2010-11-28,AAPL,0.15599462389945984,0.8213813304901123,0.022624026983976364
+apple,"Hey Reddit, check out the sound my MacBook Pro's fans make.",,26,9,2010-11-28,AAPL,0.02211606688797474,0.9058563113212585,0.07202758640050888
+apple,Why can't I take snapshots on my iPod nano?,"I have a purple (Because that's important) iPod Nano.  
+The rectangular kind, so one generation back I think.  
+I was taking some video today and it struck me that it would make a nifty PAS camera.  
+The resolution wouldn't be stellar, but might still capture the essence of the moment when I couldn't carry my DSLR.",12,9,2010-11-28,AAPL,0.016778642311692238,0.8886867761611938,0.09453453123569489
+iphone,Ads on my lockscreen.... For free! Revolutionary.,,41,166,2010-11-29,AAPL,0.02709021605551243,0.9262786507606506,0.04663112387061119
+apple,The Mac that saved Apple,,59,127,2010-11-29,AAPL,0.049069102853536606,0.8626955151557922,0.08823537826538086
+iphone,What are these white dots on my mom's screen and what can we do about it?,,30,45,2010-11-29,AAPL,0.05956060066819191,0.8835813999176025,0.05685798451304436
+apple,"Visual App Creator now supports iPhone (in addition to Android, Flash).",,43,42,2010-11-29,AAPL,0.01243803184479475,0.9264394640922546,0.0611225850880146
+apple,Has Reddit abandoned the iPhone app?,"Many of us like Reddit, and many of us like our iPhones. So why are the official Reddit iPhone apps (both the free &amp; pay version) abandoned? ""Multitasking"" has been available for five months now and the Reddit apps still aren't updated to support it. They also don't support the iPhone 4 &amp; iPod Touch higher rez display. 
+
+I know about http://i.reddit.com/ but it isn't as quick to load or low bandwidth-friendly as the apps are.
+
+I'm posting this to r/apple because while the official app feedback area is located on the Get Satisfaction forums [here](http://getsatisfaction.com/reddit/products/reddit_ireddit), nobody seems to be paying attention.",37,39,2010-11-29,AAPL,0.060618601739406586,0.9074918627738953,0.031889546662569046
+apple,iPads are still $399 at Walmart...IF you play your cards right!,Just picked up 2 new iPads for $399 at my local Walmart. I printed off three articles from the Internet stating that the iPad was being sold at TJ Maxx for $399. I had to go to three Walmarts before I could find a 16 gig but once I found one they were willing to sell it to my based on the article justifications. I walked out with two and gave the receipt to my mother who went over to Best Buy who again honored the price.  The deal is still on going your just going to have to wrk a little for it. If you ask me it's better than standing out in the cold on black Friday. Same deal days later.,42,32,2010-11-29,AAPL,0.03269880264997482,0.8887320756912231,0.07856912910938263
+apple,"Apple Lawyers Up for Patent Showdowns With Nokia, Motorola",,12,22,2010-11-29,AAPL,0.03294084221124649,0.8750491738319397,0.09200998395681381
+apple,Can I use Time Machine to restore my personal documents but not OS settings?,"I want to restore my macbook back to a clean SL install, but want to use Time Machine for parts of this to help speed things along.
+
+Say I reinstalled SL now, would I be able to use TM to restore my documents, music, downloads etc whilst it leaves all the programs, program settings, OS settings alone? I just don't want to have a clean install and then it restore the old settings that I am trying to be rid of.
+
+Thanks.",17,21,2010-11-29,AAPL,0.023914029821753502,0.9256599545478821,0.050426021218299866
+apple,Agony. Pure agony.,,9,17,2010-11-29,AAPL,0.15910103917121887,0.7628360986709595,0.07806290686130524
+apple,Apple top PCWorld customer satisfaction awards for laptops &amp; desktops (along with Asus),,8,14,2010-11-29,AAPL,0.01719524711370468,0.7308300733566284,0.2519747316837311
+apple,[PIC] Excellent...,,98,483,2010-11-30,AAPL,0.045187950134277344,0.9105736613273621,0.04423838108778
+apple,"Apple buys 98-acres of land in Cupertino, formerly that of HP campus",,9,57,2010-11-30,AAPL,0.017616432160139084,0.9404204487800598,0.0419631190598011
+iphone,iPhone v5 in the wild!,,25,53,2010-11-30,AAPL,0.018867535516619682,0.8357799649238586,0.1453525722026825
+apple,Steve gives a tour of the Daddy of Mac OS X - NeXTSTEP,[deleted],15,40,2010-11-30,AAPL,0.024652015417814255,0.9283897876739502,0.04695817828178406
+iphone,WSJ: Why we can't stop playing Angry Birds,,11,23,2010-11-30,AAPL,0.3233373761177063,0.6446204781532288,0.03204214572906494
+apple,"i may be a fanboy, but you cant argue with this article - ""Apple 'Smokes the Competition' in Reliability Survey""",,24,23,2010-11-30,AAPL,0.06644848734140396,0.8890776634216309,0.04447382315993309
+apple,Mac of the future: the CPU,,35,23,2010-11-30,AAPL,0.022454973310232162,0.9013921618461609,0.07615281641483307
+apple,"Yeah, I'm actually going to just sit here and hold it down...",,25,22,2010-11-30,AAPL,0.06511511653661728,0.7338873147964478,0.20099754631519318
+apple,Big performance improvements on Macs in Flash 10.2 beta,,27,18,2010-11-30,AAPL,0.030061976984143257,0.208609938621521,0.7613280415534973
+ipad,Should I wait till April to buy an Ipad?,"I looked around the web and there is a lot of talk about an Ipad2 coming out, do you think this is all bluster?
+
+I don't want to shell out 400 notes this Christmas just to wish I had waited 3 months.
+
+Thoughts?",41,14,2010-11-30,AAPL,0.029319023713469505,0.9170174598693848,0.05366351455450058

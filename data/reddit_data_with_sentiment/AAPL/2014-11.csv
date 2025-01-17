@@ -1,0 +1,1001 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,"'iPad Pro' Said to Feature 12.2-Inch Display, 7-mm Thickness, Stereo Speakers at Top and Bottom",,338,370,2014-11-01,AAPL,0.014667615294456482,0.8735926747322083,0.11173969507217407
+iphone,So this just happened... Normal iPhone 6 does bend,,316,317,2014-11-01,AAPL,0.013795649632811546,0.8716488480567932,0.1145554855465889
+apple,iPhone 6 for $99 at Sam's Club stores on 11/15 only,,123,305,2014-11-01,AAPL,0.015667933970689774,0.9144679307937622,0.0698641836643219
+iphone,"Oh, how far we've come",,47,232,2014-11-01,AAPL,0.039941538125276566,0.509149968624115,0.45090845227241516
+apple,"Police Can Unlock iPhones with Fingerprints, Ruling Says, But Not Passcodes",,87,202,2014-11-01,AAPL,0.05603091046214104,0.8946229219436646,0.04934615641832352
+apple,Apple pay initializing when placed next to android phone.,"Today on I placed my phone in a cup holder pressed against my roommates Moto X. When I picked up the phone my apple pay initialization screen was presented (asking for my Touch ID). 
+
+This is also repeatable although the I haven't tried it with anything but a Moto X as we are still on a road trip. 
+
+I have not yet attempted to put in my fingerprint but I am curious if anyone else has run into this issue before I possibly send him anything.",55,154,2014-11-01,AAPL,0.02972022071480751,0.9257066249847412,0.04457312449812889
+mac,"Mac Voodoo 101 (A.K.A. ""What does this crap actually do?"")","I'm recalling [a thread a few months back](http://www.reddit.com/r/mac/comments/22hpp0/macbook_pro_stalls_for_510_seconds_at_a_time/cgnj69d?context=5) in which someone used the phrase ""Voodoo Fixes"" to describe the general measures we take in troubleshooting issues with Macs such as resetting the NVRAM and SMC, repairing the filesystem and permissions, clearing caches.
+
+As I said then, I like the ""Voodoo"" qualification since it accurately describes the nature of these measures; for the most part, their workings are mysterious, and who knows if and when they will actually have any effect. So in this post, I'm going to do my best to clear some of that up.
+
+----
+
+[**Resetting the NVRAM**](http://support.apple.com/kb/PH14222)
+
+""Non-Volatile Random Access Memory"" is a small unit of data storage which the firmware can access in the pre-boot stages of turning on the computer. This function was previously fulfilled by PRAM (Parameter Random Access Memory) in PowerPC-based Macs.
+
+The NVRAM stores settings related to what OS to boot, what options to use when booting that OS, Bluetooth keyboard and mouse pairings for use in startup sequences (such as holding the option key to display the boot manager), and a few other things such as Wi-Fi network credentials for booting in internet recovery if need be. Resetting these settings can be useful for the following issues:
+
+* Delays on startup
+* Failure to boot
+* Failure to alter boot modes on startup, such as holdng the option key to view the boot manager
+* Weird display output issues while booting
+
+Potential side effects from resetting the NVRAM:
+
+* Alternate boot choices, such as a secondary installation of OS X, or applications such as rEFIt or rEFInd, are lost
+* Alternate boot options, such as those required by software such as TRIM Enabler, are lost, possibly rendering the system un-bootable
+* The list of Wi-Fi networks which can be used to boot into internet recovery is lost (that is, until booting back into OS X again)
+
+---
+
+[**Resetting the SMC**](http://support.apple.com/kb/ht3964)
+
+The System Management Controller is a chip which arbitrates certain power-related functions of the computer. It has access to information about the machine's temperature sensors, fans, display lid, battery and AC power, and keyboard and display backlighting... OS X gets this information from the SMC. Resetting the state of the SMC can be relevant to the following issues:
+
+* Improper fan behavior
+* Unresponsive AC adapter
+* Incorrect battery readings
+* Improper reaction to closing the laptop lid
+* Improper backlighting response to ambient light
+
+Potential side effects from resetting the SMC:
+
+* Custom fan behaviors, such as those set by software such as smcFanControl, are lost
+
+---
+
+[**Permissions Repair**](http://support.apple.com/kb/ht1452)
+
+I hate to say it, but a permissions repair is probably one of the most ""Voodoo"" measures of them all.
+
+When running a permissions repair, OS X goes through a list of files that have been installed by OS X's package management system (e.g. the original OS X installation, the App Store, and some third-party `.pkg` files), and makes sure that the permissions of the installed files still match up with how they were specified in the packages.
+
+It is not common for permissions of installed files to be made incorrect in such a way so as to cause problematic side-effects, however there may be two benefits to running a permissions repair:
+
+* Improving the security of files which do not need to be readable or writeable by any user other than the system
+* Fixing non-system software which has become broken as a result of it losing permission to access files which it depends on
+
+----
+
+Stay tuned for the next item in this series, ""Mac Voodoo 102."" In the meantime, please let me know if I missed anything, or if any of this information isn't on point!
+
+Thanks for reading,
+
+/u/5HT-2a",26,135,2014-11-01,AAPL,0.15952163934707642,0.8157115578651428,0.024766849353909492
+mac,"Yosemite added an option to reveal the hidden ~/Library folder under ""Show View Options""",,23,121,2014-11-01,AAPL,0.028437893837690353,0.9388668537139893,0.0326952189207077
+apple,Refurb Purchase Surprise!,"So I've been on the hunt for a new iMac, found at the online Apple Store a refurb 21.5"" with 1TB HD, 8 GB RAM @ 2.9Ghz for $1269...$230 off, a solid deal.  Picked it up yesterday and while setting it up found it shipped with 16 GB of RAM...added value of $200!! Thanks Apple!!",34,121,2014-11-01,AAPL,0.013556668534874916,0.8369547128677368,0.1494886428117752
+iphone,I was tickled when I asked Siri to determine this song for me.,,11,100,2014-11-01,AAPL,0.03335535526275635,0.9209432005882263,0.04570150002837181
+iphone,Finally upgraded,,156,860,2014-11-02,AAPL,0.02865857258439064,0.8379714488983154,0.13336992263793945
+apple,Google wants you to easily share files between Android and iOS,,93,589,2014-11-02,AAPL,0.010373985394835472,0.9080803394317627,0.08154573291540146
+ipad,Got my iPad &amp; Android tablets working together on Halloween!,,16,181,2014-11-02,AAPL,0.012089898809790611,0.8147920966148376,0.1731180101633072
+apple,Open source Knock Knock tool reveals OS X malware,,42,174,2014-11-02,AAPL,0.017150884494185448,0.8740382194519043,0.10881087929010391
+apple,"Intel launches new Broadwell Core M processors, likely destined for the thinner, fanless 12-inch MacBook Air.",,129,170,2014-11-02,AAPL,0.043635040521621704,0.7717637419700623,0.18460120260715485
+iphone,Finally found a hotel with a lightning charger (DoubleTree Hilton),,26,145,2014-11-02,AAPL,0.024502545595169067,0.8702753186225891,0.10522215068340302
+iphone,Sam's Club to sell Apple's iPhone 6 from $99 on Nov. 15,,31,116,2014-11-02,AAPL,0.017995532602071762,0.8980621099472046,0.08394238352775574
+apple,Why doesn't the clock app have a dark mode on iOS?,"It's the one app we are all likely to use before bed, in the dark, so why does it have to be so bright?",46,104,2014-11-02,AAPL,0.027110228314995766,0.9477249383926392,0.025164881721138954
+iphone,"This map will show you everywhere NFC payments are accepted near you (stores, vending machines, etc)",,15,59,2014-11-02,AAPL,0.03862886130809784,0.9313729405403137,0.029998211190104485
+apple,What are your favorite apps for Mac?,"I am wondering what others use for their Mac. 
+
+I need some good helpful applications.",132,59,2014-11-02,AAPL,0.02063896134495735,0.9176670908927917,0.06169397383928299
+iphone,"iPhone camera comparison spanning all eight models, 2014 update",,31,534,2014-11-03,AAPL,0.013254551216959953,0.8483713865280151,0.13837411999702454
+apple,Swedish hacker finds 'serious' vulnerability in OS X Yosemite - CSO,,111,525,2014-11-03,AAPL,0.27127259969711304,0.6749451756477356,0.053782202303409576
+apple,Russians Tore Down A Memorial To Steve Jobs After Tim Cook Said He Was Proud To Be Gay,,188,449,2014-11-03,AAPL,0.14964266121387482,0.6278567314147949,0.22250062227249146
+apple,Christian Bale reportedly drops out of starring in Steve Jobs movie,,157,389,2014-11-03,AAPL,0.7372346520423889,0.219400092959404,0.043365295976400375
+mac,"Behold, the true power of the Mac Pro",,32,315,2014-11-03,AAPL,0.011585939675569534,0.8744025826454163,0.1140114814043045
+iphone,Cheap iPhone cables,,124,291,2014-11-03,AAPL,0.014896620996296406,0.799375593662262,0.1857277899980545
+apple,iPhone 6/6+ users: do yourself a favor and pick up the $19 Apple 12w iPad charger.,,159,260,2014-11-03,AAPL,0.03195744752883911,0.914311408996582,0.05373111739754677
+apple,"iPhone 6 stolen tonight - is in Lost mode, however can thieves change IMEI?","So my phone was stolen tonight (2 kids on a bike, snatched from my hand while waiting for a bus) - it's in lost mode and all security enabled etc. I believe the phone is now 100% useless even after being wiped. My friend has just told me that it's possible to change the IMEI number somehow so that it is unblocked. Is that true and therefore is there a chance, in the hands of a smart (yet dumb by definition!) thief that they can ""unlock"" it and use it/sell on? 
+
+Not too bothered by the handset however I just want them to not be able to profit/use it.",146,180,2014-11-03,AAPL,0.06241429224610329,0.8920320868492126,0.045553673058748245
+apple,Apple Pay is now live (four days early) for USAA!,Thanks USAA!!!,91,180,2014-11-03,AAPL,0.02426331862807274,0.9014748930931091,0.07426173985004425
+apple,Cracked my iPhone 6 screen yesterday... and got the phone replaced for free!,"For the record, I don't have AppleCare+ and I've had my phone for about 6 weeks 
+
+Yesterday while getting out of my car, my phone slipped out of my gym shorts and hit the sidewalk. I came to a complete halt and slowly but carefully picked up my phone. ""Maybe it got a couple of scratches and that's it?"" But when I flipped the phone over, I discovered that it had a bunch of spiderweb cracks. 
+
+My initial reaction (besides calling myself stupid for not getting a better case sooner) was to google what other people did when they cracked their iphone 6 screens. Maybe I could lie about what happened to the Apple store for a new phone? How much of an asshole do I need to be when I'm complaining? Is the damage covered under warranty? What's the cost to repair the damages myself? I decided my best option was to see if the Apple store could do anything. If not, I'd try to repair the screen myself. 
+
+I showed up at the Apple store and made a walk-in appointment. After waiting for a little more than an hour, one of the genius bar guys came up to me to help me out. I was trying to come up with some elaborate story that didn't pin the problem on me, but I was like, ""fuck it"". 
+
+I told him ""To be honest, the phone slipped out of my pocket and hit the floor. Is the damage covered under warranty? Is there anything you can do to fix it?"" 
+
+""Unfortunately, Apple does not cover accidental damages. We can, however, fix the screen for $109 if you want"" 
+
+As I pulled out my wallet to grab my credit card, I remembered that I had another small problem with my phone. The problem happened when I used headphones that weren't Apple's. If I tapped the area above the headphone jack, sometimes it would skip songs, repeat songs, or activate Siri. I told him the problem and asked ""Is this by any chance covered under warranty?"" 
+
+He took out one of his headphones and plugged it into my phone. After tapping the volume buttons and messing with the stop/play button, he concluded that he couldn't detect anything wrong. ""But"" he smiled, ""I'll take your word for it that it IS damaged and replace the whole phone for you."" 
+
+Anyways I just wanted to say that DAMN, Apple you got some fine customer service. Or you hire some awesome employees. I came into the store expecting them to state it was all my fault and not help me whatsoever, but I left the store happily (and with my new replacement). Also shoutout to that employee who I'll only say has a first name starting with the letter A, you made my day man!",87,131,2014-11-03,AAPL,0.1249295026063919,0.835084855556488,0.03998565301299095
+iphone,"I didn't believe the hype - but after 3 weeks of light use, I just noticed my iPhone 6 is bent.",,560,1389,2014-11-04,AAPL,0.02147168107330799,0.9089612364768982,0.06956705451011658
+apple,CVS and Rite Aid hit with antitrust investigation for banning Apple Pay,,256,1381,2014-11-04,AAPL,0.8024201989173889,0.1750069260597229,0.022572921589016914
+apple,"Yes, the 5K Retina iMac's screen runs at 60Hz at 5K resolution",,307,830,2014-11-04,AAPL,0.027554169297218323,0.9050135016441345,0.06743234395980835
+apple,Apple continues to dominate with massive 86% share of handset industry profits,,312,584,2014-11-04,AAPL,0.014354059472680092,0.482290118932724,0.5033557415008545
+apple,"iPhone users, Here's a quick link to opt out of AT&amp;T's Super Cookie tracking.",,25,127,2014-11-04,AAPL,0.019489722326397896,0.9358748197555542,0.04463548585772514
+apple,Russians will be unable to use their iPhones starting January 1,,78,114,2014-11-04,AAPL,0.11522053927183151,0.8692206144332886,0.0155588798224926
+apple,"Am I the only iOS8 user extremely annoyed by the inability to set a timer value with seconds? I must set the timer to a whole number (4 minutes or 6 minutes, no 4 minutes 30 seconds, for example).","Why?! 
+
+Am I overlooking the ability? I tried everything and cannot find a way to set a timer (within the stock Clock app) to any amount other than whole numbers. 4 minutes &amp; 30 seconds? Nope, 4 minutes or 5. 
+
+I am so frustrated &amp; annoyed with this. I never wanted to have to download a separate clock or timer app, but until a fix is released i am going to have to.",46,113,2014-11-04,AAPL,0.10891933739185333,0.8658153414726257,0.02526530623435974
+apple,"Amazon now offering unlimited, uncompressed, FREE photo storage for Prime members. iOS app available now!",,55,104,2014-11-04,AAPL,0.017852336168289185,0.9446946382522583,0.03745295852422714
+apple,Apple Named Most Innovative Company for 9th Year in a Row,,162,99,2014-11-04,AAPL,0.02413073554635048,0.4474116563796997,0.528457522392273
+apple,"CurrentC Exclusivity period ""Months, not years""",,26,79,2014-11-04,AAPL,0.17159974575042725,0.8051323294639587,0.023267904296517372
+apple,CNN commentators used the Surface Pro as an iPad kickstand last night,,551,1792,2014-11-05,AAPL,0.039742618799209595,0.9167396426200867,0.04351765289902687
+iphone,"Here is an album of 100 iPhone 6 (4.7"") wallpapers that I made. Vibe on.",,106,1250,2014-11-05,AAPL,0.016907205805182457,0.8623285293579102,0.12076419591903687
+mac,ｈｅｌｐ！ ｗｅｉｒｄ ｆｏｎｔ ｐｒｏｂｌｅｍ ｏｎ Ｙｏｓｅｍｉｔｅ,"Ｉ ｈａｖｅ　ｎｏ　ｉｄｅａ　ｗｈａｔ　ｉ＇ｖｅ　ｄｏｎｅ．　Ｉ＇ｖｅ　ｂｅｅｎ　ｕｓｉｎｇ　ｍａｃｓ　ｆｏｒ　ｙｅａｒｓ　ａｎｄ　ｔｈｉｓ　ｈａｓ　ｎｅｖｅｒ　ｈａｐｐｅｎｅｄ　ｂｅｆｏｒｅ．　Ｉｆ　ｙｏｕ　ｃａｎ＇ｔ　ａｌｒｅａｄｙ　ｓｅｅ　ｔｈｅ　ｐｒｏｂｌｅｍ　Ｉ＇ｍ　ｈａｖｉｎｇ，　ｈｅｒｅ　ｉｓ　ａ　ｓｃｒｅｅｎｓｈｏｔ：http://imgur.com/BKCXYQo
+
+ｆｏｒ　ｓｏｍｅ　ｒｅａｓｏｎ　ｔｈｅｒｅ　ｉｓ　ａ　ｌｏｔ　ｏｆ　ｓｐａｃｅ　ｂｅｔｗｅｅｎ　ｃｈａｒａｃｔｅｒｓ．　Ｉ ｈａｖｅ　ａ　ｐａｐｅｒ　ｄｕｅ　ｔｏｍｏｒｒｏｗ　ｍｏｒｎｉｎｇ　ａｎｄ　Ｉ ｎｅｅｄ　ｔｏ　ｇｅｔ　ｔｈｉｓ　ｆｉｘｅｄ　ＡＳＡＰ，　ｓｏ　Ｉ ａｐｐｒｅｃｉａｔｅ　ａｎｙ　ｈｅｌｐ！",35,400,2014-11-05,AAPL,0.0,0.0,0.0
+apple,Apple replaces Samsung as top mobile brand in China,,16,199,2014-11-05,AAPL,0.13547508418560028,0.8265595436096191,0.03796541318297386
+apple,"TIL Apple has the most subscribed YouTube Channel in Afghanistan, as they have accidently located it in Afghanistan instead of the United States because it's the first country in the alphabet.",,33,195,2014-11-05,AAPL,0.04324626550078392,0.922751784324646,0.03400193527340889
+iphone,History of technologies that made iPhone possible (article + huge infographic),,22,183,2014-11-05,AAPL,0.020488983020186424,0.9313915967941284,0.04811950400471687
+apple,"Apple Watch Pricing to Reportedly Start at $500 for Stainless Steel, $4,000 for Gold",,524,180,2014-11-05,AAPL,0.013426587916910648,0.882564127445221,0.10400929301977158
+apple,iMessage and FaceTime Ranked as Most Secure Mass-Market Messaging Options,,45,174,2014-11-05,AAPL,0.035274337977170944,0.9418246746063232,0.022900989279150963
+ipad,iMessage and FaceTime Ranked as Most Secure Mass-Market Messaging Options,,5,88,2014-11-05,AAPL,0.035274337977170944,0.9418246746063232,0.022900989279150963
+ipad,Rumored iPad Pro prototype seen out on the streets . . .,,15,86,2014-11-05,AAPL,0.016048304736614227,0.8584322929382324,0.12551945447921753
+apple,"Microsoft's next surprise is free Office for iPad, iPhone, and Android",,305,1675,2014-11-06,AAPL,0.011184285394847393,0.8584851026535034,0.13033059239387512
+iphone,Why can't they all just get along? Or pick original colors. One or the other.,,94,681,2014-11-06,AAPL,0.03892416134476662,0.9128291010856628,0.04824672266840935
+iphone,Owners of 128 GB iPhone 6/6 Plus Models Reporting Crashing And Restart Issues,,130,177,2014-11-06,AAPL,0.911724328994751,0.07760382443666458,0.010671901516616344
+apple,Google Maps 4.0 for iOS is out.,,99,140,2014-11-06,AAPL,0.0215037539601326,0.9211299419403076,0.05736624822020531
+apple,"Lenovo S90 ""Sisley"" now official with a shameless, iPhone-like presentation. (Not an exaggeration)",,85,118,2014-11-06,AAPL,0.048411913216114044,0.9114591479301453,0.040128935128450394
+apple,Some of you may have seen I posted my Apple Pay site www.caniapplepay.com a few days ago. I have since added over 150 new banks and updated the site. Let me know what you think!,,64,111,2014-11-06,AAPL,0.01928616501390934,0.9173272252082825,0.06338665634393692
+iphone,My friends iPhone 4 has held up well over the years.,,43,106,2014-11-06,AAPL,0.022853363305330276,0.04649372771382332,0.9306528568267822
+apple,The new Office for iPhone is everything it should have been on day one,,50,81,2014-11-06,AAPL,0.01528979279100895,0.8758772015571594,0.10883300006389618
+ipad,Microsoft Office for iOS goes freemium: What you need to know,,9,76,2014-11-06,AAPL,0.02311769500374794,0.9335911870002747,0.04329117015004158
+apple,Running Battlefield 4 on iOS? Frostbite is working on it,,37,70,2014-11-06,AAPL,0.03782009705901146,0.9059125781059265,0.05626730993390083
+apple,Apple Pay's Competition Is About To Learn That Walmart Isn't Starbucks,,251,946,2014-11-07,AAPL,0.06399361789226532,0.9011362791061401,0.03487008810043335
+iphone,Microsoft Office is now free to use on iOS and Android devices,,85,457,2014-11-07,AAPL,0.017866559326648712,0.9401113390922546,0.04202210158109665
+apple,1 million emoticon poo,"So I sent a friend 1 million poo emoticons within one imessage message from my mac, this caused their imessage on their phone and on my to crash over and over again. FYI",125,390,2014-11-07,AAPL,0.03189985826611519,0.9227736592292786,0.045326489955186844
+apple,What previous generation Mac has the same power and ability of today's iPhone 6? I.E. What generation Mac can we now fit in our pockets?,,95,170,2014-11-07,AAPL,0.010444508865475655,0.7514572739601135,0.23809821903705597
+apple,"Official Swype keyboard for Apple iPhone, iPad now free for limited time",,47,138,2014-11-07,AAPL,0.02325458638370037,0.9371511936187744,0.039594195783138275
+apple,The Apple iPad Air 2 review by Anandtech,,43,110,2014-11-07,AAPL,0.12083913385868073,0.40950533747673035,0.4696555435657501
+iphone,Sword in the Stone Wallpapers for iPhone 4/5/6 (plus),,8,109,2014-11-07,AAPL,0.019599124789237976,0.9084635376930237,0.07193735986948013
+iphone,Editor from theverge.com iPhone 6 is now bent,"An interesting report with this one as Dan Seifert's iPhone 6 is now bent. Dan is editor of theverge.com
+
+http://www.oneofthenine.com/one-of-the-nine/362-of-the-9-editor-from-theverge-com/
+.
+.
+
+******
+update - his phone has been replaced already by Apple: https://twitter.com/dcseifert/status/530737030754746369",115,84,2014-11-07,AAPL,0.11769448965787888,0.8490635752677917,0.03324195370078087
+apple,My (lengthy) review of the iPad Air 2 after 2 weeks of use as someone who mainly uses Android,"Edit: please read the post before saying my issues are  because of jailbreak. I had the issues before I decided to jailbreak and then doing the jailbreak introduced no new issues and the old ones persisted. 
+
+
+Some context:  I wouldn't call myself an average consumer and am an avid tech enthusiast.  I love researching phones and tablets specifically since I think that they are the coolest technology currently.  I own an HTC One M7, previously owned an S2, I owned a Note 10.1 2014 edition tablet for 4 months before reselling it, and I tried out a Nexus 7 2013 for 2 weeks before returning it since I felt it was too small.  I picked up the iPad Air 2 because I have generally enjoyed using my mom's iPad in the past and considering the specs and form factor I was excited to try it.  I do not have brand loyalty when it comes to technology and just want what I feel works best for me and and what I feel is a good value for the amount spent.  My phone is rooted and has a custom rom (as was my previous phone and both tablets that I have personally owned).  I used this iPad for 1 week without jailbreaking and then for another week with jailbreak.  Please note that all of the following is subjective for ME personally. I have a tower at home that I built, I use Windows and Ubuntu at work, and I have used OSX quite a bit on macbooks.
+
+General likes:
+
+1.  Performance on this tablet is absolutely incredible.  Everything feels so damn smooth and responsive.  Scrolling anywhere is much smoother than on my previous tablets and I always loved this about my mom's iPad and iPhone.  After jailbreaking and installing the NoSlowAnimations tweak and turning off the animations completely, I don't think there is anything else on the market as far as tablets or phones that can keep up with this device.  Things load IMMEDIATELY or go to the splash screen immediately.  This thing is a speed demon.  The one thing I would like is that while scrolling IS very smooth, I like the way Android lets you swipe the screen up or down and scroll up or down very quickly.  Tapping the notification bar on iOS to go to the top is nice (also possible via xposed on Android, but it works better natively on iOS), but I would like a way to scroll downwards quickly as well.
+
+2. Swiping from the left edge of the screen to go back almost always works and I find this quite awesome.  There is an Xposed module that accomplishes something similar on Android but I find that redundant with the backbutton already present.  I don't miss the back button very much except when apps remove this swipe back gesture and put a button on the top left or right of their GUI.
+
+3. The screen is absolutely fantastic.  There is no light bleed (my Note tablet had a bit of light bleed in dark rooms) and the viewing angles are fantastic.  Everything looks clear and sharp and the autobrightness is absolutely amazing.  I rarely have to change the brightness with it enabled and the transition in brightness is extremely smooth.
+
+4. Battery life is pretty good, doesn't seem mindblowingly better than the note. This might be due to me using this tablet for gaming from time to time (hearthstone 1-2 matches a day) vs. I didn't play games at all on the note. My note also had a custom rom on it which severely limited network usage when the tablet was off and achieved deep sleep and idle battery life similar to this iPad. Seems like the battery doesn't dip much when I'm using it but then it ""catches up"" a short while after turning the screen off if that makes sense.  It charges at a rate of about 50% after 1.5 hours with the device powered off.
+
+5.  Ability to natively connect via VPN is pretty nice and very easy to set up.
+
+6. I haven't installed third party keyboards surprisingly. I find it very easy to type in portrait mode on this compared to the note tablet. The auto correct isn't on the same level as swiftkey, but having the tweaks to scroll left and right by swiping on the keyboard are preferred for me than swiftkey's autocorrect.
+
+7. Most apps do look much nicer compared to their android counter parts (even the google apps look much nicer but I don't have the material update yet for several of mine yet), but I find that this issue is a bit exaggerated.  I only had issues with Facebook and Slickdeals apps looking like crap on my Android tablet and everything else was fine.
+
+8.  Voice detection with Siri is very good and iMessage is really nice.
+
+9. Build quality is awesome. The device feels very solid and premium and similar to my M7 I like how the body feels cool when I pick it up in the mornings or evenings.  The weight is great for using it in one hand as well.
+
+10. The multitasking gestures are amazing!  Swiping left or right with 4-5 fingers is insanely responsive as well as pinching to go to the homescreen.  They ALWAYS work except for swiping up to get to the recent apps dialog which usually takes 1-2 tries.
+
+11. It is extremely easy to make a full backup of the device.  On android, you have to have a custom recovery and make make a nandroid backup which is simple after you unlock your bootloader and have a custom recovery in the first place, but this method is much simpler and easier.
+
+12. Permission control is flat out incredible.  This is only possible currently on android devices by using xposed modules AFAIK.
+
+General dislikes and issues **(let me reiterate that these issues were there before I jailbroke the device)**:
+
+1. This thing seems to freeze very often.  On my second day with the tablet while opening safari the entire unit froze and holding the power button did nothing, after a few minutes it rebooted fine. This happened again the following day opening a different application another day and the icon changed colors as though I had clicked it but then the app did not open.  All button and screen inputs caused no response and I was able to reset it by holding the power button and home button at the same time instead of waiting for it to reset on its own. This has since happened roughly once every other day. 
+
+2. Apps randomly crash multiple times a day (big ones not just obscure random ones).  I find the difference in how google and apple handle app crashes interesting (just going to the home screen vs. telling you something stopped responding).   I attribute this and the point above to iOS 8 issues since they do not occur on my mom's ipad. 
+
+3. I dislike how apps install on page 2 by default and I would like to be able to reorganize the home screen to just have apps at the bottom.  There is probably a jailbreak tweak to fix this but I don't really see the value in this default behavior.  I also dislike how you are required to enter in your password every time you install a free app, but touchID makes this less of an issue.
+
+4.  There is a lot of wasted screen real estate.  Folders should display more than just 9 icons by default and the recent apps interface (double tapping the home button) should show more than just 3 applications.  The recent apps interface is also one of my complaints with stock android and I prefer the way that HTC implements this on [Sense](http://cdn.pocket-lint.com/r/s/628x/images/KYmM/htc-sense-5-review-11.jpg) and how Samsung implements this in their tablet UI for Touchwhiz (can't find a screenshot but it brings up an overlay with several visible).  It is almost always faster to just go to the springboard and then select a different application.
+
+5. The entire tablet vibrates when using the speakers.  This is probably because of how thin the device is and is distracting when watching videos.  I also find the speaker placement is also less than ideal as it was with my previous tablets as well.  Also at least once a day, when opening a video the tablet makes a popping noise before starting the audio.  This might be a device specific defect.
+
+6. Seeking in videos requires you to click on the current position and then drag it.  If you are off by a fraction of an inch it swipes the entire screen instead (depending on the application) and usually takes me more than one try to actually select the indicator.  I think having gestures would be nice and there is a jailbreak tweak that accomplishes this for the default video player but this does not work in videos playing on Safari.  Also having volume controls on the bottom while having seek at the top is very unergonomic.
+
+7.  Chromecast usage isn't as great as it is on my phone or previous tablets.  I like how on Android once you start casting a video it stays in your notification tray or on your lockscreen and you can always pull down or turn the device on and then control the video.  Using Netflix, I always have to reopen the application which then needs to almost always reload and then I have to wait for it to realize that it is connected to my Chromecast before controlling the video.
+
+8.  Reddit apps on iPads suck compared to Android.  Alien Blue is great ON iPHONES, but on tablets it is absolutely terrible.  It does not respond to touches or gestures quite frequently.  There are no spoiler tags.  It does not sync up to your multi-reddits (you have to create new groups and enter them in manually) and a few other issues make me never use it other than for seeing notifications).  AMRC doesn't actually sort the way I want it to half the time and doesn't even have a search feature in the free version, Baconreader crashes way too often, and I couldn't find another one that I was completely happy with.
+
+9. Switching from landscape to portrait and vice versa sometimes caused the keyboard to not change orientation as well.
+
+10.  TouchID works 100% of the time when I'm using it to approve an app download but about 50% of the time when trying to log into the iPad itself.  I have already tried overtraining each finger but I still have issues with this.
+
+* General comments:
+ 1. Overall I like this tablet a lot but I don't think that it is a good value for me personally.  I mainly use my tablet to browse reddit, read articles, and watch some videos in bed and I think for those purposes I would be happier getting a cheaper android tablet since the reddit applications on Android tablets are much better for me.
+ 2. Camera - no idea on the rear camera as I will probably never use it other than for scanning barcodes into MFP. Front facing camera is fairly nice.
+ 3. I don't miss the spen very much. I used it very infrequently mainly to write some letters to friends and have some more precise control of where I dropped units in Clash.
+ 4.  I don't miss the multitasking that Samsung has implemented on their tablet UIs very much either even though multiwindow and penwindows are really great.  I just did not use these features very much since getting my Chromecast.
+
+I would be happy to ask any questions you guys might have.  I am going to return this tablet tonight because of what I have stated above and I'm going to get a Nexus 9 and pray it does not have build quality issues and do a review of that if this is received well.",131,82,2014-11-07,AAPL,0.04084066115319729,0.9150984287261963,0.04406086479624113
+ipad,Raising kids in good taste (x-post),,13,80,2014-11-07,AAPL,0.02192288264632225,0.864677906036377,0.1133991926908493
+apple,"Long-time Mac user investigates: ""Out of 6 generations of iMacs, 3 mac pros and 2 G5's, I have never had a computer that has hit 104°C after 7 minutes of playing a game or rendering 3D and this new iMac shocks me.""",,334,547,2014-11-08,AAPL,0.013995412737131119,0.8743601441383362,0.11164436489343643
+apple,Yosemite: Air was crawling and lagging horribly. Turned off transparency and now it functions as if it as brand new.,"Maybe this could serve as a PSA, if your computer slowed down upon upgrading to Yosemite drastically, go to accessibility settings and turn off transparency. 
+
+Is the transparency feature bugged at the moment? Might my hardware be having problems? I find it odd that a company so well known for their quality assurance would release software that wrecks a one year old $1000 laptop.",117,293,2014-11-08,AAPL,0.12727639079093933,0.7980862259864807,0.07463739067316055
+apple,Apple Adds Genius Bar Reservations to Product Support Options,,10,124,2014-11-08,AAPL,0.011924960650503635,0.7993627190589905,0.18871240317821503
+apple,Apple support is not always butterflies and rainbows.,"Sitting here with my wife who's at her wits end. Has an iPhone 5, had issues with the battery and got it replaced about a month ago. We happened to be in Charlotte NC and got it done at the Apple Store while there. We live about 3 1/2 hrs from a store. The replacement battery never worked right. The phone still cannot hold a charge, shuts down at 43% and is just erratic as hell. She finally calls Apple, waits about 20 minutes for a rep, explains the problem, they put her on hold, and about another ten minutes later she's disconnected. She calls back and goes through the whole process again, explains what happened to the rep, who takes her number and promises to call back if she gets disconnected again. The rep wants her to send the phone back to apple and go to verizon to get a loaner phone. My wife asks if apple would just send a replacement to her so that she does not have to deal with verizon. The rep says she's going to ask her manager, puts my wife on hold, and of course she gets disconnected again. That was about fifteen minutes ago (it's 11:20am here) and no call back. We are not very happy with Apple right now and aren't sure what to do. Calling back for a third time seems a waste; we've already spent over an hour on the phone this morning and we've gotten nowhere.
+
+EDIT:  Despite the bitchy tone of my post, I truly came here for advice and as usual the /r/apple folks did not disappoint!  Thanks to everyone who offered helpful advice.  We haven't restored the phone on our own, so we'll do that before we call back and give customer support another go. I'm sure it will all be resolved eventually!
+
+UPDATE: 10:15pm - We called back and finally got through to a senior advisor, after some holds and quite a lot of waiting (no fault of Apple, if they're busy then what can you do?)  Anyway, through the awesomeness of Garrett, a new (or at least a replacement) phone is on its way. We did have to give a credit card # so that a charge hold would be placed pending the return of the phone with the issues. No big deal. Thanks again to the folks who offered helpful advice. Even when Apple support is problematic, it's still better than any other company I've ever dealt with!",48,108,2014-11-08,AAPL,0.059281643480062485,0.9037414789199829,0.036976829171180725
+iphone,Your favorite news app?,"I currently have BreakingNews, but all it is is news updates in the form of tweets, usually. I would love an app with articles and stories... any suggestions? Thanks guys!",117,92,2014-11-08,AAPL,0.027872750535607338,0.9252957105636597,0.04683154821395874
+apple,"Apple to sapphire supplier: ""Put on your big boy pants and accept the agreement""",,32,67,2014-11-08,AAPL,0.01596560887992382,0.8339558839797974,0.15007849037647247
+mac,I never thought it would happen to mine..,,11,58,2014-11-08,AAPL,0.04873628169298172,0.9155910611152649,0.03567259758710861
+iphone,Apple wouldn't take my bent phone.,"So I went to the Apple Store in NY the one that's open 24/7 and showed them that my phone was slightly bent and they said yeah okay it's bent and they took it to the back. When they came out they told me that they couldn't replace my phone for free since it was not in the right batch of serial numbers that's were defected and already ""captured""
+Any solution to this because I am really frustrated that they would not take my phone when it's obvious I didn't bend it myself since its a slight bend. But the guy kept repeating ""I'm sorry I can replace your phone for free, as it is not in the right batch of serial numbers that were already captured for having defects""
+Edit : iPhone 6 Plus 
+Edit 2 : Just got back from another Apple Store. This time they did confirm it was bent again. But this time there reason for no replacing it was because it was cosmetic damage and if I wanted to replace it I'd have to pay for it and it was not covered under the warranty.",59,55,2014-11-08,AAPL,0.04508500173687935,0.906692385673523,0.04822263494133949
+iphone,"Is bending an actual problem, should I be scared?","This could be just anti-apple people but there are complaints. Apparently, Iphone 6 can bend too. I'm going to buy mine tomorrow and I wanna know, should I be scared? Will more phones bend after 1 year or longer period of time?",184,44,2014-11-08,AAPL,0.043786730617284775,0.9046871066093445,0.05152619630098343
+ipad,Presenting: All new design for /r/iPad,"I guess it's my reddit birthday gift to you all!
+
+I have been working on the new CSS for a few days. This new design was inspired by the new Apple website redesign. Some of the colors, such as the moderator/OP highlight on usernames and the upvote/downvote colors were picked off Smart Cover shades.
+
+This redesign is not entirely complete. For instance, I have yet to refresh the new post page. It's even slightly broken. Comments pages may not have the pixel-perfection of the main page. I hope to find the missing pieces as I test this design in the wild.
+
+I'm relatively new to CSS and this has been one of my bigger projects. I hope you all like it!
+
+Direct any feedback to me and I'll look into your suggestions.",37,36,2014-11-08,AAPL,0.03845280408859253,0.9051300883293152,0.05641712248325348
+apple,Apple just released a tool for you to deregister your phone number from iMessage without having to call into AppleCare.,,167,1580,2014-11-09,AAPL,0.031232619658112526,0.9297056794166565,0.03906163200736046
+iphone,This came into my store yesterday. Notice anything… strange?,,120,463,2014-11-09,AAPL,0.06558102369308472,0.8727002143859863,0.061718784272670746
+iphone,Apple just released a website to let you deregister your number from iMessage without having to contact AppleCare or use an iPhone,,31,430,2014-11-09,AAPL,0.048157673329114914,0.9303111433982849,0.02153116464614868
+apple,Remember the iPhone 6 prototype? Well it finally sold on eBay for $11K.,,39,320,2014-11-09,AAPL,0.01598588563501835,0.39687013626098633,0.5871438980102539
+apple,"Home Depot Lost 53 Million Emails, Blames Windows, Buys Execs New Macs",,75,317,2014-11-09,AAPL,0.2316357046365738,0.6831756234169006,0.08518870174884796
+apple,CBS News on Apple TV,"CBS News on Apple TV with no subscription is huge. Big step forward for us cord-cutters.  
+  
+But... after using it this last week, anyone else notice that the commercials are twice as loud as the content? Oh my God, this makes me mad. Especially if I want to watch in the mornings. I know this is nothing new, but it's one of the many reasons I became a cord-cutter. Apple should make this a curation rule for TV apps. Advertisements cannot be mixed louder in volume than the primary content.  
+  
+If you agree, we should probably tell them. Just putting it out there:  
+http://www.apple.com/feedback/appletv.html",60,160,2014-11-09,AAPL,0.03985659405589104,0.9270261526107788,0.03311727195978165
+apple,Apple ranks #1 in Best Global Brands once again,,53,141,2014-11-09,AAPL,0.022221632301807404,0.3081076145172119,0.669670820236206
+iphone,Bracelet that transfers battery life from one iPhone to the next,,29,116,2014-11-09,AAPL,0.01734282076358795,0.9367205500602722,0.04593658447265625
+apple,EFF: ‘Jailbreaking is not a crime’ and we will fight to ‘keep it that way’,,106,105,2014-11-09,AAPL,0.08514143526554108,0.871079683303833,0.0437789186835289
+iphone,"8.1-fixed MovieBox, by popular demand.",,76,86,2014-11-09,AAPL,0.03664755821228027,0.8970261216163635,0.06632630527019501
+apple,I used Apple's AirDrop to troll strangers with photos of space sloths,,180,1359,2014-11-10,AAPL,0.041599761694669724,0.9295560717582703,0.028844153508543968
+iphone,My 6 slipped out of my pocket while stage diving &amp; crowd surfing through a mosh pit. It got kicked around on the concrete floor for 2 hours before I found it...,,330,629,2014-11-10,AAPL,0.14904054999351501,0.8083204627037048,0.042639054358005524
+iphone,When the Wifi drops at my highschool,,89,344,2014-11-10,AAPL,0.8228597044944763,0.06312695145606995,0.11401327699422836
+mac,Saying goodbye to a couple old friends today...,,70,190,2014-11-10,AAPL,0.08339694142341614,0.8175779581069946,0.09902510046958923
+apple,iPhone 6 users. Are you guys satisfied with the battery life?,,207,108,2014-11-10,AAPL,0.028716810047626495,0.20742346346378326,0.7638596892356873
+iphone,"Apparently, if you aren't Dan Seifert of the Verge, Apple doesn't replace your bent iPhone...",,22,93,2014-11-10,AAPL,0.07473888993263245,0.9017761945724487,0.023484963923692703
+ipad,iPad is Apple's unanswered revolution: Microsoft is feeding the beast that Google can't defeat,,70,87,2014-11-10,AAPL,0.024301527068018913,0.9151134490966797,0.060585033148527145
+apple,We won a hackathon and Woz signed our iPads,"http://imgur.com/LeO3D1y
+
+We competed in the Capital One Labs hackathon this weekend in Plano,TX and Woz ended up being one of the special judges. One of our prizes for winning were new gold iPad mini 3s and we were lucky enough to have Woz sign them for us. 
+
+Woz hasn't even seen the new gold iPad mini's yet. Which means there are only 4 of these in the world. This now one of the coolest things I will ever own.",17,86,2014-11-10,AAPL,0.016608649864792824,0.8574612140655518,0.12593010067939758
+iphone,I think I speak for all of us who receive these pointless messages,,17,73,2014-11-10,AAPL,0.04095427319407463,0.8373472690582275,0.12169843912124634
+apple,"Apple Reportedly Opening New R&amp;D Center in Cambridge, England",,13,72,2014-11-10,AAPL,0.01809561438858509,0.9053528308868408,0.07655159384012222
+apple,Apple Pay has accounted for 0.91% of all Whole Foods transactions since launch,,235,769,2014-11-11,AAPL,0.03282397612929344,0.738828182220459,0.2283477932214737
+apple,I caught the thief who stole my iPhone,,253,538,2014-11-11,AAPL,0.3701198399066925,0.5903578996658325,0.039522238075733185
+iphone,Small Lightning cable for your keyring!,,92,325,2014-11-11,AAPL,0.02105865441262722,0.9269710779190063,0.05197029188275337
+apple,Spotlight's missing plugin system — Flashlight,,53,293,2014-11-11,AAPL,0.028076311573386192,0.9168937802314758,0.055029865354299545
+iphone,Mapping which Apple Stores worldwide are replacing bent iPhone 6 and which are not.,,48,224,2014-11-11,AAPL,0.03948481008410454,0.8829118609428406,0.07760337740182877
+iphone,Windows 98 installed on iPhone 6 Plus,,32,177,2014-11-11,AAPL,0.012306825257837772,0.8293758034706116,0.15831732749938965
+mac,Flashlight — The missing plugin system for Spotlight,,21,168,2014-11-11,AAPL,0.14882178604602814,0.8034543395042419,0.04772385582327843
+iphone,I caught the thief who stole my iPhone,,60,166,2014-11-11,AAPL,0.3701198399066925,0.5903578996658325,0.039522238075733185
+apple,"Give your dock icons the ""Yosemite"" look",,25,146,2014-11-11,AAPL,0.02636329084634781,0.92047518491745,0.05316149815917015
+iphone,My Gold iPhone 6 Plus with a dBrand Red Carbon skin.,,45,131,2014-11-11,AAPL,0.022236648947000504,0.8276848196983337,0.15007856488227844
+apple,Who else would love a Remote app widget?,"Ok so I did a quick google/reddit search to see if this has been brought up before but couldn't find anything. I would love to be able to have a widget in Notification Center that lets me control my Apple TV. It would be so much more convenient than having to find the app, wait for it to open, etc. Agree or think I'm lazy?
+
+EDIT: this ended up being way more popular than I expected. Go to Apple.com/feedback and let them know you want it!",110,567,2014-11-12,AAPL,0.0259285606443882,0.9278085231781006,0.04626289755105972
+apple,Staples now accepting Apple Pay,,44,462,2014-11-12,AAPL,0.023209836333990097,0.9084694385528564,0.06832072883844376
+iphone,iPhone 6 Plus get 1080p optimized experience by Netflix,,81,275,2014-11-12,AAPL,0.017096808180212975,0.895370602607727,0.08753263205289841
+apple,"AnandTech | Apple A8X’s GPU - GXA6850, Even Better Than I Thought",,36,247,2014-11-12,AAPL,0.021451592445373535,0.4748564660549164,0.5036919713020325
+apple,Beta testers wanted: Enable Continuity with a USB BT4 dongle on your old Mac,"Hello everyone,
+
+The next version of the Continuity Activation Tool is being prepared and will add support for a selection of old Macs that have BT 4.0 USB dongles. 
+
+**Please help me identify which Macs would support Continuity just by adding a dongle and using CAT v.2.0**. This will later be very helpful for the community. For example: I've received confirmation that plugging in a USB BT4 dongle on 2010 15"" and 17"" MacBook Pro's and using the v.2.0 of the tool enables Continuity, which previously required an expensive/complicated internal card replacement.
+
+If you have a Mac and a USB BT4 dongle, ~~sign up for the beta, and I will send you a pre-release version with testing instructions~~ stay tuned for the next version of CAT.
+
+Thanks for your support!
+
+**Update 24.11.2014**
+
+* I'm back to the drawing board as OS X 10.10.2 seems to have new Bluetooth drivers that break compatibility with 3rd party devices even after patching. CAT v1.x users are not affected.
+* I'm putting the beta on hold for the moment as a result. I'll get back in touch if/when, I'll find a new solution.
+
+**Update 14.11.2014**
+
+* A lot of you have signed up and received the first beta - thanks a lot for your participation!
+
+* A few iMacs have an Atheros AirPort card which doesn't support Continuity, even when adding a BT4 dongle. To know if you're affected, run the CAT System Diagnostic. Broadcom=&gt;good, Atheros=&gt;bad.
+
+* There are a few spots left for pre-2011 MacBook (regular / Pro / Air / Aluminum), Mac mini, and Mac Pro owners willing to actively beta test and give feedback.
+
+* When signing up or giving feedback, please clearly state if you are using a Hackintosh.
+
+* Beta 2 includes a fix that enables Continuity on many additional Mac models. I've received confirmation that an aluminium MacBook from 2008 is currently using Continuity. Your testing efforts and feedback made this possible!",53,144,2014-11-12,AAPL,0.048481330275535583,0.9200747609138489,0.03144385665655136
+apple,"Mastercard Nearby says CVS is back online accepting touchless payments, has anyone seen their CVS quietly turn NFC back on in the past two days?",,84,139,2014-11-12,AAPL,0.3731253743171692,0.576680600643158,0.05019406974315643
+apple,Privacy: Your Mac Keeps A Log Of All Your Downloads,,62,126,2014-11-12,AAPL,0.040564700961112976,0.9295539259910583,0.029881339520215988
+apple,Apple's iOS 8 now on 56% of devices as adoption rate slowly picks up,,50,116,2014-11-12,AAPL,0.30001917481422424,0.5216487050056458,0.1783321648836136
+apple,"Apple rumored to turn huge downtown LA building into flagship store, office space",,13,114,2014-11-12,AAPL,0.01659533567726612,0.9044593572616577,0.0789453536272049
+apple,The beautiful app 'Monument Valley' just got even bigger,,22,106,2014-11-12,AAPL,0.0165760088711977,0.43744704127311707,0.5459769368171692
+apple,This Is Why We Can't Have Nice Things – Eli Hodapp on the 1-Star 'Monument Valley' Reviews after Forgotten Shores Expansion,,194,413,2014-11-13,AAPL,0.061327047646045685,0.8997060060501099,0.038966890424489975
+iphone,Wtf Snapchat and Spotify?!,Its been 2 months since the iPhone 6 and 6 plus released. You two are easily one of the most popular apps on iOS devices and you still haven't at least updated for the bigger screen!! What gives?,134,235,2014-11-13,AAPL,0.02009192481637001,0.8197919726371765,0.16011612117290497
+mac,"I feel like Macs don't get enough credit for this. It is really, very impressive.",,143,184,2014-11-13,AAPL,0.6104245781898499,0.36251482367515564,0.02706061117351055
+apple,Jony Ive's 12 tips for designers,,12,128,2014-11-13,AAPL,0.02132674679160118,0.9120753407478333,0.0665978416800499
+iphone,Telemarketers spoofing my own phone number. What happens if I block my own number?,"Ever since they added the ability to block numbers in iOS, I've been using it every time I get a telemarketer call.  They rotate through numbers, but I found that blocking the number after any call has cut down on the number of calls I get significantly.  But now those assholes have started using a new tactic: they spoof your own phone number.  So my phone will ring, and the caller ID says that it's a call from the very phone I'm holding in my hand.  So my question is, will it cause any problems if I block my own phone number?  Obviously I'm never going to call my iPhone from my iPhone.  But could it potentially screw anything else up?
+
+On a side note, fuck those assholes from ""cardholder services"".  (That's what every one of their robocalls starts with: a female voice saying, ""This is ___ from cardholder services."")  They're the only scammers/telemarketers who have me on their list, and before I started blocking numbers, I would get at least 1-2 calls a day from those fuckers.  I'm on the do not call list, and had been reporting them, but clearly that does nothing.
+
+**Edit:** To everyone saying to report them, put my name on the ""do not call"" list, etc., I appreciate the advice, but believe me, I've tried all of that.  I have come to the conclusion at this point that the government is completely powerless against these guys.  I've been on the ""do not call"" list since it was created, and have renewed when necessary.  I've reported them many, many times, but obviously nothing ever happens.  If you want more info about these assholes, just [Google ""cardholder services""](https://www.google.com/#q=%22cardholder+services%22).  They're the only scammers who call me.  Like I said, before iOS let me start blocking the numbers each time I got a call, I was getting 1 or 2 calls a day from them.  They do use the same numbers over and over for a while before switching, so blocking the numbers helps somewhat.  Now that they've started spoofing my own number when they call, I'm going to go ahead and block my own number and see what happens.  I don't think it should hurt anything.
+
+According to what I've read about them, their scam is to put you into a three-way conference with your own credit card company to help you try to negotiate a better rate, but then they charge you an insane fee.  What's funny is that I do not have, nor have I ever had, a credit card.  So there is literally nothing they can get from me.",49,123,2014-11-13,AAPL,0.19481521844863892,0.7851619720458984,0.02002272754907608
+apple,How I was pretty much pigeonholed into getting a repair due to an Apple Store Employee damaging my laptop.,"I'm honestly really upset that this whole thing happened, and how the apple store manager dealt with the situation.
+
+I had developed a hairline fracture on my laptop's bottom left corner (retina late 2013). The screen damage was minimal; only a fraction of the portion of the screen underneath the dock was rendered unseeable because of the crack. I went into the apple store last night hoping I could get it still repaired due to the warranty. I am helped by a nice apple employee and he takes a look at the screen and says there's a fracture; he says he will have one of his techs take a look at the screen to confirm his suspicions. This tech eventually comes by; nice apple employee tells the tech there is a possible screen fracture. Now, this tech, WITHOUT asking my permission or telling me any details, PUSHES HARD right onto the screen fracture and says ""Yeah, screen fracture."" And walks away. At this point I'm shitting my pants, because you don't just put pressure into a damn screen fracture, that only makes it worse. Now, the whole quarter bottom of my screen, including the dock all across horizontally and an inch or two above, are completely rendered unseeable. This damn tech made the issue 10x worse. I'm quoted 800 dollars as the repair for the screen. I notice the damage and ask to see the manager. I tell her that I wasn't notified what the tech would do, and he MADE THE PROBLEM WORSE. Let me be clear: I had absolutely no intention of paying money to have the screen repaired because it wasn't too large of an issue.  If they said warranty didn't cover it, I was going to just walk out of there. 
+
+The manager and I speak and she says she's not going to give me a free repair because I came in with a ""broken product"".  I tell her that the tech damaged it and it was absolutely on him and I could not be held responsible for his damaging. At this point we continue circling around this point and she says she will be back after talking to someone and figuring things out. 
+
+She comes out and says she can give me a 200 dollar discount from the in store repair price ($680). So it would cost me 480. At this point we continue talking and I'm absolutely barracaded in; I am a broke ass college student, but I need this damn computer for my work. I had to pay for this repair, because I had NO choice.
+
+Needless to say I'm really angry that I had to pay for this repair when the tech damaged it further.
+
+Sorry for the heavily abbreviated version, I have no computer now and typing on an iphone is tiring.
+
+What should I do? How would I go about filing a complaint or getting some help with this issue?
+
+EDIT: Some people have been calling bullshit because of the price of the repair. Total cost was not 800, it was around 740 or so with labor included. Yes, I rounded up. I exaggerated slightly about the cost.
+The price of the 15 inch retina display is far greater than that of a 13 inch.",134,117,2014-11-13,AAPL,0.17936179041862488,0.7882874608039856,0.0323508195579052
+apple,Weird signs on my brand-new iPad,"Hi!
+
+I just bought a brand-new iPad Air 2 from Apple Store. When I unboxed I noticed weird signs on back of the iPad.
+There are only visible from a certain angle and light. These are the best photos I could take.
+Any ideas what it is?
+
+http://imgur.com/a/yIY6l
+
+Should I keep it or return it?
+
+EDIT: I will try to get better photos tomorrow so we can work it out : ).",57,88,2014-11-13,AAPL,0.026790587231516838,0.9071751832962036,0.06603428721427917
+iphone,I'm going to cry,,45,85,2014-11-13,AAPL,0.04799186810851097,0.8712913990020752,0.08071670681238174
+ipad,"I am an Apple Certified Technician, and I'm here to answer your questions!","Hey /r/iPad!
+
+I am an Apple Certified Technician and specialize in iPad repairs and diagnostics. I have repaired iPad Screens, cameras, batteries, back housings, LCDs, and everything in between. So, do you have any questions about Apple Repairs, Questions, or iPad Specific Questions?
+
+
+Ever Wonder What the Inside of your iPad looks like? Here is the inside of an iPad, along with a few other repair images I've taken.
+
+* Inside of an iPad http://i.imgur.com/Edsky0T.jpg
+
+* Cracked Screen http://i.imgur.com/ZphzUqc.jpg
+
+* Bent, yet not broken iPhone 5s http://i.imgur.com/aIzUtxU.jpg",160,58,2014-11-13,AAPL,0.040149714797735214,0.9082264304161072,0.05162392929196358
+iphone,Does anyone have an issue where the phone doesn't ring but all of a sudden there is a voicemail?,Any ideas?,20,52,2014-11-13,AAPL,0.1352514922618866,0.8436285853385925,0.02111992798745632
+apple,iPhone 6 outselling iPhone 6 Plus by 3-to-1 margin in US,,386,871,2014-11-14,AAPL,0.04527679458260536,0.18298190832138062,0.7717413306236267
+iphone,"Found a phone outside my work, asked Siri ""Who am I?""",,119,799,2014-11-14,AAPL,0.08832747489213943,0.8738611936569214,0.03781136870384216
+iphone,I've never even typed it before...,,74,741,2014-11-14,AAPL,0.07451537251472473,0.8864218592643738,0.03906277194619179
+apple,Wish I could delete Tips on iOS 8,I think it's a waste of space on my iPhone. I mean I understand for people new to iOS but those season veterans we don't really need it.,254,409,2014-11-14,AAPL,0.025660395622253418,0.9186543822288513,0.05568518117070198
+apple,Alabama's only openly gay lawmaker naming anti-discrimination bill for Apple CEO Tim Cook,,44,235,2014-11-14,AAPL,0.060792334377765656,0.9063591957092285,0.03284847363829613
+iphone,How do I stop these group notifications on Twitter?,,28,120,2014-11-14,AAPL,0.13276644051074982,0.843850314617157,0.02338321879506111
+iphone,You can now use Apple Pay to purchase Wii U titles,,14,115,2014-11-14,AAPL,0.01808778941631317,0.9454770684242249,0.036435119807720184
+apple,"Design education is ""tragic"", says Jonathan Ive",,53,112,2014-11-14,AAPL,0.01978635974228382,0.90452641248703,0.07568725198507309
+apple,Moment Announces Add-on Lenses for iPhone 6,,41,111,2014-11-14,AAPL,0.015815280377864838,0.8934926986694336,0.09069205075502396
+apple,Notice: Mac OS X Hints is now a read-only site,,13,108,2014-11-14,AAPL,0.05443296954035759,0.9144562482833862,0.031110744923353195
+iphone,This makes me so sad,,117,282,2014-11-15,AAPL,0.06727906316518784,0.8581202626228333,0.07460067421197891
+apple,Apple Pay now accounts for 50% of NFC payments at McDonalds.,,79,213,2014-11-15,AAPL,0.02770530991256237,0.8954290747642517,0.07686564326286316
+ipad,Best iPad apps - Fall 2014,"Got a new iPad?  Looking for some better apps?  Or want to tell the world about a hidden gem?  Have your say on the best apps, games, utilities, and everything else offered 
+*****
+
+Guidelines to keep this working efficiently:
+
+* Sort comments by ""top"" for best effectiveness. 
+
+* Vote for (or add) the best-in-breed apps you use, depend on, and recommend...**Why** do you like each, please be specific:  Best features, Key benefits?  How long have you used it?  What similar products have you tried?   
+
+* Put the App Name as the first words when nominating new apps
+
+* **One app per post**
+
+* **Search** for the app before creating a new nomination. 
+
+* **Upvote** an app title if you like it, but **please comment** (reply) if you dislike, and explain why instead of downvoting.  If possible, give alternatives you like better. 
+ 
+* Please orangered me to add a new category if you don't find one others could benefit from.
+
+* If the app only runs on the Newest iPads, has a separate Retina version, has a de facto IAP requirement, or requires Cydia/jailbreaking, please state as such.
+
+* Comments outside of the categories will be removed to keep this readable.
+
+* Please put any general **[Suggestions, Comments, Questions Here](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3anue)**, thanks!
+
+*****
+ 
+###TL;DR
+Search first, look for app, vote, then add comments.  
+
+*****   
+*****   
+###Table of Contents 
+##App categories
+  **|** [App Discovery](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3acl4)
+  **|** [Books, textbooks, comic book readers, e-readers](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3acx6)
+  **|** [Business, Finance, Jobs](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3adb2)
+  **|** [Clocks, Timers, Calendars](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3adit)
+  **|** [Cloud Sharing, Collaboration, Backup, and Data Sync Tools](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3adwo)
+  **|** [Cooking &amp; Dining](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ae8m) 
+  **|** [Education, Reference, Science](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3aeiz)
+  **|** [Entertainment](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3aepm)
+  **|** [Games - Board](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3af0w)
+  **|** [Games - Card](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm49nt4)
+  **|** [Games - Casual](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3af7h)
+  **|** [Games - Multiplayer](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3afj0)
+  **|** [Games - Puzzle](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3afm2)
+  **|** [Games - RPG](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3afp1)
+  **|** [Games - Shooters](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3afcw)
+  **|** [Games - Side Scrolling/Arcade](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3aft2)
+  **|** [Games - Tower Defense](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3afzp)
+  **|** [Games - Other](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ag4y)
+  **|** [Graphics, Drawing Tools](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3agbh)
+  **|** [Health, Fitness, Medical](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3agg1)
+  **|** [Instant Messaging / Communication](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3agwp)
+  **|** [IT toolkit &amp; tech utilities](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ah9t)
+  **|** [Keyboards (IOS 8+)](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ansn)
+  **|** [Kids](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ahe5)
+  **|** [Lifestyle](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ahga)
+  **|** [Music (Creation / Editing)](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3ahn7)
+  **|** [Music Players, Discovery, Streaming)](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3akmz)
+  **|** [Navigation, Travel, Maps](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3akwc)
+  **|** [News, RSS, Magazines](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3al2n)
+  **|** [Note Taking, Brainstorming](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3albe)
+  **|** [Photography, Photo Editing, Picture browsing](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3alo6)
+  **|** [Reddit](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3alqv)
+  **|** [Shopping, Reviews, Comparing, Buying](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3am06)
+  **|** [Social Networking, Social Media](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3amam)
+  **|** [Sports](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3amc4)
+  **|** [Time Management &amp; Personal Productivity](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3amk4)
+  **|** [Utilities, Tools, Other (not Cloud, not Productivity, just Other Tools)](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3amui)
+  **|** [Video Players, Discovery, Editing and Streaming](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3an5t)
+  **|** [Voice Notes, Recording](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3anh7)
+  **|** [Voice/Video calling (over wi-fi)](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3anjf)
+  **|** [Weather](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3anjf)
+  **|** [Web Browsing, Web Browsers](http://www.reddit.com/r/ipad/comments/25wj3o/best_of_ipad_june_14/chlegbb)
+  **|** [Widgets](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm4yi18)
+  **|** 
+  **|** and [Meta](http://www.reddit.com/r/ipad/comments/2mdx1x/best_ipad_apps_fall_2014/cm3anue) for discussion. 
+
+*****  
+Looking for cases, styluses, or other accessories?  They're now separated out into separate posts between **[cases](http://www.reddit.com/r/ipad/comments/2me0em/best_ipad_cases_fall_2014/)** and **[accessories](http://www.reddit.com/r/ipad/comments/2me0r2/best_ipad_accessories_fall_2014/)**
+
+*****
+Older ""Best-of"" threads:
+
+[Jun 2014](http://www.reddit.com/r/ipad/comments/25wj3o/best_of_ipad_june_14/)
+
+[Sept 2013](http://www.reddit.com/r/ipad/comments/1nb8ts/best_of_ripad/)
+
+[Oct 2012 apps](http://www.reddit.com/r/ipad/comments/113gc3/ripads_favorite_apps/), [Oct 2012 accessories](http://www.reddit.com/r/ipad/comments/113gdi/ripads_favorite_accessories/)
+
+[April 2011 apps](http://www.reddit.com/r/ipad/comments/gmdsj/best_ipad_app_for/)",350,186,2014-11-15,AAPL,0.035029660910367966,0.9292486310005188,0.03572174906730652
+apple,"Apple Inc. A8X iPad chip causing big problems for Intel, Qualcomm, Samsung and Nvidia",,87,159,2014-11-15,AAPL,0.06788676977157593,0.8838966488838196,0.0482165664434433
+apple,Having a good product is not good enough. Explaining its value is just as important.,,47,149,2014-11-15,AAPL,0.010056901723146439,0.6672555208206177,0.3226875960826874
+apple,You CAN send phone input during Yosemite calls!,Just click the call's banner in the upper right and use the keys on your keyboard.,30,111,2014-11-15,AAPL,0.0618111789226532,0.9221835732460022,0.016005245968699455
+apple,Notepad++ alternative?,"Hi all, new mac user here. Is there any good text editor out there for mac that works as good as notepad++ in windows?
+
+Thanks in advance!
+
+Edit: Thanks for all the suggestion! I'm now using TextWrangler and its great so far.",111,96,2014-11-15,AAPL,0.012793452478945255,0.8088870048522949,0.17831958830356598
+apple,"Apple's Nightmare ""WireLurker Malware"", Alleged Creator and Distributer Arrested",,49,92,2014-11-15,AAPL,0.038542620837688446,0.9184790849685669,0.042978305369615555
+apple,/r/Apple Minecraft Server,"**Server Out (BETA)**
+
+
+Thanks to everyone who took the survey and expressed their interest below, I have taken today to set the server up in beta. During this short period things will change until we are satisfied. PVP will be disabled, the server will be open to anyone and the spawn will be temporary during this time. However, in a short time we will go out of beta and an announcement will be released about changes (mostly minor).
+
+
+Please pop on using Minecraft 1.8 using the IP: **198.20.94.109** and begin playing! I will be looking for experienced builders from within the community to build a new spawn. The server was and is being build using [the data collected in the survey](https://www.surveymonkey.com/results/SM-VJYWNJVV/). Again, however, things are subject to change.
+
+
+
+Thank you!
+-stevetheipad, admin
+
+
+____________
+
+
+Greetings, fellow /r/Apple users! I have been contemplating starting a Minecraft server for this subreddit and those who love Apple. It'll be a survival server (1.8). It could be PVP depending on what everyone else wants. Basically it'd be a normal Minecraft server but people would be encouraged to build Apple-style things, there would be chat announcements for new posts on this subreddit, and the moderators from this subreddit would all be invited to moderate the server as well.
+
+
+
+I am excited to start this but will only do so if there is interest. Please let me know here if you'd be interested and if so, any ideas you have for it.
+
+
+I have owned several servers in the past and am very familiar with Bukkit, plugins and other systems. I would also cover all the costs of hosting the server on a hosting service.
+
+
+Thank you.
+
+
+**UPDATE 1**
+
+
+If you'd like, [take this survey](https://www.surveymonkey.com/s/J5GW7DW) so I can make the server using your ideas. Because of the good response, I will definitely be making one but what it is will depend on the survey answers.",87,75,2014-11-15,AAPL,0.03485764190554619,0.9297412633895874,0.035401105880737305
+iphone,Ticketmaster apparently has been using those fees to keep their app updated...,,2,71,2014-11-15,AAPL,0.04167219251394272,0.9270052909851074,0.031322553753852844
+apple,"Officially Confirmed: The new and long anticipated 2015 Microsoft Office for Mac will see a public Beta released in the first half of 2015, with a Final Release coming in the second half of 2015.",,215,646,2014-11-16,AAPL,0.03130648657679558,0.9382181167602539,0.030475381761789322
+apple,Apple and Motorola team up for a new exciting mobile phone,,183,621,2014-11-16,AAPL,0.013393600471317768,0.8024875521659851,0.1841188669204712
+apple,"Steve Jobs: You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.",,49,185,2014-11-16,AAPL,0.048910461366176605,0.9050984382629395,0.045991118997335434
+apple,Why does Facebook not have to specify what is new in their app updates?,,88,157,2014-11-16,AAPL,0.015709443017840385,0.9315422773361206,0.05274825170636177
+iphone,"My dad just sent me this screenshot, why are the colors so messed up at the ends of the screen? Is this a hardware problem?",,64,131,2014-11-16,AAPL,0.02700699120759964,0.9174341559410095,0.05555884167551994
+iphone,"I spent last 4+ month working hard developing Hooks - Alerts for Everything Hub: sports scores, tv shows, weather...got 7k users in 2 weeks with no promotion...[iOS][Free]","**The story**
+
+I'm just an unknown developer not making any money from the app. I got tired of checking the internet every time for new stuff to appear, it's just easier to receive a notification when something happens or changes. All the notifications are self-contained so there is no need to open the app when you receive one.
+
+**Hooks app**
+
+Create custom alerts for sports, tv shows, weather, news, coupons, new restaurants e.g. new restaurant in NYC hits top on tripadvisor, new Big Bang Theory episode is out, NBA match ended with score and 1k+ also looking for ideas.
+
+Usage: set up an alert and you will receive a notification when something happens.
+
+**Looking for**
+
+Discussion about the app
+
+**Links**
+
+App Store: https://itunes.apple.com/app/id923353363
+
+Video Preview: https://www.youtube.com/watch?v=UZVpI4unySk
+
+
+Thanks for reading",90,119,2014-11-16,AAPL,0.016944557428359985,0.9125439524650574,0.07051140815019608
+iphone,"Has anyone else experienced this? There is no unread messages, I have updated it.",,23,93,2014-11-16,AAPL,0.05781732127070427,0.9178925156593323,0.024290118366479874
+apple,Had the iPhone 6 since day of launch.. but i kinda wish i could have gotten the 6+.. Anyone else feel this way ?,,170,65,2014-11-16,AAPL,0.022919943556189537,0.8700342774391174,0.10704576969146729
+mac,I am too a Mac fan,,37,62,2014-11-16,AAPL,0.03196544945240021,0.9340526461601257,0.03398196026682854
+apple,Players and fans 'hate' the NFL's headphones rule,,31,57,2014-11-16,AAPL,0.5734636783599854,0.40715041756629944,0.019385967403650284
+apple,"GBA4iOS is back, fully compatible with iOS 8.1. No jailbreak required.",,144,756,2014-11-17,AAPL,0.029968414455652237,0.901508629322052,0.06852301210165024
+apple,iOS 8.1.1 Released,,380,586,2014-11-17,AAPL,0.017707882449030876,0.73862224817276,0.24366994202136993
+iphone,"TIL if you hold down the ""+"" sign in Safari, it will bring up your recently closed tabs","Never knew this, just thought I'd share.",45,507,2014-11-17,AAPL,0.035264670848846436,0.9146898984909058,0.050045426934957504
+iphone,iOS 8.1.1 has been released,,160,191,2014-11-17,AAPL,0.017707882449030876,0.73862224817276,0.24366994202136993
+apple,Apple Releases OS X Yosemite 10.10.1 With Bug Fixes,,182,183,2014-11-17,AAPL,0.0283920019865036,0.8868222832679749,0.08478578180074692
+apple,TIL you can press CMD . on Yosemite to show the auto-completion suggestions like iOS,"Here's an example crafted with love for you: 
+
+http://i.imgur.com/PGrJnj2.png",16,161,2014-11-17,AAPL,0.02426021732389927,0.9141815900802612,0.06155819818377495
+iphone,'Neverdrop' your iPhone again with this case...,"Hi r/iphone,
+
+I have launched a new product that I want to share with you.  Neverdrop is an iPhone case designed with a finger strap to prevent you from dropping your phone. We were funded on Kickstarter in just 10 days.
+
+Here is a link to a ""Behind The Scenes"" look at how I developed Neverdrop [imgur album]: www.imgur.com/a/wzWWe
+
+Here is a link to our Kickstarter page: www.NeverdropKickstarter.com
+
+I am not a corporation. I am a young entrepreneur using 3D-printing, Kickstarter, and the power of the internet to get my project off the ground.  I would love for you to take a look!
+
+Thanks,
+FA
+
+
+edit: *PS- if you're interested in ordering one (or more) PM me for 10+% off!*",94,156,2014-11-17,AAPL,0.014403894543647766,0.8970369696617126,0.08855915069580078
+iphone,Today I found out that my iPhone is magnetically charged. Is that normal?,,30,113,2014-11-17,AAPL,0.2251184731721878,0.5190641283988953,0.25581738352775574
+apple,"Trying to voice text ""you too"", phone picks up ""U2""",What is apple's deal with U2?,39,96,2014-11-17,AAPL,0.014811606146395206,0.7302538752555847,0.25493451952934265
+iphone,Whatsapp finally updated for iPhone 6 &amp; 6+,,63,91,2014-11-17,AAPL,0.011803257279098034,0.7460695505142212,0.2421272248029709
+apple,"Apple will soon let third-party products use its Lightning port, opening up new possibilities for accessories.",,242,878,2014-11-18,AAPL,0.010617738589644432,0.7889978885650635,0.20038437843322754
+iphone,"It's Official—iOS 8 Is Apple's Buggiest Release to Date ""Data from app performance monitor Crittercism showed iOS 8’s crash rate was 60 percent higher than iOS 7 during their respective first months on handsets.""",,154,557,2014-11-18,AAPL,0.1871490180492401,0.6259027719497681,0.18694822490215302
+apple,"Because Gba4iOS was revoked again, would you pay for an official emulator from Nintendo if it was in the App Store?",,227,377,2014-11-18,AAPL,0.02976914681494236,0.9337030053138733,0.03652791306376457
+apple,Nokia's first device after Microsoft is an iPad mini clone that runs Android,,144,274,2014-11-18,AAPL,0.011676739901304245,0.8933234214782715,0.09499980509281158
+iphone,Anyone else with this problem in the Messages app?,,46,147,2014-11-18,AAPL,0.13533706963062286,0.8427635431289673,0.021899381652474403
+iphone,"FYI: Anyone with a 10GB At&amp;t family share plan, you can now upgrade to 15GB for the same price.",,57,145,2014-11-18,AAPL,0.02435879223048687,0.929613471031189,0.04602769762277603
+apple,iOS 8.1.1 on iPad gives back 500MB of storage space,,16,131,2014-11-18,AAPL,0.022537754848599434,0.9057090878486633,0.07175316661596298
+apple,Apple Seeds iOS 8.2 With WatchKit SDK for Apple Watch Apps to Developers,,27,130,2014-11-18,AAPL,0.019717305898666382,0.9298009872436523,0.05048166587948799
+apple,The most important part of the WatchKit announcement for users - come see what  Watch apps can (and can't) do!,"https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+
+This is the HIG, it's a nicely designed page, and by clicking through the sections listed on the left, you can quickly and easily see exactly what  Watch apps will be capable of.  Some highlights:
+
+* ** Watch applications, initially at least, require an iPhone and *are not standalone* - they require an iPhone because the iPhone actually handles the processing of any logic as well as rendering of animations. When you design an animation in your  Watch app, the iPhone actually renders out the animation, and sends it to the watch as a series of images. Kinda crazy!**
+*  Watch apps can have only two possible designs - Hierarchal (think how Email app works), and Page Based (think how Weather app works)
+* 'Glances' are read-only and are based on pre-defined templates (no interaction allowed), tapping a glance will open the host app
+* Notifications will allow for custom controls, but some predefined controls (like 'Dismiss') will always be present
+* **One question I have been pondering for a while has been answered - the smaller  Watch model has *fewer pixels* than the larger model. The smaller model is 272x340 while the larger model is 312x390.**  App designs must accommodate both layouts accordingly.
+
+Enjoy this glimpse at the future of apps on your wrist!",103,88,2014-11-18,AAPL,0.02517167292535305,0.9360247850418091,0.03880356624722481
+apple,"Apple Watch Screen Resolutions: 312 x 390 for 42mm Version, 272 x 340 for 38mm Version",,30,65,2014-11-18,AAPL,0.0425424724817276,0.9314306378364563,0.026026884093880653
+apple,Hey Siri feature surprised and terrified my wife-,"A few weeks ago, my wife replaced a cracked iPhone 4 with a new iPhone 6. She doesn't fully understand how to use Siri, and has a moderate Chinese accent when speaking to the phone, so it often misinterprets words. Neither of us knew about the ""Hey Siri"" feature until today.
+
+Last night around midnight we were talking before bed about, of all things, the NSA's data storage center in Utah. I said ""Well, they can collect information on what we buy, what we search for, who we talk to, and where we go, but its all based on key words; there's no reason to pay attention to the average person, so I'm not worried. She said ""But seriously, I'm uncomfortable with how much information the government is collecting about everyone..."" and THE PHONE answered, from across the room, on the charger, with no prompt or contact ""You know, I never really thought about that"". 
+
+My wife was terrified; she yelped, got up, turned it off and starts talking about how she wants a flip phone now so the government and new AI's can't listen in on our conversations. I'm the one who likes Science Fiction, but she took her foray into the deep end last night!
+
+tl;dr: Hey Siri surprised wife, she now thinks NSA is eavesdropping on us through the phone",201,1098,2014-11-19,AAPL,0.0555233508348465,0.9152243733406067,0.029252292588353157
+iphone,"Snapchat money to a ""friend""",,72,318,2014-11-19,AAPL,0.055869124829769135,0.9036356806755066,0.04049525037407875
+apple,Two lens system iPhone camera could be Apple’s ‘Biggest ‘Camera Jump Ever’,,162,285,2014-11-19,AAPL,0.018677370622754097,0.5041301250457764,0.4771924912929535
+iphone,iOS 8.1.1 finally preserves EXIF data even after edits!,,25,275,2014-11-19,AAPL,0.03972619026899338,0.8652822971343994,0.0949915274977684
+apple,Apple Replaces 'Free' Purchase Button Labeling With 'Get' in App Store,,108,245,2014-11-19,AAPL,0.0552184097468853,0.8984784483909607,0.04630311578512192
+iphone,"iOS keyboard suggestions recognize ""or"" prompt",,18,218,2014-11-19,AAPL,0.02491028606891632,0.9322659969329834,0.04282371699810028
+apple,Chrome for Mac Gains 64-Bit Support in Latest Chrome 39 Update,,109,183,2014-11-19,AAPL,0.06271205097436905,0.04814567044377327,0.8891423344612122
+iphone,"Hey Siri surprised wife, she now thinks NSA is eavesdropping on us through the phone","A few weeks ago, my wife replaced a cracked iPhone 4 with a new iPhone 6. She doesn't fully understand how to use Siri, and has a moderate Chinese accent when speaking to the phone, so it often misinterprets words. Neither of us knew about the ""Hey Siri"" feature until today.
+
+Last night around midnight we were talking before bed about, of all things, the NSA's data storage center in Utah. I said ""Well, they can collect information on what we buy, what we search for, who we talk to, and where we go, but its all based on key words; there's no reason to pay attention to the average person, so I'm not worried. She said ""But seriously, I'm uncomfortable with how much information the government is collecting about everyone..."" and THE PHONE answered, from across the room, on the charger, with no prompt or contact ""You know, I never really thought about that"".
+
+My wife was terrified; she yelped, got up, turned it off and starts talking about how she wants a flip phone now so the government and new AI's can't listen in on our conversations. I'm the one who likes Science Fiction, but she took her foray into the deep end last night!
+
+tl;dr: Hey Siri surprised wife, she now thinks NSA is eavesdropping on us through the phone",44,158,2014-11-19,AAPL,0.05404067039489746,0.9164348244667053,0.02952447719871998
+mac,Chrome for Mac Gains 64-Bit Support in Latest Chrome 39 Update,,65,129,2014-11-19,AAPL,0.06271205097436905,0.04814567044377327,0.8891423344612122
+apple,How the Mac went from obscurity to ubiquity,,42,84,2014-11-19,AAPL,0.03781844675540924,0.8846302628517151,0.07755135744810104
+iphone,"Thought r/iPhone users would appreciate this, I found a neat new product coming out; Piconizer, a small portable flash drive that lets you quickly and securely transfer all your photos off your iPhone to free up space or bulk transfer them to another iPhone in a pinch!",,70,333,2014-11-20,AAPL,0.010431035421788692,0.8474041819572449,0.14216476678848267
+iphone,My favourite fucking widget,,52,306,2014-11-20,AAPL,0.10011744499206543,0.8608885407447815,0.03899400681257248
+apple,Foxconn investing $2.6B into new display factory that will exclusively supply Apple.,,28,296,2014-11-20,AAPL,0.0136634586378932,0.9260870814323425,0.06024947762489319
+iphone,"""Get"" vs ""free""? What's the difference?",,91,277,2014-11-20,AAPL,0.03236560523509979,0.9187694787979126,0.04886486381292343
+apple,Apple to be first $1 Trillion Company !,,187,250,2014-11-20,AAPL,0.03201478719711304,0.9206662178039551,0.047318942844867706
+apple,Corning's Gorilla Glass 4 Promises Stronger Protection for Falls Onto Rough Surfaces,,33,247,2014-11-20,AAPL,0.07019544392824173,0.7036753296852112,0.22612923383712769
+apple,DOJ: A child will die due to Apple's iOS 8 encryption tech,,130,224,2014-11-20,AAPL,0.12408845871686935,0.8547487854957581,0.02116275578737259
+apple,So Target is officially incorporating CurrentC into its mobile app.,"Here is the news article inside of the Team Member magazine I got today. 
+
+Edit: So I do work at Target, and as mentioned in a comment we recently upgraded to the new Verifone terminals. These terminals do have NFC capability however they aren't allowing NFC payments. Apple pay is supported for online purchases using targets app only. You can not use apple pay at the register, however CurrentC will be able to be used at the register to check out with. Below is the article in Targets employee magazine. 
+
+http://imgur.com/44wxQsA",81,174,2014-11-20,AAPL,0.019520306959748268,0.93547123670578,0.04500851035118103
+apple,"Apple to Xiaomi: being number one is easy to say, more difficult to do.",,36,100,2014-11-20,AAPL,0.018970903009176254,0.8816423416137695,0.0993868038058281
+apple,Apple 6 Plus Users: How Do You Carry Your Phone Around?,"I saw the 6 Plus in person for the first time, and I have to admit that 'm feeling kind of tempted. I carry my iPhone 5s mostly in the front left pocket of my jeans (keys in the right) - any chance that I could still do that comfortably with a 6 Plus? What do you do?
+
+Edit: Thanks for all of the reports. Fears allayed, I will take the plunge and join my tribe with the bulging left front jean pockets.",191,100,2014-11-20,AAPL,0.021217115223407745,0.878201425075531,0.10058141499757767
+apple,Apple should've added clear all notifications on iOS 8,Apple should've added a clear all notifications button. It's annoying to go app by app to clear the notifications.,181,851,2014-11-21,AAPL,0.022101275622844696,0.8963619470596313,0.08153678476810455
+apple,TIL pressing ⌘B in Spotlight will do a web search (with your default search engine in your default browser),Learned this from the [Macstories Weekly newsletter](http://us8.campaign-archive.com/?u=9f4b80a35728f7271fe3ea6ff&amp;id=3895ff16d9&amp;e=[UNIQID]).,63,645,2014-11-21,AAPL,0.04193183407187462,0.9292032122612,0.0288649071007967
+apple,Anyone else wish that iTunes supported handoff?,"I'd love to pick up my iPhone and immediately continue to listen to the music that's playing on my Mac, without having to dig through my phone's library and then scrub to a specific point. I'm sure that I'm not alone.",59,308,2014-11-21,AAPL,0.034360263496637344,0.9168810248374939,0.04875870794057846
+iphone,Well that was nice of them,,8,173,2014-11-21,AAPL,0.03999601677060127,0.8017421960830688,0.1582617163658142
+apple,Square to Accept Apple Pay Next Year,,20,156,2014-11-21,AAPL,0.012791295535862446,0.8874775171279907,0.09973116219043732
+iphone,ProTube is available on the App Store. Probably not for long. [x-post from r/jailbreak],,104,132,2014-11-21,AAPL,0.029873549938201904,0.9189783334732056,0.051148127764463425
+iphone,"IOS8 camera really loves showing you your ""moments"" instead of the camera roll. Any way to fix this?","If I'm reviewing a single photo that I just took, it used to be you could click the top left to view a preview of your camera roll. In IOS8 that has now been replaced by ""all photos"" which takes longer to load, opens the photos app, and starts by showing your oldest ""moments"" which is just stupid.  You then have to go to your albums and click camera roll to review the photos you took recently. This is annoying. I don't care about looking at photos from last year, I want the normal camera roll back. Any ideas?",46,128,2014-11-21,AAPL,0.035664044320583344,0.9286662340164185,0.03566963970661163
+apple,OS X Yosemite 10.10.1 Users Experiencing Issues With YouTube Videos in Safari,,43,125,2014-11-21,AAPL,0.028261026367545128,0.9370046257972717,0.03473435342311859
+ios,iOS has really grown over the years,,30,112,2014-11-21,AAPL,0.02922896295785904,0.803893506526947,0.16687747836112976
+apple,"Apple ends patent war on Android, deal suggests",,159,94,2014-11-21,AAPL,0.18373237550258636,0.7518570423126221,0.06441056728363037
+apple,Smallest bluetooth earbuds...Apple should hire these guys.,,387,1000,2014-11-22,AAPL,0.02746819145977497,0.9339340925216675,0.038597751408815384
+apple,LPT: want to open a reddit thread in Alien Blue? Simply copy the URL and open the app!,,123,364,2014-11-22,AAPL,0.03430799022316933,0.9294711351394653,0.03622087836265564
+iphone,Sleek New Device Stats With Today Widget,"I've grown tired of seeing devs charge people arms and legs for a simple device stats app. So, you know what? Screw them! I made my own and now you guys can use it too.
+
+[Get SnapStats](https://itunes.apple.com/us/app/snapstats-device-stats-info/id939343881)
+
+No ads, in-app purchase, or pro version nonsense. Let me know what you guys think!
+
+
+*****
+
+
+**UPDATE**
+
+
+Thanks for the overwhelming supports! I have been going over each and every comment to fix bugs and note down recommendation for next release. It would be a big help if you guys can re-list your suggestions or bugs at [SnapStats FB Page](https://www.facebook.com/snapstats) in case I've missed it. Also, I can use it to notify you guys the timeline of upcoming features or if your suggestion is impossibru to uptake.
+
+
+*****
+
+
+**Upcoming release**
+
+
+- Add support for iPad Air 2 and iPad Mini 3
+- Fix wrong info with iPhone 6 and 6+
+- Fix negative value display in network usage
+- Add Platform Type/Device Type 
+- Add Timezone
+- Add Network IP Address
+- Enhance up time/boot time to display day/hr/min instead of just hours",113,360,2014-11-22,AAPL,0.022937029600143433,0.9337594509124756,0.04330354556441307
+apple,I made a small Mac app for myself to easily import huge iTunes playlists to Spotify and I just made it Open Source,"https://github.com/lapfelix/SpotifyPlaylistImport/releases
+
+My main goal was to import my iTunes playlists to Spotify and to learn Swift a little bit.
+
+To use it, export your iTunes playlist to XML (File &gt; Library &gt; Export Playlist) and select it within the app.
+Once it fetched all the track URIs, the whole thing will be copied to your clipboard so it can easily be pasted in Spotify
+
+It's the first Mac app I've ever made and the first time I've ever written an app in Swift
+And yes I am aware that the code is awful, but it works! (And it's pretty fast)
+I might make it better when I have the time
+
+EDIT: why did I capitalize open source
+
+EDIT2: Okay apparently Canada isn't the only country in the world so I'm adding a combo box to select the country",35,187,2014-11-22,AAPL,0.019945194944739342,0.9255663752555847,0.05448837950825691
+apple,"iPhone 6, iPhone 6 Plus capable of 4K video playback",,46,119,2014-11-22,AAPL,0.015023607760667801,0.8445636034011841,0.1404128074645996
+iphone,LPT: want to open a reddit thread in Alien Blue? Simply copy the URL and open the app! (xpost /r/apple),,8,97,2014-11-22,AAPL,0.02775699645280838,0.9243308305740356,0.04791223630309105
+iphone,"MovieBox For iOS 8, 8.1, 8.1.1 &amp; 8.2 Beta.",,60,72,2014-11-22,AAPL,0.028337450698018074,0.8966934084892273,0.0749690979719162
+apple,"Macintosh pirate flag reincarnated as art, for sale by original designer Susan Kare",,4,44,2014-11-22,AAPL,0.01857607625424862,0.9005705714225769,0.08085332810878754
+iphone,"I updated GBA4iOS, Nestopia, Provenance, and iDS.","I've been sick recently so I haven't been able to get to this as quickly as usual. I may make a script that auto-resigns each day with a valid cert, but until then...
+
+[GBA4iOS](http://pgyer.com/GBA32)
+
+[iDS](http://pgyer.com/idsemu) (drop-in replacement and updated nds4ios)
+
+[Provenance](http://pgyer.com/provenance) (emulates SNES, Genesis/Megadrive and Game Gear)
+
+[Nestopia](http://pgyer.com/nestopia) (emulates NES)",25,40,2014-11-22,AAPL,0.03206060826778412,0.9098517298698425,0.058087654411792755
+mac,This folder icon is flashing when I start my MBP.. Any idea what it means?,,33,34,2014-11-22,AAPL,0.026548972353339195,0.9340585470199585,0.03939248248934746
+apple,"Apple Launches (RED) App Store Promotion, Donating Proceeds to Fight AIDS",,69,359,2014-11-23,AAPL,0.015468401834368706,0.7807255983352661,0.20380593836307526
+apple,TIL: Tilting iPhone 6 Plus into landscape while viewing folders reveals more content. Why not implement something like this on iPad?,,47,227,2014-11-23,AAPL,0.01793849468231201,0.9371607899665833,0.044900692999362946
+apple,Thinking about buying a new Apple MacBook Pro on Black Friday but then got sidetracked looking at the refurbished laptops on Apple's website. Does anyone have any insight into why or why not to buy refurbished laptops from Apple?,,202,217,2014-11-23,AAPL,0.014684437774121761,0.8869461417198181,0.09836944192647934
+iphone,"Remember the game that was showcased during the iPhone 6 keynote? Vain Glory is now out. It is free, and it is incredible. Do yourself a favor and download it!","[Vainglory for iPhone by Super Evil Megacorp]
+(https://appsto.re/us/1y3U3.i)
+
+I'm ridiculously impressed by this game. It is by far the best I have ever downloaded for iOS. It's one of those games I have been starting up to showcase to friends what the new Metal API can do. It looks incredible on the 6 and 6+.
+
+Spoiler alert: it's amazingly addicting",88,170,2014-11-23,AAPL,0.016665464267134666,0.8235979080200195,0.15973663330078125
+apple,The iPhone 6 Plus Camera impresses me a lot,"I'm just amazed at how such awesome quality comes out of a camera smaller than a quarter! I'm mostly impressed by the slow motion.
+
+Here's a slow motion video I took of my fire place: https://www.youtube.com/watch?v=OJ_cr-1egiQ&amp;spfreload=10
+
+Does anyone else have any cool slo-mo videos they would share?",76,104,2014-11-23,AAPL,0.0264805406332016,0.8766976594924927,0.09682177752256393
+iphone,Anyone else have your phone on vibrate all the time?,,63,88,2014-11-23,AAPL,0.041630830615758896,0.9238501191139221,0.03451903909444809
+apple,"I couldn't stand Music.app. So I made my own. Please, check it out! (x/post r/iOS8)","If you are like me, iOS7/8 seriously broke your music listening habits. Scrolling through huge artist lists with hundreds of songs, weird/incorrect/missing artist images that were sourced from who knows where, huge album art so only a handful of albums were visible at a time. I spent a lot of time looking for a 3d party solution. I didn't want gimmicks and overwrought interfaces, just a simple iOS7/8 consistent design that restored iOS6 functionality, plus a couple of features that were missing. I couldn't find something I liked, so I decided to teach myself objective-C and develop my own.
+
+The result is Cesium, and it just went live in the App Store. It's a lightweight music player that makes music navigation simple and intuitive.
+
+ 
+Additional features:
+
+* Utilizes existing device/itunes music library.
+* Restores nested browsing. Focus in on your music collection with laser precision.
+* Artist view. No more scrolling through Artist views with hundreds of songs. Sort albums by title or chronologically (ascending or descending).
+* Tag responsive. Cesium dynamically adjusts presentation based on available track tags, including Sort fields.
+* Classical Mode. When enabled, all music tagged as ""Classical"" in genres will use the Composer field instead of Artist/Album Artist.
+* iCloud support. Toggle visibility of iTunes Match and/or purchased tracks.
+* On-demand scrolling of long song titles, album or artist names, etc. Simply tap and hold.
+* Gesture controls. Enable to safely control playback while driving.
+* Seamless iOS7/8 design.
+* Native display support for iPhone 6 and iPhone 6 Plus.
+
+[Cesium on the App Store](https://itunes.apple.com/ca/app/cesium/id924491991?mt=8)
+
+I know self-promotion isn't exactly encouraged around reddit, so I'd love to open this up. Please, check out the app and ask questions, provide feedback, whatever! AMA!
+
+Edit: Really appreciate the support and feedback. I'll keep working to improve Cesium. Keep it coming! Beyond this post you can also follow/contact me on Twitter @CesiumApp. I hope the app works well for you all. IF you are happy with it, I'd *really* appreciate a rating or review on the App Store, or a shout out via Twitter!
+
+Edit 2: For all those having issues with the tab bar icons. [This](http://imgur.com/aLzgaLV) is what has been submitted in v1.1, pending Apple approval.
+
+Edit 3: v1.1 will include new icons (with old icons available in settings), a few standard themes (iOS blue, iTunes pink and charcoal), a play all function to play lists as sorted, and a few misc. bug fixes and graphical improvements. Still working on that animation stutter!",177,83,2014-11-23,AAPL,0.040948934853076935,0.9272024035453796,0.03184870257973671
+mac,Avenir Next as the System Font on Yosemite,,43,70,2014-11-23,AAPL,0.025266004726290703,0.9180679321289062,0.05666607618331909
+iphone,Looking for a slim case for the 6 Plus,"I've been using a folio case for my 6 plus ever since the day I bought it but feel that it can be quite bulky and wondered if you guys knew of any better alternatives? I'm looking for something similar to [this](http://i.webapps.microsoft.com/r/image/view/-/3691078/extraHighRes/1/-/Nokia-Lumia-1520-Rich-Recording.jpg). Thanks!
+
+EDIT: So much choice... Thanks for all the replies guys! I'm looking through them now . Gonna be tough to pick one out.",97,65,2014-11-23,AAPL,0.015247941017150879,0.7646153569221497,0.22013673186302185
+apple,What do you want Siri to do in the next iOS 9 update?,,166,52,2014-11-23,AAPL,0.049832966178655624,0.9245452284812927,0.025621753185987473
+iphone,Developers supporting the competition. Amazing.,,86,719,2014-11-24,AAPL,0.03201630339026451,0.7210965156555176,0.2468871921300888
+apple,"Hey Reddit, we're making an iOS keyboard for you.","A few months back we asked how you would improve the iOS keyboard.
+
+http://www.reddit.com/r/apple/comments/2aifho/we_are_building_the_next_best_ios_keyboard_and_we/
+
+As simple as it sounds fixing shift was one thing that kept coming up in our research. That and how awesome the SwipeSelection jailbreak tweak is.
+
+Thanks for the feedback! We're getting closer to sharing [Next Keyboard](http://www.nextkeyboard.co) with the world. In the meantime I wanted to share a couple of features.
+
+Quick cursor swipe -- https://www.youtube.com/watch?v=Dcr-0AOQHts
+
+Fixing shift -- https://www.youtube.com/watch?v=k4Tbkgr3DTk
+
+Would love to hear your thoughts. If you're interested in getting early access sign up on our site - www.nextkeyboard.co
+
+EDIT: Thanks for the amazing feedback and nice tweets! Our early access email list just broke the 3k mark.",206,539,2014-11-24,AAPL,0.015453577972948551,0.9083330035209656,0.07621344923973083
+apple,Wouldn't it be cool to have a Siri wake up call feature?,"Think about it. 
+
+Instead of an alarm, you could set Siri to wake you up every morning and give you a rundown of your day. 
+It could go something like this:
+
+""Good morning, so-and-so!
+Currently the weather is cloudy, but it appears there is a chance of rain after lunch. The high of today is 65, and the low is -32.
+You have 5 things on on your calendar, with the first being a meeting in two hours. Currently it would take you 15 minutes to get to your meeting.""
+
+That could be the basic information Siri could give, but then you could customize it with more information like top news stories, recent tweets or facebook notifications, etc.",79,341,2014-11-24,AAPL,0.04680661857128143,0.9280730485916138,0.025120344012975693
+apple,"Not sure if many people know this...But you can use the default program ""Image Capture"" to import the photos from from your iPhone to your Mac.","Just do a spotlight search for ""Image Capture"".  It's a default program that allows you to just transfer all your photos from your phone to your computer and puts them all in a nice little folder.  I realize you can do this with iCloud and iPhoto but there are sometimes I don't want to launch that horrible program that is iPhoto so this is a  nice alternative.",82,212,2014-11-24,AAPL,0.025827836245298386,0.9350282549858093,0.03914385288953781
+apple,"Is there a way to view the apps Apple has tagged as ""Essentials"" in the App Store?",Every so often I come across an app I am to download that is tagged as 'Essentials'. I would love to see a list of all these apps that are tagged as such. Any way to do this? Thanks in advance.,15,203,2014-11-24,AAPL,0.0164511576294899,0.9157640933990479,0.06778477132320404
+apple,Square to begin accepting Apple pay,,16,184,2014-11-24,AAPL,0.009823019616305828,0.7945094704627991,0.1956675499677658
+apple,Minimal 8-bit MacBook stickers - I will donate all income of november to children’s hospice!,,31,107,2014-11-24,AAPL,0.018292531371116638,0.9074833989143372,0.07422400265932083
+apple,iOS 8 is the Most Glitchy OS Apple Has Created in the Last Decade,"I've owned the iPhone 3G, 4, 5, and now 6. In addition I've owned the iPad 2, 3, and now Air 2. 
+
+iOS 8 has been by far the worst in terms of glitches and bugs. Do I just have rotten brand new products or is this sentiment shared by others? 
+
+Really frustrated with Apple's lack of perfection on this release. I miss iOS 4 and Snow Leopard. I'd rather have my products dependably work than have new features implemented that aren't ready yet and negatively impact the rest of the experience.",193,92,2014-11-24,AAPL,0.0968514084815979,0.8331392407417297,0.07000938057899475
+apple,"Wearables: To hit the mainstream, you need women.",,72,88,2014-11-24,AAPL,0.02224918082356453,0.8690326809883118,0.108718141913414
+iphone,It's almost time: A few Christmas ringtones I made,,16,83,2014-11-24,AAPL,0.04211760312318802,0.8524214625358582,0.10546090453863144
+apple,"Apple Reaches $700 Billion Valuation: Shares of the iPhone maker rose 0.8 percent to $119.59 at 9:35 a.m. in New York, giving it a valuation of more than $701 billion, a milestone that no other U.S. company has ever reached.",,155,1224,2014-11-25,AAPL,0.013571240939199924,0.1741386204957962,0.8122901320457458
+apple,"iPhone 6/6+: Am I the only one constantly hitting the volume-up-button, when pressing the sleep/wake-button?","With the new design of the iPhone 6 and 6+ the sleep/wake-button (""power-button"") was moved from the top of the device to the right side, which in itself is a good idea, given the size of both phones. This keeps one from fidgeting the phone about ones palm to reach the top.
+
+I usually send my device to sleep using the power-button, when I'm done using it. Especially when I just quickly glanced at it and want to put it back into my pocket.
+
+However the sleep/wake button is now directly opposing the Volume-Up button and in most of the cases, where I try to send the phone to sleep, I will increase the volume.
+
+That's especially annoying, when you are listening to music. :/
+
+The power button really should have be positioned on the height of the mute-switch, in my opinion. *sigh",174,505,2014-11-25,AAPL,0.02985561639070511,0.9183446168899536,0.05179976299405098
+apple,Anyone else use the Alien Blue app in night mode more than day mode?,I think it's easier to see than the day mode especially during the day and at night.,121,500,2014-11-25,AAPL,0.053183846175670624,0.9205855131149292,0.026230623945593834
+iphone,Thinnest iPhone ever?,,72,461,2014-11-25,AAPL,0.02855081297457218,0.9248402118682861,0.04660898074507713
+apple,WiFried: iOS 8 (jailibroken) and Yosemite WiFi Issue Fix!,,30,148,2014-11-25,AAPL,0.04682411998510361,0.915153980255127,0.03802194073796272
+iphone,Real-time magnet position detection using an iPhone,,14,118,2014-11-25,AAPL,0.024709763005375862,0.9334914684295654,0.04179885610938072
+apple,BlackBerry will pay iPhone users up to $600 to switch phones,,131,110,2014-11-25,AAPL,0.035298608243465424,0.937515377998352,0.027185983955860138
+apple,Apple Pay updated my canceled credit card to the replacement one automatically,"After I activated a new credit card (to replace one that was part of a recent merchant breach), I went to update my Apple Pay info. Lo and behold, the Apple Pay profile for the canceled card was automatically updated. Nice job.",23,103,2014-11-25,AAPL,0.39251255989074707,0.5683823227882385,0.039105094969272614
+apple,Microsoft And Yahoo Are Throwing Themselves At Apple To Replace Google As The iPhone's Default Search Engine,,62,95,2014-11-25,AAPL,0.040542807430028915,0.929865300655365,0.029591822996735573
+apple,Apple owns this mysterious domain name; it just says 'Hello',,56,68,2014-11-25,AAPL,0.04754836857318878,0.9313961267471313,0.02105545438826084
+iphone,Some guy in my Hotel is AirDropping me Kevin Spacey. This is weird.,,165,2172,2014-11-26,AAPL,0.030239269137382507,0.9279194474220276,0.04184132069349289
+apple,It's cheaper to fly to US and buy a 5K iMac than buy one in the UK!,,289,1011,2014-11-26,AAPL,0.016271468251943588,0.9038010835647583,0.0799274742603302
+apple,"Apple is now bigger than Google, Samsung, HTC, BlackBerry, Lenovo, Hewlett-Packard, SanDisk and Sony combined.",,56,178,2014-11-26,AAPL,0.027615472674369812,0.9224275946617126,0.04995700716972351
+iphone,"The dreaded, mysterious, insufferable, and relentless ""OTHER"" data: What is it, and how do I get rid of it? 38GB of ""OTHER"" data on my new 128GB phone is ludicrous.","I'm not exaggerating when I say that **the data storage called ""OTHER"" on my iPhones (plural) has been the equivalent of a ""*digital tumor*""**.   
+
+Like a tumor, the ""OTHER"" data just grows and grows with no control, and it's not like the growth substance is malicious (for example, tumors are just the abnormal growth of tissue, while ""OTHER"" data is just abnormal growth of data or something).
+
+Ever since I got the iPhone 4, this mysterious ""OTHER"" data, which is colored yellow/orange on the capacity ""bar.""  [**Here is an example of what it looks like when this ""OTHER"" data takes up a good amount of wh**](http://i.imgur.com/TJmAQbG.jpg).  Yes, that's 4.59 of ""OTHER"" data taking up a 16 GB phone.
+
+**And *no*, *NOTHING* has fixed it.**  There have only been alleviations -- no cures (like cancer).  
+
+* First, the ""obvious"" (or at least the most common) recommendation *HAS* been for me to **restore my phone** (notice the usage of ""HAS,"" as I've posted this before and still haven't gotten it to work).  Again, this does not *cure* the problem -- it only *alleviates* it (with my iPhone 4 *16 GB*, I would have about 3-4 GB of ""OTHER"" data and then restore it.... which still comes back with 0.8-1.1 GB of data, which is huge on a 16GB phone).  I would have to do this once every 2-3 months or so.
+
+**Here is where I draw the line (!!!!)**:  The other night, **37.7GB of ""OTHER"" data took up my 128 GB.**
+
+This is ridiculous and testing my sanity.  Honestly, I was ready to just ""eat"" the 3-4 GB of ""OTHER"" data on my new 128 GB phone, but now it's 38 GB.
+
+**WHAT IS GOING ON**
+
+Here's what I do with my phone:
+
+* Call/text
+* Stream HBO GO and Hulu Plus
+* iTunes
+* Browse websites
+
+That's it.  The only video game I've played is The Walking Dead.  I don't even *stream music*.  
+
+**HOW DO I FIX IT?**
+
+**TL;DR -- The ""OTHER"" data tumor is not only transferable from phone to new phone, but it's growing exponentially.  My new 128GB iPhone just showed 38 GB of WORTHLESS ""OTHER"" data.**
+
+**EDIT** [Here's a requested screenshot of my iPhone.  The ""OTHER"" data is at a little over 2.0 GB, after it started at 0.8 GB just 24 hours ago.  This screenshot was taken around 2AM PST.  I'll update with another screenshot maybe in a day or two to see if the ""OTHER"" data grows.](http://i.imgur.com/5J7OxWW.jpg).  If it's anything like before, it's just going to keep getting bigger, and I'm going to have to restore my iPhone in a few weeks again, and wash, rinse, repeat.  2.0GB of mysterious data is already rather large -- that's a 2.5 hour movie or about 200 songs, yet it keeps growing and I can't find it.
+
+**EDIT 2** - It is not the text messages, since ""OTHER"" data appears despite the fact that I'd restore it to factory settings (and not a backup), and there would be ZERO text messages (or apps, videos, songs, etc.).
+
+**EDIT 3** - It cannot be fixed or even diagnosed through ""USAGE.""  Right now, I have 2.05 GB of ""Other"" data.  I JUST restored my iPhone a day ago.  I've been streaming HBO GO for a few hours to watch a few shows, and **you know how much data HBO has used?  44 *MB*.**  (Yes, *usage*.  The app itself is about 36 MB.)  Yes, 44 megabytes.  And that's after streaming a one-hour episode of The Newsroom and 3 episodes of Game of Thrones -- so, 4 hours of streaming.   
+
+**EDIT 4** -- [Here's a screenshot of the **""Usage""** screen](http://i.imgur.com/yrHU7AE.jpg).  I've cut out about 2 more pages of apps, but for obvious reasons, I didn't include them (their sizes -- 30 MB and below -- are insignificant compared to a 120 GB of capacity).   Notice that I have used 109 GB of my capacity, with 4.9 GB available (btw, does it annoy anyone that a 128 GB phone gives you 115 GB of *actual capacity*?  Sure, the phone must leave room for its own software/data/documents -- but 13 GB worth?)  **If you added up all the data from all the apps listed, do you think it would approach 109 GB?  Simple math says NO.**  Videos take up 94.7 GB, music takes up 3.4 GB, and 5 games between 700MB and 1.2 GB -- that adds up to 103 GB.   With 109 GB taken overall, that leaves 6 GB of ""taken"" capacity.  How do the remaining apps add up to 6 GB?
+
+**EDIT (THANKS) -- Thank you so much for your help and attention.  Happy Thanksgiving, and I'm very thankful for the kindness of strangers like you folks.**",115,164,2014-11-26,AAPL,0.07848092913627625,0.8916183114051819,0.02990073151886463
+apple,Yahoo and Microsoft Court Apple as Google's Safari Search Engine Deal Expires in 2015,,103,153,2014-11-26,AAPL,0.0264857467263937,0.9352097511291504,0.03830448538064957
+apple,Apple says iOS 8 now on 60% of iPhones and iPads,,82,122,2014-11-26,AAPL,0.017765359953045845,0.9116536974906921,0.07058092206716537
+apple,Apple to Reportedly Stop Production of iPhone 5c in 2015,,75,112,2014-11-26,AAPL,0.8332764506340027,0.15249435603618622,0.01422928087413311
+apple,"Apple Granted 25 Patents Today Covering Camera Stabilization, Wi-Fi + Cellular MacBook and an Audio User Interface.",,28,106,2014-11-26,AAPL,0.013863766565918922,0.9052916169166565,0.08084461838006973
+iphone,Still waiting,,21,98,2014-11-26,AAPL,0.08543737977743149,0.7765917778015137,0.13797079026699066
+mac,I absolutely hate the animation when putting an application into fullscreen.,"It takes forever to transition in and out of fullscreen.  Wtf is point of it moving so slowly?  Am I supposed to be in awe every time I go in and out of fullscreen?  
+
+Someone please tell me I can get rid of this stupid animation.",29,70,2014-11-26,AAPL,0.09913566708564758,0.8748824000358582,0.02598186396062374
+apple,"""I give [Apple] two years before they’re turning out the lights on a very painful and expensive mistake [Apple Stores]."" (2001)",,184,804,2014-11-27,AAPL,0.2321227490901947,0.716135561466217,0.05174167454242706
+apple,Obama Signs E-Label Act To Remove Logos From Phones,,207,696,2014-11-27,AAPL,0.052458107471466064,0.9166183471679688,0.030923495069146156
+iphone,Obama signs E-Label act so your next phone can drop the ugly logos,,118,457,2014-11-27,AAPL,0.2989260256290436,0.6673171520233154,0.03375690057873726
+apple,The Apple Watch page has been updated with new information and images of the interface,,323,364,2014-11-27,AAPL,0.040013641119003296,0.9322389960289001,0.027747422456741333
+mac,4 x broken Mac keyboards + magnetic tape = Mac Fridge Magnet Letters,,28,304,2014-11-27,AAPL,0.03713091090321541,0.9332588911056519,0.029610222205519676
+apple,"Download the free ""Alex"" voice in iOS 8 and turn your iBooks into audio books.","While he's no Morgan Freeman, Alex isn't a bad narrator for when I'm in the car or falling asleep. 
+
+Goto Settings --&gt; General --&gt; Accessibility --&gt; Speech and activate ""Speak Screen"". Then just below that tap on Voices and download the ""Alex"" voice. Warning: It's almost a Gigabyte, so you may have to delete a game or two. 
+
+Now whenever you swipe two fingers down from the top of your screen, Alex will read whatever is displayed. Swipe over an open iBook, and it will read the entire book aloud.",37,150,2014-11-27,AAPL,0.0355413518846035,0.9309241771697998,0.033534470945596695
+iphone,Got this message while outside and it's -25°C (-13F)...,,31,134,2014-11-27,AAPL,0.025895150378346443,0.893101155757904,0.08100373297929764
+apple,Study says Apple's iPhone 6 and 6 Plus are cannibalizing iPad use,,61,120,2014-11-27,AAPL,0.018670005723834038,0.8906872272491455,0.0906427726149559
+apple,Running Windows programs with a more-up-to-date Wine for Mac,"In the past, I had used Winebottler to run windows programs on OS X. However, it uses woefully outdated version of wine to run, so I figured I'd one-up it, if you will. Basically, I wrote an Automator script that works with wine installed with [homebrew](http://brew.sh). Here's what you need to do.
+
+1. Install [Homebrew](http://brew.sh). This only takes a minute.
+
+2. Run 
+
+          brew install wine
+to install wine. This will get you the latest version. To update outdated packages (including wine), run:
+
+          brew update &amp;&amp; brew upgrade
+
+3. Put this program wherever you'd like: [WineOpener](https://www.dropbox.com/s/xmagh85q66dlxq8/WineOpener.zip?raw=1) (14.75KB)
+
+4. Get Info an EXE file to associate it with WineOpener.",15,81,2014-11-27,AAPL,0.026084065437316895,0.9153330326080322,0.058582913130521774
+iphone,"Impressive product photograph captured with an iPhone 4S, a lamp, and a few flashlights",,3,69,2014-11-27,AAPL,0.011025580577552319,0.7677979469299316,0.22117643058300018
+apple,Nintendo Patents Game Boy Emulation For Use In Mobile Devices,,135,993,2014-11-28,AAPL,0.025487776845693588,0.942193865776062,0.03231841325759888
+iphone,"Just started doing this. Comes and goes, getting really hot. Anyone have this problem?",,77,372,2014-11-28,AAPL,0.05773604288697243,0.8831815719604492,0.059082332998514175
+iphone,It's nice seeing apple pay continue to grow.,,66,344,2014-11-28,AAPL,0.014257638715207577,0.6954498887062073,0.29029250144958496
+apple,Finally got an iPhone 6! What are some must have games?,,322,273,2014-11-28,AAPL,0.011657015420496464,0.7966717481613159,0.1916712373495102
+mac,The best feeling in the goddamn universe.,,100,149,2014-11-28,AAPL,0.050760649144649506,0.794714093208313,0.15452519059181213
+mac,15 Mac Tricks That You Might Not Know,,31,129,2014-11-28,AAPL,0.08352930098772049,0.8232226371765137,0.09324805438518524
+apple,iWork ’14 review: Still waiting for that great leap forward,,30,115,2014-11-28,AAPL,0.02318568527698517,0.8984690308570862,0.07834530621767044
+apple,$100 iTunes giftcard with the purchase of any Mac(book),,34,54,2014-11-28,AAPL,0.027146315202116966,0.934255063533783,0.03859865665435791
+iphone,"Trade in ANY iPhone (Including 2G, 3G, 3GS, 4, etc.) at Best Buy through the 29th and receive a minimum 100$ Gift Card (You are NOT required to activate a new line or buy a new iPhone to get the Gift card.)",,40,51,2014-11-28,AAPL,0.014476044103503227,0.8645516633987427,0.12097226828336716
+apple,brb,,6,50,2014-11-28,AAPL,0.02136518992483616,0.9024069309234619,0.07622788101434708
+iphone,While at home for Thanksgiving I dug up my 1st gen iPhone. Here it is next to my brand new 6 Plus. We've come a long way in 7 years,,163,715,2014-11-29,AAPL,0.020414846017956734,0.7477642297744751,0.23182092607021332
+apple,iPhone 6/6 Plus Users Are Shifting Away from iPads for Reading,,222,464,2014-11-29,AAPL,0.9046528339385986,0.07948766648769379,0.01585955172777176
+iphone,A Play/Pause button here would be nice,,38,357,2014-11-29,AAPL,0.04120216146111488,0.9270038604736328,0.03179393708705902
+mac,Monitor sold separately,,39,161,2014-11-29,AAPL,0.024296432733535767,0.9417893290519714,0.03391418233513832
+apple,Thunderbolt Display firmware 1.2 revived my old display.,"About 8 months ago, I bought a Thunderbolt Display for dirt cheap.  The issue was that the backlight stopped working.  When I brought it home, I decided to hook it up to see exactly what the issue was.  To my surprise, it worked!  I was thrilled, until my computer went to sleep, and the display never worked again.  I tore it apart to see if I could find anything obvious, tested some test points on the logic board, everything looked good.  Decided to change the T-Conn, which was impossible to find.  After finally finding one from a 2011 27"" iMac, I realized the LVDS cable connector was the wrong width. 
+
+It sat until three days ago, when my working TBD received an update.  Out of curiosity, I found all the parts to the old display, rigged it together so it would function and installed the firmware.  I am currently using the display now, it works great!
+
+So if the one or two of you out there that have a dead TBD just sitting, try installing the new firmware, you might get your display back, good luck.",13,88,2014-11-29,AAPL,0.04075537621974945,0.8911951780319214,0.06804949790239334
+apple,/r/Apple Annoucement: The New Moderators are here! Please welcome them to the team and help at keeping them busy please.,"The New Moderators are here!  The New Moderators are here!   Things are going to start happening to them now!      Oh well, I tried to make [that reference](http://www.youtube.com/watch?v=-7aIf1YnbbU) work.   
+
+Almost three weeks ago [we asked for mod-applications](http://www.reddit.com/r/apple/comments/2m0ojm/some_announcements_for_rapple_the_apple_chat/) and boy did we get a lot of applications.   Almost 70 applications were submitted.    The current mod team then spent some time sorting through the applications, and we then invited six of the best applicants to join the team.    
+
+So, without further ado, the new mods joining the team are:
+
+* /u/nty 
+* /u/dominicdom 
+* /u/CompiledSanity
+* /u/CurbedEnthusiasm
+* /u/TBoneTheOriginal
+* /u/Airmandan
+
+A few weeks previous to that, we had drafted /u/Xominous to the team.    
+
+So, all in all, we have added seven new moderators this month.  Each of them is already doing great work already.  
+
+That said, we still need the help of our faithful users.   If you see something that breaks the rules of the subreddit or [of Reddit](http://www.reddit.com/rules/), then please report it and/or [message the mod-team](http://www.reddit.com/message/compose?to=%2Fr%2Fapple) about it.    With the help of the users of /r/Apple, the mod team will be able to remove spam,  rule breaking submissions, trolling much more quickly. 
+
+Thank you for helping us to make this a great subreddit.  If you have any questions for the mod-team here, please ask in this thread.
+
+Have a great day!",41,87,2014-11-29,AAPL,0.03970092162489891,0.9074904918670654,0.05280853062868118
+apple,"13"" Pro Retina or 13"" Air for a first-time Apple user?","Hello! I recently started needing a more portable computer experience, and got a Dell Venue 11 Pro + keyboard dock. Long story short, I realised that the whole hybrid experience is not what I'm after, I just need a laptop.
+I've been using nothing but Windows my whole life, and I figured why not try something else, I don't use computers for the same purpose as I did before, and I think that a Mac could suit my needs.
+
+This is where I'm torn. If I get an Air it will be the 128gb 13"" model with 8gb ram, and if I get a Pro it'll be the 128gb 13"" retina version. They're both similar-ish in price, and the pro is even smaller and only a smidge heavier.
+
+I'm curious, to those of you who have tried the machines, is the extra performence, lower battery life, feel, extra I/O, etc, etc worth the £100++ pricetag?
+
+I intend to use the computer for Skype, web browsing, WoW and school in the future. Since it's so expensive I need it to be future-proof too.
+
+Sorry if this is a messy post, and thanks in advance for your answers!
+
+P.S: Would be cool if I got some suggestions before the 1st of December since some of the profits will then go to the AIDS fund :)
+
+**EDIT:** Alright, you guys seem to be 90% Pro and 10% Air. I looked around for a bit to see if they were cheaper anywhere else, and I found a Macbook Pro 13"" 128GB for £820, and I'm having trouble identifying what model it is. If anyone here could help and tell me if it's a good deal then that would be much appreciated ^^
+The model number is MGX72H/A if that tells anyone anything :3 The specs listed are as follows:
+
+* 13"" 2560x1600
+* Intel® Core™ i5-4278U
+* 8 GB RAM
+* 128 GB SSD
+* Intel® Iris™ Graphics 5100
+* 9 hours battery life
+
+Soooo, anything warranty-ish I should consider before potentially taking a dive?",83,68,2014-11-29,AAPL,0.03835844248533249,0.9181080460548401,0.04353349283337593
+iphone,My Iphone 4 fell 16 stories (xpost from /r/geek),,34,65,2014-11-29,AAPL,0.9258965849876404,0.04462975636124611,0.02947368659079075
+apple,Pause music using clock,"Before ios8 I could set a timer using the clock to pause a music track but now it stops the whole thing (I used it to listen to downloaded radio shows). 
+
+Is there a way to get the pause feature back or is there an app that would let you pause music after a timer?",7,39,2014-11-29,AAPL,0.02818194217979908,0.9423184990882874,0.029499579221010208
+iphone,"A few days ago I learned a cool iPhone camera trick coined the ""Pano-Dash"" I'm very happy I learned this! (link to vid in comments)",,4,36,2014-11-29,AAPL,0.01665033958852291,0.8658190965652466,0.11753053963184357
+iphone,The 3M Command hooks make great cable organizers. I stuck them on my dresser so the cables wouldn't fall to the ground behind it.,,50,1015,2014-11-30,AAPL,0.01870860531926155,0.8523792028427124,0.12891225516796112
+apple,"PSA: Don't use ispillrepair.com! If your Mac is liquid damaged, just take it to the Apple store, even if it costs more!","I don't know how popular this service is exactly, but I want to make sure that you don't fall into the same situation that I have.
+
+I'm a college student who works part-time as a waiter, so I don't really have very much money, even for emergency situations. So when I accidentally spilled coffee on my beloved 13"" Retina Macbook Pro in class, understandably I was pretty worried about my ability to pay for the repair/replacement. After some research online, I managed to figure out that bringing it to the Apple store would cost somewhere in the neighborhood of $8-900, which would pretty handily wipe out a significant chunk of my savings. One service, however, seemed to be a pretty good option for someone in my situation. Ispillrepair.com promises cheap repairs (starting at $350!) and a 1-year warranty. 
+
+I called the number listed on the website and was able to get in touch with a real, human customer service rep (good sign), who told me that most repairs take between 1-2 weeks, with 15 business days being the absolute upper end. I was convinced. I sent in my laptop and a few days later received my quote for a $600 repair. Not really the kind of savings I was expecting but they already had the computer and a couple hundred bucks is a couple hundred bucks.
+
+Two and a half weeks later after not hearing anything from the company, I call in and ask what's going on with my computer. I'm told that it has not been 15 business days and I cannot reasonably expect an update that my computer has entered ""final testing"" until that period. The customer service rep also tells me a manager will be in contact with me to make sure my experience is good. I wait until 15 business days has passed: nothing. 20 business days: nothing. 
+
+At 23 business days in I call again, upset. This time I'm told that there is some sort of problem with my computer and that they will just replace the logic board for no extra cost and it should ship out within a week. (Why are they just making this decision now, on the phone with me? Has my computer just been sitting there waiting for them to remember they have to fix it?)
+
+8 days later I have heard nothing. I call and talk to a customer service rep who tells me there is no manager or even service tech available. I tell her that I will be disputing the charge with my credit card company and I expect the computer back next week, fixed. I tell her this verbatim. The next business day no one gets in touch with me. I call and finally talk to a manager, who tells me they've been having a lot of trouble with my computer and are going to send it to Apple for them to refurbish at no extra cost to me. This should take ""3-5 business days"" and I will be contacted on Friday by phone AND email. This conversation I recorded and I made sure to say the exact date over the phone to the manager.
+
+One week later, I still had heard nothing. I call again, and am told that Apple has not sent the computer back yet, and it should be back the next day. Unsurprisingly, the next day I hear nothing.
+
+It has been another week (over two months total) and my computer is still in repair-limbo with a company that refuses to communicate with me of their own accord. I have been doing term papers for college all semester on a first-generation iPad mini that I am lucky enough to own. This company is rude, uncommunicative and misrepresents their services. I am doubtful at this point if I will ever get my computer back at all. This is a PSA to all Mac owners - the Apple store is expensive but they are accountable and fast! Just go there, ispillrepair is a scam!
+
+TL;DR: Sent my liquid-damaged Mac to ispillrepair.com to save money, over two months later they have slipped multiple self-imposed deadlines and may have stolen my computer and charged me $600 for it. 
+
+EDIT: the owner of the company has responded in the comments with a description of the repair process for my computer. He has also, unfortunately, paraphrased something I said on the phone in his own words but quoted it to make it appear verbatim. 
+
+EDIT #2: I've gotten my computer back. Took well over 2 months.",153,599,2014-11-30,AAPL,0.10425586998462677,0.8722176551818848,0.023526506498456
+apple,Is your iPhone 6 front-facing camera misaligned?,"My iPhone 6's front facing camera is misaligned. There is a crescent visible on the right side of the hole. This also happened to my friends phone and a replacement model the Apple Store gave him.
+
+I'm wondering if others are seeing this issue.",201,278,2014-11-30,AAPL,0.36356601119041443,0.5858177542686462,0.05061623081564903
+iphone,Apple Maps told me to park on a major highway and walk to the bagel shop,,46,266,2014-11-30,AAPL,0.02920231595635414,0.8937534093856812,0.07704426348209381
+apple,The downfall of Preview.,"Does anyone else think that Apple have taken what was once a great, simple, powerful app and made it an awful mess in the pursuit of, well, I don't know.
+
+I use 10.6 Preview at work every day, saving scanned uncompressed .tiff files as well compressed .pdfs that are entirely readable and a fraction of the size. It's as simple as pressing cmd+shift+s, then saving as pdf, adding my desired quartz filter. The entire process takes a minute or two.
+
+At home I've just tried to use 10.10 Preview to perform a similar function, and an hour later, I've managed to output a satisfactory file, but I've got no idea how I did it. I just kind of clicked options and hoped for the best.
+
+What makes matters worse is that I can't see any real reason as to why Apple did this. Preview doesn't look appreciably different, it doesn't operate differently, they just removed 'Save As...' and made life a whole load more difficult.
+
+:edit: Well, it seems that I'll just have to stop whining and get used to how the new Preview works.",167,215,2014-11-30,AAPL,0.04239184409379959,0.9209789633750916,0.036629222333431244
+apple,Did Apple's 2012 iPad textbook initiative ever gain any traction?,"After the initial announcement, I never heard of it again. Are iPad textbooks actually common in schools and universities now, or did the whole thing just fizzle out?",81,118,2014-11-30,AAPL,0.02016928419470787,0.932463526725769,0.04736723005771637
+mac,Beach ball - Chrome: docking complete,,19,92,2014-11-30,AAPL,0.01989712566137314,0.8981660008430481,0.08193685114383698
+apple,"Blueprint of Apple's ""iPad Air Plus,"" details of iPad mini 4 reportedly outed in Japanese mag - Rumor",,45,75,2014-11-30,AAPL,0.013453125953674316,0.8420048356056213,0.14454200863838196
+iphone,Reverse reachability trick.,,20,62,2014-11-30,AAPL,0.033268727362155914,0.9041252732276917,0.06260599941015244
+iphone,This has quickly become my biggest fear after getting my 6.,,35,55,2014-11-30,AAPL,0.1574796587228775,0.75994873046875,0.08257165551185608

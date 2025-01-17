@@ -1,0 +1,1465 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+ecommerce,Personalized Poly-mailers,"I can't seem to find polymailers for less than 47 cents a piece. Before I pull the trigger, going to see if you all knew of a place that had better prices. 30 cents is my target!",11,5,2017-03-01,ECOM,0.03579998016357422,0.9146109819412231,0.04958901181817055
+ecommerce,Any advice on how to grow?,"I've been in ecommerce for about 3 years now with 2 other partners, the sales for my business peaked last year and has been on a steady decline.
+
+I have been selling my items mostly through Amazon through a combination of FBA and merchant fulfilled orders. I am constantly trying to add new products, keep supply up for continually selling products, but nothing seems to be driving strong results and I can't break above the level of where I am currently at, and it has been this way for almost a year now. Despite being profitable, I am not making significant enough revenue to justify leaving my current job and work full time on this. 
+
+Regarding our operations, we normally ship out our products every Mon/Wed/Fri and put in extra hours on the weekends to try to find new avenues to grow. 
+
+I can't for the life of me understand why my impressions and traffic keeps falling on Amazon, and my attempts to create a separate website and market have been unsuccessful. 
+
+Were any of you in a similar situation and what things did you do in order to break out of this slump?",3,5,2017-03-01,ECOM,0.21916897594928741,0.735386848449707,0.04544416815042496
+shopify,Does anyone dropship with Spocket?,,0,3,2017-03-01,ECOM,0.199880912899971,0.7719994783401489,0.02811957709491253
+ecommerce,All or none in the order department,"So we run an [ecommerce store](http://www.bigheadcustom.com).  We only have one product and it is a custom product made from an image that people upload during checkout.  Our all time conversion rate is 0.8% which I understand is similar to others experiences who make custom products.  At times we go many weeks with no orders and then bam, order after order after order and then silence again.  A month or so later, again, order order order order, then silent.  Does anyone else know why that is?  Is that just the nature of the internet?  We're not running and specials or anything at the time to inspire these.  Don't understand why we don't have steady orders.  To clarify Im not wondering why we don't have more, I'm wondering why they all happen at one time.",8,3,2017-03-01,ECOM,0.04230574518442154,0.919426679611206,0.03826763480901718
+dropship,When to contact first Vendor for product - before site is live or after?,"Need some advice -- I have a demo Shopify store that's password protected and want to start contacting potential vendors to add product. I don't want my first product uploads to be from somewhere like Ali Express - I want to work directly with vendors / brands. 
+
+So my question is, do I launch my site with dummy product and THEN contact potential vendors, or skip publishing my site and send them a password to preview my site? I'd like ""real"" product in my site before launching. My thinking is the demo store gives me something to point to when trying to open that first vendor account. Basically not sure what my next step is to secure product. Thoughts?",8,3,2017-03-01,ECOM,0.039742425084114075,0.9289984703063965,0.03125911206007004
+ecommerce,"Best open platform for a small business with 100,000 products?","I'm currently having second thoughts about magento and am early enough into developing that I could still switch.  My problem with it is the version 1 to version 2 transition that's currently happening.  I don't want to develop the whole thing on 1 and have to do a complete migration in a year to version 2.  I'm having trouble with version 2 because there aren't enough affordable themes and extensions.  Plus I've run into so many technical problems with 2 so far and I haven't added a single product or content page.  
+&amp;nbsp;  
+So I'm looking into switching to something else, but I have no idea what that would be.  Can anyone recommend a platform based on these criteria?  
+&amp;nbsp;  
+-Support for at least 100,000 products.  
+-Good for a small business with only 5 employees to manage.  
+-Authorize.net compatible.  
+-Self hosted so we have more control.  
+-Good performance.  
+-Ease of use for the customer.  
+-Can handle complex shipping calculation.  
+-Preferably open source.  
+**-Most importantly I'm looking for one with an active community.  So lots of themes, extensions, and help forums.**  
+&amp;nbsp;  
+I'm looking at opencart at the moment.  Is that the next best thing to Magento?  
+&amp;nbsp;  
+Thanks for the help.",7,3,2017-03-01,ECOM,0.02080824412405491,0.925262987613678,0.05392874404788017
+ecommerce,I'll sell anything.,[deleted],5,3,2017-03-01,ECOM,0.022841161116957664,0.9251615405082703,0.05199725180864334
+woocommerce,"Enforce a minimum order total, excluding the cost of shipping?","Hello, I'm converting a BigCommerce site over to WooCommerce and have to say, I'm really pleased so far. This is a wholesale site, so I have the following dilemma: The site must enforce a min order total for a customer to be able to check out.
+
+I've been able to mostly get this working using a snippet from WooCommerce:
+
+https://docs.woocommerce.com/document/minimum-order-amount/
+
+The problem is that this code is also including the calculated shipping as part of the cart total. What would I need to add to this script to exclude shipping from the cart total?
+
+Thanks for any suggestions.
+
+
+
+    add_action( 'woocommerce_checkout_process', 'wc_minimum_order_amount' );
+    add_action( 'woocommerce_before_cart' , 'wc_minimum_order_amount' );
+ 
+    function wc_minimum_order_amount() {
+    // Set this variable to specify a minimum order value
+    $minimum = 250;
+
+    if ( WC()-&gt;cart-&gt;total &lt; $minimum ) {
+
+        if( is_cart() ) {
+
+            wc_print_notice( 
+                sprintf( 'To check out, your order must equal a minimum of %s. Your current order total is %s.' , 
+                    wc_price( $minimum ), 
+                    wc_price( WC()-&gt;cart-&gt;total )
+                ), 'error' 
+            );
+
+        } else {
+
+            wc_add_notice( 
+                sprintf( 'To check out, your order must equal a minimum of %s. Your current order total is %s.' , 
+                    wc_price( $minimum ), 
+                    wc_price( WC()-&gt;cart-&gt;total )
+                ), 'error' 
+            );
+
+        }
+    }
+
+    }",2,2,2017-03-01,ECOM,0.07224395126104355,0.9037418961524963,0.024014173075556755
+shopify,6 Common Mistakes to Avoid When Making Your Facebook Posts,,0,2,2017-03-01,ECOM,0.19787652790546417,0.7757514119148254,0.026372110471129417
+shopify,Can i sell brand name cosmetics on shopify?,"I found a wholesaler of foreign brand cosmetics, who requires me to have a seller's permit to purchase from them.  Can I build a shopify store around foreign cosmetic products or is selling brand cosmetics on shopify illegal?",7,2,2017-03-01,ECOM,0.030529920011758804,0.9402523636817932,0.02921777218580246
+ecommerce,Newer E-Commerce Site for Unique Snacks and Treats,"My family owns a small business in Lincoln, Nebraska and we have recently launched our online shop! we ship globally and are trying to get the word out. Any feedback would be awesome.
+
+http://www.simplyamaizenpopcorn.com/simply-amaizen-shop/",9,12,2017-03-02,ECOM,0.014287106692790985,0.8076397180557251,0.17807316780090332
+ecommerce,Selling my products on somebody else's website?,"I'm considering selling some of my products through another person's e-commerce web store, but I have some questions:
+
+Would it ever make sense to have a model where I do all of the fulfillment and they collect payments, which is then forwarded to me less a commission?
+
+So instead of an arrangement where the 3rd party ecommerce store buys my products wholesale and pays me up front, they would pay me each week/month (less, say, a 10% commission) the revenue collected from sales of my products.  
+
+Is this the same concept as drop-shipping?  Would that 10% commission simply be the margin the merchant expects from the sale anyway?
+
+I know this is a vague question, but I am looking to approach another established site with a proposition to sell my products, and I'm trying to figure out the best arrangement to present.  Thanks for any advice...",7,10,2017-03-02,ECOM,0.020918868482112885,0.929366946220398,0.04971422255039215
+shopify,Just released our first 11 interviews with successful Shopify stores based on some of the feedback from /r/shopify.,,1,8,2017-03-02,ECOM,0.022716062143445015,0.9252466559410095,0.052037257701158524
+ecommerce,Shopify Shipping Question,"I dont have the shopify upgraded account so i cant use any shipping apps to help me. But i have 2 products on my store, one weighs .11lb and cost $9.99 with free shipping. The second weighs .1lb and is Free just pay for shipping. So basically no matter what i setup I cant figure out how to make this work. The free plus shipping product cost 3.99 for shipping for 1 unit, and increases $2 every unit added. when products are in cart seperately it works fine, but when both products are in the cart together you get the free shipping for both products, so i lose money on shipping for the free plus shipping product, can anyone help me?",1,6,2017-03-02,ECOM,0.0517609566450119,0.9030052423477173,0.04523384943604469
+ecommerce,Need ideas on how to improve traffic and what to improve on my site.,[deleted],5,5,2017-03-02,ECOM,0.015418602153658867,0.8290351629257202,0.15554623305797577
+ecommerce,"Just Launched My Store and Haven't Gotten Any Sales, Quit?","Ok so I just launched my store, and i'm targeting it by using facebook ads. I don't expect any sales in the first few days like everyone says not too, but I need to know if it is worth keeping my ad running at $5 a day. I am selling a product for $9.99 and i'll make about $8 if someone purchases. But my facebook ad has been running for 2 days and i've spent $12, reached 900 people, gotten 16 link clicks ($0.75 per click), but havent gotten any sales or email addresses from people about to check out. I plan on trying different audiences and ads, but idk if it is a good idea to cut this ad, or to keep it running to see how it does. I have a great free+ shipping product im about to make an ad campaign for to drive traffic to my website, is this too premature? or is it ok to roll out now? I appreciate any help, thanks.",17,4,2017-03-02,ECOM,0.02931288629770279,0.9199283123016357,0.050758808851242065
+ecommerce,New E-Commerce Marketplace for Small Businesses,[removed],2,3,2017-03-02,ECOM,0.10054930299520493,0.8629388809204102,0.03651188686490059
+ecommerce,Best Aliexpress Dropshipping Sourcing Strategy?,"What has worked for you? Is it better to go niche and sell the highest sold product or go one level deeper (into the niche) and try to sell a bunch of products related to that deeper, niche, even if they haven't had many orders on AliExpress?
+
+I wanted to get some more ideas so this is a repost from the dropshipping subreddit. Just need some thoughts on a better sourcing strategy.",14,3,2017-03-02,ECOM,0.13580915331840515,0.8074113130569458,0.05677947402000427
+woocommerce,once off payment for a magazine subscription with mailing list for each issue,is there a solution to my scenario. Customer wants to purchase 6 issues of a magazine (comes out bi-monthly). When an the next issue is released I want to get off a csv/list of all clients who are entitled to the next issue subscription. This also needs could include access to a digital (flipbook) version which goes right into their account to be accessed after login.,3,3,2017-03-02,ECOM,0.034060414880514145,0.9388476014137268,0.02709197998046875
+ecommerce,Safe ways to transfer money online,"Hey guys, 
+
+Im looking for a safe way to do online transactions. 
+I've sold through Ebay before and I like the security features they have with Paypal where the money is held until the item is marked as delivered. Unfortunately if you are selling something expensive Ebay takes a pretty big chunk of the money. Are there any other services that offer security features like this for online transactions?",5,3,2017-03-02,ECOM,0.041688136756420135,0.9157441854476929,0.042567674070596695
+ecommerce,Hi guys I have 1700 visitors so far Today from different ads and yet no sale,"The products are good and the prices are low, what do you guys think is the problem ? here is the link: https://gvgeshop.com/",20,18,2017-03-03,ECOM,0.06819041818380356,0.8541886210441589,0.07762093096971512
+ecommerce,Looking to interview some Ali Express Drop Shippers for my Youtube Channel - Free Promotion of your store,"Hey guys, I have a Youtube Channel where I talk about ecommerce, selling on eBay, Amazon, Importing, Private Labeling, etc. One area that I don't do much of is dropshipping but my audience has a strong interest in Ali Express to Shopify Drop Shipping.
+
+I would love to interview some people using this process. Happy to give you a free plug of your store and a backlink to your store within my video. I have 45k+ subs so decent exposure. 
+
+Questions will be along the lines of how you got inspired by your niche, what unique challenges does dropshipping have? Things to be aware of or things you wish you had known going in? ANy costly mistakes or lessons you've had along the way? How you deal with long shipping times? etc.
+
+Would like to do an interview over skype or hangouts and post to my channel, happy to plug your store, I get content you get a great backlink and a plug. 
+
+My Channel is Youtube.Com/RulesForRebels feel free to PM me through Youtube or just let me know your interested and I'll pM you through reddit.",13,9,2017-03-03,ECOM,0.03248977288603783,0.9319451451301575,0.03556510806083679
+ecommerce,Vacations: How Do You Deal With It?,"Hi, I was wondering how do you guys deal with being on vacation? I know most sites like Amazon and Etsy you can put your account on vacation mode.
+
+What do you suggest for my shopify website? Should I put my store on pause, password protected, or just keep it running with a vacation notification?
+
+Thanks",3,9,2017-03-03,ECOM,0.04169616103172302,0.9284365177154541,0.02986723743379116
+dropship,Critique my site?,[deleted],11,5,2017-03-03,ECOM,0.04723498225212097,0.9254685640335083,0.027296459302306175
+ecommerce,Best Site for printed canvas fulfillment?,"Hi all, 
+
+I have access to very unique environmental imagery and would like to sell it on printed canvas or posters.  I need to have these dropshipped automatically from the printer.  I have heard of Printful and Art of Where; are there any other dropshippers that I should check out?  Which is your favorite?
+
+Has anyone purchased canvas or posters from these companies?  Can you speak for the quality?  It doesn't appear they are willing to send samples :(
+
+Edit:  Just received a poster and a canvas print from printful.  They look stellar.  The colors are crisp and clear and all the detail I want are apparent. The canvas construction is great, with the folded corners only sticking up minimally.  
+
+Thanks!",5,5,2017-03-03,ECOM,0.03085406683385372,0.9290180206298828,0.04012791067361832
+ecommerce,Adwords doesn't seem to know I'm running ads?,"This morning I set up my first campaign on Adwords. The adwords console is saying the ads aren't running because my ad rank is too low, except I'm seeing my ad when I search for the terms. Any clue as to what is going on?",3,5,2017-03-03,ECOM,0.054876796901226044,0.9219335317611694,0.023189598694443703
+woocommerce,Questions on SSl,I have several woocommerce sites with the ssl on hostgator coming to expire anyone knows where I can get a affordable cert? Hostgator is charging me for www. And without it and I have about 14 web addresses to purchase it for. Thanks in advance.,3,4,2017-03-03,ECOM,0.01987799070775509,0.93458491563797,0.04553705081343651
+ecommerce,2 months and 0 sales... Is my site THAT bad?,My website is shopraptopia.com and I market through instagram (ig: Raptopia). Been doing this for 2 months and have not made 1 sale..? What's going on lol,18,3,2017-03-03,ECOM,0.03899982571601868,0.91575688123703,0.04524321109056473
+ecommerce,"Fateshli - MENA's 1st Curated eCommerce Platform now supports GCC, Egypt &amp; Lebanon",[removed],1,3,2017-03-03,ECOM,0.012068795040249825,0.8446210026741028,0.14331015944480896
+woocommerce,Apply coupon and limit shipping options,"Currently I have 3 different shipping options. I would like to be able to offer a coupon for a specific product, and once that coupon is applied successfully, I want to limit or remove two of those shipping options, so only one becomes available.
+
+I have the coupon working for the product I need, and its removing the correct amount, but I can not for the life of me figure out how to remove two shipping options once the coupon is applied.
+
+Thanks in advance.
+
+For anyone interested, I ended up getting what I needed by using JavaScript to check the coupon being entered, then triggering a click on the shipping option I want to enforce, then after a small delay, remove the other shipping options. Not a great solution, but one that will work for now.
+
+Thanks for the replies.",2,3,2017-03-03,ECOM,0.07100724428892136,0.905065655708313,0.02392716147005558
+shopify,Slate - a new theme framework from Shopify,,5,14,2017-03-04,ECOM,0.012079841457307339,0.8979776501655579,0.0899425595998764
+ecommerce,Do most e-commerce websites rely on Google Adwords?,"To provide the short of it, I launched my website a couple months ago after spending roughly 6 months with developers enhancing the Shopify theme. We really went all out on it in my opinion. Thing is... I can't seem to land a single sale. I'm beginning to test out ads, but don't know much about it.   
+  
+What do most people use for ads: Google Adwords? Facebook? What has been most effective for you? I know it'll be different for everyone depending on the products they sell but I'm just trying to understand if there is something better I could be doing.  
+  
+Thanks!",23,8,2017-03-04,ECOM,0.022389432415366173,0.9206191301345825,0.05699139088392258
+ecommerce,Yet another site review request - any feedback greatly appreciated,"Here's my store: www.nekochii.com
+
+Any site design feedback would be appreciated, but there are more detailed questions below if you are willing. Thank you for your time :'D
+
+**Background**
+We're a couple of artists that have been using Etsy to make handmade cat ears for a long time now. We can no longer use Etsy, and decided to use Shopify and make it on our own, without the marketplace that Etsy provides. We have now expanded with not only the cat ear accessories, but also key chains (handmade) and apparel (dropshipped) of our designs.
+
+**Specific Questions**
+I completed a website checklist that was posted in November 2016, which I found really handy (link in the comments below). From that checklist spawned the following questions:
+
+* Item 8 - Does our site give you a reason to buy anything? If it does, what are those reasons? If it doesn't, what do you think is missing?
+
+* Item 12 - The checklist suggests having 300 words on the home page - would this apply to my site? In terms of actual content (mainly the sidebar), the number of non-product words less than 100. Do I need to work on this?
+
+* Item 14 - What do you think of our ""About Us"" page?
+
+* Item 17 - Is our site easy to navigate?
+
+* Item 18 - Do I need a pop-up to build our email list? I've always been a little apprehensive about pop-ups. To be honest though, I just close them, rather than bounce out of the site completely.
+
+Thanks again - we're very much newbies to this, and there is so much to learn.",5,5,2017-03-04,ECOM,0.03066084161400795,0.9336281418800354,0.03571099415421486
+shopify,I just don't know what to say... :D,[deleted],12,5,2017-03-04,ECOM,0.06719744950532913,0.9019138813018799,0.03088867850601673
+shopify,Shopify and Google's G Suite,"Hey /r/Shopify,
+
+How on earth do you set up G Suite (Google Apps) with Shopify?  It wants me to adjust my DNS and what not which I don't have access to in Shopify.",2,3,2017-03-04,ECOM,0.02445446513593197,0.9325099587440491,0.04303557053208351
+ecommerce,Any luck with Fiverr logos?,"Just looking to get a relatively cheap logo, like less than $100 for my clothing [website](https://howdope.com/)",14,2,2017-03-04,ECOM,0.009967087768018246,0.8251001834869385,0.1649327427148819
+ecommerce,Best service for pre-launch landing page / email list,[removed],0,1,2017-03-04,ECOM,0.0505443774163723,0.9311524629592896,0.018303219228982925
+ecommerce,Best site to build pre-launch landing page &amp; email list?,[removed],0,1,2017-03-04,ECOM,0.032728105783462524,0.9391087889671326,0.0281631201505661
+ecommerce,Hit or Miss Facebook ad?,[removed],0,1,2017-03-04,ECOM,0.633411705493927,0.33029255270957947,0.03629577159881592
+ecommerce,AliExpress is a joke right?,[removed],0,1,2017-03-04,ECOM,0.06345874816179276,0.8953887224197388,0.041152454912662506
+ecommerce,"For apparel/accessories sellers, how do you handle packaging/shipping?","Hi guys. For those selling apparel and accessories, how do you handle your packaging and shipping strategy? It's my first time going into this business, and not very familiar with this territory.",0,8,2017-03-05,ECOM,0.02123543620109558,0.9135153889656067,0.06524919718503952
+ecommerce,Stolen product pictures,"So, a company/website registered in the UK has straight up stolen our product photos and descriptions and listed our products on their website. We're in the US. What options do we have?
+
+US: [bombdiggybath.com](http://bombdiggybath.com/)
+
+THEM: [bathingbeauties.co.uk](http://bathingbeauties.co.uk/)
+
+Edit: Fixed links.",15,7,2017-03-05,ECOM,0.08448462188243866,0.8964029550552368,0.0191123578697443
+ecommerce,Best way to learn to edit my shopify sites?,"I just made my first shopify site and plan on making more in the future. I have always been very savvy when it comes to computers, but have no coding experience at all. I have been messing around with editing some shopify themes and I have taught myself how to edit some basic things like product image size on mobile, and simple stuff like that. But I want to be able to learn how to code simple things without having to ask for help or hiring somebody to do it for me. What is the best way to go about learning this without any prior experience? I dont need to do anything major, just edit existing shopify themes. For example I want to make the logo at the top smaller, and make the slideshow bigger when using a mobile device. I just hate having to use trial and error, or hire someone whenever I want to make a simple change.",5,7,2017-03-05,ECOM,0.043563954532146454,0.9281730651855469,0.028262954205274582
+ecommerce,A definitive guide on how to use Pinterest as a new hunting ground for leads,[removed],0,6,2017-03-05,ECOM,0.02058587223291397,0.923128604888916,0.0562855564057827
+woocommerce,Am I an idiot? (don't answer that) - how do I send tracking #s?,"I could have sworn this was a simple thing - 
+
+it's two questions
+1 - how do I send tracking #s once the order is shipped.
+2 - how can I have a user only have access to specific categories - and be able to add tracking #s ?",3,6,2017-03-05,ECOM,0.024805307388305664,0.9427531361579895,0.032441604882478714
+ecommerce,When do I worry about legal stuff?,"I am only 17 years old and have always wanted to launch some sort of dropshipping business using Shopify, but I cannot find a clear answer as to when/if I need to worry about legal things to get started. I live in the US and just want to know what it would take for me, a minor, to get started. I have read numerous articles on how people find an idea or a product and get it into a website, but I can't find anything about people getting through the legal parts of owning an online business. Any help here would be appreciated, thank you.",5,4,2017-03-05,ECOM,0.030010810121893883,0.9273861050605774,0.04260304197669029
+woocommerce,Remove_action not working on price? Help!,"Im trying to move my price to a different area, adding it to the new area works, but remove_action isnt removing the original so the price is showing twice.",6,3,2017-03-05,ECOM,0.10933760553598404,0.8613764643669128,0.029285931959748268
+dropship,Using your own affiliate link to drop ship on AliExpress,"Scenario: Somebody creates a website that does not link the direct AliExpress product/website using the API, but has instead manually listed the products on their site. When an order is placed, can the owner of this website use their own affiliate link and place the order on their own AliExpress account and STILL collect the 8% commission? Or is this against the rules of AliExpress.
+
+Let me know if this is not clear.",4,2,2017-03-05,ECOM,0.036781195551157,0.9428813457489014,0.020337499678134918
+dropship,Any good dropshipping channels on YouTube that isn't a scam/shady business?,"Honestly I've had it with guys like dan dasilva and Chris records promising 35k in 12 days or 1 month if you buy their course and all that bs...they are decent to get general info and the basics but apart from that most of their videos are fluff teaching the same thing again and again...
+
+I recently discovered Till boadella and been pretty happy with his stuff..even though he makes unrealistic claims his videos are generally to the point and filled with a lot more information
+
+Any other guys you can recommend? Bonus points if he doesn't say I can make 35k with his course",8,2,2017-03-05,ECOM,0.023793306201696396,0.9287462830543518,0.04746043309569359
+ecommerce,Feedback on retail site (Dropshipping),[deleted],5,2,2017-03-05,ECOM,0.8879519104957581,0.09600909054279327,0.016038918867707253
+shopify,Free Shipping Has Become the Norm,"Online retailing continuously becomes more competitive for sellers.  This doesn't mean online retailing is less profitable than any other market place.  What it does mean that (1) You have to evolve your business model and, (2) you cannot ignore reality.
+
+Reasons for offering free shipping:
+ - Makes you appear as competitive if not more so than your competitors
+ - Huge selling call to action improving overall customer experience
+ - For online retailing free shipping is becoming if not already a virtual requirement.
+
+Why is that most people don't understand how to modify their pricing to offer free shipping?  I am not suggesting simply to just not charge shipping costs.  Just assume its now a cost of doing business and that rather than irritating customers with an almost after thought of additional shipping costs at the checkout page which just reduces the overall customer service.
+
+The solution is to modify your product pricing accordingly taking into account:
+ - Gross Margins on Sales
+ - Average Product Order Value
+ - Average # of Products per Order
+ - Method of Shipping
+
+Consider the above if you have low conversion rates or an abandoned cart issue.",16,8,2017-03-06,ECOM,0.03648030385375023,0.8698100447654724,0.09370963275432587
+shopify,How do Australians have themselves set up in Shopify for shipping?,"Hi, I'm just setting up my store and loving it but have become confused about setting up the shipping area.  
+
+Previously I ran a Wordpress e-commerce site and the shipping was very simple and free (as in there was no cost for apps to do it).  I used Australia Post and all I did in the shipping settings was select that I was using them as my carrier and it figured out my rates for each item (which individually had weight and dimensions set).
+
+Shopify is a massively huge improvement and upgrade from Wordpress but as I said I am confused by the shipping area.  As there does not seem to be any simple way to set it up with shipping.  It looks like if I was in the USA they do have this done the US postal service, FedEx and UPS through shopify shipping but nine of those are of use to me.
+
+I did read up on the area of setting up manual shipping but I'm wondering if there is a more simple plug in way to go.
+
+I looked in the App Store and there seems to be several apps costing $10 a month or more that work with Australia Post but it is not clear what they do or if they will do what I need which is to calculate shipping rates on people's orders.  Ideally it be cool if such an app handled the scheduling of pickups, ordering up postal supplies, tracking, etc.
+
+I have to say that the idea of paying a monthly fee of $10 or higher just to get shipping quotes calculated which I used to get for free is really not something I want to do.
+
+Lastly what is everyone using as from my research there seems to be three main options.
+
+1. Australia Post - has their own supplies, ships internationally, does pickups, web interface a bit lacking in features, 
+
+2. Pack and Send - has their own supplies, ships internationally,  does pickups, web interface a bit clunky, does pick and pack, really geared towards business, great support &amp; service.
+
+3. Sendle - no supplies, does not ship internationally, does pickups, web interface is super slick &amp; integrates with Xero, has a Shopify app coming out, great support &amp; service.",6,6,2017-03-06,ECOM,0.02365264669060707,0.9358676075935364,0.040479809045791626
+ecommerce,Better Cart Scenario?,"On the cart page, is it better to try and upsell to customers underneath the cart section with a row of other products or go the less distracting route of adding nothing to upsell underneath to just have them complete the sale? Has anyone found one to work better? I plan to try both but wanted other people's opinions on this matter too.",9,4,2017-03-06,ECOM,0.02717200107872486,0.8985345363616943,0.07429345697164536
+dropship,Copyright Concerns,"I looking into drop shipping product options on aliexpress and I'm seeing a lot of products (hats, shirts, stickers, etc.) that feature pop culture characters such as spongebob, spiderman, adventure time. Are there any issues in regards to copyright infringement or am I in the clear since I'm not manufacturing these products? To take it a step further, what about products that feature original artwork that may be less recognizable but were still drawn/designed by someone?",10,3,2017-03-06,ECOM,0.2951478064060211,0.6828283667564392,0.022023793309926987
+woocommerce,Translation WooCommerce,"Hey there, so i have a little problem concerning WooCommerce. I want to use it for a german website, nearly everything is translated but things like the checkout menu or the card are still in english. I checked the .po and .mo files and everything should be translated correctly. How can i get the translated versions of the checkout menu and the card?
+thanks in advance :)",4,3,2017-03-06,ECOM,0.025850847363471985,0.9265308380126953,0.04761837422847748
+woocommerce,WooCommerce Api slow,"Why is the woocommerce api so damn slow?
+Tested the api on many servers with different setups. Unfortunately if you want to import new product or just get all orders it is incredible slow. Tested the current v1 and the v3.
+
+Is there a way to fix this or are there plans on improving the api performance?",0,3,2017-03-06,ECOM,0.017158830538392067,0.7230361700057983,0.25980493426322937
+ecommerce,Homepage feed back,"Greetings ladies and gents. I've posted previously looking for feed back on my site. I received positive feedback. I now am faced with an issue I'd like to see if someone may have a soultution. I am getting decent traffic however, aside from not converting, people really are just checking out the hone page and leaving. I was thinking about creating some sort of quick demo video in order to better show case the product and it's abilities. www.totumbox.com thanks in advance for any help and guidance!",3,3,2017-03-06,ECOM,0.013756822794675827,0.7846965789794922,0.2015465795993805
+ecommerce,How can I improve my site?,"https://www.flicksixphotography.com
+
+I've run Free + Shipping offers which were successful as they generated sales, but margins were way too low and ultimately, I'm still in the red. I've recently launched some more ads, but this time for products that will net me much larger margins (but as a result, sales have slowed). All of my traffic is from Facebook.
+
+I know this isn't a get rich quick scheme, and I'm definitely in this for the long run. However, it is sometimes hard to tell if the low sales are a result of the site or the ads. According to Google Analytics, my bounce rate for the last 30 days is 59%, but for the last 7 days 85%, which seems ridiculously high. The funnel is pretty much:
+
+FB ad with picture of product and (I'd think) decent ad copy --&gt; product page --&gt; upsell if added to cart --&gt; cart page --&gt; checkout 
+
+With that being said, is there anything on the site that immediately sticks out that would possibly limit my purchases?",4,3,2017-03-06,ECOM,0.2108093947172165,0.7604405283927917,0.028750067576766014
+ecommerce,Need help adding personal touch to deliveries,"Hey guys,
+
+Recently started an online store selling dog grooming products for show dogs, shampoo conditioners brushes etc. now i want to add something personal to the delivery in the box, maybe little handwritten note or something nice, makes them feel 'special'. Any ideas on what i can do to add that special personal touch? Don't want to give them treats as alot of people are very fussy giving their pets consumables from an unknown source. 
+
+Any feedback would be great!
+
+Thanks",4,2,2017-03-06,ECOM,0.011763490736484528,0.8309233784675598,0.15731313824653625
+ecommerce,Cs Cart question,I hope one of you can help. I'm developing a multi vendor CS cart site. Am I able to only allow vendors to list products from a set database? Or even require approval before listing?,0,2,2017-03-06,ECOM,0.007410746533423662,0.6224711537361145,0.3701181411743164
+ecommerce,"You can use your eCommerce platform and 3 additional tools (apps, software, online tools etc) to make your store profitable. What are they and why?","As the title says.  
+
+Doing a bit of research for an upcoming blog.  Thought I'd put the question to reddit before I go researching elsewhere.",3,18,2017-03-07,ECOM,0.03398158773779869,0.92584627866745,0.04017217084765434
+ecommerce,Instagram Apps for Shopify stores,[removed],0,7,2017-03-07,ECOM,0.05085988715291023,0.927715003490448,0.021425077691674232
+ecommerce,Looking for feedback on my newly launched site,"Any feedback will help, wether it's negative or positive. 
+Also if anyone has any suggestions for more traffic through my site that would be amazing! 
+
+https://mytrendytoddler.com/",5,6,2017-03-07,ECOM,0.20071563124656677,0.630293071269989,0.1689913123846054
+ecommerce,"Shopify store owners, do you A/B test your landing page ? If you do what are the apps you recommend.","Been running my store for 3 months, It was just plain basic set up and currently I'm still trying to improve the site so that it could convert better. There are different images, copy writings and pricing of the products I want to test out.
+ 
+Is there any app that you have used and recommend ?",12,6,2017-03-07,ECOM,0.016880586743354797,0.899899959564209,0.08321952074766159
+ecommerce,How to get cheaper shipping?!,"So after some A/B testing we noted we get about a 21% increase in conversion rates when we advertise as 'Free Shipping over X amount'. Now that we are going to usethis strategy, anyone have any ideas on the best way to reduce our shipping costs?
+
+Our items are just normal box shapes in 4 sizes. 3x3x3 inch box, 5x5x5 inch box, 8x8x8 and 13x13x11. The weight is less than a pound for the first two and then 1 and 2 lbs respectively.
+
+If I look up UPS rates, it's about 38$ for 2/3 day shipping. Fedex is about the same. Even if we went with a contract with UPS/Fedex, I can't imagine they can compete with 2 day prices from USPS.
+
+I'd love to hear other peoples inputs here!",9,5,2017-03-07,ECOM,0.016777049750089645,0.9076501727104187,0.07557278126478195
+ecommerce,Any success with Facebook Shop Section?,"They rolled this out recently: https://www.facebook.com/business/help/846547442125798  
+Has anyone tried it? Any good? Do you think it can replace/beat traditional e-commerce sites?",6,5,2017-03-07,ECOM,0.02110416255891323,0.8672177791595459,0.11167804896831512
+ecommerce,What's your coupon code sweet spot?,"Make the coupon too large, you lose money. Make it too small, not enough people use it. 
+
+Naturally, this varies depending on the type of product (physical vs digital download) as well as the industry. 
+
+So what works for you? In what industry?",3,5,2017-03-07,ECOM,0.03350570797920227,0.9393790364265442,0.027115175500512123
+ecommerce,Trade show question,"Are there any good tradeshows for ecommerce?  I am launching a new product for ecommerce vendors and would like to attend some.
+
+I hear IRCE is good.  Any others?
+
+
+Thanks in advance.",2,4,2017-03-07,ECOM,0.011528036557137966,0.7958781123161316,0.1925937831401825
+ecommerce,"Non-refundable payment gateways (or at the very least, companies which heavily favor the seller).",[deleted],5,3,2017-03-07,ECOM,0.030103089287877083,0.9154635667800903,0.05443333834409714
+ecommerce,I Learning how to build my skills at e-commerce design/development and digital marketing. How did you it?,"Hi guys, I’m learning how to build my skills at e-commerce design/development and digital marketing to help brands tell their story and boost sales. Anyone here who has accomplished it who wants to share their story? any tips, resources, tools, how to get first customers without much experience...  would also be appreciated. Thank you guys.",15,3,2017-03-07,ECOM,0.01601320132613182,0.8968999981880188,0.0870867520570755
+ecommerce,Are you satisfied with the current conversion rate of your eCommerce store?,Most of the time eCommerce owners are concentrated on the traffic instead of conversion rate.I'm thinking to start a thread with basic optimization practices along with case studies.,23,15,2017-03-08,ECOM,0.02772672101855278,0.9393905997276306,0.032882630825042725
+ecommerce,Feedback desired for our Shopify store!,"Hi /ecommerce! 
+
+My business partner and I are the sellers of VagMagic, a homeopathic remedy for common vaginal irritations: 
+
+www.vagmagic.com
+
+Here's our issue: While we're selling a TON of product, wholesale, to women's subscription boxes and have gotten lots of positive feedback, we haven't made that first actual retail sale yet on the site. Our site views are slowly creeping up into the 20-30 unique hits per day range, which we know is low; we expect that the hundreds of women who will receive our product in their subscription boxes will help increase that. We're just a little concerned as to why people aren't buying on their own - especially since we've been offering promotional codes, reaching out to people, etc. 
+
+Our theory is that intimate/personal care products simply require more time/exposure to gain consumer trust, and that we'll earn this trust, plus the retail sales, once the subscription boxes go out and our product review on a major blog is published.
+
+How does the site/SEO/product look? Our bounce rate hovers around 14-19%, average time on the site is just under 2 minutes, if that helps put things into perspective. 
+
+Thank you so much!",12,6,2017-03-08,ECOM,0.023187628015875816,0.9188779592514038,0.05793442204594612
+shopify,Subreddit Improvements and Town Hall Meeting,"Tldr: Tell us what rules you want to see here for an updated sidebar
+
+It's no surprise to anyone that spam is out of hand. I try to be vigilant (actually set up a notification every time something posts) but I do work full-time and don't always get to see things as quickly as I'd like. I'll be the first to admit I've done a poor job moderating for you guys so I want to hear some input on how to fix things. (also feel free to recommend me a reddit app for android that actually sends me notifications properly).
+
+First things first, I want to open a conversation about rules. What kind of posts should we allow, and how they should be formatted/flaired for the ones that are allowed. I want to hear your opinions on what posts are Yay, and which ones Nay so the mods can start doing a better job keeping content that people want on here and removing that which we don't. 
+
+These new rules will go to a new sidebar, as well as new reporting features. Ideally I'd also like to look into implementing an Automod to help enforce these rules once we get them ironed out, as well as some fixed CSS with an actual submit post button....
+
+Once we have some direction in what is allowed here and what should be posted elsewhere, and get some organization to things, the sub will be a lot more approachable. Consider things like min karma for posts or whether content marketing posts should be removed or just flaired so we can make filters. 
+
+I'm posting this here so that the community can help shape things for the future and breathe some life back to this sub. Mods, shop owners, lurkers, please chime in with your 2 cents.",4,6,2017-03-08,ECOM,0.042559195309877396,0.9277397394180298,0.02970108576118946
+woocommerce,Is there a way to automatically create a shortlink for external products?,"My shop consists of affiliate/external products, which send you to a merchant site when you click Buy Now. Instead of just pasting my long affiliate link as the product url, I would like to have a shortlink automatically created. Is there a plugin that will do this?
+
+I'm trying to find something that is a similar process to how Bitly works - you paste in a link and it is automatically shortened. Is there anything out there that works like this for Woocommerce?",2,5,2017-03-08,ECOM,0.031156713142991066,0.9343498349189758,0.03449339047074318
+ecommerce,Best Product Page Format?,Does anyone have any good product page formatting tips that lead to sales?,7,5,2017-03-08,ECOM,0.016695041209459305,0.9095882177352905,0.07371681183576584
+ecommerce,"Started a new Face mask store, where should I advertise?",,2,3,2017-03-08,ECOM,0.013090013526380062,0.8959283232688904,0.09098166972398758
+ecommerce,Looking for Magento developer to refresh website,"I have a website built on Magento, I would like to add features such as a mobile version, multi-store function, structured data, etc.
+Can anyone recommend a company or individual developer who is well versed? The person who built it originally now works full time for a company and can't work on our site.
+Thank you!",3,3,2017-03-08,ECOM,0.01791367679834366,0.9238057732582092,0.058280590921640396
+ecommerce,Need help understanding backlinks and how to get good ones,"I am new to e-commerce and have a shopify store.  Working on SEO and am reading a lot about follow and no-follow backlinks.  Would love some advice about how to go about adding quality backlinks.  Trying to grow organically and have very little capital to spend, but can put in the time.",2,2,2017-03-08,ECOM,0.014432032592594624,0.8720292448997498,0.11353876441717148
+ecommerce,Looking for store feedback,"[vixrox.com](https://vixrox.com)
+
+My store is about a week old, I have been driving traffic slowly through pay per click ads and social media.  Looking for any feedback.  I'm looking to diversify products but was hoping to start with some t-shirts I designed.",5,2,2017-03-08,ECOM,0.02378995344042778,0.934655487537384,0.04155448451638222
+dropship,Sourcing from China and customs issues,"Hi guys,
+
+I""m watching a course on dropshipping right now, that says we should source only from suppliers located in the country we want to sell, otherwise we have to deal with customs.
+
+So I'm in France right now, If I sell on the French market, and import from China, won't some of my customers have to pay customs fees?  
+
+And thus, be pretty pissed off, since those fees can be really high
+
+How can people source from Aliexpress and sell in the whole world without having this customs issue?  I don't see many people talk about this",4,2,2017-03-08,ECOM,0.03515692055225372,0.9175390601158142,0.047304000705480576
+ecommerce,Users of Shopify: Do you regret going with them?,"Considering I would rather a hands free approach on my online store, Shopify seems to be the best bet. Before I go with it wanted to get your feed back first. 
+
+Did you end up paying more than you thought you would? Do you feel limited on what you can do? Do you wish you went with another platform and who?",17,8,2017-03-09,ECOM,0.07569442689418793,0.8436057567596436,0.08069980889558792
+ecommerce,How do you use landing page to grow your online business?,I just wanna know what campaign you ran on the landing page. Can you elaborate?,0,7,2017-03-09,ECOM,0.0332198292016983,0.9376341104507446,0.029146108776330948
+ecommerce,"Wholesaler has no available CSV or anything it seems. HUGE timesink adding products, solutions? Drop this supplier?","I would love to be able to add a good 50 or so items to one of my categories in my store. BUT THERE IS NOTHING. I have to manually grab image, price, sku, everything. It is a huge timesink and that is not even going so far as to mention that there is no way for me to keep up with their current stock levels or if they even discontinue selling the items!
+
+The reason I haven't just straight up abandoned ship is because the prices are really decent AND it's a US based distributor. I am thinking they just grab stuff off Ali in this niche and store it in their own warehouse and offer dropshipping/maybe do amazon themselves. However, they do solve my problem of having products in my niche domestically, allowing me to offer free UPS ground(reasonable shipping times) and still make some net gain for marketing and my time. So if at all possible Id like to figure something out to keep them on my partnered list. 
+
+I was looking at using visual web ripper to grab the data off their site, but web ripping and scraping is a whole different ball game, not to mention just learning my way around the software - and it only has a 2 week trial, meaning I will never learn the in and outs in time before I would need to drop $250 for the software, that is complex, that I'd have to learn to use, that may not even work well. 
+
+Is there anything else? I've been mulling it over for a couple days now and searching around google for any other ideas, but I'm not seeing anything.
+ 
+It's either
+A) manually add TONS of products taking a lot of time
+B) Purchase a web scraping software that can probably export a nice CSV sheet for me to drop into shopify, maybe
+c) Drop this supplier ASAP
+
+Am I missing any other options?",6,7,2017-03-09,ECOM,0.03597380965948105,0.9269160628318787,0.0371101051568985
+ecommerce,Please critique my website/brand,[deleted],12,6,2017-03-09,ECOM,0.02518530935049057,0.9391744136810303,0.03564029932022095
+ecommerce,[Feedback] Eco-friendly Home Decor Critique,"Please provide your honest feedback about our website. [Upper Earth](https://upperearth.com)
+What is your first impression? What can we do better? We have been around about 6 months now averaging 1 sale/week. With about 40 users/day. Thanks in advance. :)",5,4,2017-03-09,ECOM,0.02202063612639904,0.9038035869598389,0.07417576760053635
+ecommerce,What shipping methods and price terms do drop shippers use?,"What prices terms: FOB,CIF,FAC,EXM etc.
+
+What shipping methods:sea/air/express delivery (DHL, UPS, FedEx, TNT EMS, etc.)",1,4,2017-03-09,ECOM,0.06742815673351288,0.9112468957901001,0.021324964240193367
+shopify,"(xpost from /r/ecommerce) Made $5000 my first month and a half. Started on big cartel now on shopify. Thriftfitted.com is my site, let me know if you have questions!",,0,4,2017-03-09,ECOM,0.03162642568349838,0.932508647441864,0.03586496785283089
+woocommerce,"[help] Trying to list products as Men, Women and Store","Hey guys I'm stuck on this for weeks :(
+
+1. Men: Contains all the products related to men.
+2. Women: Contains all the products related to women.
+3. Brand: Contains all the brands, which leads to products both men and women.
+
+
+as you can see this isnt a clear hierarchy. I'm thinking about way how we can do this?",3,3,2017-03-09,ECOM,0.09821857511997223,0.873637855052948,0.028143569827079773
+ecommerce,Need help deciding on the online store platform,[deleted],5,3,2017-03-09,ECOM,0.015545076690614223,0.8795625567436218,0.10489235073328018
+woocommerce,"Anyone else encountered the ""there are no shipping methods available"" problem?","Hello! I am proud of every hardworking e-commerce site developer here! Great job, and keep up your work!
+
+Has any of you encountered this problem? I have the shipping zones set up with the following settings:
+
+* Rest of the World -- No shipping methods offered to this zone.
+
+* Specific City -- Flat Rate Boxes (https://docs.woocommerce.com/document/flat-rate-box-shipping/)
+
+But, when I test it out to purchase in the city specified, it displays **""There are no shipping methods available. Please double check your address, or contact us if you need any help.""**
+
+I feel it's just a bug, and that the solution is easier than expected. But I'm still clueless. I've tried changing settings for selling to specific countries, but it didn't work. I would really appreciate your advice. Thanks for the time!",9,2,2017-03-09,ECOM,0.023988276720046997,0.8950502872467041,0.08096149563789368
+shopify,I think that's super crappy I have to upgrade from the $29 to $79 version of Shopify just to use a shipping app.,"I'm just starting out, moving my business from Wordpress to Shopify, super low on funds, really hurting is more like it and trying to do everything on the cheap or as low cost as possible till I start making money.  I fully planned on upgrading to the $79 version when (hopefully) my shop starts making money with the switch to Shopify,
+
+Wordpress sucked hard in so many ways and Shopify is so much better but one big thing was that on Wordpress all my shipping set up, the calculations, connection with my local post office, everything was totally built in and free (or a free app).
+
+I'm just wanting to test out Shopify, test out shipping, get it working for me with spending as little money as I have left and I find it super crummy that after paying for the $29 version I am told I have to upgrade if I want to pay to use my shipper.  Seriously?",21,7,2017-03-10,ECOM,0.02204906940460205,0.9272184371948242,0.05073251202702522
+ecommerce,Teach me about inventory management software options (xpost from entrepreneur),"Hi folks,
+I've been selling online for years and have always managed inventory manually. The startup that I work for is in the same boat, we just match up delivery quantities with POs and try to manually update our amazon/ebay/volusion numbers weekly. Business has ramped up immensely over the last 6 months and we need to fix this system now.   
+
+I'm in charge of implementing this new process. I don't know what to look for. There are so many options out there, but I don't have experience with any of these programs so I don't know how to compare features and plans other than price. That's another thing, holy shit are they expensive. Is there anything of value under $100/month?
+
+What I think I want:  
+-Integration with Quickbooks, Volusion, Shopify, Amazon and eBay  
+-Real-time inventory dashboard  
+-Enter inbound and outbound shipments (easily enter POs and such, or maybe that part goes in QB?)  
+-Can handle 150 skus  
+-Appropriate for $1m/yr revenue business
+
+I'm not sure where quickbooks ends and this software begins. So apologies if I'm mixing up functions.  
+
+What else should I be looking for? What do I need to know? Are there different categories of software? What other questions should I be asking? Thanks guys!",5,7,2017-03-10,ECOM,0.02872657962143421,0.9366747736930847,0.03459864854812622
+ecommerce,Feedback on Shopify Store,"Alright I just got finish editing my Shopify store and want some honest feedback. This is my first store and I don't plan on using this store a ton. Just want it to be functional and attractive enough for people to purchase an item or so. I plan on using this store's format for other sites in the future, keeping the same layout and just changing the images and products. Any feedback would be great, and also when leaving feedback let me know if you were on desktop or mobile. Thanks guys. [SkyscraperToys.com](https://skyscrapertoys.com)",9,7,2017-03-10,ECOM,0.025166690349578857,0.9158303141593933,0.059003014117479324
+ecommerce,"Scraping product data, recommendations?","Looking to for a reputable scraper that will be able to take links and return info in CSV for product data. Title/bullet points/description ect..
+
+Some of the sites would be Amazon, Walmart, Kohls ect...
+
+Anyone recommend a pay-by-link scraper that would get this done?",7,5,2017-03-10,ECOM,0.020083973184227943,0.9104995131492615,0.06941648572683334
+ecommerce,What platform are you using for your ecommerce store?,"Shopify vs self hosting? 
+Hiring a dev or creating your own site?
+
+Looking for cons and pros and past experiences.",14,5,2017-03-10,ECOM,0.027038658037781715,0.9180592894554138,0.05490201711654663
+ecommerce,Dealing with a bogus chargeback,"I had my first ever chargeback a few months ago. A customer reported that the charge was not authorized.
+
+I called her and emailed her and she told me it was mistake and she would correct it. She did not and now the card issuer says the matter is closed and there is nothing I can do.
+
+I'm not happy about this and I'm not just willing to let it slide. I am being defrauded.
+
+I have emails from her plus the courier confirmation. 
+
+My dilemma - initiate criminal charges or civil action? I'm concerned that this is not her first time doing this and I would like to avoid other merchants from.getting burned.
+
+The amount is not much. $100 plus $25 for the chargeback fee.
+
+Any suggestions?",7,5,2017-03-10,ECOM,0.07988997548818588,0.8824536800384521,0.037656400352716446
+ecommerce,"eBay Pro's... How can someone have over 200,000 items listed?","To elaborate, most of the items do not have any sales yet are ""Buy It Now"". With a $0.30 listing fee, or similar, how can any one have that many listings?",7,4,2017-03-10,ECOM,0.030164148658514023,0.9350466132164001,0.03478921949863434
+ecommerce,Brick &amp; Mortar business looking to farm out online site,"My family runs a retail business selling stuff at comic book, anime and gaming conventions.  We do very well at the shows (primarily in the Northeast with our biggest show being NY Comic Con at over 180,000 attendees).  We created a website cos we felt we needed one but it does not do well.  None of us know anything about ecommerce or social media or anything like that.
+
+What I'm thinking now is to let someone else take over the website and run the online business end of things.  We already pay the hosting and domain fees plus we pay for the merchandise and shipping.  We take pictures at the shows of the people dressed in costume so can contribute content for social media like Facebook and Instagram.
+
+I see people always looking for drop shipping opportunities, so I guess this would be one as we would take care of shipping orders.",7,3,2017-03-10,ECOM,0.04111592099070549,0.9298439025878906,0.029040196910500526
+dropship,Starting out...,"I've been lurking, but still nervous to start up a shop. 
+
+I'm still somewhat confused on how Shopify works. You do everything through them (payment, website, items)? Do you just click items and add them to your shop, or how does that work? Hopefully I'm not thinking to naivly. Hahah.
+
+Also, is shopify the easiest to use/best for a beginner? I've heard you generally only make about 5%, and seen people rag on that, that it's to little. I will be traveling full time soon, and I would just (eventually) like to be able to fund myself through my drop shipping site, I don't NEED to make xxx,xxx. Not that I won't work hard, and lots of money would be nice, but I'm ok either way. 
+
+TIA.",8,2,2017-03-10,ECOM,0.039248012006282806,0.8978263735771179,0.06292562931776047
+ecommerce,UPS Mail Innovations instead of USPS First Class Mail?,"Been trying to get into Mail Innovations for over a year. Sell mostly 5 x 5 x 5 poly bags 8 ounces each. 
+
+Anyone know how good the rates are with UPS? I've heard they are below USPS first class.",4,2,2017-03-10,ECOM,0.017789749428629875,0.9106371998786926,0.07157301157712936
+ecommerce,"£20,000 in sales since October 2016 but a rubbish conversion rate... Just relaunched my new website","Hello, I opened my eCommerce store the start of October selling just Watches &amp; Jewellery and I have done around 20k in sales, mostly through Instagram and a little ad-words... long story short my original website wasn't very good (at least I didn't think so), the % of customers that actually purchased from my website after adding somthing to the cart was 0.90%. I've now expanded into the clothing and footwear area and along with this I have had the website redesigned, I have tried to make it as user friendly and conversion optimized as possible, from implement bigger call to action buttons on the products, to providing as much relevant information from product descriptions to delivery information as I can. It would be great if you guys could take a quick look and give me some advice for areas of improvement? Also on a side note, 89% of vistors to my website come through a mobiel device.",7,8,2017-03-11,ECOM,0.015405908226966858,0.9155256152153015,0.06906842440366745
+ecommerce,Best forum for Ecommerce?,"The only Ecommerce forum that I've used is this one, are there any larger forums on different sites that people recommend for Ecommerce discussions?",11,5,2017-03-11,ECOM,0.03769500181078911,0.9380402565002441,0.02426477149128914
+ecommerce,tracking ebay historical data. How?,"Hello, 
+I am doing research on a niche of products for a article and I would like to track sales data for a specific set of keywords. As far back as possible (years) Terapeak only lets me go as far as 90 days. Any other solutions I can look into? Thanks,",1,4,2017-03-11,ECOM,0.02404029667377472,0.9103477001190186,0.06561204046010971
+shopify,How to I create a header menu that follows as you scroll? (example inside),"https://www.hippytree.com/
+
+If you scroll the menu follows you and the logo get minimized.
+I want a heading just like this for my store and would love to know how :)
+
+Thanks",7,4,2017-03-11,ECOM,0.03127431496977806,0.9225320816040039,0.04619360342621803
+ecommerce,How do I best monetize an educational resource?,"I’ve played an instrument for quite a long time now, and I’ve gotten pretty good at a certain technique. I have put together a bunch of lessons and exercises to help people improve at this particular way of playing this instrument, and would like to publish these in order to create a semi-passive source of income. I’m mainly doing this for the sense of accomplishment, but I would also like to maximize the amount of money I can earn from publishing this resource.
+
+The way I see it, I have a couple of different options, and would like to hear your experiences and/or thoughts on what the best approach might be.
+
+Currently, I’m thinking the best way to publish and monetize this idea is to start a blog that I’ll update regularly with new exercises. From what I’ve read, maintaining a steady stream of updates will help me reach a high ranking on Google, which I think is quite possible in this niche. As a complement to the blog posts, I’m thinking of embedding YouTube videos of the exercises to demonstrate how they should be played, and how they should sound. This would allow my content to be found both via Google and YouTube searches, while also giving me the option to place ads on the blog itself, and the videos as well. I’m also thinking Patreon could be an interesting option to look into with this approach, as well as affiliate marketing.
+
+Another option would be to publish an e-book, and sell it for a couple of dollars. This way I could build a mailing list, which I understand can be useful for marketing and doing additional sales to a customer base that has proven to be interested in what I am selling. However, it might be difficult to demonstrate the exercises via YouTube without giving away the exercises for free, and not using YouTube robs me of a great way of letting people find my content. I’m also thinking that purchasing an e-book is a one-time thing, whereas making all content available for free would allow for returning customers, and in turn, recurring income. Of course, it is possible for me to put together additional e-books and market these to people on my mailing list, but I think I would prefer to publish smaller updates more often, rather than publishing a whole e-book once a year.
+
+I would love to hear your thoughts on this! Thank you for reading!",5,4,2017-03-11,ECOM,0.02285102754831314,0.9302875995635986,0.04686135798692703
+ecommerce,I would like to sell imported things from Alibaba,I am looking to import things from china and selling on amazon. Do you have any advice for the margins I should be aiming for if I were to sell consumer electronics. How much would it cost for Amazon to send my products and is there a way to find out how much they'll charge me,4,3,2017-03-11,ECOM,0.053163617849349976,0.9098849892616272,0.0369514524936676
+shopify,Google analytics best practices in shopify,[deleted],6,3,2017-03-11,ECOM,0.022464469075202942,0.9348440170288086,0.04269148409366608
+ecommerce,Am I at risk of getting scammed? (Venmo),"If i sell something and accept a payment via Venmo, and wait for the funds to go to my bank, Is there any chance the person can pull the funds back, charging my bank account the initial amount?",6,2,2017-03-11,ECOM,0.04911680519580841,0.9227914214134216,0.028091713786125183
+dropship,How do you find products that blew up on social media ?,I am using http://buzzsumo.com and as it's not always that easy to find a usable product i am curious what you folks use.,3,2,2017-03-11,ECOM,0.022482827305793762,0.9312085509300232,0.046308599412441254
+ecommerce,"Question, Don't know how to properly explain for a title","Hello, Im a complete noob to webdesign/ website development but my question is very simple.
+Example: Lets say my website is blabla.com.
+When someone types blabla.com I would want them to see this: http://imgur.com/a/c4WWb    With a picture above the text.
+
+Now, obviously i want the buttons to be properly working and to redirect them to the actual places which would be a store on shopify.
+
+Im very confused as to how I would go about doing that. I haven't bought a domain or nothing yet. Im confused since shopify and Wix won't let me control 100% of the website.
+Thank you.",4,2,2017-03-11,ECOM,0.0431172177195549,0.926941990852356,0.02994081936776638
+ecommerce,Having the same or similar promo as a competitor. Good or bad business?,"I was having a discussion with my wife and she doesn't think that it is a great idea.  I disagreed with her stating that it was good business.
+
+Ultimately a competitor of mine (one of the leaders I guess you can say) has a razor and blades bundle titled as something along the lines of ""Shave for $1.50 a month"".  I thought - great idea!. So I bundled a package that works out to $1.25. 
+
+Bad business or smart business?
+
+Looking for honesty, don't worry about hurting my feelings (not that many people on Reddit are really concerned about my feelins :)",5,7,2017-03-12,ECOM,0.036157477647066116,0.896304726600647,0.06753786653280258
+ecommerce,"Shopify partner program, have you used it and did it help to you to serve your client's?","Did you get free themes and apps, what other benefits did you receive?",2,7,2017-03-12,ECOM,0.009693303145468235,0.8545337915420532,0.13577286899089813
+ecommerce,Advice on re-selling movie posters/ artwork online,"Hi there! I've been thinking recently about starting an online store where I sell fan made posters and artwork from movies. I would use Shopify's platform to host and design the site and a service like Printful to make the physical product, however what I'm not sure about is how I would go about finding the artwork to sell. My initial thinking was to approach artists whose work I'd like to sell and offer them a % of each sale, but where the best place to look or how to go about doing this is a little lost on me. Any advice about this sort of business model would be great. Thank you!",5,5,2017-03-12,ECOM,0.013776196166872978,0.8953500390052795,0.09087370336055756
+ecommerce,Tool for finding copied content,"We are investing in getting custom product copy written but i've found a few of our competitors have started stealing it.
+
+Is there a tool available that can help find when someone copies our content?",4,4,2017-03-12,ECOM,0.09819810092449188,0.8663495779037476,0.03545236587524414
+ecommerce,Need feedback for my photos from my jewelry store,[deleted],1,3,2017-03-12,ECOM,0.05876351147890091,0.9047682881355286,0.03646821901202202
+dropship,Drop shipping chic`?,"Hey Reddit, I'm looking to open up a store soon. I am actually a Instagram model with a high following &amp; instead of just focusing on one niche like all of the book recommend, I wanted to know if I could open up my store to be an Asian/Korean inspired fashion/beauty/art store. In a way that's a niche itself. I'm also a fashion student and Korea is influencing our fashion/makeup &amp; even plastic surgery here in America. I feel it would be highly profitable especially if my followers knew it was my store. Also the market &amp; target audience is everywhere for Korean things here in the Us. Is this a newbie idea that will not be profitable? Should I really just find one niche &amp; sell that or is can i run a drop shipping business as a fashion boutique, with multiple items that I know are very hot.  I will have other things mixed in such as vintage art, nature related things and 'hippie new age' things. 
+
+
+**Note. it is my goal to make 10k a month eventually. Will this method keep me from that? I read something that said you should not make a store with things your interested in or passionate about. I am 19 &amp; very open minded, I would love any advice/tips/amswers/",5,2,2017-03-12,ECOM,0.016539007425308228,0.917683482170105,0.06577752530574799
+shopify,"I found a theme I like, how do I setup a store now? I have to login??",,5,2,2017-03-12,ECOM,0.029498694464564323,0.9037923812866211,0.06670892238616943
+ecommerce,Need feedback for shopify store,"Me and a friend decided to try and see if we could do e-commerce. We haven't done anything like this before so it's a slow start.  
+
+ Some things i know i need to change are Descriptions on products and get more products.  
+Right now im just Dropshipping from aliexpress but would love to find something else which has lower shipping times.
+[Link](https://oceanicswag.com/)",3,2,2017-03-12,ECOM,0.029060304164886475,0.914596438407898,0.056343238800764084
+shopify,"Overview of the biggest Shopify Meetup in the Southern hemisphere - ""Growing your Shopify store in 2017""",,0,1,2017-03-12,ECOM,0.016070306301116943,0.8661425709724426,0.11778713762760162
+ecommerce,Your chance to get the cheapest Samsung Galaxy J5 in the UAE. https://www.emiratideals.com/samsung-galaxy-j5-dual-sim-3g-8gb-white-j500hd.html,[removed],0,1,2017-03-12,ECOM,0.0386003814637661,0.9041552543640137,0.05724436417222023
+ecommerce,How are you using SMS?,I'm curious to see how many people are using sms to help their business. I want to learn more about it after seeing that 97% of all texts are opened.,6,11,2017-03-13,ECOM,0.030161920934915543,0.9200147390365601,0.049823302775621414
+shopify,Intergrate Wordpress as Blog into my shopify store,"Hi,
+
+As you all know WP is great for blogging while Shopfiy not so much.
+
+I was wondering if i can integrate it into my store so I can blog with WP and ecomm with Shop
+
+Thank you",13,5,2017-03-13,ECOM,0.023679135367274284,0.9227207899093628,0.053600069135427475
+dropship,Creating agreements w/ vendors,"I am in the beginning stages of negotiating dropshipping deals with a couple US manufacturers. All of them are very small and this will be their first time dropshipping. Does anyone have suggestions/resources of good ways to set-up dropshipping contracts with them? Obviously I want the dropshipping terms to be favorable to me but also want to create a partnership that works. 
+
+Any suggestions are appreciated!",1,5,2017-03-13,ECOM,0.11813641339540482,0.853862464427948,0.02800109051167965
+ecommerce,"When does a seller's service ends? Only when the item reaches a buyer's doorstep, or when the item is in the hands of the courier?","Imagine a buyer and a seller makes the mistake of not getting shipping insurance. The item is lost mid-delivery by the courier.
+
+The buyer is angry and demands a refund since he didn't get the item. The seller is angry and refuses since it's the courier who lost the item. Unfortunately, the courier is free of liability due to seller/buyer not getting insurance or tracking.
+
+Having spoken to both parties, the buyer said: The seller's service only ends when the item reaches my doorstep.
+
+The seller said: My service ends when the item is safely in the hands of the courier.
+
+Who's correct here?",8,4,2017-03-13,ECOM,0.33138760924339294,0.6456171870231628,0.022995198145508766
+ecommerce,How can I get the most out of my customer?,How can I get the most sales out of my customer? Is there just email marketing?,6,4,2017-03-13,ECOM,0.03965785354375839,0.9301466941833496,0.03019547648727894
+ecommerce,Criticize my website please.,"I have no had online sales, only in-person ones. How should I change up my website to increase purchases? I market and currently sell to the biology field. Http://elegantepithelium.com",13,4,2017-03-13,ECOM,0.021402258425951004,0.9492400288581848,0.029357705265283585
+dropship,Ezusy | Import products from Aliexpress to Woocommerce,"Ezusy allows you to easily import products from AliExpress directly into your Wordpress Woocommerce store and ship directly to your customers – in only a few clicks.
+Have your orders shipped directly to your customers in just a few clicks;
+Know that your inventory and prices are always up to date.
+Try to use Ezusy in here: https://www.ezusy.com",10,3,2017-03-13,ECOM,0.0310192983597517,0.9399170875549316,0.02906353399157524
+shopify,I have an online store and I'm not selling,"I'm beyond frustrated started my online business in shopify and no sales zero nada. I get traffic but no one buys anything. I have a combination of women apparel, accessories, beauty products, shoes, handbags etc. I use drop ship. I need one that won't required monthly payments and great quality and fast shipping. Can someone help me",10,3,2017-03-13,ECOM,0.030612142756581306,0.918788731098175,0.05059919133782387
+ecommerce,Shipping options?,"Hi Reddit peeps. I am setting up my store and one thing I having the most trouble with is how I am going to receive large shipment boxes from different suppliers that are overseas. I work a regular 9-5 and far from where I live. I already have packages stolen from my house (no longer an option).
+
+I jus want to know your guys thoughts. I have also thought about shipping to work but it seems obvious that my boss knows im up to something.
+
+Thanks for reading!
+
+-Bee",5,3,2017-03-13,ECOM,0.028394363820552826,0.8991205096244812,0.07248520106077194
+woocommerce,Multi-Vendor site - Looking for plugin to send seperate invoices,"Hello and good morning, 
+
+I am currently working on an online shop for a customer of mine. And since she has two different companies, selling different products on the same shop I am currently looking for a plugin that enables me to automatically send multiple invoices (one for each vendors products) to the customer, with a list of the bought items of the corresponding category as well as price + tax + shipment cost and sums, and of course the necessary legal information.  
+
+Right now I am trying out WC Marketplace, which has a purchasable PDF invoice addon. Sadly their customer support seems unable to provide me with a demo site where I can test out its capabilities.  
+
+If anyone has experience with their addon or knows of some other multi-vendor plugin that offers these capabilities I'd be really grateful if you could help me out.  
+
+To sum up, I need a multi-vendor site with two categories (one for each company), where the customer can buy from each category, pays to one central PayPal account, which splits up the payment accordingly and receives two different invoices, containing only the corresponding items of their respective category, as well as any legal information, pertaining to the respective company / products.  
+
+Thanks for all and any replies.",1,3,2017-03-13,ECOM,0.05805506184697151,0.9090819358825684,0.032862987369298935
+ecommerce,What Percentage of Ecom/Shopify/Amazon Entrepreneurs Use Media Buying/Paid Traffic Mainly for Sales?,"I see alot of content online about ""content marketing"", ""branding"" and such when it comes to customer acquisition in the ecommerce space.
+
+What percentage of say 6 figure store owners use paid traffic.
+
+I want to know because when chatting with people, I often feel like people using SEO, Content Marketing and the like don't have to be as focused on the numbers as those of us who are investing actual dollars (vs. time) to grow our customer base.
+
+
+Any ideas here?",2,10,2017-03-14,ECOM,0.021096745505928993,0.9215719699859619,0.05733123794198036
+ecommerce,Two sites / same content - how to approach it?,"Essentially I would like to hear your thoughts on having two sites. I currently have a .net and just picked up the .ca for Canadian customers (I am in Canada).  I think that Canadians will respond much better to the .ca and it is currently my focus - to be honest I am debating just switching completely over to the .ca.
+
+Either way.  My plan is to redirect Canadian customers who land on my .net site to the .ca and vice versa. 
+
+Would love to hear your thoughts.",6,8,2017-03-14,ECOM,0.012594979256391525,0.8732287287712097,0.11417629569768906
+ecommerce,Google Docs on Shopify or alternative option - way for customers to update list.,I wanted to create a page where customers could add to a list. Its for a niche so I want to be a resource for the community so wanted some kind of option where they could update a google doc that is shared or update the list with my approval. Trying to think of the best way to create something like that. I could create the list and have a suggestion link or box but wanted to see if anyone had any other thoughts. Kind of like wikipedia.,1,6,2017-03-14,ECOM,0.02457117848098278,0.9368926286697388,0.03853617236018181
+ecommerce,Expanding into Canada,"So I have more and more Canadian customers requesting my products.  Anything I should know before shipping to Canada?  
+
+I currently run flat rate shipping which I know I would need to create a new shipping zone for Canada with a raise in shipping.  Does anyone else ship large heavy boxes to Canada?  What does your shipping up charge look like?
+
+My Standard boxes are 99""x7""x6"" ~30lbs and 25""x25""x7"" and 40lbs
+
+Any custom fees or taxes we are responsible for collecting on our end or does UPS handle that?",1,6,2017-03-14,ECOM,0.027293415740132332,0.9386873841285706,0.03401922062039375
+ecommerce,Looking for a constructive advice for my online store,"Hi everyone! I have come up with the idea of baby clothes at [MaMi Baby Clothes Shop](https://mamibabyclothes.com) and I would use some constructive comments about how my website looks, how the products look and everything else. I would also politely ask anyone who wanted to respond here to give my any piece of advice regarding building traffic and conversions on my online store. Thank you in advance.",4,6,2017-03-14,ECOM,0.029563210904598236,0.9274150133132935,0.0430217869579792
+ecommerce,Can I sell customer list?,"I used to have an e-commerce shop that sold on Amazon, newegg, and shopify. Someone contacted me and asked if they could buy my ""database"".  I asked them if they meant my product content or customer/order info. They have not gotten back to me yet.
+
+
+I have no problem selling the product content but I'm assuming that releasing the customer's emails, phone number and addresses is illegal, right?
+
+
+Thanks",5,6,2017-03-14,ECOM,0.22943523526191711,0.7465350031852722,0.024029778316617012
+shopify,Need Constructive criticism ! Australian gym website launch,"I just opened my shopify website and would love if anyone could give me some tips or honest feed back on how it looks , and maybe if you have anyone interested in my products they could see if the prices were affordable , www.rep-yourself.com
+Thank you",5,5,2017-03-14,ECOM,0.014033926650881767,0.8787044882774353,0.10726159065961838
+ecommerce,Please take a look at my website,"I do this part time and I seem to do 1 thing right and 2 things wrong. Please give me an idea why my conversion is soooo low.  [Mywebsite](http://www.plankeyewear.com)
+Thanks!",10,5,2017-03-14,ECOM,0.06124972924590111,0.9013918042182922,0.037358496338129044
+ecommerce,"One ecommerce site, 2 paypal accounts possible?","I had an interesting question come up, and now I'm curious - is this possible?
+
+Suppose you have a business called Sewing Bliss &amp; Co. It has two founders. One founder lives in NYC and creates baby clothing, the other founder lives in CA and creates quilts. But, they want their income to be organized into two separate streams - whenever a visitor purchases a baby item it goes into the NYC founder's PayPal account. And whenever a quilt is purchased it goes to the CA founder's PayPal account. Is this possible?
+
+I am a web developer (mostly Python/Django). I am curious how this would be implemented. Any insights?",11,5,2017-03-14,ECOM,0.03126128017902374,0.9411496520042419,0.027589131146669388
+woocommerce,Square Integration with WooCommerce,"So I've searched and read the threads regarding Square in this sub and from what it appears, the current integration allows you to use your Square POS system and it will send the details to your WooCommerce account and track it in your orders. 
+However, is there a way to integrate it the other way? IE as a payment gateway? 
+Perhaps as a replacement or to offer alongside Paypal?
+Customer is on my woo website and makes and order and selects to pay via Square as opposed to PayPal?",5,5,2017-03-14,ECOM,0.02223227545619011,0.9336245059967041,0.04414321854710579
+ecommerce,eCommerce blogs worth reading in 2017,[removed],3,22,2017-03-15,ECOM,0.03932073712348938,0.8525851964950562,0.10809408128261566
+ecommerce,Dealing with minimum order quantities as an e-commerce retailer,"As the title suggests, I'm an online retailer, and am reaching out to vendors to open accounts. I'm finding a lot of these wholesale programs require not only a MOQ (minimum order quantity) per item, but also a minimum order amount to the tune of 1k for the first order, and all subsequent orders. For others it's more like $500 minimum to start.
+I'm just starting out and would rather not buy that much inventory up front before any sales. The entire business model I want to run is drop shipping anyway, but finding drop shippers for the products I want to stock has been difficult (as expected.)
+Is there any way around MOQ? Anyone have experience with MOQ and it worked out?",13,7,2017-03-15,ECOM,0.0724329873919487,0.897437334060669,0.030129699036478996
+ecommerce,Need Advice(For Website),I am a jewelry dealer and I would like to open up my own website (actually I already have website with wix but didn't focus on this much and I did deals mostly through eBay). I have roughly like 200+ merchandises. Which one do you guys recommend for platform and why? Thank you so much.,4,6,2017-03-15,ECOM,0.018984852358698845,0.9209221601486206,0.06009297072887421
+ecommerce,How can a person increase their branding while dropshipping?,How can one build a brand while dropshipping?,2,5,2017-03-15,ECOM,0.8896329402923584,0.09818334877490997,0.012183723039925098
+ecommerce,Looking for feedback on my website.,"Hello! I'm two weeks in after opening for business. I get traffic from FB ads (20-50 visits a day in the last week) but no sales yet. My demo is mainly small businesses that do security system installs, audio/video installs, network installs, etc.
+
+[Timberwolf Supply](https://timberwolfsupply.com)
+
+No sales yet. Working on getting my pixel built up so it knows my customer and working on finding the right target audience on FB, which has been tough. 
+
+Would love some perspective from other people. I put a LOT of work into this.",5,4,2017-03-15,ECOM,0.02730821631848812,0.9083723425865173,0.06431947648525238
+ecommerce,Anyone here experienced(and successful) with fb ads for shopify/custom apparel products?,"I have some awesome designs ready and i know how to target people on FB but when it comes to actual marketing, analyzing the data and scaling - I am like a fisherman who has amazing bait, knows how to cast the line but doesn't know how to reel the fish in.
+
+Does anyone mind PM'ing me to help out a passionate fast learning noob?",0,4,2017-03-15,ECOM,0.019771017134189606,0.9217691421508789,0.058459825813770294
+ecommerce,"Hi, I'm a student finishing my BCOM in Entrepreneurial Management: I'd be thankful for you to review my store :)","I posted this in review my shopify subreddit as well, but haven't gotten any responses yet. So thought I'd hit up two pages for more feedback. 
+
+Store: GetSunnies Ca Link: https://getsunnies.ca Password: Kriamp Sells: Sunglasses Discount Code: REDDIT25
+Hey everyone,
+As part of my program, I'm required to start a venture adventure using concepts from the learn start-up. One of the big concepts is called the minimal viable product. While, I'm a bit of a perfectionist, and would love to provide the best experience for my customers - including controlling how my customers receive the product. That being said, with little start-up capital (recommended by lean) and a cap of $250 for my assignment, I turned to dropshipping.
+While I could continue to add product, wowee its a lot of work cropping and resizing images. Heres where the Minimal Viable Product comes in, I'd like to do a soft launch to see if I'm on the right track and would love for any suggestions in terms of comments related to design, UX, marketing, pricing, promotions and etc. What would work for you?
+As a token of appreciation, and a bit of shameless self promotion. I've created a discount of 25% off all orders over $50 - REDDIT25 (note I'm currently only shipping to canada as well, with Canadians being my target market - can not be used in conjunction to get the free shipping pouch :( sorry ) - anyone know how i can have 2 promotional discounts?
+Any tips, suggestions and orders would be kindly appreciated.
+If you order, and After I've fulfilled your order, I'd also love to probe you about your experience with our service. How long did shipping take? do you feel it was too long?, in what condition did your package arrive and etc.
+Thanks in advance, and again! I appreciate any feedback, don't feel pressure to order .
+Oh and for the experts, what apps would you suggest? :)",9,4,2017-03-15,ECOM,0.020475313067436218,0.9217911958694458,0.05773349106311798
+dropship,How does anybody get around suppliers sending product with the customs declarations on it stating the actual cost of the product?,"I've tested a few items, ordering them, asked supplier to not include any marketing material (which they don't). However every time the  item is received, it includes a customs declaration that lists the actual bottom price for the item. 
+
+Does everyone else just expose their own margins like this when dropshipping from another country? 
+
+I've asked this question in other forums, and it's either ignored, or people say the customer won't notice. Which I find ridiculous when sometimes it's the only thing on the package.",3,3,2017-03-15,ECOM,0.08712359517812729,0.8877752423286438,0.025101173669099808
+shopify,Identifying Websites That Referred a Buying Customer,"Hi
+
+Can anyone provide any recommendations on how I can track what website referred a customer who places an order on my website?
+
+For example, if I was to use Facebook and Google advertising it would be extremely helpful to know where any sales are coming from. 
+
+I know Shopify have a reporting function (acquisition report), but the monthly fee of this function is currently too costly to use.
+
+Can this be done through using Google Analytics, by assigning ‘Goals’? 
+
+Are there any tools already available on the Shopify market that can achieve this? I have taken a look, but could not seem to find anything that provides this type of data. 
+
+Many thanks",4,3,2017-03-15,ECOM,0.036160409450531006,0.9302451014518738,0.03359454125165939
+ecommerce,Anyone tried to use mini game for marketing before?,I am thinking if gamification is useful for ecommerce marketing. Currently researching ways to leverage game mechanism to increase conversion or engagement.,2,3,2017-03-15,ECOM,0.011078106239438057,0.9055994749069214,0.0833224207162857
+ecommerce,The right way to show your Product for E-Commerce,"I work for an NYC-based studio that specializes in E-commerce photography. 
+People regularly ask me how many product shots they need for their website. Or what kinds of shots they should get. 
+
+So I figured I would write a little topline, in case it helps.
+
+First off, you should know the difference between editorial and product shots:
+
+Editorial Photos are more emotionally-driven images that are used further up the conversion funnel. These tend to be seen in marketing materials, on the homepage or on broad category pages (before you drill down to specific products). These shots are more creative - using interesting backgrounds, models, props or showing the product in-use. 
+
+Product Photos, on the other hand, are usually shown on the product detail pages to give enough visual direction to help the customer decide whether to buy, or not. That’s not to say that product shots can’t be used for marketing, etc., these are just basic rules of thumb...
+
+Aside from the regular front, back and top-down shots you see on Amazon, here are 3 other things you should also consider:
+
+1) Focus on the Details. This is the opportunity to reinforce your value proposition, so be sure to capture the unique lining of your jacket, the silver hallmark on your hip flask or the non-greasy texture of your hand cream.
+
+2) Think Tactile. It’s one thing to say “the leather feels unbelievably soft”, and something else to actually show it. Obviously this is very hard to do online, requiring great attention to the product placement and the lighting. This is what separates the okay photographers from the good ones. Be sure to really scrutinize their portfolios before hiring a photographer to see if this is something they’re capable of capturing.
+
+3) Include Scaling Shots. We have learned that giving customers a sizing reference reduces returns by about 5%. Scaling shots are particularly important for jewelry or handbags, where sizes can be so varied. Props are really helpful here - we have used subway cards, iPhones and magazines for scaling cues. And they can also add a little personality too.
+
+As for how many shots you need - well it depends on a) what you’re selling, and b) what your budget is. But if you keep the above in mind, it should hopefully guide you a little.
+
+I hope this helps. Happy to answer questions.
+
+
+EDIT: I threw together a couple of examples - http://imgur.com/a/0XedN",16,21,2017-03-16,ECOM,0.029322165995836258,0.9340274333953857,0.03665032982826233
+shopify,50 Best Shopify Apps for Sellers,,1,10,2017-03-16,ECOM,0.033378418534994125,0.9023755788803101,0.06424593925476074
+woocommerce,Accept Apple Pay directly in WooCommerce stores on mobile and desktop,,11,8,2017-03-16,ECOM,0.023121770471334457,0.9424709677696228,0.03440726548433304
+ecommerce,Questions for store owners,"Does anyone here do anything with eCommerce analytics or marketing automation? What eCommerce platform do you use (Shopify, Magento, etc.)? Do you run just one or multiple stores?
+
+I'm asking because I am looking to build out a service that helps store owners, and I want to see if there is demand for something like this. My idea was to build a system that hooks into a store and runs analytics on the customer, order, and products in the store. Coming up with things like scores for customers (based on the store owner's criteria) and to use information like most often products purchased together to automate emails to customers who bought one, but not the other.
+
+Any interest in something like this?",2,6,2017-03-16,ECOM,0.025137566030025482,0.9384242296218872,0.03643824905157089
+ecommerce,ASD Las Vegas,My business partner and I are going to be in Las Vegas this Saturday(3/18) for ASD and will be staying until Thursday(3/23). Anyone want to meet up for drinks or food during the event?,0,6,2017-03-16,ECOM,0.026301896199584007,0.9261044859886169,0.04759359359741211
+ecommerce,Good way to incorporate survey into my payment form?,"I recently setup a Wordpress site and had someone help me incorporate a new looking Woocommerce payment gateway. However, I'd like to add some additional required info that must be submitted so I can better fulfill the service that I'm offering.
+
+What would be the best way to get this info? I'd like it submitted along with payment info. I see there is a Woocommerce survey plugin, but it's not working on my version of wordpress. 
+
+Should I use a third party like Surveymonkey? I'm not sure how I could incorporate it so that submitting payment also submits the SurveyMonkey form...",2,5,2017-03-16,ECOM,0.013854257762432098,0.9077326655387878,0.07841308414936066
+ecommerce,"(Help) Selling a single branded product online, what platform should I use?","Hey guys, need some advice
+
+I'm currently working on a project where I need to develop a website that sells only a single, highly branded product. The only thing the customer can change is quantity that he or she wants to buy.
+
+The product would be sold very locally and the website would mainly serve as a page to present the brand and product. 
+
+The website must be highly stylized and branded and I must be able to focus on the product. I would even see it as a one-page thing.
+
+I am knowledgeable about front-end and back-end programming (currently studying in computer science). I know HTML, CSS, JS quite well but not super familiar with bootstrap, but I am confident that I could pick it up easily after having read the documentation.
+
+Here is what I am considering. I need your thoughts on what would work best.
+
+1. Build front end from scratch and use an API (looking at Shopify API right now). It doesn't seem like my best bet because I do not know anything about that API and I'm pretty sure there are better ways to do what I want considering how simple the project is. However, it would allow me to build a leaner experience for customers.
+2. Wordpress integrated with a e-commerce plug-in, currently looking at shopify plug-in. Seems like the easiest solution, but having used Wordpress and shopify both before, both systems in their vanilla state are pretty cluttered. Wordpress is best used for blogs and shopify has the UI designed around stores selling multiple product with different variants and sizes. However, I've heard of people doing great things with those platforms, but I do not know where to start and any advice would be appreciated.
+3. Use wix w/ an e-commerce plug-in. I've used Wix multiple times already and I loved how easy it is to come up with something quickly. However, I am unsure about the e-commerce aspect.
+
+In all, I'm basically looking for a platform / plug-in combo that would suit my needs. Furthermore, if Wordpress seems to be the popular choice, then I would also be interested in knowing how I can move away from that ""blog"" structure that seems prevalent by default.
+
+Best wishes,
+Alex",6,4,2017-03-16,ECOM,0.02488727495074272,0.933741569519043,0.04137113690376282
+ecommerce,Credit card processing,"Maybe this isn't the right forum for this?  Anyway, we're looking at getting a new credit card processor.  I found paymentdepot.com (and I am not affiliated with them in any way, this is not a sales pitch, I'm looking for info on them).
+
+It's an incredible model.  For us, we'd be paying either $500 or $1000/year, then either 10 or 5 cents per transaction (depending on whether we go over $100,000/month or not.  They also just straight up pass on the interchange price and don't add anything on top of that.
+
+Now, it is an incredible model, but I've been told that they're based on First Data and that First Data may inflate their interchange pricing.  So, just to make a hyperbolic exaggerated example, +0% on top of say ""1%+2%"" (total of 3%) may not be as good as +1% on top of ""1%"" (total of 2%).
+
+Anyone have any experience with them?  Anyone able to say yes or no, and perhaps quote figures?",14,4,2017-03-16,ECOM,0.021969778463244438,0.9231772422790527,0.054852958768606186
+woocommerce,Ship by total cart weight,"Hey all.  I know it's possible (and quite easy) to create a simple flat rate shipping formula that allows shipping by quantity 
+
+10 + ( [qty]*10)
+
+I was wondering if anyone knows a work around to accomplish this using weight instead of quantity.  Whether with a formula built into WooComm, or with a Plugin.  
+
+I do not want to use a table rate, just a flat rate multiplied by total.
+
+So for example:
+
+10 + ( [totalcartweight]*0.25)
+
+Any ideas?",0,3,2017-03-16,ECOM,0.01759020984172821,0.9205898642539978,0.061819888651371
+shopify,Change slider dimensions on Venture theme,"How do i change the slider dimensions on the slider theme to fit my images? I wish to change the height of the slideshow : https://ibb.co/ic9b6F All my images that i upload have to be scaled to match those dimensions and therefore it reduces its quality. Help me plssss!
+
+Thanks babes",0,2,2017-03-16,ECOM,0.020660648122429848,0.8519783616065979,0.12736104428768158
+ecommerce,"Finally got retail sales! Thanks, /ecommerce!","Hi, all! 
+
+We just wanted to extend a big thank you to those who helped review our shopify store, www.vagmagic.com, to see why wholesale sales were great, but retail sales were lacking. The biggest suggestion was to show a picture of the product itself - which was a total 'duh!' moment for me and my business partner once we realized we were missing such a thing! We set to work to take a picture of our capsules and post them on the front page, rework the website to look better, etc. Later that night, within hours, we had a retail sale! The best part? This person found us through an organic search on Google and bought product within 4 minutes. No ad needed. We 1000% believe it was because we had the proper photos and copy right on the landing page. We have now been mentioned on Bustle.com and will have a review published to a blog aptly called Slutty Girl Problems (lol) - plus, more 'luxury' subscription boxes are now reaching out and requesting samples. 
+
+We are so grateful for your advice, guys! This small business stuff has been a huge learning experience, and if anyone wants to DM us for small-business chat, feel free! :)
+
+Love &amp; Magic, 
+VagMagic",9,13,2017-03-17,ECOM,0.019483385607600212,0.910115659236908,0.07040097564458847
+ecommerce,"Tired of stewing over finding the ""right"" niche. Advice?","I want to get into ecommerce. I would one day love to be my own boss. Yes, I am aware that building an online business is a pretty difficult thing to do, it takes A LOT of hard work, patience, and to a certain extent, luck. But I want to at least try.
+
+The only thing that makes me crazy is the idea of finding the perfect ""niche"", something that is repeated over and over and over again. I understand what it is and I understand the reason why you would need to, but so far, I can't for the life of me even come close to deciding on what to choose. For one thing, most resources on helping you to find a good niche are extremely vague, and they say things like ""make a list of the needs of your family and friends; what products might they be interested in purchasing that they don't already have?"" And I'm thinking, um....""fuck if I know!"" I mean, if my friends and family don't have something, they're going to go on Amazon and find it because Amazon has everything.
+
+They are all telling you that you need to find this one product that everyone will go nuts for, but that no one else is currently selling...how the fuck is that possible in this day and age? For any one product that you can think of to sell, a million other people are already selling it most likely. 
+
+So that leads me to the question I always ask: is worrying about finding the perfect niche even necessary? Say that I love zombies. Millions of other people do too. Can't I just take that and turn that into a business and just try something like that? 
+
+I feel that if I force myself to stay within the very strict parameters that all of these experts give, that I'll never choose a niche because it's like finding a needle in a very vast haystack.
+
+Analysis paralysis at its finest.",4,7,2017-03-17,ECOM,0.028465883806347847,0.9313859939575195,0.04014809802174568
+ecommerce,"How do you deal with ""Out of stock"" products and indexed URLs? Set up special 404 page or another alternative?","Recently, we use 404 page (404 content is the same for whole website). But when products are out of stock, it is better to put some content as alternative products or other options to buy at least. How to do it? We use e-commerce platform. Thanks for the advice. 
+Lenka",12,7,2017-03-17,ECOM,0.018196776509284973,0.9247424602508545,0.05706076696515083
+ecommerce,"[Poll] Ecommerce store owners, which of these store features have you found most important / profitable?","Hey /r/ecommerce,
+
+I posted this to /r/entrepreneur, but realised it would be more relevant here. There are heaps of people here who already own online stores and are doing a lot of experimenting with features to increase revenue with them. 
+
+I'm looking to add some new features, so which of these did you find had the largest impact on your business? What was the effect? 
+
+1. One click Upsells
+2. Discount Coupons
+3. Exit Pop Ups
+
+Or if there's anything else you implemented that had a big difference on your conversion rate, please comment below! Thanks",2,7,2017-03-17,ECOM,0.017857905477285385,0.9024147987365723,0.07972728461027145
+ecommerce,How do I start blogging?,"Hi guys, I've been doing some reading on how to start blogging in regard of eCommerce (and also how to make money from the blog itself) from some sources. I did my reading mainly from the people over /r/Entrepreneurs.
+
+However I would like to know what other sources you guys would recommend to beginners here regarding the same topic. Feel free to share! :)",9,5,2017-03-17,ECOM,0.0200421754270792,0.9308248162269592,0.049132972955703735
+ecommerce,Are we allowed to get feedback on store here?,,10,5,2017-03-17,ECOM,0.015664882957935333,0.875481128692627,0.10885404050350189
+ecommerce,How are you managing ecommerce chargebacks?,Does anyone use a chargeback company? What is your processing volume and what do I need to look for in a company?,2,4,2017-03-17,ECOM,0.06760072708129883,0.9145915508270264,0.017807751893997192
+woocommerce,Product Selector/Slider?? Plug-In? Maybe?,"Hi friends! I've been trying to find a plug in for a product quantity/option slider (if thats the right name for it?). But when I search for ""product slider"", not the right kind comes up. 
+
+I have a picture of the kind of slider im talking about here: https://woocommerce.com/wp-content/uploads/2016/12/membership-plan2x.jpg
+
+Anybody got any suggestions for what Im looking for? Any help would be amazing! Thanks!",1,3,2017-03-17,ECOM,0.023240843787789345,0.8912017941474915,0.08555734157562256
+woocommerce,Woocommerce Deposits,"I would like my client to be able to send an invoice with a payment link such that the customer can pay only a deposit and not the entire balance.
+
+Woo's native invoicing only supports paying the entire balance. 
+
+There are plugins called 'Woocommerce Deposits' etc. that might be part of the final solution. But, first pass through the plugin docs, it seems like whether a deposit can be made for an order is a function of what specific products are in the order. I am looking to allow partial payments for an order based on some user set metadata, regardless of what products are in the order. 
+
+Has anyone had this particular problem before? If so, any insight?",0,3,2017-03-17,ECOM,0.03537460044026375,0.9363305568695068,0.028294816613197327
+woocommerce,Are payments processed directly through 3rd party?,"I think I know the answer to this but just wanted to ask to be sure, if I integrate Stripe or Square into my site will the payments be handled by them? I guess what I'm trying to say is, if my website gets hacked will the hackers be able to see any customer credit card data? Thanks in advance!",7,3,2017-03-17,ECOM,0.031187497079372406,0.9342948198318481,0.034517716616392136
+ecommerce,Looking for e-commerce stores to showcase (x-post from r/entrepreneur),"I started my shopify store and have started getting a couple sales here and there but have been doing massive advertising (FB ads, google ads, word-of-mouth etc).
+
+I just don't believe that this buckshot advertising strategy should be the only way to showcase my store.
+
+So I am looking to start up a side project which is a curated list of the top stores being born everyday. Think product-hunt but for e-commerce stores.
+My question to you guys is where can I find a list of stores for shopify. Etsy is easy to find stores to showcase but shopify is proving to be a challenge.
+
+Help me out?
+
+Thanks",18,10,2017-03-18,ECOM,0.01848503388464451,0.9092624187469482,0.0722525492310524
+ecommerce,Review my Clothing Store,"Any feedback would be helpful. The password is liatip.
+
+https://oneplusoneclothing.com",20,5,2017-03-18,ECOM,0.021991346031427383,0.9290737509727478,0.04893484711647034
+dropship,Free Drop Shipping Guide - Part 1 - How to Find a Niche,"I am working on a blog dedicated to teaching people how to go from 0 to having a profitable online e-commerce business that utilizes drop shipping. I'm tired of the constant misinformation that's being spread around. I want to show people how to build a REAL business. One that works with REAL suppliers and makes REAL money and I want to do it for FREE. No scams, no up-sells, no scubscriptions, no courses. Here is a link to the first part of the guide. More content will be posted soon.
+
+http://dropshipisland.com/ultimate-drop-shipping-guide-part-1-find-a-niche/",4,5,2017-03-18,ECOM,0.019257012754678726,0.9307355880737305,0.050007469952106476
+shopify,Looking for e-commerce stores to showcase (x-post from r/entrepreneur),"I started my shopify store and have started getting a couple sales here and there but have been doing massive advertising (FB ads, google ads, word-of-mouth etc).
+
+I just don't believe that this buckshot advertising strategy should be the only way to showcase my store.
+
+So I am looking to start up a side project which is a curated list of the top stores being born everyday. Think product-hunt but for e-commerce stores.
+My question to you guys is where can I find a list of stores for shopify. Etsy is easy to find stores to showcase but shopify is proving to be a challenge.
+
+Help me out?
+
+Thanks",7,5,2017-03-18,ECOM,0.01848503388464451,0.9092624187469482,0.0722525492310524
+dropship,Aliexpress Customer Invoice showing lower price,"I started drop shipping just to get some extra cash (no actual store on Shopify, etc.) and I've ordered from AliExpress 1-2 years ago, but I genuinely forget whether AliExpress sellers include an invoice or not. Should I be worried about my customer getting an invoice showing that the item was actually bought at a lower price?",2,3,2017-03-18,ECOM,0.5741614103317261,0.38766905665397644,0.038169533014297485
+ecommerce,Global payment method (2checkout),"Hi e-preneurs.
+
+This is kinda of a noob question. I am not from the US, but really thinking to sell on Amazon US because of the market size. 
+
+I have done some research on the payment methods, and would really love to use 2checkout . com.
+
+What got me really thinking, is whether 2checkout gonna exchange the currrency automatically or will I be getting USD in my account? Does anyone have any knowledge on this.
+
+Other than that, would you suggest other payment gate which you'd think is a better option compared to 2checkout?
+
+Cheers and thanks!",2,3,2017-03-18,ECOM,0.012075149454176426,0.83442622423172,0.15349861979484558
+dropship,Can I get some constructive criticism for my site?,"My Address is RegaliaShine.com is there anyway to improve trust with my site. 
+
+How long did it take some of you guys to make a sale? 
+
+What are you using to market your item?
+
+Don't hold back a ""diamond is made under pressure"".",10,3,2017-03-18,ECOM,0.031430426985025406,0.9050537347793579,0.0635158121585846
+ecommerce,Help with Store/ review,"Hello folks , my store www.gear4guys.ca has been open for 2 months at the end of march and i have generated 18 sales with a tidy little profit so far. 
+My issue is cart abandonment -  any tips after checking out site would be great as well thanks",11,2,2017-03-18,ECOM,0.0408807210624218,0.8132832050323486,0.14583604037761688
+ecommerce,"Best Online Shop for Genuine Auto Spare Parts in Dubai, UAE",[removed],0,1,2017-03-18,ECOM,0.014897549524903297,0.3291087746620178,0.6559937596321106
+ecommerce,Brands &amp; Designers Outfits.,[removed],0,1,2017-03-18,ECOM,0.01828457973897457,0.9165096879005432,0.06520567089319229
+ecommerce,looking for review of my All-over-print clothing shop,"I've opened my online shop [Disillusion.me](https://disillusion.me) that specializes in psychedelic all-over-print dye sublimation apparel. I want to focus on product diversity that offers options for all my designs. Currently all of my designs are available as hoodies, zip sweatshirts, t shirts, raglan shirts, and tank tops. I also sell handmade crystal jewelry and tapestries to increase my product diversity for the same target audience.
+
+I maintain an [instagram](http://www.instagram.com/dis.illusion/) account for my business to target younger audiences that would be most likely to purchase my products, and my follower base is steadily growing. I am considering purchasing advertising on Instagram in the future to drive traffic to my site.
+
+I am looking for reviews on my [website](https://disillusion.me) and constructive criticism about its layout, content, and my products. I understand my prices are high but this is due to my manufacturing process where each piece is made on order and each garment is made from scratch. This allows me to avoid keeping inventory of my large selection of products, at the sacrifice of production and shipping times.",4,6,2017-03-19,ECOM,0.017583468928933144,0.8817374110221863,0.10067913681268692
+ecommerce,Newbie,"Just set up new store. What you guys think? what can i improve?
+
+https://childcharmer.com/",12,3,2017-03-19,ECOM,0.028116725385189056,0.9237511157989502,0.04813215881586075
+ecommerce,Could use feedback,"[My store](shoptheunique.com)
+Let me know what you think.",0,3,2017-03-19,ECOM,0.03194407746195793,0.9388183951377869,0.029237503185868263
+ecommerce,US Top 1000 Ecommerce Database - Anyone have this?,I'm looking for a free version of Internet Retailer's top 1000 ecommerce sites by revenue. Just can't afford it at the current price ($1k). Anyone know where I can find it? Also would like to hear opinions from anyone who has the product.,2,2,2017-03-19,ECOM,0.022287065163254738,0.9392156004905701,0.03849736973643303
+ecommerce,"For FB Lead Ads, is there a way to get Quality leads &amp; how do I implement a coupon into a lead ad?","I want to collect email sign ups for email marketing but looking into it, there doesn't seem to be a double op-in feature. Is there anyway to make sure the the lead is good, quality-wise?
+
+Also, how do I go about including a coupon into the FB Lead ad? Do I just link them to a coupon page? I can't seem to include the coupon in the FB Lead ad itself, after they submit their info.
+
+Any help on either of these issue would be greatly appreciated.",4,2,2017-03-19,ECOM,0.014489568769931793,0.8663800358772278,0.11913041025400162
+dropship,Should I use my phone number or the buyers phone number on AliExpress?,Just wondering this because it can be a pain to enter the buyers phone number sometimes.,3,1,2017-03-19,ECOM,0.03161270171403885,0.9445728659629822,0.023814447224140167
+shopify,Any Shopify SEO expert here? Need a small help?,"Few questions:
+
+1) What are the top SEO tools / Apps you use for your store or clients?
+
+2) What do you like the most about your fav SEO tool / App?",9,1,2017-03-19,ECOM,0.016669178381562233,0.9219801425933838,0.06135062873363495
+dropship,"Learn SEO and traffic generation, or pay someone to do it","Do you think it's better to invest a good chunk of my time to binge on tutorials and learn everything I can about SEO and how to generate organic traffic to my website, or should I just hire someone to do it for me?
+
+On the long run which option do you think is best?
+
+I'm guessin it would be a good skillset to have for future projects...",4,1,2017-03-19,ECOM,0.022910524159669876,0.9128124713897705,0.06427696347236633
+dropship,Can I get some criticism/suggestions for my site.,"We've just recently launch. This is my first drop-shipping site and I'm trying to make it the best that I can. Thanks!
+www.schmidtts.com",2,0,2017-03-19,ECOM,0.01344320923089981,0.8515347838401794,0.13502204418182373
+dropship,FUCK AliEXPRESS In Its Dirty FUcking Asshole !!!!,"I decided recently to dive into the world of Dropshipping. I set up an account on AliExpress and started adding products to my Ebay account. I worked super hard on it for days. Researching products, figuring out prices and taking the time to write somewhat compelling ad copy for my listings. And then like magic I began to get sales. 12 sales in my first couple days doing it. I was super excited. I can work from anywhere and do this blah blah blah. You can imagine how awesome that was. SO THEN..........When it came time to place the orders with AliExpress. I logged in, entered my prepaid credit card number and placed a couple orders. Then I decided to use my paypal credit card and made a couple more. Then I get a MOTHERFUCKING error message saying that My order is APPEALED. ITs this insanely complicated process that they have for orders that are a security risk. I had to submit a pic of my License and a pic of my card and a statment. These DIRTY COCKSUCKING FUCK FACES make you wait 3 business days what ever the fuck that translates to in china or international trade just know Its a long fucking time. Especially since this happened on a THURSDAY Im just fucking Beat I guess. ALL THE WHILE Im still Getting sales and customers are emailing me asking if the items shipped yet. So I decide FUCK IT Im gonna make a new ACCOUNT and try this fuckery again and hope it works if I dont change up the cards. SO i do this, First order goes thru FUCKING YAY, second order as well YAY AGAIN......3rd ORDER. APPEAL MESSAGE AGAIN. YOU MOTHERFUCKERS IM TRYING TO MAKE SOME MOTHERFUCKING MONEY YOU BITCH ASS CUNTS!!!!  SO Im Like FUCK THIS. I go on their chat based help EVA. Not sure if they are ROBOTS or JUST ASSHOLES BUT I will SKULL FUCK THEM just the same. Not helpful at all, they just read the error message verbatim and Im like YEAH BITCH thats why Im chatting now TO FIX THIS SHIT YOU MISERABLE DICK EATING LIVING PIECES OF SHIT. I just want to pay for shit with my money that you took off my card and send this bullshit to my ebay customers. and they ask for screenshots of my emails. and then TRANSFER ME to a differnt Dpartment and ask all the questions again, and say Im sorry this happens to a nice amout of customers WELL LA DI FUCKING DA YOU FLAMING PIECE OF SMELLY ASSFUCK. Long story short. Before you decide to buy shit, especially start a droppshipping business make sure you are not having issues like this. FUCK OBERLO in their Mouths TOO. They are all just like ""USE AliEXPRESS for all your droppshipping needs' YEAH BITCH? YEAH BITCH? FUCK YOU, FUCK ALL OF YOU. YOU WASTED DAYS OF MY LIFE I WILL NEVER GET BACK. I can just see my pristine fucking ebay rating dropping as I write this shit. BE WARNED BE WARNED 
+AliEXPRESS is RUN by a bunch OF FILTHY DICK FUCKED CUNT FUCK FUCKS.",13,0,2017-03-19,ECOM,0.11772570759057999,0.8597710132598877,0.02250325120985508
+dropship,"Website for Dropshippers, Made by Dropshippers.",[deleted],11,7,2017-03-20,ECOM,0.834463357925415,0.15287525951862335,0.012661422602832317
+ecommerce,International Shipping,[deleted],1,6,2017-03-20,ECOM,0.02780303731560707,0.9391065835952759,0.033090393990278244
+ecommerce,Low conversion rate,"Hey team.
+
+https://erskinboarding.com/
+
+I would love some advice on how to increase my conversion rate. Right now I have a dismal 0.99% added to cart, 0.46% reached checkout, and 0.11% checked out. Over the past 90 days.
+
+About 86% of my traffic comes from Facebook ads that I run, I have just started to re market to customers that have visited my site so I'm hoping that will increase my conversion rate.
+
+Is there anything that you can see on my site that may be causing this low conversion rate.
+
+https://erskinboarding.com/",20,5,2017-03-20,ECOM,0.07555937767028809,0.8783183097839355,0.04612237587571144
+ecommerce,International Shipping,"I work for an ecommerce company who has given me the task of coming up with an international shipping proposal. 
+
+What are the FAQs I should answer? 
+What are your experiences with International shipping? 
+Who is your logistics partner? 
+Do you prefer in house or third party shipping services? 
+Do you have a recommended software that I should be looking at implementing?
+
+Opinions, thoughts, concerns and anything else related to international shipping is encouraged. 
+
+For reference, we are based in the United States and are looking to expand to Canada first, Mexico second, and then either Australia or other parts of South America. 
+
+Thanks!",1,4,2017-03-20,ECOM,0.013001195155084133,0.8953713774681091,0.09162743389606476
+woocommerce,Accepting Payments Via Worldpay?,"So this is a stupid question, but i'm sure i'll get a quicker and better answer here than from the devs.
+
+I've just had my Worldpay account approved. I now need a gateway for my site. There are plenty to choose from including the one from Woo itself. 
+
+I am selling in Turkey using Turkish Lira. Now, when I test checkout via paypal, the currency you will pay in will be Turkish lira. But since paypal is banned in Turkey, I need to use paypal. 
+
+The currency in my shop is TL but in a 'Test' mode of one of the gateways I'm using, it says 'settlement currency' and i've only got the choice of the  major currency $ £ Euro etc... 
+
+When my customers checkout will they be 'redirected' and it will cause them to pay in the 'settlement currency' or will it act like paypal and complete the transaction in the native currency and then exchange it to my currency into my worldpay account? 
+
+Anyone got any experience with this? 
+
+Basically i'm selling in one currency and my WP account is another currency. Will the customer pay in their currency and i'll recieve in mine? 
+
+Sorry if this isn't clear, but i'd love to resolve this before I commit to worldpay with a paid plugin. 
+
+Thanks!",3,3,2017-03-20,ECOM,0.02455069310963154,0.9245806336402893,0.0508686825633049
+ecommerce,I'm willing to create an application for my flower-delivering startup.,"Hello everyone. Recently I have started my small local business based on flower-delivering and I realized that I want to create an app so people would have the ability to create an order without calling a manager. I'm interested in the approximate price for app developer's work. I don't want to be cheated, though. While I've been searching on the web, I have managed to find some blurred scratches of info like this article:  https://thinkmobiles.com/blog/how-much-cost-to-hire-app-developer/ , but there was not mentioned something specific regarding the actual price per hour, though.
+I'm really seeking for your help. 
+Thanks!",9,3,2017-03-20,ECOM,0.024858126416802406,0.9256137609481812,0.049528129398822784
+ecommerce,Recommendations: Ad Analytics Dashboard?,"Hi team, we're running ads on Google and on FB and it's difficult to get a clear picture of attribution. 
+
+We use Shopify storefront and those analytics aren't clear. So we tried plugins such as Vantage (which screwed up our pixles and immediately got spiked) and Compass (but that seems delayed and inaccurate).
+
+We tried Graphly, which is a plugin for Infusionsoft, but there's no integration with Google/FB ad spend.
+
+We tried Gecko, but it too seems to not be feeding data from Adwords.
+
+How are you guys analyzing, tracking, and optimizing spend across different ad channels?
+
+Thank you!",0,3,2017-03-20,ECOM,0.03662920370697975,0.9301747679710388,0.03319600597023964
+ecommerce,Review our single product e-commerce site,"www.vitestore.com
+We are still working on adding the FAQ/social media account/Shipping and return pages. But what do you think as it stands now? Critiques please!",8,2,2017-03-20,ECOM,0.03591316565871239,0.9179505705833435,0.04613621532917023
+ecommerce,[Clock Warehouse] Got time to review my site?,"Hiya crew. Decided to make this page as a side project when I had a few hours free. Maybe 3hrs work and I think it pulled together very well. No product descriptions yet.
+
+Dropped $5 in Facebook ads advertising the ""
+Crazy Cattery Caterwaul Collection"" and the post has 160 views and 17 likes so far, but zero shop visits and zero sales *grumpy face*
+
+All feedback encouraged =)
+
+[clockwarehouse.com.au](https://clockwarehouse.com.au)",1,2,2017-03-20,ECOM,0.1440199315547943,0.8042498826980591,0.05173018202185631
+ecommerce,Discount Strategy for Email sign ups and Brand,"(From /r/Entrepreneur) I'm selling cheap products that are around $10-$30. I want to give a big 70% discount to get people's foot in the door, so to speak, and have repeat customers. I would get their email and they get a 70% coupon.
+
+Is this a bad idea since they'll always expect this type of discount all the time (like in email marketing) or is it ok for the first time/their first purchase Only just to get them involved with my brand and comfortable.
+
+I know that if a customer buys from you once, they're much more likely to buy from you again but I don't know if my strategy is flawed from the start with a huge coupon. Should I still offer a coupon but go lower? Say 25% or 30% off instead?
+
+If you sell cheap products in the price range of $10-$30, what has worked for you? 
+
+Thanks.",4,2,2017-03-20,ECOM,0.14772334694862366,0.8134194612503052,0.03885721042752266
+ecommerce,Content upgrades - 19 content upgrade ideas for e-commerce shops,"Most digital marketing websites use content upgrades and know how effective they can be - But I've only seen a few e-commerce websites do the same. 
+
+It's such a shame because the potential is so great. Recently, I've helped a few e-commerce shops set up content upgrades, and created this list of relevant content upgrades:
+
+1. PDF Blog Post
+2. Checklists
+3. Resource List
+4. Transcripts
+5. Bonus info
+6. Recipes
+7. How-to guides/tutorials
+8. Use cases
+9. Challenges
+10. Templates
+11. Slideshow
+12. Invitation
+13. Ebooks
+14. Cheat sheets
+15. Infographics
+16. To-do lists
+17. Calendars
+18. Videos
+19. Exclusive interviews
+
+Most of these content upgrades seem very basic, but the truth is you have a ton of opportunities to turn them into true lead magnets.
+
+I've written an 8k article about what they are, how to use them and why they work. Send me a PM if you want to see the article.",2,10,2017-03-21,ECOM,0.02336142212152481,0.9313243627548218,0.04531420022249222
+ecommerce,Braintree vs Stripe - Any preference?,"Hey there, 
+
+We're launching a New Zealand based small business in the coming weeks, and I'm deciding between payment gateways. The plan will be to process international payments in the future as well.
+
+Just looking for opinions from people who have used one or the other.
+
+Cheers!",17,9,2017-03-21,ECOM,0.017744479700922966,0.8989881873130798,0.08326729387044907
+ecommerce,Website Review,"www.canadawelds.ca
+
+Site has been up for 37 days (Shopify), has done just over $3500 in sales. Overall its sitting at 5.5% ATC/2.5% RCO/1.5% Purchase. Profit after all expenses so far is @ $700. 10 days ago I greatly reduced the products listed (by about 70%) to just what is selling and refocused my advertising &amp; website theme to focus on those products (wasted a lot of $$ on advertising on stuff that didn't sell). Now, in the last 7 days it has $1000 sales with 10% A.T.C/5% RCO/3% Purchase and 20% of profit going towards advertising. The products are drop shipped off Aliexpress with on average 90% markup.
+
+I've been into eCommerce for a whole 2 months so my knowledge and skills are nowhere near what many of you have, but I'm learning quickly. Any feedback on what I could improve or tips is greatly appreciated. Thank you!
+
+-Dan",19,8,2017-03-21,ECOM,0.045656584203243256,0.8223631978034973,0.13198021054267883
+dropship,Shopify keeping 25% of my sales because I dropship from China.,"""The reason your account is deemed as higher risk is because you appear to be drop shipping from China. As you are aware, this increases shipping times to almost a month or more in some cases. As some customers are not accustomed to this shipping time (a normal timeframe is 3-7 business days), your chargeback risks are increased.
+
+That said, we are going to set a 25% reserve (25% of all sales) that will be held for 90 days in order to mitigate this chargeback risk. At the end of 90 days the reserve rule will be released as long as your chargeback rates are under 1% on a month-to-month basis.
+
+In the meantime, your Shopify account will remain active and you are free to switch to any other gateway if that is more convenient for you.
+
+Regards,""
+
+Has anyone had this happen to them?",2,6,2017-03-21,ECOM,0.07976265996694565,0.8874228000640869,0.03281450271606445
+dropship,Free Drop Shipping Guide,"I hope that this guide can be useful to some people here. I am constantly seeing people asking questions on how to get started drop shipping, so I decided to put together a guide that will teach you how to build your own drop shipping store.
+
+http://dropshipisland.com/drop-shipping-for-dummies-guide/",4,5,2017-03-21,ECOM,0.01948695071041584,0.911595344543457,0.06891767680644989
+ecommerce,Amazon FBA,"Can someone tell me how Amazon fba pricing works for international shipping? I understand the system
+
+Also im not from the US so would it work the same way? In my mind it should since I'm sending my stuff to Amazon as it is",6,3,2017-03-21,ECOM,0.02037031017243862,0.9212623834609985,0.05836727097630501
+ecommerce,"just launched my own website via shopify, looking for critique","Hello,
+www.aestheticcosplay.com
+Just launched my first website through shopify. My store focuses on Cosplay bodysuits and props from popular characters such Spiderman and Overwatch D.Va.  It is a pretty basic layout at the moment. Was wondering if anyone had any critiques, suggestions, or comments that will help improve my website.",20,3,2017-03-21,ECOM,0.01772785186767578,0.9060153961181641,0.07625675946474075
+shopify,How to get all links of Shopify Store.,"Hello I'm running an online boutique website on Shopify platform.
+I want to download all the links of my website indexed in google. (It is in 6 figures)
+
+How can I get a list of URLS.(apart from Sitemap)
+Thanks",7,3,2017-03-21,ECOM,0.025203822180628777,0.9395719170570374,0.035224221646785736
+woocommerce,Square integration issues!,"I have a customer web site I integrated Square with and it will not let me set a business location within the WordPress admin.  
+
+The customer has all personal and location information setup within the square dashboard.
+
+I have tickets open with WooCommerce and Square and neither has any answers yet.  Maybe someone could offer some assistance?",0,3,2017-03-21,ECOM,0.02191964164376259,0.9164577126502991,0.06162261590361595
+woocommerce,Braintree vs Stripe - Any preference?,"Hey there,
+
+We're launching a New Zealand based small business in the coming weeks, and I'm deciding between payment gateways. The plan will be to process international payments in the future as well.
+
+Just looking for opinions from people who have used one or the other.
+
+Cheers!",8,3,2017-03-21,ECOM,0.017744479700922966,0.8989881873130798,0.08326729387044907
+ecommerce,"Just Launched a website selling models, Looking for a critique.","Hi, www.voxelpla.net. I set up a store selling 3D voxel models. Basically blending a 2D sprite into a 3D object with cubes. I was wondering if anyone had any critiques, suggestions, or comments that will help improve my website.",5,9,2017-03-22,ECOM,0.01590992882847786,0.9129462838172913,0.07114376872777939
+ecommerce,Need help. Can anyone suggest a great inventory app or solution for WordPress selling for multiple vendors?,"Need help. Can anyone suggest a great inventory app or solution for WordPress selling for multiple vendors? 
+
+I want to sell multiple brands through my one website, but I need something to solve my inventory issue. I want each brand to be able to log into an app or log in online, and update their own inventory numbers, without being able to access other brands' collections and other areas of the website. 
+
+Does anyone know if this solution exists?",2,5,2017-03-22,ECOM,0.040742263197898865,0.927516758441925,0.031740959733724594
+ecommerce,If you have multiple variants of a single product (ex. diff. colors) do you split up each variant onto a separate product page or just 1 product page total?,"Can both work in different scenarios, does it matter which I choose? What's your experience / thoughts with this?
+
+I have a store with not too many products and was thinking of splitting variants to give the appearance of more products. I'm not sure which would be better from the customer's POV.",15,5,2017-03-22,ECOM,0.020442353561520576,0.9318903684616089,0.04766729101538658
+shopify,"I've just started a Shopify store, but i'm not getting conversions. What am I","Hi Guys,
+
+I completely understand that dropshipping is not the best business model, but I have seen so many people make some money on it. I plan to save any profits made to establish a business and make my own products.
+
+Currently, I have 2 Facebook ads running. One that promotes my best product with a attention grabbing photo and a call to action link to my store (Wooden Sunglasses) and the other Ad, offers a chance to win a $50 in-store voucher if they like the page, comment and share the post (with a call to action link to the store aswell). My ad budget is $10 a day and my campaign is very targeted towards the relevant audience.
+
+Since I've had my Ads running, I have received a lot of positive feedback in the comments regarding the products on the store and it has been shared 61 times. My page likes went from 0-61 in 2 days but no sales have been made.
+
+What am I doing wrong? I have researched the Niche and seems to be growing nicely. I understand there may be a fair bit of competition but my prices are pretty good and my website design seems to be good too (I think so anyway).
+
+Could someone please guide me in the right direct? Feel free to tell me that i'm wasting my time with this store, if more experienced redditors have an criticism, it is more than welcome. Please feel free to pick it apart and tell me if there is anything I can improve on or not doing correctly.
+
+www.mvmxstore.com (isn't even ranked on google yet, but not sure if SEO is THAT important when I'm running paid ads) :(
+
+Thanks so much for your time.",13,5,2017-03-22,ECOM,0.020504120737314224,0.9038447737693787,0.07565106451511383
+woocommerce,Connect specific Price to attributes,"Hey there!
+We are currently testing woocommerce for its usability and a feature that we are struggling to find is the following:
+
+We are selling prints of different sizes and materials. Now instead of assigning a new price for each new variationproduct we would just like to link a specific price x to the combination of format y and material z. 
+From what we can tell this seems not possible with the plain WooCommerce, so now we are asking around here if you came across such a plugin etc. 
+
+Thanks for your help people!",0,3,2017-03-22,ECOM,0.01620636135339737,0.9056971669197083,0.07809648662805557
+shopify,Coding help: How can I modify the text of one of my navigation links?,"I'd like to bold, italicize, etc. the link titled ""Bird Fur In The Wild"" - found here https://www.birdfurtees.com/
+
+But I can't figure out where in the liquid I should go to edit. I don't think it's there actually. Liquid is really confusing.",3,2,2017-03-22,ECOM,0.02921498380601406,0.9356403350830078,0.03514467924833298
+shopify,Coding Help,[deleted],5,2,2017-03-22,ECOM,0.0285042654722929,0.90458083152771,0.0669148713350296
+woocommerce,In stock total doesn't update after test purchase.,"I listed my first product for sale and have 100 available. I made a test purchase through my website using PayPal and my credit card. After making the purchase the quantity is still 100 on the product page. Is there a setting I need to change?
+
+Thanks!",2,2,2017-03-22,ECOM,0.0484476312994957,0.9263792037963867,0.025173252448439598
+shopify,Should I upgrade from basic to take advantage of the USPS rates or use one of the shipping/print apps?,I hold physical inventory and ship frequently.  Any recommendations?,2,2,2017-03-22,ECOM,0.023658713325858116,0.9363893866539001,0.039951883256435394
+shopify,Google Analytics Paypal and Shopify,"In Google analytics is Paypal considered a referral?
+And why.",4,2,2017-03-22,ECOM,0.03154120221734047,0.9289910197257996,0.039467744529247284
+ecommerce,"9.51% add to cart, 4.42% reach checkout &amp; 2.67% purchase. How can I improve this?","I'm curious about how other people's online stores stats match up to this. Is it standard, or really bad? I guess a lot is market dependant but still interested in how my stats match up.
+
+Regardless if these stats are standard or even considered good, i know they can be improved. However, I'm having some difficulty identifying the problem here. 
+
+The only thing I can think of which causes people to abandon the checkout is seeing delivery fees. Unfortunately my delivery fees are not flexible as i'm using a drop shipper to fulfil all orders, and they only offer me the premium next day delivery service. I've made efforts to be very transparent about shipping fees.",8,7,2017-03-23,ECOM,0.03848346695303917,0.8789138793945312,0.08260267972946167
+ecommerce,How do you run Facebook re-targeting ads,"I have my FB conversion ads set up and it's been running okay, however I have no idea how to run a successful re-targeting ad. For any of you who has experience, how do you normally run it ?
+I have around 30k people of custom audience for visited traffic, ran an image post with different pic for $7 per day. The results aren't anywhere as good as my main ad for new audience. Any advise for a beginner ?",9,6,2017-03-23,ECOM,0.045230019837617874,0.9027680158615112,0.0520019493997097
+shopify,some statistics for you,"o	20% of American online shoppers have purchased from the bathroom or while in the car.
+o	Millennials and Gen Xers are 5x more likely to have made an online purchase from the bathroom (31% v. 6%) than Baby Boomers and Seniors.
+o	One in ten shoppers admitted to buying something online after drinking alcohol.
+o	Men are more than twice as likely as women to have made a purchase after consuming alcohol (14% to 6%).
+o	The top three factors that are very or extremely influential in determining where Americans shop are price (87%), shipping cost and speed (80%) and discount offers (71%).
+o	66% of online shoppers have decided not to buy an item because of shipping costs.
+o	72% of females and 59% of males have decided to abandon their purchase because of shipping costs.
+o	78% of online shoppers want more images from ecommerce sites.
+o	69% of online shoppers want more reviews from ecommerce sites.
+o	46% of online shoppers want more product comparisons from ecommerce sites.
+o	42% of online shoppers want more testimonials from ecommerce sites.
+o	30% of online shoppers want more video from ecommerce sites.
+o	42% of online shoppers have made a purchase they later regret.
+o      44% of people go directly to Amazon to start their product searches, compared to 34% who use search engines like Google, Bing, and Yahoo to search for products.",2,5,2017-03-23,ECOM,0.040842216461896896,0.92771315574646,0.03144455701112747
+ecommerce,Started a canvas website now stuck on advertising. Spending heaps with no ROI. Advice Wanted,"ey guys,
+
+I'm currently a bcom student and I'v started a website called www.popart.co.nz
+
+I'm extremely stuck on how to advertise my prints and who my audience would be. I only sell within New Zealand but that shouldn't matter for my audience. I currently am trialing facebook ads with no luck.
+
+Any advice would be appreciated.
+
+Also feel free to critique my website!
+
+Thanks",10,5,2017-03-23,ECOM,0.024490127339959145,0.9212513566017151,0.05425850674510002
+ecommerce,Push Notifications - Don't Leave Money on the Table!,"If you're not using Push Notifications, you are leaving money on the table. We send them out 2-3x per week for our shop and generate around 3% of our revenue. This number would probably be higher if we would use them for abandoned cart reminders.
+
+You can use notifications for:
+- welcome message,
+- abandoned cart,
+- sales, promo, discounts, 
+- coupons, 
+- new product launch,
+- back in stock alerts,
+- blog post, etc.
+
+There are some free apps for Shopify, plugins for Wordpress, Woocommerce, custom CMS, ... Test them, and thank me later :D",1,5,2017-03-23,ECOM,0.028562434017658234,0.9166294932365417,0.05480804294347763
+ecommerce,Clip Cart or Foxy.IO?,"Hey Guys.  My company is launching an e-commerce store.  We are hiring out the build and looking at proposals.  We have one proposal that says they would use either Clip Cart or Fox.IO.  I have no knowledge of these.  Any advice or experience?  We've been recommended by a couple of others to use Woo.
+
+Here's our basics: we are looking to have it integrated to our existing Wordpress site, and we will be selling around 400 different SKUs.  We do NOT expect to set the world on fire with our online store.  We are traditionally a B2B wholesale distributor.  Most of our business is relationship based and handled by our sales team.  That said, we'd like to have a store that could handle the random guy who happens to find us online, potentially a 1-time sale or small volume sale.  
+
+Any advice would be much appreciated.",10,5,2017-03-23,ECOM,0.012880942784249783,0.8759663701057434,0.11115267127752304
+ecommerce,What is the importance of logistics in e-commerce?,"In India, a bunch of tech startups like Moovo, TheKarrier, Instavans has joined the race of bringing last-mile logistics services providers together for intra-city transport. Their business model is similar to taxi hailing apps like Ola and Uber, which acts booking platform. Recently Instavans (http://www.instavans.com/) have caught my attention. Their idea of connecting both truckers and shippers through its mobile and web platform sounds amazing. This can really help in organizing the local trucking industry in India. 
+
+What do you think is the importance of logistics when it comes to ecommerce?",2,4,2017-03-23,ECOM,0.011866861023008823,0.8426690101623535,0.1454641968011856
+ecommerce,Please critique my Yorkie website!,"I just finished putting this together and would appreciate your thoughts? Thank You.
+
+Website: https://www.lovableyorkiecollection.com/",13,3,2017-03-23,ECOM,0.011539173312485218,0.8375630974769592,0.15089769661426544
+shopify,Best Shopify theme for a content-driven brand?,"I am looking for a theme that will display my content in blogs and articles in the focus over the product. My product isn't that flashy and is just a bag really but has a lot of uses which I'm going to be promoting in my content.
+
+Thanks in advance!",3,3,2017-03-23,ECOM,0.018724795430898666,0.9302139282226562,0.0510612316429615
+woocommerce,How To Add WooCommerce Registration Form Fields,"Is this the only way to add WooCommerce registration form fields
+https://www.cloudways.com/blog/add-woocommerce-registration-form-fields/",4,3,2017-03-23,ECOM,0.0332774817943573,0.9465156197547913,0.020206894725561142
+ecommerce,14% Add To Cart .7% Purchase,"Greetings folks!
+
+Looking forward to some guidance on this because I feel as if I'm beating my head against the wall...
+
+I've just launched a site: www.ringspin.me
+
+I'm having a bit of a frustrating time with our conversions and I may just need a fresh set of eyes. Here are yesterdays stats:
+
+382 Unique Users
+2.89 Pages/Session
+21.16% Bounce Rate
+**61 Adds To Cart** (14.19% of unique visitors) [This is not a mis-read. Shopify and Google confirm as well as website recordings.]
+3 Checkouts
+
+Here's more info about the Checkout Funnel:
+61 Added To Cart
+12 Proceeded To Checkout
+11 Proceeded To Payment
+5 Proceeded To Shipping (which is free priority)
+3 Bought
+
+Ok, so this is already a helpful exercise. I need to work on my Cart page obviously. To me it's simple and elegant. Any feedback from you all?
+
+Also, I've added the ability to pay with PayPal... Not a huge fan, but 50% are leaving at the payment page, so maybe it's a trust issue. 
+
+Open to any and all feedback. I'm at the end of my web development skillset. Feel free to volunteer your services and I will happily hire someone to implement any changes... I'm not afraid to spend a bit of money for quick helpful services.
+
+Thanks!",6,7,2017-03-24,ECOM,0.022447150200605392,0.9194197058677673,0.05813318118453026
+ecommerce,Is Yotpo/Trust Pilot worth it?,"I know this has been asked before, but not for about a year (since they jacked their prices up). 
+
+So, is it worth it? Any alternative suggestions (running woocommerce). If it makes a difference I'm in Canada.",34,7,2017-03-24,ECOM,0.029294349253177643,0.8860146999359131,0.08469101786613464
+ecommerce,Achieving Large Sales,"Hello!
+
+Lately, I've been advertising small offers on Facebook and I've been advertising sales as well, but those are all less than $25 purchases, mostly.
+
+I have items on my store that are a few hundred dollars (but they're a good price for what they are, mostly). What are some advertising strategies I can use to make these larger sales?",5,5,2017-03-24,ECOM,0.020376430824398994,0.909605085849762,0.07001854479312897
+ecommerce,How would a copywriter meet/contact ecommerce store owners or affiliates?,"I normally meet clients IRL, but I have yet to meet an ecommerce store owner / affiliate. I really want to write sales copy for these people. What would be the best way to go about contacting them? I don't want to go through a publishing house as they ask for a huge cut. Where is the best place to contact them in a personal manner?",9,5,2017-03-24,ECOM,0.03460231050848961,0.9337471723556519,0.03165052831172943
+ecommerce,Forecasting sales: yes or no?,"Hey, guys! 
+I would love to understand if you have some historic data about your sales and if you use it to predict your stock needs. Would you be interested in having something that would do it in order to help you balance supply and demand?",3,5,2017-03-24,ECOM,0.01603819616138935,0.8389585614204407,0.14500325918197632
+dropship,Shopify vs Opencart vs...,"I am going back and fourth between using something like Shopify or SquareSpace which ""has it all"", vs something far more customizable. I'd love to get some thoughts, feedback, etc.",4,5,2017-03-24,ECOM,0.02974243089556694,0.9292912483215332,0.040966350585222244
+woocommerce,Looking to add woocommerce to a dog kennel website. I have a few questions.,"My customers will be able to buy daycare by times (0-6 hours, 6-12 hours, 12-18 hours) and boarding (18-24 hours) + add a dog bath if they want it. 
+
+1.  Should i use the booking or product feature?
+2.  I can only have 90 dogs in the space at once for daycare.  Would the booking feature allow me to put a cap on bookings for each daycare time item?
+3. For boarding (18-24 hours), they'll have the choice to select one of two rooms (different sizes and prices) and choose if they want 2, 3,4 days.  Can this be done through Woocommerce?
+
+I want to make sure I can use wOOcommerce but I won't overbook or underbook.",2,4,2017-03-24,ECOM,0.02407974749803543,0.9405905604362488,0.035329680889844894
+ecommerce,Best Subscription Box Software,"Hey I am wanting to setup a subscription box. Offering recurring payments.
+
+Its going to be one type of product with a few different sizing options and also a different quantity.
+
+I have done ecommerce stores a fair bit and sell on amazon and ebay however I have not really done a subscription box model of site and was wondering what is the best way to go about it.
+
+I mainly used Opencart for my ecommerce stores but could do with any advice on what you guys think.
+
+Any help much appreciated!",5,4,2017-03-24,ECOM,0.01745658367872238,0.9242550134658813,0.05828840285539627
+ecommerce,"Am dropshipping, need ideas on what to post on FB besides blog posts and products?","These 2 are all I can think of and I want to build up some sort of brand with some value, what can I post besides blog posts or products on FB?
+
+Thank You.",5,3,2017-03-24,ECOM,0.013534652069211006,0.9154127240180969,0.07105262577533722
+woocommerce,Having same size thumbnail images without cropping?,"Is there a way to scale the thumbnail image without cropping it and filling the rest with background color? [Example](http://wpquestions.com/uploads/durin_phpL9cDfa.png)
+
+I'm trying to have all my thumbnails same size without having them cropped.",2,3,2017-03-24,ECOM,0.03411700204014778,0.9389324188232422,0.026950549334287643
+ecommerce,First time developing an SEO Plan,"Ill be launching a new store in the coming months taking everything I have learnt from my first store. I have subsequently realised the importance of being able to integrate a PPC campaign into the sales funnel and the difficulty of getting quality traffic. 
+
+So with this next idea I wanted to make sure I had a plan to catch organic traffic. This is as far as I know primarily achieved with effective keyword rankings (including long tail keywords). 
+
+I get a little unstuck here and was hoping for a few pointers. I grasp how ranking works to a degree. But I having not done this I before I really lack the ability to visualise or conceptualise in my minds eye a basic plan or path to move forward. Essentially I don't have enough knowledge and experience to distill SEO into a list of best practices to get started and be pragmatic. Is anyone willing to help me understand this a little further? Or at least how to get started with a plan.",15,6,2017-03-25,ECOM,0.01763768121600151,0.9116123914718628,0.07074987143278122
+ecommerce,Tips for my Dad's BigCommerce based site ?,"About nearly 4 years ago, I built my fathers website using BigCommerce. He runs an engineering business and at the time he was looking at shifting his main source of income from eBay sales to our own website sales.
+
+I am a novice in most aspects of web design including coding, photoshop, marketing etc. as you can probably tell from a glance from the webpage: www.lprtoolmakers.com.au
+
+Recently I was studying @ university however the last couple years have been really rough for me, losing $20k worth of assets (almost 100% of my net assets, I'm young) and my parents have offered me an opportunity to come home. I really want to impress my Dad and earn my keep by turning the website around and increase the sales &amp; traffic.
+
+If you have any hints, tips or anything of that nature, please share, I'd really appreciate any help and am open to all sorts of advice.
+
+The business is small/ medium sized, has quite a good reputation within the Australian engineering community.",12,5,2017-03-25,ECOM,0.02285962738096714,0.9077264666557312,0.069413922727108
+woocommerce,Plugin suggestion for product feed export,"I'm having the HARDEST time finding a feed plugin that also exports GTIN/UPC/EAN. I'm using WP-Lister to manage my eBay and Amazon stores, but I'd like to export this feed and see what products have UPCs missing. It's kind of a huge pain to go through each individual item. Any suggestions? Thanks!",0,5,2017-03-25,ECOM,0.043606191873550415,0.9084775447845459,0.047916267067193985
+ecommerce,Would have any interest in a new inventory management service?,"Currently discussing about a project with a friend and I would like some feedback.
+
+Are you using an inventory management system (free/paid)?
+
+Are you satisfied with the current systems on the market?
+
+What features would you like to see the most?
+
+Thanks!",3,4,2017-03-25,ECOM,0.013399935327470303,0.9298276901245117,0.056772321462631226
+ecommerce,Need help with starting a business,"Hi,
+I have around 4000 dollars to invest in business. I'm located in Europe and I am stuck. My idea was to start an ecommerce business with simple webshop and facebook page. Problem is I don't know how to do marketing for webshop or facebook page. I don't have a specific niche of products more like all around shop where you can find anything for anyone and the selling point should be the prices. I can maintain low prices of products even lower than competitions. Plan is to sell only nation wide (locally) for starts. I know lots of you will say you have to have a niche etc. but I simply don't have the ""balls"" to specialize for niche. I think that with wider product selection you can have wider selection of potential buyers and with that at least something will sell.
+
+I need advices, guidlines, help, anything to get me started. I simply don't know where to start. Currently I'm in process of opening the company, webshop design is done and thats it. Im stuck I don't know what to do next how to organize myself, how to do marketing, how to ""sell"". I know that this text is a little short of information but that is what I have currently. Any help or advice is more than welcome. It's my last money to invest and I need to be careful with it. I don't expect any profit in next 2 months from beginning but I need to have some comeback after that time. Currently my monthly company expenses are :
+Employment: 90$
+Book keeping: 90$
+Bank: 30$
+Other nation taxes etc: 100$
+
+Thank you reddit, thank you entrepreneurs.",19,3,2017-03-25,ECOM,0.0310814268887043,0.925430953502655,0.043487634509801865
+ecommerce,When is it appropriate to contact suppliers?,"I'm trying to figure out if there is a sweet spot for this. I Still trying to nail down my final product offering and in so doing have begun contacting suppliers. Is that to soon? I don't have a store built yet. It seems basic to figure out who will supply your product before you begin selling it, but that seems to be a big hang up for me.",4,2,2017-03-25,ECOM,0.03479675203561783,0.8256720900535583,0.13953116536140442
+woocommerce,Help Request - Woozone Amazon Affiliates plugin failing to import photos,"Hi folks, thanks for your time reading this.  
+
+I was excited when I got Woozone going, it looks like a very promising and powerful tool, but I ran into a problem. 
+
+Importing with ""Insane Import Mode"" from Amazon seems to work perfectly, *except* for importing the photos.  
+
+After the insane import, they come in looking like [this](http://imgur.com/YYRlPVe). 
+
+Then I tried to run the asset download tool, which before execute looks like [this](http://imgur.com/7CizO92) and [this](http://imgur.com/QPH4sJL)
+
+After executing, I get [this](http://imgur.com/ZIDBaJO) 
+
+In what might be a clue, the error message from the last picture comes up again after clicking OK.
+
+Has anyone seen this problem before?  Were you able to resolve it? I'm anxious to get back to work :)
+
+I've disabled almost all unessential plugins, deactivated and reactivated Woozone, to no avail.
+
+Here is my [System Status](http://pastebin.com/kUnPNrLm) report.
+
+Thanks for reading! I look forward to hearing from you.",0,2,2017-03-25,ECOM,0.04308983311057091,0.9058270454406738,0.05108312889933586
+woocommerce,Plugin for Rerouting Customers To Retailer?,"Is there a way that I can have visitors to a WC store be rerouted to a B&amp;M retailer in their area who is selling the brand? So, the brand has it's online WC shop, but to protect it's wholesale customer (the B&amp;M retailer) a customer is rerouted to the retailer's store once they input their zip code to check out.
+
+If a plugin that does this doesn't exist, how difficult / expensive would it be to customize this function?
+
+TY",0,2,2017-03-25,ECOM,0.040473733097314835,0.9232589602470398,0.036267321556806564
+shopify,Is there any free trials that are more than 14 days?,"A while back I signed up for a 14 day free trial. I don't have much experience with trying to set up a shop and I cancelled it before I got charged. Is there a way to get a longer trial to try and get a shop set up without having to pay a bunch? Also, if I get another free trial: can I add a regular domain to it later?
+
+
+Thanks in advance.",5,2,2017-03-25,ECOM,0.027033213526010513,0.8986126780509949,0.07435408979654312
+shopify,Does anybody sell their art though Shopify?,"Hi guys,
+I've been putting up some of my artwork on instagram https://www.instagram.com/watercolorprintsartsstudio/
+
+People seem to like it so I'm thinking why not sell some prints. Shopify looks like a good way to do. Does anyone link a printing company to their store? Do you have your prints done up ahead of time and ship them out to customers from your own office? I like the idea of keeping everything turnkey, but the other sites like society6 etc charge so much for that. Thanks for any insight anyone has. I'd love to see your stores too by the way!",10,1,2017-03-25,ECOM,0.018094290047883987,0.9152795076370239,0.06662626564502716
+shopify,To those who have no traffic and sales,"Not getting traffic and sales on your Shopify Store?  I see this type of ""help me"" on the forums.
+
+Based on all of the stores I've worked on, here are the typical issues causing the problem (assuming whatever product or service is a viable competitive product):
+
+1. No traffic is a reflection of your marketing and not of your website site itself. So if you have no traffic the problem lies with you not reaching out and getting the attention of the potential customers properly. So if you're not getting traffic working on your website likely will not significantly help. You need to work on your marketing.
+
+2. No sales is a function of problems with your website, products, or a combination of the two. High bounce rates usually indicate poor layout and presentation. Low conversion rates usually reflect a combination of lack of conveying value proposition, building customer trust, and a website that is not easy or enjoyable to use.
+
+Understanding and using analytics is absolutely necessary in resolving problems with your website.",2,14,2017-03-26,ECOM,0.27058979868888855,0.7004228234291077,0.02898743934929371
+ecommerce,Link trade anyone.,"I run a website that has Alexa ranking of 1.2 million. I'm interested in trading back links with somebody who has a similar ranked website.
+
+We can do backlink exchanges on our blogs. I own a tea shop andnd blog about tea. Interested websites might be disgusting Health Fitness Yoga Wellness or tea.",1,5,2017-03-26,ECOM,0.029062243178486824,0.9362606406211853,0.034677062183618546
+ecommerce,Feedback for my store,"Hey guys! Started my store a month back, some feedback would be really nice. Where can I improve since my conversion rates have been drastically low?
+
+store: https://funcstore.com
+
+The target audience is multiple countries techies and programmer by adverts about tshirts and other cool tech they can buy via FB ads.",6,4,2017-03-26,ECOM,0.016466764733195305,0.32844677567481995,0.6550863981246948
+dropship,Is it illegal to sell trade marked items off of aliexpress?,"For example Marvel,Harry Potter, Star Wars and Anime niche is it possible to get sue.",4,4,2017-03-26,ECOM,0.042406581342220306,0.9075521230697632,0.050041209906339645
+ecommerce,Please critique my website and any advice on how to drive online traffic,"I started an online custom framing website that allows users to upload their images or mail in their art to have them professionally custom framed at affordable prices. We've been open for almost 4 months and have been getting good feedback but are lacking in traffic (&lt;25 visits per day). We are currently only marketing via instagram (https://www.instagram.com/honestframes), Google AdWords and email campaigns to about 120 subscribers. Any advice on the website or ecommerce traffic would be greatly appreciated.
+
+https://honestframes.com",13,3,2017-03-26,ECOM,0.014803593046963215,0.7520131468772888,0.23318324983119965
+woocommerce,Add all attributes automatically?,"I'd like to make it so when i go to add a simple product, all the custom attributes would show up instead of having to manually add each attribute; how can this be done? Thanks!",2,2,2017-03-26,ECOM,0.032416172325611115,0.9428276419639587,0.024756232276558876
+ecommerce,"Online Shopping India, Best Deals and Offers, Discount Coupons and Promo Code",[removed],0,1,2017-03-26,ECOM,0.018490832298994064,0.9375109672546387,0.043998222798109055
+ecommerce,"FREE 90 DAY SHOPIFY CHALLENGE $250,000+......... KEEP READING YOU WILL LOVE THIS!!!",[deleted],0,1,2017-03-26,ECOM,0.01766427420079708,0.8780366778373718,0.10429904609918594
+shopify,Happy to Assist w/ Shopify,[removed],0,1,2017-03-26,ECOM,0.038050420582294464,0.9135689735412598,0.048380523920059204
+ecommerce,Ideas for sports/diet niche,[removed],0,1,2017-03-26,ECOM,0.04104568809270859,0.9303222894668579,0.028632046654820442
+ecommerce,Amazon to collect sales tax in most states starting April 1st,"CNBC reports that after more than two decades of bad blood and legal wrangling between states and the online giant, Amazon will collect sales tax in all states that have such a levy. Collection in Hawaii, Idaho, Maine, and New Mexico, the final four states where shoppers don’t pay required tax through the site, will begin on April 1st.",4,7,2017-03-27,ECOM,0.05191546678543091,0.9264929294586182,0.02159157767891884
+ecommerce,Subscription Box Start-up,"Currently looking into starting a subscription box, was wondering if anyone had any experience with this. There are several ecommerce platforms to choose from and I'm wondering which will be most cost effective. Its a start-up so we will be building from the ground up and would like to keep initial investment low, but also not looking to get killed on transaction fees and the like. So far, I've looked at several options. Shopify, Cratejoy and Subbly all offer solutions at the cost of a subscription and sometimes transaction fees. There is also the option of going the wordpress route, but IANA web dev, so I'm wondering if that will be too technologically intensive and distracting from growth. Does anyone have any input? Thanks in advance.",20,6,2017-03-27,ECOM,0.01823348179459572,0.9175307154655457,0.06423582136631012
+ecommerce,Launching New Site - what to change,"So I have been in Ecommerce for 5yrs now and launched a new product under my existing brand.  However it is really doing well for itself and my current ""branding"" doesn't really fit great with this product so I have been thinking about building a dedicated ecommerce store for a most a handful of my Products with the branding and site feel better focused.
+
+So I currently have bigcommerce with Stripe and PayPal.  But I have been considering mixing things up a little - maybe try something new like Shopify or woocommerce Braintree etc. 
+
+So my question is what service have you changed to and so glad you have?? Any specific plugins to try?
+
+Since I am building a new brand now is the time to try new things.",6,5,2017-03-27,ECOM,0.01403802540153265,0.8737473487854004,0.11221464723348618
+ecommerce,Paytm to become member of ASCI,[removed],0,4,2017-03-27,ECOM,0.01956642046570778,0.9376384019851685,0.04279520362615585
+ecommerce,X-Post from PPC: What's your Anti-Scrapping Strategy for Your Ecomm sites?,"**Cross-post from the PPC subreddit**
+What are you guys using for anti-scraping tools for your ecomm sites to protect them from competitors scrapping your prices &amp; inventory levels??",6,4,2017-03-27,ECOM,0.040899381041526794,0.928386390209198,0.03071427345275879
+ecommerce,Today's news on ecoomerce,[removed],0,3,2017-03-27,ECOM,0.05018617585301399,0.926476776599884,0.023337019607424736
+woocommerce,"Plugin for Referrals - Send Emails, Generate Link","My company is looking for a referral plugin that will do the following:
+
+* Send the customer an email after purchase of a specific product, OR after a purchase over a specific amount (either will work for our purposes)
+
+* Give them a link back to our store that can be shared with others, giving them a defined discount (X% off, or $X off their purchase). If possible, we would like that email to include social share links to make it as easy as possible for the customer to share their referral link - you know the ones, that open the social platform and auto generate a post message.
+
+* Gives the customer a discount/reward when their referral link is used to make a purchase. Whether that's a free product under $X each time their referral link is used, or $X off up to $XX each time their link is used.
+
+My boss received an email that does pretty much exactly what we'd like to do: http://imgur.com/a/tBuTa",1,3,2017-03-27,ECOM,0.02552001178264618,0.9408696889877319,0.033610280603170395
+shopify,am I doing Google analytics right for my shopify store?,[deleted],0,2,2017-03-27,ECOM,0.030272137373685837,0.9373648166656494,0.03236307203769684
+woocommerce,Decrease the Size of the Currency Symbol,"Hello! I saw it is possible to change the currency sign with the following code alterations:
+https://docs.woocommerce.com/document/add-a-custom-currency-symbol/
+
+What I wish to do is merely decrease it's size, have the € symbol in a decreased size in comparison to the ammount that is in numbers.
+
+Does anyone know how to achieve this? I believe it could also be achieved with CSS but I am not very CSS savvy.
+
+Thank you very much for the attention and your advice in advance.",2,2,2017-03-27,ECOM,0.03421095386147499,0.9135214686393738,0.052267588675022125
+ecommerce,What is a good benchmark dropout rate at account creation?,[deleted],2,2,2017-03-27,ECOM,0.04188154265284538,0.8970183730125427,0.061100076884031296
+ecommerce,"Getting killed on a import fee of $15,000 ""Anti-Dumping duties"" - Need help to figure out an alternative solution","I understand this is kind of a complex in depth issue but I would really appreciate any help regarding this matter if anyone has experience with this.
+I am importing wax candles and my broker (flexport) is claiming this is subject to an Anti Dumping scope (http://web.ita.doc.gov/ia/CaseM.nsf/136bb350f9b3efba852570d9004ce782/c661072a1bdc44ce85257677006292e0?OpenDocument)
+This fee is going to be around $15,000 which #1 I cannot afford and #2 eliminates any hope of a competitive price I can offer.
+This is the first time I have ever had to deal with this. Is there any way around this? What would be the penalty of not claiming the product is subject to this?",5,9,2017-03-28,ECOM,0.017632074654102325,0.8782879114151001,0.10408002138137817
+shopify,[NEW SHOPIFY APP] Automate Twitter Activities,"Hey Guys,
+
+We've recently created **[Tweet Auto Posting](https://apps.shopify.com/tweet-auto-posting?ref=spurit)** app to automate Twitter activities:
+
+* ✓ The app posts new products to your Twitter account and saves your time and effort.
+* ✓ Specify how many, which products, and what time you want them to be posted.
+* ✓ Increase your company online presence, demonstrate customers your loyalty and grow your sales!
+
+We would like to hear your thoughts! Thanks.",2,6,2017-03-28,ECOM,0.018324142321944237,0.8836586475372314,0.09801722317934036
+ecommerce,How can I make the most of sale/Holidays?,"I'm going for it this month. I'm paying 1500 to a large youtuber, putting 500 up for adwords and maybe a few postings on large sites.
+
+How can I make the most of this sale? Any tips to increase sales?
+How can I make sure I get a nice CTR with the youtuber?
+
+Thanks!",6,4,2017-03-28,ECOM,0.020683109760284424,0.8107789158821106,0.16853798925876617
+dropship,Ok so I have built my websites for my 2 niches and I am beginning the process of contacting suppliers. Anybody have some good advice for what to say and how to find suppliers?,,2,3,2017-03-28,ECOM,0.01911916211247444,0.9225971102714539,0.05828370526432991
+woocommerce,"How do I autoban (IP, or else-how) users with non-standard logins",[removed],2,3,2017-03-28,ECOM,0.11684906482696533,0.8656173944473267,0.0175335593521595
+ecommerce,Best way to start site with 3000+ products?,"What is the best option to setup an ecommerce site with this many products?
+
+Woo commerce is too laggy /slow
+Shopify and big commerce overpriced
+Opencart/mag too hard to customize
+
+Any options?",21,3,2017-03-28,ECOM,0.01715846359729767,0.9032605886459351,0.07958102226257324
+shopify,[Hiring] Looking for a Shopify whiz to make our ecommerce store design a reality,[deleted],3,3,2017-03-28,ECOM,0.021138176321983337,0.9193093776702881,0.059552501887083054
+dropship,Wisdom Needed,"Hello all, I've launched my website a couple of weeks ago and I'm having trouble building traffic. I've also started an Instagram account (we have about 600 followers) but that's not seeming to help much. Any suggestions would be greatly appreciated. Thanks!
+www.schmidtts.com",2,3,2017-03-28,ECOM,0.013392290100455284,0.8249370455741882,0.16167066991329193
+shopify,Local Delivery apps,"I'm building out a local delivery based business and I'm looking at the apps available and not finding what I want.
+
+I've looked at Local Delivery, Parcelify and Store Pickup &amp; Delivery. They are close, but still not doing what I want.
+
+* 1.) Select delivery date and time/window at the checkout.
+* 1a.) provide option for store pickup
+* 2.) Calculate shipping based on zones, not postal codes. - The business is in Los Angeles and the postal codes are not at all indicative of the actual time to deliver. I need a tool that will allow me to define zones.
+
+Anyone have any ideas about solutions that are better than the above mentioned apps?",2,2,2017-03-28,ECOM,0.019967710599303246,0.9378824234008789,0.042149875313043594
+woocommerce,How to use WooCommerce import CSV Extension to Import or Export Products,[removed],1,2,2017-03-28,ECOM,0.028018752112984657,0.9473100900650024,0.024671180173754692
+ecommerce,"No PayPal, mobile+whatsapp+instagram centric Customer Base... one click Instagram platform?","Hello, I recently closed my physical store and wanted to continue selling online. I was trying to get a Woocommerce site up and running but found the site to be rather cumbersome and hard to get users to sign up and buy since they're most mobile based and Woocommerce does create quite a lot of friction to buy, especially when PayPal (any any other system like Stripe etc.) is not supported.
+
+I live in a country (400K people) where users are not very desktop/web (website) savvy (so many webstore, when they promote on Facebook and Instagram, users will just keep saying ""Please PM price"", ""How to buy?"", ""Where is meeting point?"" etc., as if they're interacting with what we locally called a Whatsapp/Instagram seller), highly Instagram/Facebook driven, and almost all deals have to have some Whatsapp intervention, especially when we don't have a delivery company in the country as well.
+
+My thoughts now is.. setup a web store and share the links in Instagram and Facebook when I am promoting specific product. I am wondering if there's a platform/service/software/saas/etc that allows users to click one link, and they'll be redirected to a buy page (in mobile Safari etc.), where they can register as a member by Logging in with Facebook, and then hit a buy button. I know there's one click to buy Instagram service like Soldsie, but am wondering if anyone had come across any that instead of sending you an email invoice, it sends you SMS or Whatsapp message? Not everyone in my country uses email but they always use Wahtsapp and sms.",5,7,2017-03-29,ECOM,0.05337464436888695,0.921527624130249,0.025097684934735298
+ecommerce,"Store not making sales, need advice","Store up and running for over three months have had plenty of traffic (6800 plus visits) to the website but still no sales to date. 
+
+Currently this month we have had over 2200 visitors according to our reports with two abandoned carts.
+
+My knowledge on website isn't great so I am not sure what is going wrong here, using Presta Shop- www.urbanvape.ie
+
+Thanks in advance for any constructive feedback you can give.
+
+UPDATE *Stats on visits*
+http://imgur.com/a/ST4fx",10,5,2017-03-29,ECOM,0.07058589905500412,0.8951977491378784,0.034216370433568954
+ecommerce,"Me again, www.aestheticcosplay.com - updated website looking for suggestions on layout","Hello,
+
+I posted around a week ago for a review of my website www.aestheticcosplay.com
+
+Since then, I have done significant changes to my website and wanted to see if anyone had any feedback. I still have to update the about us section as well as the FAQ on the process of ordering a custom costume. I have partnered with a couple of designers in the space and have their designs on my website. Any suggestions welcome.",1,4,2017-03-29,ECOM,0.041345976293087006,0.9298002123832703,0.028853820636868477
+ecommerce,Etsy to other platform that updates?,"There is literally nothing that works, and sellbright quit working last week and have had issues with it dumping products into draft.
+
+
+I have found it as a dead end , and there is no other way than to go solo on the site and start fresh.",2,4,2017-03-29,ECOM,0.2662898302078247,0.7077248096466064,0.025985311716794968
+woocommerce,Plugin to hide prices AND specific attributes to non-registered users,[deleted],0,3,2017-03-29,ECOM,0.0602278895676136,0.9184849858283997,0.02128714509308338
+shopify,What are shopify apps coded in?,"I want to have a custom app created for my store and would like to outsource the development via upwork.
+
+I'm stuck on what type of developer I should be looking for.
+
+Are most shopfy apps created with Ruby? Or php? Or something else?
+
+Basically, what type of developer do I need?
+
+Tyler",13,3,2017-03-29,ECOM,0.02152453176677227,0.9301415681838989,0.048333946615457535
+woocommerce,"Received email announcing renewal of WC extension. I don't want to renew. To cancel renewal I need to log in, get redirected to wordpress.com login page. I don't have a wp.com account. My WooThemes credentials don't work. Can't login, can't cancel renewal. Brillant.",Any suggestion to get out of this trap?,6,3,2017-03-29,ECOM,0.05497559905052185,0.9155101180076599,0.02951424941420555
+woocommerce,WooCommerce Checkout Page Customization Guide,https://atlantisthemes.com/woocommerce-checkout-customization/,0,3,2017-03-29,ECOM,0.03613780811429024,0.9273947477340698,0.036467473953962326
+woocommerce,How do I hide certain product attributes unless the user is logged in?,"As the title says, how can I disable certain attributes from showing unless the user is logged in? I'm aware I can just check off ""display on frontend"" but I only want it to show when someone is registered / logged in. Thanks for any feedback!",3,2,2017-03-29,ECOM,0.06940504908561707,0.9098812937736511,0.020713679492473602
+dropship,Value my Shopify business,"Hey guys, 
+
+I have a drop shipping store in the animal niche, it does an average of $2000 revenue a month for the last 3 months with an average profit of $1000-1500.
+
+Just wondering what kind of price I'd be able to sell it for. Right now I'm not looking to sell because it makes me a decent profit but in the future I'll sell to fund other projects! 
+
+Have an Instagram with 10k real followers (used instagress) 
+Email list of over 300 interested buyers 
+
+Thanks and happy drop shipping!",9,2,2017-03-29,ECOM,0.022826310247182846,0.8921647071838379,0.08500903099775314
+shopify,"Why are people setting up stores then ""wondering"" what to sell?","Is the concept of actually having a business plan so completely incomprehensible to people?
+
+On a technical side it show how low the barrier to entry to online retailing is.
+
+I get calls all the time how I have a site but don't know what products to sell.  My response now has become I have no response other than cut bait and save yourself further losses.
+
+Be smart.  Would you buy something off your site?",14,11,2017-03-30,ECOM,0.03321842849254608,0.9201772212982178,0.04660436883568764
+ecommerce,Google Adword Strategy for Ecommerce,"Hello guys, I have been moderately successful at Facebook marketing for dropshopping but I have absolutely no clue how to make it work with Google Adwords. All existing material out there only caters to FB but given how FB is getting so much tougher this year compared to last year (fb ad spend goes out of control so quickly), I'm looking for new ways to improve my game.
+
+Any advice on how to organize campaigns and test products in a systematic manner would be greatly appreciated!",4,10,2017-03-30,ECOM,0.017297429963946342,0.8574545383453369,0.125247985124588
+ecommerce,"What is the most annoying thing on ""Add a Product"" page on Shopify/BigCommerce/etc?","It takes a while to be able to add a product, what would you rather have different or what is the least used option on that page?",5,6,2017-03-30,ECOM,0.030106179416179657,0.943412721157074,0.026481060311198235
+ecommerce,Service for accepting phone orders?,"if so, who and how do you like them? I'm just looking for someone to sit on the other end of the 888 number, answer questions according to a script, and enter the payments into my shopify dashboard. I've got a growing ecommerce site and want to take this off of my VA's desk and be able to answer the phone to take an order 24/7.",3,4,2017-03-30,ECOM,0.021412210538983345,0.9324331879615784,0.04615461826324463
+ecommerce,Does anyone have experience with DataFeedWatch?,"I am looking at different options, probably close to 20,000 SKUs. I have seen one review each way for them, but the negative review didn't go into details as to why they weren't a fan. Thanks.",0,3,2017-03-30,ECOM,0.22666770219802856,0.737469494342804,0.035862814635038376
+ecommerce,How to Increase Sales of e-commerce Website?,"We have newly  developed e-commerce and affiliate program http://www.megadeals360.com/ . Provide all kind of product.
+Our question how to increase sales using organic SEO.
+How to target keyword  for better SERP.",6,3,2017-03-30,ECOM,0.010684577748179436,0.8089889883995056,0.1803264617919922
+ecommerce,Who takes care of your product personalization?,[deleted],1,3,2017-03-30,ECOM,0.020413635298609734,0.9226998686790466,0.0568864531815052
+ecommerce,Letting Customers Pay Bills Online?,"Sorry if this isn't the place for this but I wondered if anyone had any experience with creating ""pay your bill online""-like functionality into your website with either (preferably) Stripe or PayPal.
+
+Basically we're wanting to be able to include a link in physical bills that people can go to to pay them online.
+
+Thanks in advance",6,3,2017-03-30,ECOM,0.017084037885069847,0.9258922934532166,0.05702365189790726
+shopify,Segmenting customers based on orders?,"I have a Shopify site with clothing sizes for variations. I'd like market to customers (via email) based on their purchased sizes. So people that buy larger sizes might receive emails with models that are more plus size, and vice versa. 
+
+Anyone know how I can accomplish segmenting a list based on purchased variants? Maybe I can tag customers that purchase larger sizes with a certain tag, and people who buy smaller sizes with a different tag? Then filter customers based on tags? 
+
+Anyone have an idea?
+
+Thanks!",0,2,2017-03-30,ECOM,0.029930992051959038,0.9361045360565186,0.03396449238061905
+shopify,Using Sprocket to Dropship,"New to the Shopify game, but kind of messing around so I can learn more about SEO and advertising.
+
+Read about a Shopify app called Sprocket recently on reddit. It looks great. And so far seems to work well and is very similar to Oberlo. This is exciting because Etsy has some awesome products from very talented people. 
+
+2 Questions:
+
+1) Does anybody have any experience using the app?
+
+2) What is the ethical (or legal) etiquette here? Do you need to contact the original seller and make sure its all cool to push their products? Or is it just kind of a win-win all the way around?",0,2,2017-03-30,ECOM,0.01438641082495451,0.8767247796058655,0.10888879746198654
+ecommerce,Redesign eCommerce Review,"Just completed a home page front end rebuild on kitchencabinetkings.com
+
+The old site looked like http://www.clemsonwebdesign.com/kitchencabinetkings.php
+
+The site is on Magento. 
+
+Any thoughts? Like the look, build and layouts? Notice any bugs?",2,7,2017-03-31,ECOM,0.021321352571249008,0.9373469948768616,0.04133168235421181
+shopify,Amazon and Walmart in price war,"There's an article today on google news how Amazon and Walmart are going all out on price wars.
+
+How is your store going to compete?  In the short term Amazon and Walmart are prepared to sell below costs.",5,7,2017-03-31,ECOM,0.1530434638261795,0.8185575604438782,0.028398985043168068
+ecommerce,"As a brand owner/manufacturer, how can we leverage drop shippers?",We have a product in the outdoors space which does very well. I know it could do great with access to the right audiences through drop shippers. Are there any good resources out there to find high quality potential drop shippers? Thanks!,12,6,2017-03-31,ECOM,0.014103901572525501,0.6616792678833008,0.3242168426513672
+ecommerce,Do you use subdomains ?,"So i just found out about subdomains and i consider moving my blog and shop to blog.mydomain.com and shop.mydomain.com but i haven't read enough articles to judge if it would be a benefit. 
+Are you using subdomains for your website and have you experienced changes in user behaviour, SEO and other metrics after changing ?",6,6,2017-03-31,ECOM,0.4239070415496826,0.5264121294021606,0.04968084394931793
+ecommerce,Payment Depot update,[deleted],3,4,2017-03-31,ECOM,0.04397130012512207,0.9264283776283264,0.029600298032164574
+ecommerce,"My first business, no sale, no growth. Need feed back","My website has published recently, the website was built by my brother and myself. I did spend almost AUD $150 for FB ads and Google ads-word. My Google Ads word campaign got more than 100 clicks but I still have no sale at this stage. FBs ads brand awareness did ok as I get a few engagement (link click) for 15k people reached. However, I still have no sale at the end of the day.
+
+Now I question everything, is my site got problem and they are not good enough? Or my pricing? Or my product?
+
+Should I continue my campaign or give away the product to get review or feedback? 
+
+Thank you for reading and I appreciate all the honest feedback
+
+[My website link!](https://www.ezyby.com.au)",21,4,2017-03-31,ECOM,0.02492496930062771,0.930832028388977,0.044242966920137405
+ecommerce,growing frustrated trying to start up,"I am trying to start a small online store that will sell anime production material. At any time I'll have up to a hundred products but only ever one of each product.
+I've tried using sites like weebly and shopsite but each one has issues. I don't know how successful this site will be and I don't have a huge amount of startup. I own a domain and hosting for a year, and was hoping to be able to find something cheap/free to test the viability of the store before committing to a monthly fee.
+
+Am I just an idiot for expecting to be able to do that? Does anyone have any advice?",5,3,2017-03-31,ECOM,0.04335566982626915,0.9172301292419434,0.03941415250301361
+shopify,Theme Development/Third Party,"Hey all--
+
+If I were a developer, I'd be spending my days developing a Shopify theme creation tool. Much like Gempage (https://gempage.getshoplaunch.com/). 
+
+I'm wondering if anyone is familiar with third party theme developers who are developing using Shopify's sections. 
+
+I'm looking for a theme with lots of options. Something you can actuqlly customize. Say, with sections that contain a ""Divi"" (wordpress theme) type quality. 
+
+This is the direction Shopify seems to be heading. - however slow - in its theme development. I'm wondering if anyone is almost there. Also of other Gempage-like projects besides Shogun.
+
+Thanks!
+
+**EDIT:** For those out there struggling with themes, I'm talking to the creator of [Gempage](https://gempage.getshoplaunch.com/) now. It's pretty cool. I'm tempted. It's sorta like Webflow... kind of.",6,3,2017-03-31,ECOM,0.025434551760554314,0.9322441816329956,0.04232129082083702
+shopify,How do you change the products per row from 1 to 2 on mobile for the Brooklyn theme?,"As I was going through the css, I only saw an option for medium and large screens. I was able to change it to 4 items per row for desktops, but I can't figure out how to change it to show 2 products per row on mobile. 
+Thanks in advanced!",0,3,2017-03-31,ECOM,0.01353702787309885,0.8958128094673157,0.09065015614032745
+woocommerce,Need Variable Pricing Help...,"Hello!  One of my clients has an E-Commerce shop setup utilizing WooCommerce on Wordpress.  They offer clothing products which are often times the same, but different pricing for different sizes.  I believe WooCommerce calls it the ""Product Archives"", or the place that you can click into a category and see all product listings for that category listed, we want to show the pricing there from a specific size for all t-shirts.   So for example, currently, it shows the pricing for all size XXL shirts, but we want the price to be shown from all size Medium shirts.  How would we change that?  
+
+I have read many things online and I have found code to put in the functions page to show a price, instead of a range, but I havent found code to show a specific price, from a specific variable on all listings. 
+
+Thoughts?
+
+Thank you.",1,3,2017-03-31,ECOM,0.036212991923093796,0.9339649677276611,0.029822075739502907

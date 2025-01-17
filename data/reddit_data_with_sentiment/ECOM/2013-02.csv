@@ -1,0 +1,336 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+ecommerce,Best Ecommerce website design companies in Delhi,,0,1,2013-02-01,ECOM,0.015761110931634903,0.8657863140106201,0.11845260113477707
+ecommerce,"Best Buy closing 15 locations across Canada.
+Uppercut from ecommerce!",,0,1,2013-02-01,ECOM,0.1615014374256134,0.7957903146743774,0.04270825907588005
+ecommerce,Retail is Dead. Long Live Etail!,,0,0,2013-02-01,ECOM,0.062082450836896896,0.8955802321434021,0.0423373319208622
+ecommerce,How To Sell Flowers Online,,0,1,2013-02-02,ECOM,0.030980974435806274,0.9290134906768799,0.04000554606318474
+ecommerce,"Magento Bulk Product Upload,Product CSV Upload &amp; Data Entry Services",,0,1,2013-02-02,ECOM,0.020420262590050697,0.8999525308609009,0.07962723076343536
+ecommerce,Online Shopping In Delhi,,0,1,2013-02-02,ECOM,0.04610170051455498,0.9227403998374939,0.03115791454911232
+ecommerce,E-Commerce Development,,0,1,2013-02-02,ECOM,0.0228923037648201,0.9102951884269714,0.0668124407529831
+ecommerce,Re open amazon account,"We had some bad time in amazon and account suspend after having some customer complain and  refund.
+
+Now problem fixed and we would like to reopen in amazon , the new account was rejected, probably causes they detect we are the same company (possibility due to credit card info)
+
+Any clue?",0,0,2013-02-02,ECOM,0.9369370341300964,0.05228347331285477,0.010779518634080887
+ecommerce,"eCommerce website owners, what do you use for inventory/accounting software?","I am planning to use Quickbooks Pro, but the problem is, I cannot control the sizes of the individual products. 
+
+What is your software?",13,1,2013-02-03,ECOM,0.05988971143960953,0.9234803318977356,0.016629938036203384
+ecommerce,kreativedesign marketing &amp; wedesign,,0,0,2013-02-03,ECOM,0.03322369232773781,0.9036893844604492,0.06308690458536148
+ecommerce,Moving tech-illiterate friend from eBay to his own site. What's an easy to use eCommerce script I can install for him?,"A friend of mine who sells clothing on eBay wants to get away from their fees, the only problem is... He's fairly technologically illiterate. He's been able to work eBay fine on his own for the past few years, but wants his own site now.
+
+Problem is... All of the eCommerce scripts I've found are **way** too complex, they have 5+ tabs of multiple pages of information to fill out, require Model #s (OpenCart, which would be my first choice otherwise) and other information for adding new products that he'll never use in a million years.
+
+So is there something that's really easy to use, that an eBay seller could figure out pretty quickly? Preferably something that lets me add more fields as he needs them, rather than having hundreds he won't ever use that I have to manually remove the code to.
+
+Really he just needs all of the basic eCommerce stuff (Shopping cart, checkout, product listing, search, etc.), and a simple way to add products with images, name, description, and a few custom fields.",11,5,2013-02-04,ECOM,0.03231331333518028,0.935707151889801,0.0319795198738575
+ecommerce,Review my eCommerce platform mmerch.com,"I've been building mmerch.com by myself for the past 2 years, It's just about all done and I'm looking to get some reviews and suggestions about it. Feel free to let me know of anything you'd like to see added or any criticism you have about it.",10,3,2013-02-04,ECOM,0.022969814017415047,0.9190642237663269,0.05796600878238678
+ecommerce,The Pros And Cons Of Buying Twitter Followers,,0,1,2013-02-04,ECOM,0.02856351062655449,0.9178106784820557,0.05362580344080925
+ecommerce,Cheap Advance Auto Parts Monster Jam Tickets,,0,1,2013-02-05,ECOM,0.02892877720296383,0.9308823347091675,0.04018890857696533
+ecommerce,$1 Trillion in E-commerce Sales in 2012,,0,1,2013-02-05,ECOM,0.03300602361559868,0.8932065963745117,0.0737873986363411
+ecommerce,"A compilation of wisdom, solutions and advice from some of the biggest companies in eCommerce. (specifically in Canada but some good general insights as well)",,0,0,2013-02-05,ECOM,0.01563771441578865,0.8803492188453674,0.1040131077170372
+ecommerce,Using the AIDA Marketing Model to Improve eCommerce Loyalty (4 of 6),,1,0,2013-02-05,ECOM,0.010773157700896263,0.8344126343727112,0.1548142433166504
+ecommerce,Ecommerce alternatives for a small business,"www.clemson4wheel.com
+
+We run a ecommerce front end called CPOnline from Radiant Counterpoint. It has integrated functionallty with the point of sale system we use called Counterpoint SQL. We are looking to upgrade to a more up-to-date and functional system with better shipping options, Better layouts and up to date web standards. The current platform is extremly lacking. No doctype, No javascript, flash or web standards at all. Everything you do with it has to have some kind of work around or shady way of functioning. 
+
+We are approaching our bandwith limits of the platform with outrageous charges and unable to expand.  Currently we have around 5000 (give or take) SKUs online.
+
+Radiant was recently aquired by NCR and they updated their platform using the Magento community source and included integration with the Counterpoint POS system. To upgrade to the new platform requires giving up a percentage of sales which is a huge turn off. 
+
+http://www.ncrretailonline.com/
+
+I understand the NCR is based off Magento Community (open source). It has the basic functionallity of Magento and one theme. The normal community add-ons, themes and other Magento packages will not work on the platform.  All customization has to be done with css or xml and even that functionality is dependent on my problem solving skills. Any other custimization NCR will want to charge you for as with their last cponline platform. 
+
+The good thing about the platform is the Counterpoint SQL integration and the ease of use that they claim migrating from our current site.
+
+
+Whats the alternatives? Ive looked into Magento GO http://go.magento.com/, BigCommerce http://www.bigcommerce.com/, OScommerce http://www.oscommerce.com/, Shopify http://www.shopify.com/. 
+
+From looks, appeal and cost I personally lean towards Magento GO. The pricing is good and without the % of sale fees of NCR. Good bandwith and good storage capabilities. 
+
+The ability to add themes, plugins and addons. More shipping and cart options. Good SEO.  I also like the large community. Adds just a little extra layer of helpful information if you get stuck. Its pretty much the ""new"" NCR platform without the % fee and is more open with what you can do with it. 
+
+The bad is the Counterpoint SQL Integration. Theres sites that claim to have products that integrate the two. The one below even claims to be a NCR resaler. Given this Im inclined to think integration wouldnt be to awful difficult. 
+
+http://www.cpmagento.com/
+
+Next on my list of likes is Shopify. It looks great and promising and shares many of the same features with Magento GO but I see no information online about integrating it with Counterpoint SQL. All but the highest pricing plan have a % based sales fee like NCR that my employer wants to stay clear of. 
+
+So out of all of these options and considering our current platform, What would you go with and why? We have two people on site (myself and the Owner/Manager - aka Boss!) that are pretty technically inclined and hopefully able to migrate, upkeep and work on the site. If we do get stuck on a major problem I would assume hiring outside help is also a possibility.  
+
+As with anything. We want to do it right the first time, this time. We dont want the problem of having to migrate again in 4 years because our platform just isnt up to date and competitive.  
+
+I understand there is going to be a learning curve with any new platform. We want to make the migration as streamlined and cost effective as possible with no hidden surprises. 
+
+Any recommendations or suggestions would be greatly appreciated. 
+
+Just for reference. The competition is the likes of 
+
+http://www.northridge4x4.com
+http://www.4wheelparts.com
+http://www.gowarn.com/",0,1,2013-02-07,ECOM,0.0344795361161232,0.9190118908882141,0.046508628875017166
+ecommerce,AIDA - Using this Marketing Model to Improve Your Loyalty Program [Part 5 of 6],,1,1,2013-02-07,ECOM,0.01407985482364893,0.919576108455658,0.06634404510259628
+ecommerce,AIDA - Using this Marketing Model to Improve Your Loyalty Program [Part 5 of 6],"Part 1: http://bit.ly/WkZg7u
+Part 2: http://bit.ly/WYDTZJ
+Part 3: http://bit.ly/Wt0Fs9
+Part 4: http://bit.ly/UT0Ahg",0,1,2013-02-07,ECOM,0.014582409523427486,0.929027795791626,0.05638980120420456
+ecommerce,How to Migrate to CS-Cart Easier and Faster,,1,1,2013-02-07,ECOM,0.050158485770225525,0.8847708702087402,0.0650707259774208
+ecommerce,E-Commerce Parcel,,0,1,2013-02-07,ECOM,0.024109702557325363,0.9063372611999512,0.06955302506685257
+ecommerce,Advance Auto Parts Monster Jam Sports Tickets,"When it comes to advance auto parts monster jam tickets, nobody does it as good as TicketDigg. Get the advance auto parts monster jam tickets at some of the most subsidized rates imaginable and be part of something special!",0,1,2013-02-07,ECOM,0.0292636938393116,0.9378693103790283,0.032867033034563065
+ecommerce,"My client (friend) wants to list INDIVIDUAL PRODUCTS on his site, as in each item in stock. Should I use RSS?","Im building a site for a computer illiterate friend, and what should have been a simple Shopify throw-together has become rather more complicated due to regional availability of various services (basically, nothing is available in Cambodia, the only gateway we can use is Singapore Bank.). Anyway, Hes making custom products and wants to list each individual item in stock, up to perhaps 200.
+
+My immediate reaction (after face-palming) was to use an RSS feed, both for ease of implementation and easy for him to update himself. Is this the right way to go, or is there something better im not aware of?",0,1,2013-02-07,ECOM,0.028107229620218277,0.9317383170127869,0.04015437886118889
+ecommerce,An Elite eCommerce Solution at eDigitalFields.com,,0,1,2013-02-07,ECOM,0.025731367990374565,0.9350277781486511,0.03924090787768364
+ecommerce,GHH Commerce launches next generation online commerce/ecommerce solutions,,0,1,2013-02-07,ECOM,0.013435304164886475,0.9054891467094421,0.08107553422451019
+ecommerce,Ever been underqualified yet the employer still wanted a interview?,"Happened to me today. I have three years experience with a mom and pop ecommerce site. I do the graphic design, HTML, CSS,  New item imports (Data entry I guess), Social media and Advertising (email blast, banners, adsense etc).  
+
+Well. Sending out resumes on Craigslist and I get a phone call back from what I think is a small mom and pop electrical supply company. 
+
+I let him know I can do pretty much all he ask but I'm no expert at some of the duties. The qualifications on the craigslist post are immense. Looks like they want a Network Admin, Programmer, Grahic Designer, Market Specialist all in one. I stated over the phone I thought I might be under qualified for the position as the responsibilities seemed over whelming for one person. 
+
+He still insisted on the interview even after my brutal honesty. I do a little research. Turns out they have what appears to be a show room and 3 warehouses in 3 upstate locations. They have a YellowPages hosted website with a couple of pages. No real ecommerce options.  Ok I tell myself. I can handle this. 
+
+I drive 40 minutes to the interview. Walk in and think to myself ""Is this the right place?"" I just stepped into what looked like a old warehouse thats been transformed into a corporate base. I'm talking glass walls with meeting rooms. Projectors. Cubicles every where full of people. 
+
+Im led into a meeting room. The VP of sales tells me how he does 12 million in sales a year. He needs someone to oversee the ecommerce side. Hes looking for a single person that can setup, diagnose and repair the servers in multiple locations, the data importation, shipping implementation,  manage the software of the office computers , the network security of the office, Handle the ecommerce website and take over the graphics and marketing from the consultants they have hired to jump start it.
+
+I just tell him what I did over the phone. That his list is huge. This is like 3 full time positions merged into one. To find one person that can handle all of that any given work week is a needle in a haystack. We go over what I do at my current job and I explain to him the best I can how we import a sql database into our ecommerce solution and it updates every 30 minutes on the inventory etc. Its all going good. Closing arguments I bring up again how hes looking for one person to fill multiple roles and its a little overwhelming. 
+
+He states ""Do you lack personal confidence?"". Im kind of taken back by the question and I just tell him that ""No. I dont lack confidence. (Im extremely confident. Overly confident. I can do anything I put my mind to) I could sit here and lie to your face, pretend Im someone Im not but No... Im just being honest. I can do every thing that you listed and have experience doing everything you stated just not on such a large scale and not doing it all at ONCE. You should be looking for a graduate degree computer science seasoned professional""
+
+After some small talk about what I do with my free time ( I only work part time atm, explained I have kids and they are my life when Im not working). We talk about salary. I explain to him and break down what I need as a minimum which is $18 an hour. After the drive every day would come out to $15 an hour. I explain to him that its not about the money for me. Im in the work force because I choose to be in the work force and I love what I do. I could easily qualify for disability (HCM, Heart defect) and rely on my wifes income but I choose not to. I enjoy my work.  
+
+He states hes had the position open for over a year and he just cant find the right person.  He tells me has a couple of more people to interview and that he planned on hiring the most qualfied and experienced one and that he would get back in touch with me within the week. 
+
+Im not sure what to think.  He qouted me a starting salary of 55k and said a 100k wasnt out of the discussion for the right person. I dont need or want that kind of money and I dont want to get in over my head at the same time. 
+
+Why did he even call me for the interview for such a high level position? Why the games? Boggles my mind.",0,0,2013-02-07,ECOM,0.04610335826873779,0.9258734583854675,0.028023136779665947
+dropship,Is it common for Asian wholesellers to have state-side warehouses that they can ship from?,"Shipping time and customer return options are important to me, but I was thinking today that there may be Asian suppliers out there that also have state-side warehouses. Has anyone else found suppliers like this?",2,3,2013-02-08,ECOM,0.03469453752040863,0.9281138777732849,0.037191614508628845
+ecommerce,Cart Software that supports multiple shipments/invoices of a single order?,"Hello,
+
+I've been hired to build a new ecommerce site for a fishing tackle company, and one of the client's needs has me hung up on choosing the right software for his store:
+
+The client often runs into orders where he only has some of the items in stock at the time. He wants to be able to ship part of the order, bill the customer for the value of that shipment only, and then do the same with the rest of the items later. Magento allows for multiple shipments, but I cannot process multiple invoices through Authorize.net, so it's no good.
+
+He doesn't have the resources to manage the inventory online, so there is no way he can mark items as out of stock when they go out of stock, and so on.
+
+Any help would be greatly appreciated.",0,1,2013-02-08,ECOM,0.023690972477197647,0.9079229831695557,0.06838610023260117
+ecommerce,Using the AIDA Marketing Model to Improve eCommerce Loyalty (6 of 6),,1,1,2013-02-08,ECOM,0.010821785777807236,0.8436668515205383,0.14551140367984772
+ecommerce,Strategies to build an eCommerce store,,0,1,2013-02-08,ECOM,0.014693562872707844,0.9019351005554199,0.08337128162384033
+ecommerce,Top 10 most popular CS-Cart add-ons,,1,1,2013-02-08,ECOM,0.030638745054602623,0.9188802242279053,0.05048111453652382
+ecommerce,Quality and Cheap Flower Delivery for Your Loved Ones,,0,1,2013-02-08,ECOM,0.019904695451259613,0.874569296836853,0.10552602261304855
+ecommerce,Custom Code or Existing Platform?,,0,0,2013-02-08,ECOM,0.014917800202965736,0.9294714331626892,0.05561073496937752
+ecommerce,Ebay Ecommerce Integration by eBayconnector,,0,1,2013-02-09,ECOM,0.027423609048128128,0.925667405128479,0.046908970922231674
+ecommerce,Third Successful eCommerce Solution,"Alright guys... I'm opening my doors up. I have recently gone public and in a new direction with this store. This time I'm trying to advertise more locally then online. Can I get some quick critiquing? 
+
+www.expandyourroots.com
+
+The Niche: Vitamins / Supplements (Defying the Ugly)
+-
+I'm looking to see if anybody here is looking in starting up a few stores. I'm looking for a partnership. Right now, I generate about $2300 profit from my other two sites monthly, not a lot but things are going to change.
+
+In regards, I would like to partner up with somebody who has funds, and knowledge. Myself am able to provide with a lot of the services from Web Development to Business Development. Marketing services/budget is what I'm currently lacking for all of my organizations. 
+
+Thoughts?",0,1,2013-02-10,ECOM,0.0345022939145565,0.9281567931175232,0.037340883165597916
+ecommerce,"Great shopping Experience. The best online store in Bangalore. I really love this place. And the best part is, they deliver faster then pizza",,0,0,2013-02-10,ECOM,0.013146990910172462,0.7734270095825195,0.21342603862285614
+dropship,Anyone had success with affiliate programs?,"I'm considering adding an affiliate program to some of my dropship sites, but I'm worried the cost will outweigh the benefits. Has anyone had luck with them? What service did you go with?",0,2,2013-02-11,ECOM,0.07628830522298813,0.8919942378997803,0.03171748295426369
+ecommerce,Realtime push messaging tool for websites to converts visitors into buyers,,0,1,2013-02-11,ECOM,0.015779180452227592,0.9104058742523193,0.07381498068571091
+ecommerce,E-Commerce Designer NY | BrioDigital | Call 888-310-8074,,0,1,2013-02-11,ECOM,0.03270266577601433,0.8940429091453552,0.07325437664985657
+ecommerce,Is India Ready For Ecommerce,,0,1,2013-02-11,ECOM,0.016888558864593506,0.8233551383018494,0.15975633263587952
+ecommerce,Why to opt for Latest E-commerce Solutions?,,0,1,2013-02-11,ECOM,0.014674902893602848,0.9045620560646057,0.08076304197311401
+ecommerce,Why Bounce Rate is Important and How to Reduce it,,0,1,2013-02-11,ECOM,0.09187842905521393,0.8163407444953918,0.09178082644939423
+ecommerce,Twitter and Am Ex Announce Hashtag Payment System,,1,5,2013-02-12,ECOM,0.05111902579665184,0.9272869825363159,0.021593984216451645
+ecommerce,8 Simple Tweaks to Sell More With Your Website,,0,1,2013-02-12,ECOM,0.030731545761227608,0.9371739029884338,0.03209460899233818
+ecommerce,MAKE A GOOD IMPRESSION WITH HOME DECORATING TRICKS,,0,1,2013-02-12,ECOM,0.015364687889814377,0.8092042207717896,0.17543113231658936
+ecommerce,GET THAT CHARM WORKING ON YOUR DATE NIGHT  WITH THE RIGHT DRESS,,0,1,2013-02-12,ECOM,0.03341604769229889,0.9081677198410034,0.05841626226902008
+ecommerce,Womens Fashions for 2013,,0,1,2013-02-12,ECOM,0.0346919409930706,0.9182343482971191,0.047073688358068466
+ecommerce,Get Your Sample on with Bulu Box! Sweet Tooth Merchant Spotlight,,0,1,2013-02-12,ECOM,0.03170399367809296,0.8961626887321472,0.07213335484266281
+ecommerce,Picsity Blogger,,0,0,2013-02-12,ECOM,0.05048251152038574,0.9124062061309814,0.03711126744747162
+ecommerce,"Is India ready For Ecommerce? - Breaking news in search engine marketing,website development,Search engine Marketing,Brand strategy,Content for website",,0,1,2013-02-13,ECOM,0.017467360943555832,0.9195518493652344,0.0629807710647583
+ecommerce,"""I love how you emphasized the use of selling platforms to help stay at
+home moms earn for a living, I am also a mom who is into online selling
+through http://trembu.com .
+Thanks,
+Mukta Mahmud
+http://trembu.com""",,0,1,2013-02-13,ECOM,0.014167998917400837,0.8665247559547424,0.11930716782808304
+ecommerce,"Magento merchants: First Magento sanctioned Payment Fraud Survey, win an iPad3 or iPad mini for participating. 20 multiple choice questions, less than 5 minutes!",,0,2,2013-02-14,ECOM,0.03362438082695007,0.9269598126411438,0.03941584751009941
+ecommerce,Squarespace now offers ecommerce functionality!,,0,1,2013-02-14,ECOM,0.020440461114048958,0.8637596368789673,0.11579994857311249
+ecommerce,Do you register for a new business license for every one of your e-commerce website?,"I'm just wondering, for entrepreneurs launching different websites for different niches, do you register for a new business license for each one?",0,1,2013-02-14,ECOM,0.01970422826707363,0.9414752721786499,0.03882047161459923
+ecommerce,Ecommerce is a Slog - What's Your Angle?,,1,1,2013-02-14,ECOM,0.03965291008353233,0.9109216928482056,0.04942532256245613
+ecommerce,eDigitalFields: Looking for An Amazon Web store Development Services?,,1,1,2013-02-14,ECOM,0.029157141223549843,0.946184515953064,0.024658357724547386
+ecommerce,E-commerce Service,,2,0,2013-02-14,ECOM,0.020993178710341454,0.9155557155609131,0.0634511187672615
+ecommerce,Kit Heath - Just in Time for Valentine's Day | Sweet Tooth Blog,,0,0,2013-02-14,ECOM,0.04702256992459297,0.8845067620277405,0.06847064942121506
+dropship,How do you get a supplier to ship for you if your website has no products or sales already?,"I'm looking to sell some high ticket items. I have a website set up but obviously don't have any items listed yet and not really any incoming traffic. Alot of the applications I'm filling out for the suppliers are asking about annual sales and similar questions, to which I can only answer none. Do you find them receptive to this? How can I convince them that this isn't just a waste of their time?",2,4,2013-02-15,ECOM,0.05849263444542885,0.9134239554405212,0.028083443641662598
+ecommerce,Checkout a few Open Source e-Commerce tools,,0,1,2013-02-15,ECOM,0.022328119724988937,0.933434009552002,0.0442378856241703
+ecommerce,Why Jeannie Walters says eCommerce Loyalty is an Emotional Response,,0,0,2013-02-15,ECOM,0.04113822057843208,0.8423917889595032,0.11647000163793564
+ecommerce,Google Webmaster Tools Connectivity Errors,,1,0,2013-02-15,ECOM,0.020742731168866158,0.9363278746604919,0.04292944818735123
+ecommerce,"risk management program, risk management companies",,0,1,2013-02-16,ECOM,0.03651617094874382,0.9381375908851624,0.025346241891384125
+ecommerce,E-Commerce Solutions a Best Option For Carry Out Your Online Business,,0,1,2013-02-16,ECOM,0.010927178896963596,0.8720560669898987,0.11701677739620209
+dropship,Our site is complete but we need feedback before we start marketing.,"We appreciate all constructive criticism, It took us a lot of time to get all things in place and we have not shown the project to anyone, we are afraid we are overlooking something before placing ads and starting a proper marketing campaign. Our website is casenta.com , we are 2 man crew at the moment and this is not our full time job but we would love for it to be. We are using Magento as platform using custom CSS for the theme.",7,6,2013-02-17,ECOM,0.025599805638194084,0.9269359111785889,0.047464217990636826
+dropship,US Based Drop Shipper,"We have over 100k of inventory, and get new items every day. Everything is 100% authentic, some items are pre-owned. Everything is from the supplier at ""close out"" deals and the watches all come with certificates of authenticity. Free shipping in the US, we also ship internationally. 14 day refund policy, access to all of our CSV, and Excel files to track our inventory. We have just about everything that deals with clothing, and jewelry. We only accept PayPal.",13,3,2013-02-17,ECOM,0.02050687000155449,0.9276109933853149,0.05188213661313057
+ecommerce,Starting an e-commerce in Canada. I laid out what I need to do. What am I missing?,"I'll be starting an ecommerce site (dropshipping). I live in Vancouver, Canada and I've found some suppliers in the US that will ship in the US. Until I find a wholesaler or fulfillment center in canada, I'll strictly just sell to the US.
+
+Realistically I don't expect to make more than 30k this year, and I'll be using PayPal at first until I see a need for a merchant account.
+
+I'll be getting a business license, I'm still confused of which one (sole proprietor, partnership, etc.)
+
+What else am I missing?",14,4,2013-02-18,ECOM,0.17180988192558289,0.806412935256958,0.021777203306555748
+ecommerce,Top 6 ECommerce Software Solutions for Business,,0,1,2013-02-18,ECOM,0.014691460877656937,0.9093190431594849,0.07598952949047089
+ecommerce,Ever wondered if your conversion rate is good enough?,,0,1,2013-02-18,ECOM,0.014070937409996986,0.7515439987182617,0.23438504338264465
+ecommerce,Om Namah Shivaya Bracelet,,0,1,2013-02-18,ECOM,0.05351230874657631,0.8913769721984863,0.05511065199971199
+ecommerce,online shopping,"Buy online electronics, cosmetics, ebook store, children's toys, valentines day gifts Located in the heart of Sydney, NSW and with a warehouse in Milperra NSW, we are a very close and well organized team. www.whywaitaustralia.com",0,1,2013-02-18,ECOM,0.01957496628165245,0.8781303763389587,0.10229470580816269
+ecommerce,Shopping Stores California,,0,1,2013-02-18,ECOM,0.05609181150794029,0.9184128046035767,0.025495359674096107
+ecommerce,BYCase - Stilig och professionell laptop väska för bärbara datorer,,1,1,2013-02-18,ECOM,0.04259945824742317,0.8457186222076416,0.11168190091848373
+ecommerce,X-Cart Security Bulletin: 15th Feb 2013,"I've just got to work today and found this in my inbox, it might be helpful to some on here.
+
+
+
+&gt;Dear X-Cart customer,
+
+&gt;During internal audit activities we found several moderate security issues that make X-Cart potentially vulnerable to attackers who wish to gain access to the application back-end.
+
+&gt;The following security improvements have been included into this update: 
+
+&gt; * Number of XSS vulnerabilities
+
+&gt; * Hacker could gain access to the administration back end of the store if they manage to dump data from the database;
+
+&gt; * Malefactor  could upload and run a malicious script via the administration back end of the store; use a special Smarty tag to gain control over X-Cart software  
+
+&gt; * Archives could be downloaded from the store's root if they are stored there
+
+&gt; * Fulfillment staff could gain full access to the administration back end by sending a specially crafted request
+
+&gt; * Customer could gain access to the administration back end by setting up a special type of customer account
+
+
+&gt;**SEVERITY:** *Moderate*
+
+
+
+&gt;**IMPACT:**
+
+&gt;A malicious user can gain access to the application back-end.
+
+&gt;**AFFECTED VERSIONS:**
+
+&gt; * All versions older than v4.5.5.
+
+&gt; * X-Cart v4.5.5 is not affected.
+
+&gt; * The security patches for versions 4.1.12, 4.2.3, 4.3.2, 4.4.5 and all existing versions of 4.5.x branch before 
+
+&gt; * X-Cart 4.5.5 are available in the File Area of your HelpDesk accounts.
+
+
+&gt;**SOLUTION:**
+
+&gt;We strongly recommend X-Cart users to install the security fix available in the HelpDesk 'File Area'. Installation instructions can be found in the README.txt file attached to the .tgz archive.
+If you are using X-Cart versions older than specified above, before applying this security patch you *have to* apply all the previous security patches.
+
+&gt;You can find all the previous security patches in the ""File area"" section of the Support HelpDesk.
+
+&gt;Please make sure the patch is applied. We will be happy to offer our assistance, please do not hesitate to contact us, if you have not found your version in the list above or if have any questions.  
+
+&gt;If you have active support subscription,  you should not bother at all, just create a new ticket with patch application request and we will apply it for you: we need approval to work on your server.
+
+&gt;Not subscribed yet? You can do it here.
+Alternatively, patch application can be fulfilled within Normal or Urgent support request.
+
+&gt;X-Cart Team &amp; Qualiteam Tech Support department",0,1,2013-02-18,ECOM,0.06121484562754631,0.9077434539794922,0.031041713431477547
+dropship,"Canadian Dropshippers, what did your register your business under?","Hi. I'm having a tough time researching this. For US based sites, they register under an LLC business, but in Canada its slightly different since we don't have an LLC structure. I'm wondering what did you register your business under?",0,0,2013-02-18,ECOM,0.06081797555088997,0.8940867781639099,0.0450952909886837
+dropship,"Starting to get in the dropshipping business, any advice for a newbie?","Hi, I am planning to start a dropshipping business sometime before May. I have done my research but was wondering if you guys had any ideas on what to sell for my first site. I dont need a cash cow just something to get started and pay the cost of everything. Some ideas that had come to mind were sex toys, jewlery, and watches something along those lines. Are there any things that you guys would recommend? I understand alot of people dont really want to give away their niches so you can just pm me if you want thanks!",0,0,2013-02-18,ECOM,0.07563935965299606,0.8943020701408386,0.03005852922797203
+dropship,Drop Shipping Business Help?,"I want to start a Drop Shipping website with over 50 different vendors. Does anyone have experience with drop shipping or know the best way to track sales per vendor, automated invoicing, etc.. 
+
+Each vendor will have only a product or 2 that I am using. I've received a lot of negative feedback from people telling me this is extremely difficult and I should not go down this road. I am confident that I can make between 1-2k per day in my niche.
+
+Any knowledge would be appreciated.",2,7,2013-02-19,ECOM,0.6683714389801025,0.3071860074996948,0.024442531168460846
+ecommerce,"With Magneto, which extension should I use for Google Shopping?","As the title says, I want to to upload my inventory to Google shopping which extension(s) should I be using?",3,4,2013-02-19,ECOM,0.024298345670104027,0.9444206953048706,0.03128092736005783
+ecommerce,Online Sales | Ecommerce Sales | Ecommerce,"The number of online sales and ecommerce sales are growing, making ecommerce a marketing need.",0,1,2013-02-19,ECOM,0.02101021446287632,0.9225788116455078,0.056410953402519226
+ecommerce,pos quick service for restaurant,,1,1,2013-02-19,ECOM,0.022440578788518906,0.9314950108528137,0.046064481139183044
+ecommerce,Selling Overseas,,0,0,2013-02-19,ECOM,0.05645759031176567,0.9035588502883911,0.039983510971069336
+ecommerce,ecommerce trends: using promo strips on your website,,1,0,2013-02-19,ECOM,0.030632466077804565,0.9465277791023254,0.02283981814980507
+dropship,[Announcement] Dropship Supplier AMA Policy?,"Hello all, 
+
+We've been approached by a dropship supplier who is requesting to do an AMA. In principal, /u/platypus_pop and I have no problems with it in concept but we do want to avoid any appearance of impropriety. 
+
+So in the spirit of developing community, what do r/dropshippers think?  Is this something that you would appreciate or is this something that you would like to avoid?
+
+We're looking to make a decision pretty quickly, so any feedback would be appreciated. 
+
+Please upvote this self-post (no karma) for visibility.
+
+Regards, chrunch.",10,27,2013-02-20,ECOM,0.1102028638124466,0.8612087965011597,0.028588321059942245
+dropship,Help please!,"Hi,
+So my question regards payment processing... Lets say I use shopify and drop-ship socks. I get an order for $30, and need to pay the drop-shipper $15. However, because I am using paypal, it takes a few days for the $30 to go into my bank account... however, i need to place the order today! So with that said, would drop-shippers send your order same day, and charge your card in the following three days or so? If not, would I have to go out of pocket? -- How does this work?!
+
+Thank you so much!",6,2,2013-02-20,ECOM,0.13268084824085236,0.8428794145584106,0.02443978190422058
+ecommerce,The Start of Mobile Commerce,,0,1,2013-02-20,ECOM,0.021361418068408966,0.9351747035980225,0.04346382990479469
+ecommerce,Headed to eTail West next week. Anyone else going? Suggestions on what I should not miss versus what to skip?,,0,1,2013-02-20,ECOM,0.06404680013656616,0.8946213722229004,0.04133177548646927
+ecommerce,How Social and Mobile Are Affecting Sales,,0,1,2013-02-20,ECOM,0.02611270733177662,0.93534916639328,0.03853809833526611
+ecommerce,"Review, Compare, BigCommerce, Volusion, Shopify Ecommerce Web Hosting, Shopping Cart Software Free Trials!",,1,1,2013-02-20,ECOM,0.01822560466825962,0.9156495332717896,0.0661247968673706
+ecommerce,"Yahoo Store, Yahoo Store Design, Yahoo Store Development, Yahoo Ecommerce | eDigitalFields.com",,0,1,2013-02-20,ECOM,0.04007618501782417,0.9243508577346802,0.03557296097278595
+ecommerce,3 Types of eCommerce Customer Commitment,,1,0,2013-02-20,ECOM,0.02132473886013031,0.9240388870239258,0.05463634058833122
+ecommerce,cleverbridge Announces Continued Client and Company Growth,,0,1,2013-02-21,ECOM,0.017059391364455223,0.528249204158783,0.4546913802623749
+ecommerce,12 Must-Have Features of eCommerce Websites For Increasing Sales,,0,1,2013-02-21,ECOM,0.03716857731342316,0.8635371327400208,0.09929423779249191
+ecommerce,end of season sale offer,,0,1,2013-02-21,ECOM,0.037612155079841614,0.939461350440979,0.02292652241885662
+ecommerce,mens suspenders for sale,,0,1,2013-02-21,ECOM,0.0375547781586647,0.9312140345573425,0.031231142580509186
+ecommerce,men's accessories online india,,0,1,2013-02-21,ECOM,0.03210640698671341,0.9312286972999573,0.03666485846042633
+ecommerce,fashion jewelry online shopping india,,0,1,2013-02-21,ECOM,0.032263435423374176,0.9343461394309998,0.03339041769504547
+ecommerce,Best ecommerce Software Solutions,,0,1,2013-02-21,ECOM,0.01446791086345911,0.8446006774902344,0.1409313827753067
+ecommerce,Using Product Recommendations For Your Ecommerce Stores,,0,1,2013-02-21,ECOM,0.022551367059350014,0.9376077651977539,0.03984080255031586
+ecommerce,How Ecigwizard Uses Email Newsletters to Drive Loyalty Program Participation,,0,0,2013-02-21,ECOM,0.014091026037931442,0.9343541264533997,0.05155486240983009
+ecommerce,fashion jewellery online shopping,,0,0,2013-02-21,ECOM,0.03702589496970177,0.9306618571281433,0.03231221064925194
+ecommerce,finding all zip codes within delivery radius?,"I have an ecommerce site, but we only offer free delivery within a delivery radius. Is there any easy way I can compile up-to-date zip-code data for all zip-codes within my specified delivery zone?",6,4,2013-02-22,ECOM,0.025015858933329582,0.9404627680778503,0.03452138975262642
+ecommerce,5 Secondary Benefits of Customer Loyalty,,0,1,2013-02-22,ECOM,0.021210046485066414,0.9308492541313171,0.047940704971551895
+ecommerce,Is there any research available on how to design the unique selling points (USPs) of a webshop in a way that it leads to a higher conversion rate?,"I'm doing an internship for a company that designs webshops and does the marketing. They want me to find out what the best way is to design the unique selling points. So what content of the USP, what position and layout leads to the highest conversion rate. Do you know if there is any research available on this topic?",0,1,2013-02-22,ECOM,0.013944829814136028,0.8239526748657227,0.16210249066352844
+ecommerce,Ecommerce Solutions - the best online problem solver,,0,1,2013-02-22,ECOM,0.01924954354763031,0.7800717353820801,0.2006787359714508
+ecommerce,Setting Up Your OpenCart Product Feed with Google Shopping,,0,0,2013-02-22,ECOM,0.027155796065926552,0.9341371655464172,0.038707029074430466
+ecommerce,An unemployed man in Spain trying to earn enough money online to at least pay his electricity bill by using Squidoo and Zazzle,,0,0,2013-02-22,ECOM,0.5961775183677673,0.373760849237442,0.03006165660917759
+ecommerce,Has anyone had success with Liquidation.com?,I was considering picking up some items and wondered if any had good or bad experiences sourcing there.,0,2,2013-02-23,ECOM,0.13898825645446777,0.8324506878852844,0.028561033308506012
+ecommerce,Looking for high quality product photos,"A bit of background: I work at a wholesale company that gets in dozens to hundreds of new photographs each week. We do have an in house photographer, but the photographs she takes are really just point and shoot photos and are great in mass but dont tell the story of an item or give depth to the features or deteails of the product. Most of our items are cheaper product, mainly items that retail for under $20.  These photos are being used to sell online, hence r/ecommerce
+
+I am looking for a studio that can take high quality photos of our merchandise that gives it ""life"". Some items require props to tell the story, some items require being in a setting...etc, etc.
+
+Ideally, this studio would be in the LA area (where we are based) but it doesnt have to be. Also, ideally it wouldnt cost an arm and a leg!
+
+Any help you could provide would be great...thanks so much!!",7,3,2013-02-25,ECOM,0.022298989817500114,0.9302555322647095,0.047445472329854965
+ecommerce,Sustainable Design for All!,,0,1,2013-02-25,ECOM,0.013869641348719597,0.8530614376068115,0.13306885957717896
+ecommerce,eCommerce en 2016: ¿Quién dijo crisis?,,0,1,2013-02-25,ECOM,0.03913339972496033,0.8813815712928772,0.07948506623506546
+ecommerce,Get Effective Social Media Optimization Services at eDigitalFields.com,,0,1,2013-02-25,ECOM,0.02226993441581726,0.9289056658744812,0.04882444813847542
+ecommerce,Is India Ready to use Ecommerce | PRLog,,0,1,2013-02-25,ECOM,0.01813685894012451,0.9002285599708557,0.08163455128669739
+ecommerce,Ecommerce Website development India,,0,1,2013-02-25,ECOM,0.019732516258955002,0.9187725186347961,0.061495017260313034
+ecommerce,Services to Work out Your Images,,0,1,2013-02-25,ECOM,0.04339850693941116,0.9319214224815369,0.024680020287632942
+ecommerce,Follow Some Redesign Guidelines to Improve Your eCommerce Conversion Rate,,0,1,2013-02-26,ECOM,0.01537204347550869,0.9309324622154236,0.05369551107287407
+ecommerce,Top 5 E-Commere Web Design Mistakes,,0,1,2013-02-26,ECOM,0.02069283090531826,0.9273671507835388,0.05193999037146568
+ecommerce,Crucial Steps when Setting Up an eCommerce Website [Need Advice],"I am looking for a guide or a best practice for setting up an eCommerce website - e.g. purchasing SSL Certificate, authorize.net, etc.
+
+I am very new to eCommerce and do not want to miss anything crucial.
+
+I am building my site on OpenCart if that does anything for you.
+
+Thank you.",0,0,2013-02-26,ECOM,0.02654842473566532,0.9247480630874634,0.048703476786613464
+ecommerce,Selling Overseas: Determining What Countries to Target,,0,0,2013-02-26,ECOM,0.024741703644394875,0.9325966238975525,0.04266159608960152
+ecommerce,"I'm looking for a payment gateway for my future website. I'm based in Canada, but will be doing business in Canada and the US. Does anyone have any suggestions for cheap and easy to use gateways?","I think I will design with website with volusion. I know they offer their own gateway service, but the 2.17% they charge seems high.
+
+edit #1: just read that volusion's gateway can not be used by Canadians.
+edit #2: I found this company http://www.authorize.net/solutions/merchantsolutions/pricing/ . They look really good. Will I be charged additional money by the credit card companies, on top of the $0.10 per transaction that they charge me?",8,3,2013-02-27,ECOM,0.013097995892167091,0.8497706651687622,0.13713137805461884
+ecommerce,"Can anyone recommend an effective, simple, platform with easy integration to Ebay?","Already have a main business but I'm looking at setting up a sideline as simply as possible.
+
+The product line I'm looking at sells very well on Ebay as is so I need to integrate as simply as possible.
+
+I was thinking Magneto GO but it doesn't seem to advertise its Ebay integration very much so I'm a bit uncertain.",0,1,2013-02-27,ECOM,0.03256923332810402,0.9123609662055969,0.05506976693868637
+ecommerce,"Anyone here using Goodsie as your ecom hosted provider? If so, thoughts/feedback on it?",,0,1,2013-02-27,ECOM,0.045329924672842026,0.9203608632087708,0.03430917114019394
+ecommerce,Conversion Optimization is Like Winning a Lottery. Five Ways to Make it Happen,,0,1,2013-02-27,ECOM,0.016647811979055405,0.9177824854850769,0.06556972116231918
+ecommerce,アフィリエイトDE稼ぐ！挫折知らずの楽しい仕組み構築術,初心者さんを対象に、アフィリエイトで「楽しく」「稼ぐ」をテーマに情報をお届けします。,0,1,2013-02-28,ECOM,0.04718951880931854,0.8890292644500732,0.06378120183944702
+ecommerce,Top 10 Yahoo Store Advanced Features,,0,1,2013-02-28,ECOM,0.02074545808136463,0.9150921106338501,0.06416246294975281
+ecommerce,"Best ecommerce Software Shop for Online Store builder, Shopping Cart Software &amp; Solutions",,0,1,2013-02-28,ECOM,0.01932206191122532,0.9144545793533325,0.0662233829498291
+ecommerce,Magento GO VS Magento Community,"We are moving our 6000SKU site over to MagentoGO. Currently we are just testing data migration and I've set up a mock site on the trial. Im no pro css, php or html coder but I do have a little experience. Im debating myself whether we actually need to go with MagentoGO or Magento Community. 
+
+The only thing GO has going for it is the support and PCI compliance. I used support chat live and they cant help with any design issues which caught me as a WTF thats 99% of issues. 
+
+ Is PCI compliance really a big deal? The lack of themes, Addons and Extensions of GO are are really getting me down as well. I love the fact that I can have a local clone of the Magento Community to do testing on. 
+
+ Im a graphic designer by trade thats playing web designer for a small business. I dont want to get in over my head. Can you function with Magento Community without knowing PHP or advanced CSS? 
+
+Who do you recommend as a Hosting solution? I was thinking Hostgator as I host personal sites with them but they told me I would want the Tier 5 VPS which is pretty dang pricey. Do we really need a high end dedicated VPS?  We are currently at 6,000 SKUs and about 200 visitors a day.",1,1,2013-02-28,ECOM,0.03250005841255188,0.9315006732940674,0.03599925339221954

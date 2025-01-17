@@ -1,0 +1,892 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,$99 dollars for new Apple tv..,Thoughts?,584,218,2010-09-01,AAPL,0.011579894460737705,0.8385760188102722,0.14984409511089325
+apple,"So, a generic new icon- and THIS!?! Apple really needs to crack down on their iTunes designers.",[deleted],109,117,2010-09-01,AAPL,0.012105841189622879,0.7962828874588013,0.19161120057106018
+apple,"Reddit, this is my family, we are all a bunch of Mac whores",,101,104,2010-09-01,AAPL,0.04166845604777336,0.9144192934036255,0.043912243098020554
+iphone,DAE get really low quality pics using the Alien Blue app?,"It's pissing me off.. Interestingly, the pics that don't appear correctly are usually ones that have text I wish to read.",38,96,2010-09-01,AAPL,0.163556307554245,0.8133972883224487,0.023046396672725677
+apple,iTunes 10 has officially been announced,"It has a new icon, take that!",204,65,2010-09-01,AAPL,0.009696017019450665,0.8151265382766724,0.1751774698495865
+iphone,Unreal Engine 3 Tech Demo 'Epic Citadel' Available for Free on App Store,,44,53,2010-09-01,AAPL,0.017363738268613815,0.9379733204841614,0.04466286674141884
+apple,STREAM IS UP!,,69,38,2010-09-01,AAPL,0.0486210361123085,0.8830759525299072,0.0683029517531395
+apple,"R.I.P. Clickwheel, you died before your time.","Maybe a new smaller/thiner iPod classic will come along and fill the void left by the old iPod Nano. Hell, they can call it an iPod Mini for all I care.
+
+I find this new Nano to be the death of my favorite iPod. Either a new Nano sized ""Classic"" will come out later, or it won't, and I'll run this Nano ragged until it's death. Beyond that, it looks like I'll be considering other players.
+New iPod nano, *without* video viewing, *without* a video camera, *without* built in audio recording, presumably *also* without games, and a microscopic screen. Sounds like a downgrade.
+
+In the keynote, when they showed the current Nano and visually chopped off the clickwheel, implying a similarly sized rectangular touch screen, I was interested. Then they were like ""Oh wait, it's actually this tiny-ass square piece of shit.""
+
+**Edit:** Not to mention the draw back of no longer being able to simply reach into your pocket and change a song without having to dig it out and take a look. Also of intrest... does this tiny thing even have lyric support? I live and die by lyric support, personally. Also, though admitably not very useful, the internal speaker in the current Nano is occasionally handy. I'd rather have one too many features than nowhere near enough.",107,36,2010-09-01,AAPL,0.04010763019323349,0.929297924041748,0.030594460666179657
+apple,New iPod Nano as a wristwatch. Yes?,"I'm thinking yes. Throw a band on there and you're good to go. Shame about lack of alarm clock, but I have a feeling that will come in an update.  
+
+EDIT: probably not in an update, since that never happens and there's no speaker for the alarm to ring through.",50,36,2010-09-01,AAPL,0.0720226913690567,0.8883523941040039,0.03962491452693939
+apple,"New drinking game: take a swig every time Steve Jobs says ""Small."" Take two swigs when he says ""Really Small""",,7,33,2010-09-01,AAPL,0.028920190408825874,0.9207727313041687,0.05030712112784386
+apple,In defence of the iTunes 10 UI changes [img],,408,340,2010-09-02,AAPL,0.05340566113591194,0.9182444214820862,0.02834991179406643
+apple,Accidentally discovered today: press space when exposé is running to see large previews of windows you're hovering over,,16,121,2010-09-02,AAPL,0.033831242471933365,0.9211845993995667,0.04498416930437088
+apple,iTunes 10 Protip - Remove iTunes store link arrows,"As with version 8 and 9, iTunes defaults back to forcing those obnoxious (in my opinion) arrows on top of every single track you scroll over. I always click them on accident, and frankly, I don't want to be linked to songs I already have on my computer.
+
+Here's how to remove them (mac only), since Apple has taken out the preference.
+
+Close iTunes, open terminal, copy paste:
+
+
+
+defaults write com.apple.iTunes show-store-arrow-links -bool FALSE
+
+
+
+Close terminal. That's it. If you need to go back, copy paste the same thing only change it to TRUE. 
+
+
+Boomshakalaka.",52,105,2010-09-02,AAPL,0.046942561864852905,0.9152190685272217,0.03783837705850601
+apple,Methinks Apple is a little TOO hip with the kids,,43,73,2010-09-02,AAPL,0.020470770075917244,0.9048349261283875,0.07469426095485687
+apple,iTunes 10 Pro Tip: Get the old style window buttons back,"To get the horizontal button positions back, close iTunes, go to shell, type:
+
+_defaults write com.apple.iTunes full-window -boolean YES_
+
+You can switch back to new style with 
+
+_defaults write com.apple.iTunes full-window -boolean NO_",54,66,2010-09-02,AAPL,0.04171376675367355,0.906050443649292,0.05223583057522774
+apple,Awesome iTunes 10 replacement icon.,,27,60,2010-09-02,AAPL,0.018305817618966103,0.8725475072860718,0.10914668440818787
+apple,Amazon outmaneuvers Apple and offers purchases of TV shows for 99 cents,,20,52,2010-09-02,AAPL,0.017269454896450043,0.8862823247909546,0.09644824266433716
+iphone,"iOS 4.1 Gold Master seeded to devs. You can get it, download it and install it... now",,44,35,2010-09-02,AAPL,0.01642138883471489,0.9222473502159119,0.06133127212524414
+apple,"At just under 40,000 files in my iTunes library, this takes close to an hour every time it happens...",,23,33,2010-09-02,AAPL,0.0495324432849884,0.9031742215156555,0.04729331284761429
+apple,"Despite all the hate, I actually like the new vertical buttons",The title bar was unnecessary and I don't mind that it's gone.,12,33,2010-09-02,AAPL,0.015558873303234577,0.8921988606452942,0.09224230796098709
+apple,Secret iTunes 10 HUD player,[deleted],61,159,2010-09-03,AAPL,0.02347312681376934,0.9189932346343994,0.0575336329638958
+apple,"Dear Mr Jobs, or whoever. Please do for my DVD collection what you did for my CD collection.","I want a sleek DVD sized box that I can load my DVD &amp; BluRay* collection into, that will digitise it, and allow me to play that movie back perfectly from some gorgeous Visual Interface on my TV. It should also have some lovely ethernet &amp; HDMI ports on the back. Just in time for xmas please. Sincerely Col.
+
+*multiregion",110,132,2010-09-03,AAPL,0.016710834577679634,0.9055331945419312,0.07775595039129257
+apple,Right click on the safari window title = :-O,I'm still finding little things like this every week :-S,53,90,2010-09-03,AAPL,0.0707802101969719,0.8900960683822632,0.039123713970184326
+apple,I'm baffled by the angst and anger over iTunes 10.,"I'm honestly baffled: does the iTunes icon really matter to people as much as /r/apple seems to think? Are you actually so upset by this that you'll even go to the effort of replacing the icon? And the buttons becoming vertical? Almost 90% of my iTunes usage is through the mini-player, and then it's behind all my other windows. I don't look at it.",91,66,2010-09-03,AAPL,0.0734415128827095,0.8879492878913879,0.03860917687416077
+iphone,Taking HDR photos with Apple's iOS 4.1,,23,48,2010-09-03,AAPL,0.024786705151200294,0.9289541244506836,0.046259135007858276
+apple,"iOS gets 1.13% of total web traffic, more than Linux and Android",,19,36,2010-09-03,AAPL,0.061625491827726364,0.35141804814338684,0.5869564414024353
+iphone,Anyone on 4.1 that finds the proximity sensor issue still has not been fixed?,"I just purchased an iPhone 4. It was shipped with the 4.02 firmware so there was no reason not to upgrade to 4.1. I actually had 0 problems with 4.02 for making calls etc. Once I upgraded to 4.1 I actually found that proximity sensor was triggering the display to continuously flash on and off while I was on calls. Rather annoying...
+
+Anybody else upgrade and find this is the same or that it hasn't actually fixed anything?",26,16,2010-09-03,AAPL,0.09705901145935059,0.8476287722587585,0.05531226098537445
+apple,Anyone notice this about the new iTunes icon?,,11,15,2010-09-03,AAPL,0.02553505450487137,0.9343849420547485,0.040080051869153976
+ipad,Apple posts iPad iOS 4.2 software update page,,7,14,2010-09-03,AAPL,0.04291386157274246,0.928490400314331,0.028595738112926483
+apple,Apparently my girlfriend has decided that the Mac Mini is capable of greater things than just serving up TV.,,5,11,2010-09-03,AAPL,0.021897632628679276,0.8792951703071594,0.098807193338871
+apple,Dear Apple: Why didn't you just do this?,,81,268,2010-09-04,AAPL,0.09506218135356903,0.7963706851005554,0.10856711119413376
+iphone,Make free iPhone ringtones in iTunes 10,,28,81,2010-09-04,AAPL,0.016351407393813133,0.9201427102088928,0.0635058581829071
+iphone,Alien Blue possible design variation? Your thoughts? [PIC],"TL/DR: Possible change to toolbars. [Large Pic of example.](http://imgur.com/ToaxS.jpg)  Like it, or dislike it?
+
+--------
+
+Hi everyone,
+
+I hope you don't mind this post in /r/iphone.  I would post in /r/alienblue, but there's a lot more people using AB than those subscribed the Alien Blue subreddit, and I wanted to open feedback up to a much wider audience for something like this.
+
+The overall layout of AB has been playing on my mind.  Although the full-screen option allows a much wider viewing area, my use of **toolbars** has been less than ideal.
+
+Rather than force a change on everyone, I decided to create some mock-ups of what I had in mind and get some feedback as to whether this would be a welcomed change or an unnecessary and frustrating one.
+
+Here's a rough mockup showing how the toolbars would be utilised on the different screens:
+
+WARNING: Large 310kb jpeg
+
+http://imgur.com/ToaxS.jpg
+
+Full-screen would still be available across the entire app.  The messages and settings would slide up (rather than requiring their own tabs).  It would support an orangered envelope when you have new messages.  This would also allow a clean introduction to Safari-esque forward/back navigation in the browser.
+
+So let me know if you like it or dislike it, and whether or not this layout would cause stress to the way you already interact with Alien Blue.
+
+Cheers!
+
+** Edit: ** Please ignore the actual content between the toolbars.  For example, the comments in these mockups show the **voting icons** next to the comments, and these are actually disabled by default (can be toggled on in 1.0.6).",53,77,2010-09-04,AAPL,0.035785987973213196,0.9279415011405945,0.03627251833677292
+apple,iOS 4.1 on iPhone 3G shows marked improvement in speed test,,25,61,2010-09-04,AAPL,0.021449612453579903,0.029274147003889084,0.9492762684822083
+apple,iPhone 3G Speed Fix: iOS 4.0 vs iOS 4.1 (Video),,52,45,2010-09-04,AAPL,0.03810632973909378,0.787282407283783,0.17461130023002625
+iphone,"Thanks for Reminding me, Game Center",,5,21,2010-09-04,AAPL,0.021244654431939125,0.8059718012809753,0.1727835237979889
+apple,"GeekTool users, what does your desktop look like?","I want to change my current desktop script setup and layout and was wanting to know what everybody else's looks like for some inspiration.
+
+[My current desktop](http://i.imgur.com/Rb1a3.jpg)",85,20,2010-09-04,AAPL,0.03525416925549507,0.931235134601593,0.03351067006587982
+apple,An AppleScript to Make Ringtones in iTunes 9/10,,2,20,2010-09-04,AAPL,0.022638149559497833,0.9170418977737427,0.060319870710372925
+iphone,TIL if you tap the little guy in the maps app you get street view.,[deleted],4,19,2010-09-04,AAPL,0.018811604008078575,0.9373346567153931,0.04385373368859291
+mac,Does it makes sense for a mac (osx) to be defragmented?,,23,15,2010-09-04,AAPL,0.02641059271991253,0.9302229285240173,0.043366510421037674
+apple,I guess it's just being thorough.,[deleted],39,272,2010-09-05,AAPL,0.03255416452884674,0.9256302118301392,0.04181566461920738
+iphone,Someone Stole my iPhone 4 yesterday... you'll love this!,"I knew it was missing within 60 seconds of him taking off with it... I grabbed my iPad and located my iPhone.  It was in the driveway... just happened to be where his truck was parked.  I had already called the cops at this point and he was trying to leave and my friends wouldn't let him and one friend was just saying ""Just give him the phone back!"" and the guy kept saying ""I didn't steal his phone"".  I then said we'll let the cops settle this because they are right there down the block headed this way.  He promptly handed my phone back to a friend that was near him and the cop shows up and he tells the cop ""I thought that was my phone"".  Cop promptly arrests the guy and takes him away... leaving his girlfriend behind trying give me an apology for all this and I promptly tell her ""It would be a wise idea if you left because I don't want you here"".
+
+Better yet.. I have him on video taking the phone to his truck and coming back to the porch following the whole event.  Video isn't all that clear.
+
+Anyway long story short... being aware and mobile me saved my iPhone.  
+
+PS: I kinda knew the guy he worked for the company that installed my windows in my house a few months back... I called his job today and they informed me he was fired a few months back.
+ 
+
+http://www.youtube.com/watch?v=wdoQ3gvSRE8
+
+http://www.youtube.com/watch?v=jQHirmUivIU
+
+http://www.youtube.com/watch?v=IO2I2yUX0J8
+
+http://www.youtube.com/watch?v=kz_8LsRDTZ4",29,80,2010-09-05,AAPL,0.11442037671804428,0.8562328219413757,0.029346836730837822
+iphone,Can anyone explain why Cydia is always SO slow?,,23,49,2010-09-05,AAPL,0.11261731386184692,0.853420078754425,0.033962611109018326
+apple,"I guess it's not what you spend, it's how you spend it...",,69,42,2010-09-05,AAPL,0.03639727458357811,0.9247667193412781,0.0388360433280468
+iphone,What do you think? Is it done for?,,16,26,2010-09-05,AAPL,0.059220440685749054,0.8994861841201782,0.041293442249298096
+iphone,iOS 4.1 Release Date is September 8,,17,24,2010-09-05,AAPL,0.056440453976392746,0.9211980104446411,0.022361522540450096
+ipad,Where are the good reddit iPad apps?,Why is there no good reddit apps on the iPad?  The iPhone has several.  Safari isn't cutting...,39,20,2010-09-05,AAPL,0.03143785148859024,0.9271425604820251,0.041419610381126404
+apple,Do you think the Magic Trackpad could eventually fully replace your mouse ?,,113,16,2010-09-05,AAPL,0.010551386512815952,0.885810136795044,0.10363844037055969
+iphone,Hey Iphoneit! Did you know you can sync a wiimote with your jailbroken iPhone (Or iPad) and use it with a snes emulator?,"I've just been playing round and installing various things - ended up finding the SNES A.D.+ emulator!
+
+Couple minutes later I find the wiimote option in the settings - and moments later I'm syncing a 'mote to my phone.
+
+Needless to say, I've been playing a bit of classic Super Mario World for the last hour, and it is so very very awesome!
+
+Just a reminder to anyone that might not have known about it or tried it out yet - it is ridiculously easy to set-up! Give it a go if you get a chance!
+
+Notes:
+-iPhone must be jailbroken!
+-Piracy is bad etc etc. Only use roms you have the legal right to use and so on and so forth!",12,15,2010-09-05,AAPL,0.037506528198719025,0.9254028797149658,0.03709061071276665
+ipad,"Mobile Safari on iPad could not properly detect page encoding, so I made this…","Since Mobile Safari and many browsers on iPad could not accurately detect page encoding on a non UTF-8 websites; have to jump to UnitKay's [Mojicode](http://itunes.apple.com/us/app/id385731370?mt=8) app every time is getting tiresome, so I decided to revive my old web page encoding conversation service: [Gknot](http://gknotd.appspot.com/)
+
+Sync the bookmarklet into Mobile Safari and the next time you see garbled text on a webpage, just press on ""Knot it!"" and Gknot will convert that webpage into UTF-8 for you, with (almost) all links rewritten to the original path.",4,10,2010-09-05,AAPL,0.017571769654750824,0.9138105511665344,0.06861764937639236
+apple,Make free iPhone ringtones in iTunes 10,,37,140,2010-09-06,AAPL,0.016351407393813133,0.9201427102088928,0.0635058581829071
+apple,Firefox 4 will be a 32/64-bit universal binary for 10.5 and up!,,64,93,2010-09-06,AAPL,0.023536376655101776,0.9238805174827576,0.05258307233452797
+apple,Turn your iPhone in to a 45x Microscope,,14,73,2010-09-06,AAPL,0.015837837010622025,0.8539572358131409,0.1302049160003662
+iphone,"Anyone else have this Alien Blue problem - after looking at a few articles and trying to return to continue scrolling down where you left off, it returns to the top of the front page posts?","Don't get me wrong, Alien Blue is AWESOME and I appreciate so much the Redditor who made it (can't think of his name atm), especially since he's always updating it. Just wonder if he's aware of this issue or if anyone else has noticed it.",28,66,2010-09-06,AAPL,0.0509798564016819,0.9134246706962585,0.03559543937444687
+iphone,I made an app that tells you what ingredients go well in a dish or with other ingredients. Its called food pairings.,,28,37,2010-09-06,AAPL,0.014538518153131008,0.9235843420028687,0.06187713146209717
+apple,Apple appears to have added a vibration motor to the new iPod Touch,,5,16,2010-09-06,AAPL,0.011195981875061989,0.6184046864509583,0.37039926648139954
+apple,Find My iPhone Leads Police to Another Stupid Criminal,,2,15,2010-09-06,AAPL,0.14879079163074493,0.8205428123474121,0.030666319653391838
+apple,"Steve Jobs ""never had any designs. He has not designed a single project"" -- Macintosh creator Jef Raskin",,16,14,2010-09-06,AAPL,0.04807098209857941,0.9234235882759094,0.02850542962551117
+apple,Does anyone here use a hackintosh?,"I'm thinking about building one in the near future. I have a couple of official macs already. A MacMini as my HTPC running boxee hooked up to a tv. And my MBP paired with a 24 inch monitor for web development/design/general use.
+
+I want a desktop because now that I'm out of college, I find myself using my MBP less and less outside of the house, so why not opt for a desktop with more power at home. I thought about an imac, but I just don't find them a good value proposition. Especially since I already have a nice screen as is, and plan on getting another one for using dual displays and don't want to be stuck with the same imac screen when I want to upgrade or change later on.
+
+The macpro's while certainly powerful are simply way to expensive for my taste. I know the prices for the hardware you're getting are not all that more expensive then if you built a similar pro-workstation machine from dell/HP/etc... but I think that's only because they just updated them fairly recently (in mac time).'
+
+I have a rough idea of the hardware I'll be using. 
+
+*850w power supply
+
+*core i7
+
+*ATI 5770
+
+*6gb of ram
+
+and the tricky part is finding a compatible motherboard but I'm sure it can be done.
+
+I'm pretty much ready to pull the trigger, but the real question I ask is how stable they are? I wouldn't want to spend all the money aiming for hardware that's as close as possible be as stable as can be, but for it all to meltdown anyway.",29,13,2010-09-06,AAPL,0.024221787229180336,0.92645263671875,0.04932563379406929
+iphone,"Dear r/iPhone, how do I start learning how to make games (with an end focus on the iOS platform)?","For background: I have a CS degree, and two years experience making client apps for the mac and iPhone. My skill set is restricted to utility apps with a Cocoa-based user interface, but I'm a nerd and I want to make a goddamn game.
+
+I was wondering if anyone had advice, in terms of which languages to look at (Cocos2d? Straight OpenGL? Something else?) and any good materials to get me started. I have 0 game making experience.",4,12,2010-09-06,AAPL,0.019576802849769592,0.9080500602722168,0.07237310707569122
+apple,Best iTunes 10 feature? Plug in another iOS device and play their music without forcing a sync,,24,111,2010-09-07,AAPL,0.012742659077048302,0.9286254644393921,0.058631837368011475
+apple,"By popular request, Reddit Enhancement Suite now has a native Safari extension",,55,66,2010-09-07,AAPL,0.017458884045481682,0.9377310276031494,0.04481003060936928
+apple,Some companies are using HTML5 databases instead of cookies to track users in Safari... and you cannot be sure you aren't being tracked when opting out,,18,64,2010-09-07,AAPL,0.08074022829532623,0.9020504951477051,0.017209289595484734
+apple,First AirTunes Peripherals starting to surface,,29,55,2010-09-07,AAPL,0.026429789140820503,0.8969590663909912,0.07661115378141403
+apple,Access Gmail Priority Inbox on the iPhone,[deleted],13,33,2010-09-07,AAPL,0.02066536620259285,0.9185638427734375,0.060770824551582336
+apple,The New Nano Doesn't Make Sense,,68,26,2010-09-07,AAPL,0.0837155431509018,0.8810144066810608,0.035270046442747116
+iphone,Ever wanted a slide out keyboard for you iPhone? There's a case for that.,,13,25,2010-09-07,AAPL,0.01307286974042654,0.899608850479126,0.0873183161020279
+iphone,HDR Photos feature coming to iPhone 3G and 3GS?,,15,25,2010-09-07,AAPL,0.01738082990050316,0.9235873818397522,0.059031762182712555
+mac,Does anyone know all of the quirky mac tricks?,"Example: Holding shift when you minimize something.
+
+I also recall that you could hold a certain combination of keys and you could reduce the volume in even smaller increments (quarters).",65,25,2010-09-07,AAPL,0.37864673137664795,0.5866242051124573,0.0347290001809597
+apple,iTunes 10 breaks the ability to share media files on NAS devices,,5,21,2010-09-07,AAPL,0.014481625519692898,0.9260796308517456,0.05943873152136803
+apple,VLC media player coming to the AppStore,,120,430,2010-09-08,AAPL,0.024658240377902985,0.9211203455924988,0.05422138795256615
+apple,Why doesn't OS X have this feature?,,142,108,2010-09-08,AAPL,0.022551333531737328,0.935552179813385,0.0418965108692646
+iphone,Apple Releases iOS 4.1,,69,61,2010-09-08,AAPL,0.02637675032019615,0.9291645288467407,0.044458672404289246
+ipad,The ipad has changed the way I use computers,"I'm a huge computer nerd. I've used linux as my main desktop os for 12 years now, and had no intention of using anything else. The idea of the ipad just seemed like an oversized ipod touch. I bought this thing on a whim, and I've been using it non stop for over a month now. i use it more than my smartphone, desktop, and laptop. Its just so god damned useful and portable. My friends make fun of me and call me fanboi, but I seriously feel like the ipad is the bleeding edge of an entire tablet movement to come. 
+
+Just wanted to share, lol.",40,50,2010-09-08,AAPL,0.026174183934926987,0.9310488700866699,0.04277697578072548
+apple,Steve Jobs responds to the iTunes 10 icon criticism from r/apple,,20,39,2010-09-08,AAPL,0.03945150226354599,0.9101952314376831,0.050353217869997025
+apple,"Thanks, Game Center, I didn't need you to remind me... :-(",,25,35,2010-09-08,AAPL,0.022810857743024826,0.6494138836860657,0.32777518033981323
+apple,Apple releases iOS 4.1 update,[deleted],37,34,2010-09-08,AAPL,0.03486519306898117,0.9378071427345276,0.027327697724103928
+apple,Apple command-key on non-apple? (pic),,19,33,2010-09-08,AAPL,0.048839595168828964,0.9269139170646667,0.024246538057923317
+iphone,iOS 4 Game Center,"List your names below. Hopefully it will actually work soon. ಠ_ಠ
+mine is:  Elisey",75,29,2010-09-08,AAPL,0.012076915241777897,0.8262488842010498,0.16167423129081726
+apple,"If ditching the cell is the new power play, how many of you would consider dropping your iPhone for an iPod Touch that did VOIP via your Google Voice number?","I'm ready to unplug, but not quite completely. I'm not sure I could go back to a landline, but I'm pretty sure I could go to a model whereby I had phone where and when I had WiFi. Think of it as an intermediate point between a landline and a cell phone.
+
+Now that Google Voice is my number-of-record for most people, an iPod VOIP client would let me ditch AT&amp;T and save some bones while I'm at it.
+
+Anyone else eyeing the new iPod Touch, hoping for a GV client?",50,25,2010-09-08,AAPL,0.07404519617557526,0.8998129367828369,0.026141807436943054
+apple,"Apple reverts iOS developer rules, Adobe back in the picture.",,117,233,2010-09-09,AAPL,0.0385763943195343,0.9326567649841309,0.028766833245754242
+iphone,Can anyone explain to me how Exploiters like pod2g and comex go about interfacing with their iPhone's to actually start finding exploits?,"I've always been interested in how people go about finding exploits, I was wondering whether anyone here knew the basics. If so, it'd be fantastic if you could give me an insight.
+
+I'm a Computer Science student at Uni who's interested in this sort of thing as a hobby and I've always been amazed/perplexed by how they start things off.",20,40,2010-09-09,AAPL,0.022614318877458572,0.9250964522361755,0.05228918790817261
+iphone,Jailbreak hole in iOS 4.1 will be hard to close,,9,39,2010-09-09,AAPL,0.3747888207435608,0.5814988613128662,0.0437123067677021
+iphone,iOS 4.1 Jailbreak - That was quick!,,8,25,2010-09-09,AAPL,0.3469044268131256,0.6253479719161987,0.02774762362241745
+apple,Don't be afraid to use the iPad as a tool in System Administration,,20,20,2010-09-09,AAPL,0.03588644042611122,0.9351160526275635,0.028997551649808884
+apple,I can't believe I still have a working Apple Newton...,,10,19,2010-09-09,AAPL,0.020040864124894142,0.8533229231834412,0.12663625180721283
+apple,Steve Jobs &amp; Steve Wozniak on BlueBoxing - Interview from the 80s(?),,5,18,2010-09-09,AAPL,0.035648930817842484,0.9219122529029846,0.042438820004463196
+apple,This is a picture I took today in downtown San Francisco with iPhone HDR option.,,17,17,2010-09-09,AAPL,0.01999303512275219,0.9302253127098083,0.04978162795305252
+iphone,Best iPhone tracking app/service? (not MobileMe),"I've been investigating solutions to track my iPhone in case it is lost or stolen. There seem to be quite a lot of apps that offer such a service, but I am not sure which ones are legit or actually work. I do not want to use MobileMe, I really don't need it, I have dropbox and google to sync everything else with.
+
+I vaguely remember a Redditor had created a similar app a while ago, but have no idea what it was called.
+
+Has anyone tried such an app, if so has it been any good?",9,15,2010-09-09,AAPL,0.01975196972489357,0.9321025609970093,0.04814550280570984
+iphone,Apple Eases App-Development Restrictions,,0,15,2010-09-09,AAPL,0.030979741364717484,0.9312494993209839,0.037770695984363556
+apple,iLoveHandles: iPod Nano wristbands - So it begins.,,77,210,2010-09-10,AAPL,0.026452302932739258,0.923344612121582,0.05020308494567871
+iphone,"Yeah, she didn't get it - sigh",,41,116,2010-09-10,AAPL,0.11782733350992203,0.6213498115539551,0.2608228325843811
+apple,"I just learnt about command-shift-4, and I feel the power!","I feel so uneducated for not knowing that I could *selectively* screenshot on my MacBook without using Grab. I knew about cmd-shft-3 before, but cmd-shft-4 is simply amazing.
+
+Downvote if you will, but I figure more people should know about this, especially noobs like me who have been using their laptop forever without this vital information.",58,72,2010-09-10,AAPL,0.03332439064979553,0.9330592751502991,0.033616263419389725
+iphone,New exploit named 'SHAtter' will jailbreak all existing iOS devices (ready for this?) FOREVER!,,41,69,2010-09-10,AAPL,0.01736074686050415,0.8000324368476868,0.1826067864894867
+apple,FaceTime on Mac: when ?,[deleted],40,34,2010-09-10,AAPL,0.0576426200568676,0.908044159412384,0.03431326895952225
+iphone,"alright, let's not beat around the bush here: where do you guys go for porn on the iPhone?","There have been times that my wife and I have felt like viewing some adult material while away from a computer, and it seems like all of the sites that have free porn on the computer are for-pay when you visit them from an iPhone. What gives, YouPorn and RedTube?
+
+So, what's up? What do you guys do? Tell me your secrets!",41,32,2010-09-10,AAPL,0.04591106250882149,0.9175533652305603,0.03653549775481224
+apple,Hands on with VLC Movie-Player for iPad,,3,28,2010-09-10,AAPL,0.047897208482027054,0.9149268865585327,0.03717583790421486
+apple,Dial *3001#12345#* to field test in iPhone OS 4.1,,1,19,2010-09-10,AAPL,0.023436831310391426,0.92750084400177,0.04906231164932251
+apple,iPhone 4.1 Jailbreak on iPhone 3G !,,5,18,2010-09-10,AAPL,0.0695849135518074,0.8726027607917786,0.05781233683228493
+apple,New Nano gets a lukewarm review from PCMag,,16,17,2010-09-10,AAPL,0.022438567131757736,0.8688998818397522,0.10866151750087738
+apple,Why the iPad will never replace the newspaper [Funny],,61,257,2010-09-11,AAPL,0.034298017621040344,0.9392505288124084,0.026451455429196358
+apple,This doesn’t look desperate at all,,83,125,2010-09-11,AAPL,0.11896420270204544,0.8492012619972229,0.03183456510305405
+iphone,Cydia &amp; Rock Merger,,30,92,2010-09-11,AAPL,0.028534822165966034,0.8893532752990723,0.08211186528205872
+apple,"Rockstar to release GTA III, Vice City, San Andreas for Mac later this year.",,30,62,2010-09-11,AAPL,0.019623517990112305,0.9218530058860779,0.05852346494793892
+apple,"Mac ownership on my college campus is skyrocketing. Its causing some issues though, and I could use some feedback","I'll get right to it, the number of students coming to college with Macs is increasing a LOT every year. This year is no exception. I do tech work for the college within the University I attend, so this directly impacts me. Some of the classes within the business college require Windows. There is no way around it. Specifically, one class that ALL business freshman must take requires IE, Access, etc.
+
+This means we need all of the students to have Windows on their Macs. It is required for in-class work. Not my decision, but thats the way it is. As a tech employee for the technology program it is our job to help students get Windows on their Macs. This is where things get tricky.
+
+What is the best option? They can purchase Windows for $35, so thats not a big deal. The problem is how to run it. Which method do you all think is best, and why?
+
+* Boot Camp - **Pros**: Native performance, assistant comes with OS X, fairly simple. **Cons**: Some students have had their Macs for a while and they are unable to partition their drives without reinstallling OS X first. We aren't able to assist 50+ students a semester with reinstalling OS X and restoring data.
+
+* VMware Fusion - **Pros**: Works well in my experiences. **Cons**: Yet another additional cost for students who are already paying for Windows and Office. We can't force all students to buy the software.
+
+* Parallels - **Same as VMware Fusion**
+
+* VirtualBox - **Pros**: Works great in my experiences. Free. **Cons**: No dedicated support.
+
+I would like to hear your feedback on which method you think is best. We want to be consistent, this is why I ask. We don't want to tell one student to go buy Parallels, another to use VMware Fusion, and another to use Boot Camp. We would like to keep it to one or two simple options to keep confusion down (and hopefully costs).
+
+This of course makes me favor Boot Camp for students with new Macs who can partition and if they can't, VirtualBox. Has anyone here experienced any major issues with VirtualBox? 
+
+Thanks /r/apple
+
+PS: I'm rocking the i7 15"" MBP and loving it! :)
+
+**Edit**: I appreciate all of he replies. I just want to clarify a few things. First off, students pay us a technology fee every semester. That fee goes to some MSDNAA licensing, lab costs, laptop checkout costs, and paying student workers. Because they pay this fee we want to help them with putting Windows on their Macs as needed. The main University IT department also provides this service but it runs the students around $47 an hour, we do it for free as they have paid their fees to us. 
+
+Also laptops are REQUIRED at our college. We require all students to own one, and also have told Mac users countless times before they start school that they NEED Windows on their Macs for some classes.
+
+We never take laptops in. Students can't drop their laptops off to us and pick them up later. Instead, we sit down with them one on one and show them how to use Boot Camp (or VirtualBox so far). We teach them instead of just doing it for them as knowing how to put Windows on a Mac is important. 
+
+Finally, I obviously cannot make curriculum changes. I am not the one teaching these classes. And the fact is that corporate America still uses Windows so it would be a disservice to the students to graduate them without teaching them the software they will be seeing when they get jobs. We can't put our disdain for Microsoft before the education of the paying students. My goal is to find a solution that costs the least amount of money and provides the best experience for the students with minimal risk of data lost. I know backups are important, but I would bet that 80% of students never backup their data and we don't have the resources to get into that fight right now. I personally encourage Dropbox use for all important class data, but thats a discussion for another day.
+
+Thanks again.
+
+**Edit 2**: I appreciate the feedback, however I didn't start this discussion with the intent of it turning into  ""why Mac's should be in corporate America"" or ""your school should teach cross platform stuff only"" discussion. I understand everyone here would prefer curriculum that is not Windows centered, however that isn't my call. The fact is that in a business college Windows will indeed be required for some stuff. Thats the business world, and I didn't create the rules.",108,47,2010-09-11,AAPL,0.05292340740561485,0.9173457622528076,0.02973076142370701
+apple,This is hurting my brain right now...,,22,34,2010-09-11,AAPL,0.7026270627975464,0.23510558903217316,0.06226733699440956
+apple,TIL How to acquire the Look of Disapproval on my Mac,,5,21,2010-09-11,AAPL,0.6573778986930847,0.28423699736595154,0.05838507041335106
+iphone,"Apple to move aggressively on FaceTime, camera-equipped iPads",,8,20,2010-09-11,AAPL,0.026864418759942055,0.9232474565505981,0.04988809674978256
+apple,Windows Phone 7 OS is totally going to kill the competition. Just like the Zune knocked off the iPod ...,,75,17,2010-09-11,AAPL,0.35170432925224304,0.6059818863868713,0.042313750833272934
+ipad,Great commercial for an iPad newspaper app...actually made me laugh out loud. Twice.,,4,15,2010-09-11,AAPL,0.014227570965886116,0.8456547856330872,0.14011766016483307
+apple,GTA trilogy coming to Mac OS X,,81,106,2010-09-12,AAPL,0.015679683536291122,0.8544363379478455,0.1298840343952179
+iphone,101 Cheats App just trolled me!,,19,99,2010-09-12,AAPL,0.028028737753629684,0.8964089155197144,0.07556233555078506
+apple,Is Apple in competition with anyone?,,37,30,2010-09-12,AAPL,0.07674823701381683,0.8829175233840942,0.04033426195383072
+apple,"Parallels Desktop 6 coming September 13, with better 3D support and Windows/Mac integration",[deleted],32,24,2010-09-12,AAPL,0.01136700063943863,0.7864041328430176,0.20222893357276917
+apple,Judge OKs iPhone class action against Apple + AT&amp;T,,21,24,2010-09-12,AAPL,0.19923454523086548,0.7689511179924011,0.031814269721508026
+iphone,"ZumoCast, a free app to stream your music and videos to your iPad or iPhone",,24,16,2010-09-12,AAPL,0.020310286432504654,0.9347949624061584,0.04489472508430481
+iphone,what sorcery is this?!,,3,11,2010-09-12,AAPL,0.03556258603930473,0.9106110334396362,0.053826335817575455
+apple,MacBook Pro: How to Clean?,[deleted],33,11,2010-09-12,AAPL,0.02048496901988983,0.8813896179199219,0.09812536090612411
+apple,"iOS 4 ""cloned"" to HTC device, performs like an iPhone 3G running 4.0",,3,10,2010-09-12,AAPL,0.030884383246302605,0.8992699980735779,0.06984558701515198
+apple,IOS 4.1 and still getting muted by my ear.  Anyone else?,"I'm pretty fed up with this BS.  I thought they improved the proximity sensor code, but today I got muted THREE TIMES on the same short phone call.
+
+What I really REALLY resent: If you use earbuds, or Bluetooth, you can manually disable the touch screen by hitting the ""hold"" button on the top edge.  Try hitting that while dialing or answering a call just using the device as a phone, call is terminated.  Why oh why Apple?  Why such a horrible UI inconsistency?  Why can't I manually disable the touchscreen in the situation that needs it most?
+
+I probably should have just gotten an iPod Touch.  With all this proximity sensor BS, the iPhone is not really useful as a phone.
+
+/disgruntled loyal apple user",31,9,2010-09-12,AAPL,0.07130385935306549,0.8989208340644836,0.029775263741612434
+apple,I was at the folks house helping my Dad clean out the garage and uncovered my old Macintosh Performa...,,50,173,2010-09-13,AAPL,0.022695789113640785,0.8547098636627197,0.12259440869092941
+apple,Monkey Island 2 for the iPhone is on sale for $0.99,,45,77,2010-09-13,AAPL,0.022511519491672516,0.8446620106697083,0.13282646238803864
+apple,Mac Freeware All-Stars - AppStorm's 10 Best in Category Picks,,19,65,2010-09-13,AAPL,0.014603895135223866,0.8562831878662109,0.12911292910575867
+apple,"Biolab Disaster - a game created using HTML5 and Javascript. Yes, no flash!",,39,54,2010-09-13,AAPL,0.03835197538137436,0.9313991069793701,0.03024887479841709
+iphone,So FileDude seems to be the worst host imaginable. Why are so many Installous apps hosted there?,As opposed to say... mediafire.,49,39,2010-09-13,AAPL,0.06733499467372894,0.8899937868118286,0.04267116263508797
+iphone,Upgrade to 4.1 or downgrade to 3.1.3?,"I've had problems with performance on my 3G since I first upgraded to iOS4. Have any other 3G owners found 4.1 to be any better? Or should I do what I planned in the first place, downgrading?
+
+Edit: Thank you for the responses everyone, I'm going to try updating and if that doesn't work, then down we go!
+Edit 2: 4.1 works pretty damn good for me, everything that lagged with 4.0.2 is snappy and nice now.",32,30,2010-09-13,AAPL,0.029422396793961525,0.8670408129692078,0.10353676974773407
+iphone,Whats your most used app atm?,"for me it's zumocast streaming movies to my iphone via wifi. I was actually using it via iPad
+
+Just wondering what other people are playing/using the most atm?",67,27,2010-09-13,AAPL,0.022968018427491188,0.9385509490966797,0.038481034338474274
+apple,"137,000 iPhones a day, or 90 iPhones a minute. A look inside the empire.",[deleted],13,20,2010-09-13,AAPL,0.022097257897257805,0.9169510006904602,0.06095169857144356
+apple,iTunes Instant,,10,16,2010-09-13,AAPL,0.02057935856282711,0.9357421398162842,0.04367857798933983
+apple,Is there way to do Spaces with real separate desktops?,"I like Spaces, but I want real separate desktops.  That is, different background image, different desktop icons, applications launch inside the current desktop instead of taking me to an instance of the app running somewhere else.
+
+I think what I really want is like ""user switching"" without actually leaving my account.
+
+Does this feature exist somewhere, if not in the OS, then via 3rd party?",8,11,2010-09-13,AAPL,0.03056398406624794,0.9402849078178406,0.02915112115442753
+iphone,Alien Blue HD for the iPad is now available on the App Store,"TL/DR: You can find it [here](http://itunes.apple.com/app/alien-blue-hd-reddit-client/id390863118?mt=8)
+
+It's available worldwide, but it may take an hour or so before it becomes available in your country's iTunes store.
+
+
+Hi everyone,
+
+
+As some of you may know, I've been busily working on an iPad version for Alien Blue.  Well Apple just approved it!  I thought I would also answer some of the questions that others have asked on various threads.
+
+----------------------------------------------------
+
+** How is Alien Blue HD different to Safari for browsing Reddit? **
+
+I wanted Alien Blue on the iPad to be a very different experience when using Reddit.  I have developed the entire browser experience around a sidebar that allows a fast and intuitive way to switch between subreddits, posts and comments without having to move back and forth between screens.  It's been designed so that you always have context without needing to open multiple tabs in the background.  I hope you'll enjoy using it as much as I enjoy developing it.
+
+----------------------------------------------------
+
+** Can I customize the way things look in Alien Blue HD? **
+
+You certainly can.  Alien Blue HD defaults to a Minimalist layout in comments (similar to the Reddit website.)  You can also switch to Boxed comments (or Classic) via:
+
+Settings -&gt; Comment Settings -&gt; Comments Display Style
+
+**Note:** I highly recommend that you enable ""Show Domain On Post List"" in the preferences section (apologies, this should have been enabled by default).
+
+----------------------------------------------------
+
+** Why isn't this a universal app? **
+
+There are two reasons:
+
+1. I don't want to affect the donation-ware model of Alien Blue on the iPhone
+
+2. I'm already shit-scared when I'm releasing updates for a single device.  With approx 2 weeks in review for each critical update, I'm in a perpetual state of stress thinking that I may be releasing another bug that I can do absolutely nothing about for two weeks after approval.  With two separate versions, I can at least focus on one release at a time.
+
+----------------------------------------------------
+
+** How much work did it take to get here? **
+
+You can see the [changelog](http://alienblue.org/beta/changelog-hd.txt) for the launch version.
+
+----------------------------------------------------
+
+** Why isn't it free? **
+
+Here's what I wrote in another thread prior to the launch of ABHD:
+
+&gt; I'm making this one a paid app, so that I can keep up the time and resources to continue development. Only about 2-5% of users upgrade Alien Blue to Pro (equates to about $50-$70 per week) and I put in about 40-50 hours each week to it's development in addition to my existing contracts. I'm hoping that ABHD will at least give me a bit of breathing room, so that I can reduce my contract work load.
+
+&gt; The free version of the app is purposefully unrestrictive so that people contribute only if they like the app, not because they have to.  Alternatives were to include advertising within the apps, but this is not a road I want to head down. Even with the 95+% free user base, I don't want to reduce their enjoyment of the app via mobile ads.
+
+----------------------------------------------------
+
+** Is there an update already on the way? **
+
+You bet your ass!
+
+If you like the app, please be sure to leave a review on the App Store.  These definitely help with approvals.",128,200,2010-09-14,AAPL,0.03956208378076553,0.923623263835907,0.0368146188557148
+apple,Steve Jobs Stopped at Japan Airport Over Ninja Stars,[deleted],150,147,2010-09-14,AAPL,0.06914620101451874,0.8345043659210205,0.09634944051504135
+ipad,Alien Blue HD (iPad Reddit Client) is now available on the App Store (crosspost),,33,89,2010-09-14,AAPL,0.01866196095943451,0.929597020149231,0.05174107477068901
+apple,"Apple PR - ""Steve did visit Japan this summer for a vacation in Kyoto, but the incidents described at the airport are pure fiction. Steve had a great time and hopes to visit Japan again soon.""",,6,65,2010-09-14,AAPL,0.04704998806118965,0.911328136920929,0.04162184149026871
+apple,I've tried just about every OSX launcher. Alfred freakin' rocks. Just sayin'.,,36,45,2010-09-14,AAPL,0.02693578414618969,0.9048227667808533,0.06824150681495667
+apple,"The ""Verizon iPhone"" Versus ""The iPhone On Verizon's Network""",,17,33,2010-09-14,AAPL,0.02629167214035988,0.897763729095459,0.07594466209411621
+iphone,SpeedTest.net's Easter Egg...,,11,30,2010-09-14,AAPL,0.046348936855793,0.9158759713172913,0.03777509182691574
+apple,My new iPod Touch is arriving tomorrow and i had a thought.,"If Apple were to make FaceTime work with iChat, like say if i was on FaceTime i would have a buddy list of iChat and other FaceTime people who i could call, and if i were on iChat i could call up my friend on his ipod Touch.
+
+Well, to say the least, i would love it 10x more.",56,26,2010-09-14,AAPL,0.018736109137535095,0.9284928441047668,0.05277097225189209
+apple,Consumer Reports still doesn't recommend iPhone 4,,10,17,2010-09-14,AAPL,0.16483908891677856,0.776803731918335,0.058357201516628265
+iphone,Apple to ditch Infineon for Qualcomm in iPhone 5,,1,13,2010-09-14,AAPL,0.03393320366740227,0.8685605525970459,0.09750622510910034
+apple,"Dear Parallels.  Let's be clear.  Your most recent version is an UPDATE, not an UPGRADE.  If you think I'm paying you 50 bucks you're on fucking drugs.  You're ruining your consumer karma.",,155,225,2010-09-15,AAPL,0.11248021572828293,0.8373851776123047,0.050134673714637756
+apple,"The BEST thing about iOS 4.2 for iPad, bar none.",,121,202,2010-09-15,AAPL,0.018868789076805115,0.9287008047103882,0.052430443465709686
+iphone,Regular vs HDR [pic],,83,145,2010-09-15,AAPL,0.03232279419898987,0.8973262906074524,0.07035095244646072
+apple,Alien Blue HD reddit client on iPad. Easily the best way to browse reddit I've ever tried,,13,113,2010-09-15,AAPL,0.017683235928416252,0.8954474329948425,0.08686932176351547
+apple,Safari - WTF?,,25,47,2010-09-15,AAPL,0.03265382722020149,0.9200960993766785,0.047250062227249146
+apple,"I recently started with OSX development, and recently finished my first tool called World Ticker. I give it away for free! (more details inside)","Hi reddit friends!
+
+**World Ticker** gives the user the ability to show world clocks in the OSX status bar, right next to your local time, in the top-right corner of your desktop.
+
+I am offering this tool completely free of charge, and would love to know what you think of it! Feedback on World Ticker or the website are very welcome.
+
+Download available for free here: http://azerton.be/worldticker/
+
+Have a great day!",18,45,2010-09-15,AAPL,0.015673048794269562,0.935174822807312,0.04915212467312813
+apple,The PC -&gt; Mac curve,,111,42,2010-09-15,AAPL,0.020647162571549416,0.9091724753379822,0.07018037140369415
+apple,"During this time, let's remember that He too is a fanboy.",,7,31,2010-09-15,AAPL,0.03562650829553604,0.8986806869506836,0.06569281220436096
+iphone,The “Verizon iPhone” Versus “The iPhone On Verizon’s Network”,,6,16,2010-09-15,AAPL,0.02629167214035988,0.897763729095459,0.07594466209411621
+apple,An accurate dramatization of the Steve Jobs Ninja Star Incident,,3,15,2010-09-15,AAPL,0.05654561519622803,0.8847845792770386,0.0586698055267334
+apple,iPad cuts Best Buy's traditional notebook PC sales in half,,143,176,2010-09-16,AAPL,0.011811068281531334,0.7789164185523987,0.20927251875400543
+iphone,Regular vs FDR [pic],,24,166,2010-09-16,AAPL,0.06291458010673523,0.8338349461555481,0.10325045138597488
+ipad,Let's hear it: what do you NOT like about yor iPad?,"I love my iPad as much as the next guy, but:
+- auto-correct: irritating enough for me to turn off after having given it an extended trial period
+- keyboard: after a month, I'm still not used to typing on it and end up punching other letters
+- compatibility: I don't want to start a flamewar on this but not having flash really sucks sometimes. Some people have argued that flash is low-performance, high-consumption. But come on, the iPad is powerful enough to show HD videos and run Unreal Engine, then it should as well play flash videos and games...
+- too addictive: When I have people over, everybody just keeps playing with the iPad. Nobody talks, it's just turns on the iPad. Forever alone...
+- When playing multiplayer boardgames, it is as if buttons can only be pressed from certain angles. ie, a player on one side of the ipad, from their point of view, presses a button but it systematically does not register. Then somebody else on the other side of the board does, and boom... it registers every time. It has, I believe, something to do with perspective.
+
+LET'S HEAR YOUR GRIPES!",94,27,2010-09-16,AAPL,0.03980404511094093,0.9274051785469055,0.03279077261686325
+apple,"iOS 4.2 packs new, improved YouTube, FaceTime features and more",,6,25,2010-09-16,AAPL,0.012548965401947498,0.8510398864746094,0.1364111751317978
+iphone,This iPhone tracking app was made by a redditor and doesn't have the recognition it deserves.,,9,18,2010-09-16,AAPL,0.036810699850320816,0.8880527019500732,0.07513657212257385
+mac,"I love my Mac, but I miss this...",,14,15,2010-09-16,AAPL,0.02670268341898918,0.9110159873962402,0.06228131800889969
+iphone,11 Most Useful iPhone Blogging Applications For Free Download,,1,12,2010-09-16,AAPL,0.031348057091236115,0.9392756819725037,0.029376238584518433
+iphone,"Final Fantasy Tactics for iPhone delayed, Square Enix offers no explanation",,3,11,2010-09-16,AAPL,0.026884140446782112,0.8992605209350586,0.07385532557964325
+apple,Why hasn't 4.2 done the obvious with iPad Safari?,Reader...,14,11,2010-09-16,AAPL,0.016587691381573677,0.9055222868919373,0.07789008319377899
+iphone,I just thought I'd share a couple of apps I made :),"[Starflash](http://itunes.apple.com/us/app/starflash/id365799538?mt=8) is my first application. It was a study on basic game design and Apple's approval process. It's a basic color-match style puzzle game built upon the cocos2d framework. This app also served as an objective-c primer for myself and now that it has been some time, I find myself wildly embarrassed by my code :P
+
+
+[Sonice](http://itunes.apple.com/us/app/sonice/id390967109?mt=8) is my second application that was just approved earlier today. I used this project as a study on Apple's Cocoa Touch api and adhering to their user interface guidelines. Sonice is a universal binary and thusly has a native iPhone and iPad implementation.
+
+
+Both of these applications are currently free. Though it might take the app store a little bit of time to process my change for Starflash (it used to be $.99). 
+
+
+
+Any thoughts or recommendations are always appreciated :)",6,8,2010-09-16,AAPL,0.017165323719382286,0.928123414516449,0.05471128597855568
+iphone,The mobile redditor's dilemma [pic],,57,121,2010-09-17,AAPL,0.042233407497406006,0.9295267462730408,0.028239868581295013
+apple,Why does everyone recommend/use Quicksilver or Alfred? Doesn't spotlight pretty much take care of launching apps/finding things?,,148,109,2010-09-17,AAPL,0.021234238520264626,0.9240120053291321,0.05475374311208725
+apple,Apple store in China being treated as a free telephone booth,,19,50,2010-09-17,AAPL,0.014690753072500229,0.9289239645004272,0.05638528987765312
+apple,Print on the iPad: A smashing success | The Economist,,9,48,2010-09-17,AAPL,0.015182548202574253,0.2899245619773865,0.6948928236961365
+apple,"IPA God: Installs Cracked Apps On iPhone, iPod Touch And iPad Without Jailbreaking",,28,27,2010-09-17,AAPL,0.03964398801326752,0.9070917963981628,0.053264208137989044
+apple,Best Buy: iPads not really killing notebook sales,,11,25,2010-09-17,AAPL,0.3217567801475525,0.6367617845535278,0.041481491178274155
+apple,"Warner Bros. execs greedy, find Apple's 99 cent TV show rentals too cheap",,14,24,2010-09-17,AAPL,0.018317505717277527,0.903751015663147,0.07793150097131729
+apple,Apple's 27-inch LED Cinema Display now available for purchase,,58,23,2010-09-17,AAPL,0.013466554693877697,0.9011208415031433,0.08541259169578552
+iphone,Google Voice app comes to the App Store for $3,,6,20,2010-09-17,AAPL,0.017682047560811043,0.9409250020980835,0.041392982006073
+apple,Hands Off! : Let's you block apps from phoning home or storing hidden files,,17,16,2010-09-17,AAPL,0.16044381260871887,0.8210057020187378,0.0185504462569952
+apple,A blind user's story of having his world opened up thanks to the iPhone,,68,335,2010-09-18,AAPL,0.013238177634775639,0.8721164464950562,0.11464540660381317
+apple,Is it just me or do .dmg's have a ridiculously good compression ratio?,"I just updated OpenOffice, downloaded a 173MB .dmg and then when I opened it the actual application I copied to /Applications was almost 450MB!",59,69,2010-09-18,AAPL,0.03012763150036335,0.9195312857627869,0.050341129302978516
+iphone,iOS developers:  Are you shocked by how vengeful users can be in the app store?,"If a user doesn't like an update, he/she might say so and give it a very low rating to try to kill your sales until the issue is addressed.
+
+Something seems wrong about this. A single user can have way too much power over sales. And there is a total lack of respect for the developer.
+
+Perhaps Apple should allow users to go back to previous versions if they don't like an update.",68,58,2010-09-18,AAPL,0.2817786931991577,0.6912364959716797,0.02698489837348461
+apple,10 years of the ultra-successful Apple Mac OS X,,11,28,2010-09-18,AAPL,0.03007661923766136,0.9269434213638306,0.04298003017902374
+iphone,Best of Show: iTunes Icons Redesigned by Wired Readers,,10,23,2010-09-18,AAPL,0.025896770879626274,0.8932132720947266,0.08088994771242142
+apple,What can I do with a G4 mini?,"I inherited an old G4 mini, it's a 1.5ghz with 512megs of RAM and an 80gig HD. It has both bluetooth and wifi, but doesn't have the IR input for a remote. It passed all the hardware tests and now has a fresh copy of Tiger on it. (Leopard runs far too slowly on these.)
+
+I was thinking I could hook it into my entertainment center and use it as an Airtunes/Airplay receiver to play from the computer that has the mp3 collection, but that isn't possible. If I have it remotely connect to the playlist instead, then I can't use my iPhone to control the remote playlist!
+
+My only other idea is to take it to work and secretly swap it with one of the Intel ones and wait for all the ""why is this computer so slow?"" complaints.
+
+Edit: I should probably add that I already run plenty of linux servers, so I don't really need another. I also already have a MythTV box in the entertainment center along with a TiVo HD. Doing something with the mini that doesn't involve using the OSX gui is almost pointless since that is the one thing that it is really good at. Besides being small anyway.",69,23,2010-09-18,AAPL,0.04121583700180054,0.9267808794975281,0.03200331702828407
+iphone,Google Voice apps returning to iPhone app store,,2,13,2010-09-18,AAPL,0.021609915420413017,0.9367308020591736,0.04165930673480034
+apple,Would a plugin store kill the need to jailbreak?,"I feel like for most people that jail break, the things that they choose to use jailbreaking for are small modifications to the way their phone works. If there was a market where you could buy small modifications to the phone, most people who jailbreak now wouldn't. Apple would probably put some limitations on what the plugins could do, but I still think it would improve iOS devices significantly and mitigate many of the advantages that Android has.",20,11,2010-09-18,AAPL,0.013761751353740692,0.8424625992774963,0.14377565681934357
+apple,Wait...Maybe the iPad is Cannibalizing Notebook Sales After All...NPD Report.,,8,10,2010-09-18,AAPL,0.023493587970733643,0.9277694225311279,0.048737019300460815
+apple,"I may just be an idiot, but...","I (like many of you I assume) use Gmail quite a bit, usually in Safari.  I find it very frustrating that in the email and chat windows it will detect misspelled words, but I can't find any way to right click on them for suggestions like in every other text field on a website.  I'm sure this is a byproduct of how the page is written, but does anyone know to use this functionality in gmail windows?
+
+Thanks!
+
+tl;dr: How do you right-click correct spelling in Gmail on Safari?
+
+**EDIT**: retlawmacpro seems to have found a solution.  The word must be highlighted individually for the spelling suggestions to appear.  It seems in Gmail because of the window structure this doesn't always happen on a single right click, so double click to highlight the word (or manually highlight it) and then right click.",26,9,2010-09-18,AAPL,0.04160940274596214,0.9289698600769043,0.02942078374326229
+iphone,Dear Apple: I don't want to jailbreak my phone.  Please make the iPhone completely useful by giving me this screen:,,128,439,2010-09-19,AAPL,0.018856817856431007,0.899882435798645,0.08126070350408554
+apple,The Magic Charger,,25,50,2010-09-19,AAPL,0.030917098745703697,0.9143261909484863,0.054756782948970795
+apple,"""Bookmark this please?"" - ""Bookmarked."" Amazing Star Trek-style voice-driven browser for iPad.",,39,32,2010-09-19,AAPL,0.04238796979188919,0.8959923982620239,0.06161965802311897
+ipad,"""Hello computer?"" - ""Hello."" /r/iPad, please help me beta test a very futuristic browser.",,10,27,2010-09-19,AAPL,0.022769877687096596,0.9157695174217224,0.06146058812737465
+apple,My Macbook is having an identity crisis!,"Step 1: Open terminal. 
+
+Step 2: Type the following: say -v ""Cellos"" ""droid""
+
+Step 3: Teach monkeys how to joust
+
+Step 4: Profit!
+
+Source: [Gizmodo](http://gizmodo.com/5641305/whoa-your-mac-can-make-the-droid-sound)",25,24,2010-09-19,AAPL,0.027912061661481857,0.9166067242622375,0.05548122525215149
+iphone,Google Voice On The iPhone Comes Full Circle As Apple Accepts GV Mobile+,,5,17,2010-09-19,AAPL,0.016960974782705307,0.8718481063842773,0.11119084805250168
+apple,"So I bought a new all-in-one printer from Canon. They couldn't use the installer.app provided by Apple, no! Put install window on top of everything else, yes! 185MB for a bloody printer and scanner driver of course!",,15,13,2010-09-19,AAPL,0.02323627658188343,0.9353159070014954,0.04144786670804024
+apple,"Steve Jobs tells college student to ""Leave us alone.""",,11,11,2010-09-19,AAPL,0.27120548486709595,0.6818161606788635,0.04697837680578232
+iphone,"Depositing Checks, Right From Your Phone",,2,10,2010-09-19,AAPL,0.02827712520956993,0.9001473188400269,0.07157550752162933
+mac,Looking for a free Dreamweaver alternative.,"I've recently bought a Mac, and I can't seem to find alternative to what I used for php development on a PC... dreamweaver.
+
+I don't use the WYSIWYG function at all.  Pretty much all I need is a php editor that has slick ftp functionality built in.  Unless I'm doing it wrong, none of the mac editors that I've used have allowed me to pick a destination server, then just hit an upload button to send up and updated file.
+
+Code highlighting is my only other requirement.  I don't develop full time and not that much on a mac, so paying $99 for an expensive program is probably not in it for me.
+
+EDIT:  Thanks everyone for your great suggestions, upboats all around.  I'm going to use this as my masterlist to start with.  I think what I might do is use textwrangler and cyberduck to get immediately started, and then start learning aptana/zend/eclipse as a long term solution.
+
+Yar, thanks mateys, and Happy TLAP Day!",12,8,2010-09-19,AAPL,0.02755451761186123,0.9277170896530151,0.04472837224602699
+apple,"Apple refuses to put Intel stickers on its computers, even though there’s Intel inside. In doing so, it leaves millions of dollars a year on the table.",,352,536,2010-09-20,AAPL,0.11621035635471344,0.8375726342201233,0.04621697962284088
+apple,Apple Approves VLC For iPad,,122,488,2010-09-20,AAPL,0.037996310740709305,0.9273203015327454,0.03468344733119011
+apple,Have we lost our minds?,,44,66,2010-09-20,AAPL,0.3356555998325348,0.619199812412262,0.045144613832235336
+apple,"Steve Jobs tells annoying college student, ""Please leave us alone.""",,49,48,2010-09-20,AAPL,0.3838968575000763,0.5710312724113464,0.04507187753915787
+apple,Anyone else think Finder should have an 'up' button to go to the parent folder?,"First thing I always do on a new install is add the path button, but it basically does something that command-up does a little faster.",21,26,2010-09-20,AAPL,0.04492484778165817,0.9263656735420227,0.02870943769812584
+apple,"Dear /r/apple, I made you an OS X app that monitors your reddit nicely. Go and get it!",,23,18,2010-09-20,AAPL,0.04783279821276665,0.9098225235939026,0.042344704270362854
+iphone,How To Play Flash Games On Your Apple iPad For Free,,5,16,2010-09-20,AAPL,0.03952598199248314,0.9261229038238525,0.0343511626124382
+apple,Is it worth it to build a hackintosh now?,[deleted],47,14,2010-09-20,AAPL,0.045935023576021194,0.910179078578949,0.04388587176799774
+apple,"Yeah, 'say -t ""Cellos"" Droid' is pretty good, I guess...","But duns are better:
+
+'say -v ""Cellos"" dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun'",8,14,2010-09-20,AAPL,0.038325775414705276,0.9017830491065979,0.05989111214876175
+apple,Google Docs coming to the iPad,,3,13,2010-09-20,AAPL,0.029929224401712418,0.7230609059333801,0.24700982868671417
+apple,Mac beats PC in satisfying consumers,,186,60,2010-09-21,AAPL,0.02426586113870144,0.515876054763794,0.4598580598831177
+iphone,23% of iPhone owners want Verizon as AT&amp;T exclusivity ends.,,31,59,2010-09-21,AAPL,0.025248166173696518,0.9369240403175354,0.03782781586050987
+apple,"Guide to connecting to hotel internet, mac and windows instructions",,36,49,2010-09-21,AAPL,0.017341474071145058,0.9197114109992981,0.06294704973697662
+apple,I think my macbook pro is gently electrocuting me...or i'm having a gentle heart attack.  has this happen to anyone else?,,95,35,2010-09-21,AAPL,0.10112574696540833,0.8721678256988525,0.02670634724199772
+iphone,Some simple lessons I learned about the App Store,,8,34,2010-09-21,AAPL,0.016962379217147827,0.880350649356842,0.10268696397542953
+iphone,"iTunes is requesting to update ""carrier settings"" on my jailbroken/unlocked iPhone 4. Is it a trap?",,28,20,2010-09-21,AAPL,0.02980559878051281,0.9299124479293823,0.040282029658555984
+iphone,"Apple acquisition gives iPhone face recognition - image searching, video calling capabilities, and face authentication",,6,20,2010-09-21,AAPL,0.009280771017074585,0.8174469470977783,0.1732722818851471
+apple,Dev Team release jailbreak for 4.1 firmware,,9,19,2010-09-21,AAPL,0.3420959413051605,0.6202743053436279,0.03762982413172722
+iphone,Just upgraded to an iPhone 4 and have 2 questions. Thanks.,"I had the unlimited plan from my 3G and I understand that I can do unlimited data but:
+
+1. Does this mean I can stream from my phone and watch Justin.tv as much as I want on 3G without worrying about any extra fees??
+
+I know my data plan was grandfathered in but I never actually used a lot of it before 
+And 
+
+2. Unfortunately it came with 4.1, is there any way to jailbreak it yet?  I'd read that this was being worked on but is there a way to JB 4.1?
+
+Thanks again!",25,14,2010-09-21,AAPL,0.02912024036049843,0.9012054800987244,0.06967433542013168
+mac,Good guide on using the terminal?,"I keep running into programs that want me to install through the terminal, and I've never been able to do it. I feel like there's a lot of things I'm missing out on by not knowing how to use the terminal. I googled and found a few guides, but most of them just talk about UNIX and give me a list of commands. I'm looking for practical applications/explanations for commands--especially those to install.
+
+I'm also confused why I've never been able to install anything, in retrospect I think I had problems with the proper environments and libraries needed to install.",15,13,2010-09-21,AAPL,0.04921191930770874,0.9186755418777466,0.03211255744099617
+apple,Reason 114 why I love my mac: it's not polluted with stickers advertising the components,,374,159,2010-09-22,AAPL,0.023267101496458054,0.9384235739707947,0.03830934315919876
+apple,iPad the highest-scoring product a leading consumer satisfaction index has ever tracked,,42,112,2010-09-22,AAPL,0.041804585605859756,0.4283050000667572,0.5298904776573181
+apple,What Ping should have Been,"Ping seems to have focused on the wrong idea. Right now Ping is centered around the artists and, honestly I couldn't give a crap about the artists. If I wanted info on an artist, I could just follow them on Twitter or Facebook. They both do that job very well.
+
+What neither do well and what Ping should have been centered around is the idea of #nowplaying. Most important to me is discovering songs my friends love. People tweet now playing because you find a new song you think others might like or an old song that fits your mood of the day and you want to share that mood. Now playing gets lost in a stream of other randomness on Facebook and Twitter, but if it had its own feed where I could find the friends that I already have on Facebook and Twitter it would be very useful to me. I would be inspired to download songs I don’t have yet or add songs I hadn’t been listening to to my ipod. I should be able to Shazam a song and send it straight to ping with a comment.
+
+Ping should be smart enough to let me see the songs pinged sorted by genre, artist, whether or not I already have it, how many times my friends pinged a song which hints at popularity, if I’ve never heard the song before. People should be able to ping a whole playlist if they want to. Podcasts, tv shows, and movies should get the same treatment. The potential for this is pretty big. Sadly, its being wasted. I understand they put time into trying to partner with Facebook, but Twitter might have made a better partner to begin with since it is where now playing was born.
+
+- edit
+
+Alternative A) Last.fm
+
+Last.fm similar to what I'm describing. I hadn't been using scrobble until today, but is seems to make Last.fm grab the info on the what you play in iTunes. Its almost perfect.
+
+As is, I love Last.fm but use iTunes mostly. I always saw Last as the other Pandora, but it notably better. 2 problems though. 
+1) I'm not sure if Last is smart enough to make me aware of music that I've never heard before, but a friend has hearted.
+2) Because it doesn't have Twitter or Facebook integration I have to find my friends one by one, which is annoying in 2010. 
+
+Ideally, when you open Last.fm, there would be a station of friend hearted songs that you never listened to on Last.fm and a separate list comparing the friend hearted songs to the songs you hearted so that you could easily find what songs you should download after you heard them the first time. Thanks, UniversalAC
+
+Alternative B) TweetDeck
+
+It was also suggested to add a filter on TweetDeck for now playing. I could be wrong, but it won't show you only the now playings of just your friends. I don't care what 150 million twitter users are now playing. While I do follow people I don't really know because Twitter is more about shared ideas than relationships, the TweetDeck filters seem insufficient for this purpose. It was a good idea though.",76,82,2010-09-22,AAPL,0.08776545524597168,0.8852963447570801,0.02693823352456093
+mac,Want to hear a song? Type this into terminal:,"say -v Cellos  ""di di di di di di di di di di di di di di di di di di di di di di di di di di """,41,60,2010-09-22,AAPL,0.05054246634244919,0.8984572887420654,0.051000241190195084
+apple,"Apple Reverses Another Stance, Allows Ringtone Makers Into The App Store",,21,50,2010-09-22,AAPL,0.021663278341293335,0.9371920228004456,0.04114474356174469
+iphone,My iPhoneography Camera Bag - The 12 iPhone photo apps I use most,,6,48,2010-09-22,AAPL,0.025056352838873863,0.9459154605865479,0.029028210788965225
+apple,iPhone gets a keyboard,,23,33,2010-09-22,AAPL,0.024394569918513298,0.7714014649391174,0.20420396327972412
+apple,Apple sucks you say? I'll take that to the bank- AAPL stock hits ANOTHER ALL TIME HIGH,,55,31,2010-09-22,AAPL,0.07685809582471848,0.777155339717865,0.14598655700683594
+apple,VLC for iPad: This is what happens when developers do the UI design,,41,24,2010-09-22,AAPL,0.0208651814609766,0.9286277890205383,0.050506964325904846
+iphone,"Facebook for iOS updated, fixes what last update broke",,6,21,2010-09-22,AAPL,0.03635695204138756,0.9316350817680359,0.032008010894060135
+iphone,Alien Blue v2.0 for the iPhone is now available from the App Store,"TL/DR: [You can grab it here.](http://itunes.apple.com/app/alien-blue-unofficial-reddit/id370144106?mt=8)  It was approved moments ago, so it may take a little while to show up in your App Store updates.
+
+
+Hi everyone,
+
+Following up from last week's [Alien Blue HD announcement](http://www.reddit.com/r/iphone/comments/ddw3u/alien_blue_hd_for_the_ipad_is_now_available_on/), I want to introduce the next major release of Alien Blue for the iPhone.
+
+
+** Why is this a major release? **
+----------------------
+
+* A new icon
+* A revised user interface
+* Comment themes
+* Lots of features
+
+There's a lot of information that follows, so you may want to skim through:
+
+
+** Some caveats **
+----------------------
+
+* iOS 4.2 has recently been seeded to developers, and I'm working on reducing any impact this will have on you prior to the iOS public release.
+
+* 3 Critical memory leaks were plugged.  Although I've done my best to keep the app stable, fixing memory leaks can sometimes cause crashes.  So if the app does crash on you, **please let me know** so that I can investigate it.
+
+
+
+** Comment Themes **
+----------------------
+
+Along with it's new user interface, Alien Blue now has three in-built comment skins:
+
+1. Minimalist (looks like iReddit/Reddit.com)
+2. Boxed (closer to Mobile Reddit)
+3. Classic
+
+On fresh installs, the app will now use the Minimalist/Reddit theme to make new users feel at home.  For existing installs, you can easily switch via:
+
+** Settings -&gt; Comment Settings -&gt; Comment Display Skin **
+
+
+** New Features **
+----------------------
+
+* Simplified &amp; More Native User Interface 
+* Back / Forward in Web Browser
+* Subscribe &amp; Unsubscribe from Reddits through Alien Blue
+* **Orangered Envelope**
+* Save to Reddit Option (directly from the browser)
+* Save to Photos (directly from the browser)
+* Added ""Always Use Instapaper Mobilizer"" under Advanced Settings
+* Support for **voting arrows** when listing Posts
+* Support for voting arrows when listing Comments
+* High-Resolution switch to view comics / text heavy images (from the browser actions)
+* Comment Themes
+* ""Comments to Fetch"" setting, supports 200, 500 or 1,000 (Reddit Gold subscribers)
+* Introduced ""News &amp; Updates"" section
+* New Icon (thanks to Jedberg, KeyserSosa and Reddit's licensing department)
+
+
+** Fixes and Improvements **
+----------------------
+
+* Critical : Low quality / blurry images showing in the browser view
+* Critical : Fixed AB losing scroll position when low on memory
+* Critical : Patched 3 heavy memory leaks (would cause the app to bloat, slow down and/or crash after a short time)
+* Critical : Refreshes Reddit API authentication token when expired
+* Critical : Show All Images occasionally caused a crash
+* Fixed: Missing Subreddits bug (when subscribed to more than 50 subreddits)
+* Fixed: Multiple links from messages were browsing to the first link.
+* Fixed: Keyboard overlapping camera controls for Imgur uploads
+* Fixed: ""Save Image"" activating when tapping ""Cancel"" on browser action sheet
+* Fixed: In-App Email / Bug Reporting rotating in Upside-Down Portrait
+* Fixed: Empty Subreddit title when restoring from state (3.x devices)
+* Fixed: Truncation of author names in deeper threads
+* Moved ""Dismiss"" button to the top of the screen when presenting connection errors (as keyboard could occasionally cover it)
+* Rounded corners of Subreddit logos
+* Full-screen now available in Reddit Selector
+* Added a Help button (top left in Settings)
+* Improved differentiation of visited links in night-mode
+* Fixed ultra-thin ""Hide"" glyph for Retina displays
+* Photo &amp; Camera controls now hide in Landscape (as these are only supported in Portrait)
+* Reduced opacity of full-screen back and exit icons
+* Removed circular links to self posts
+* Network activity indicator in the Status Bar now shows connection activity
+* Improved handling of connection errors
+* Improved ""Save State"" for 3.x devices
+
+Check it out, and please keep me posted with any bugs that you come across.  I love to squish 'dem bugs.
+
+
+
+** Next Update (v2.1 - Coming Very Soon) ** : 
+----------------------
+
+Mark-down (bold, italic, inline links and improved comment formatting)
+----------------------
+
+I've just finished writing up a lightweight [markdown engine](http://www.reddit.com/r/AlienBlue/comments/dg6nk/alien_blue_markup_support_is_in_development/) for CoreText (so that Reddit comments can be rendered very quickly on your device).
+
+This means:
+
+* Inline links (with optional footnoted buttons if you like those)
+* Indented and correctly formatted quotes
+* Support for Bold and Italic
+
+For those with fat fingers, don't worry: the inline links are very forgiving and Alien Blue will check areas surrounding your touch to see if a link is in the vicinity.  I will be submitting v2.1 for approval very shortly, and mark-down support will be included. 
+
+:)",98,336,2010-09-23,AAPL,0.054696785286068916,0.913581520318985,0.03172171954065561
+apple,"VMWare is getting ballsy. Offering ""upgrade"" from Parallels for $9.99",,66,117,2010-09-23,AAPL,0.013474696315824986,0.6589027643203735,0.32762259244918823
+apple,"At one point today, Apple = the second largest company in the world (by market value)",,68,111,2010-09-23,AAPL,0.013717752881348133,0.7913057804107666,0.19497644901275635
+apple,The  unofficial reddit iPad app(Alien Blue) is finally available!,"I'm in love.
+
+(posted from my iPad)",36,62,2010-09-23,AAPL,0.026343543082475662,0.9307409524917603,0.04291548207402229
+iphone,"Stolen Iphone-4  :( I know who did it, Reddit Plz help me find him!",,28,36,2010-09-23,AAPL,0.051968902349472046,0.8885107636451721,0.05952035263180733
+iphone,sn0wbreeze 2.0 is out - jailbreak older iDevices on 4.1,,27,33,2010-09-23,AAPL,0.051458779722452164,0.9082839488983154,0.040257278829813004
+mac,I just switched to Mac after 18 years of using a PC. What should I know?,"Hi r/mac, I've been a PC user for all 18 years of my life. Before purchasing a macbook pro I have never used a mac for more than 5 minutes. It's completely foreign to me but I'm up to the challenge. I need some tips on apps that I should download, shortcuts, and features I should know about.
+
+I love this computer despite not knowing anything about it yet and I'm excited to get my new mac life under way.
+
+tl;dr: Never used a mac before, just bought one, I need tips on apps, shortcuts, and features.",114,29,2010-09-23,AAPL,0.026431506499648094,0.932353138923645,0.04121537506580353
+iphone,the iFlux Capacitor,,5,24,2010-09-23,AAPL,0.029921138659119606,0.9124035239219666,0.05767528712749481
+iphone,"Hey Reddit, is there a app that I can keep running on my iPhone on my work desk that shows new emails, appointments, weather, news, or other information I can quickly glance at?","Right now my iPhone at work just sits on my desk, and I'd love to be able to use it as some kind of second ""display"" for getting information in a quick glance. Maybe it can even show me some cool pictures from flickr, but just having the time, a gmail checker, and my next appointment from ical would be nice. Is there an app like this?
+
+*Update:*  I don't necessarily want it to be on the lock screen.  I would just like an app that behaves like any other app that I can keep running with some relevant info (clock, email notifications, weather, etc).  I'll take a look at ""Nightstand"" which seems to be most similar to what I want.  
+Any app devs here?  I think this could be a pretty cool app idea.. I mean who wouldn't love to make their iphone useful while at work and just have it docked showing some relevant info.",37,24,2010-09-23,AAPL,0.02050500363111496,0.924705982208252,0.054789040237665176
+iphone,"Apple is promoting my game, so I figured it's at a state where I can share it with you without being embarrassed.",[deleted],31,18,2010-09-23,AAPL,0.016179978847503662,0.8370239734649658,0.14679603278636932
+apple,What 10 years of Apple did to its main product,[deleted],55,174,2010-09-24,AAPL,0.017015352845191956,0.9227223992347717,0.06026218459010124
+apple,I worked at Apple for 4 years. Would anyone be interested in a shirt?,,149,135,2010-09-24,AAPL,0.022840017452836037,0.9287674427032471,0.048392534255981445
+apple,Apple sells only 3% of the world's mobile phones in the first half of 2010 but takes 39% of the industry's profits.,,28,70,2010-09-24,AAPL,0.09664438664913177,0.858430027961731,0.04492560401558876
+iphone,iPhone And Android App To Call Facebook Friends For Free,,4,25,2010-09-24,AAPL,0.01897791400551796,0.9399347305297852,0.041087403893470764
+apple,Physics Sandbox Garry's Mod Now On Steam for Mac,,7,20,2010-09-24,AAPL,0.023540323600172997,0.9321815967559814,0.044278040528297424
+apple,Preview: Reeder for Mac,,9,20,2010-09-24,AAPL,0.03680074214935303,0.9070531725883484,0.056146103888750076
+apple,Three Lessons Apple's Competitors Are Yet To Learn,,1,15,2010-09-24,AAPL,0.14383432269096375,0.7104420065879822,0.14572365581989288
+apple,"7 inch iPad becomes a finished product, is more like an iPhone 4",,14,7,2010-09-24,AAPL,0.015651032328605652,0.8445821404457092,0.13976675271987915
+apple,I have a 40/5 internet connection and still can't watch HD YouTube videos...,"Does anyone else have this issue? YouTube HD playback is virtually impossible to watch. Half of the time it wont load but small portions of the video, the other half I get the spinning balls of death indefinitely until I refresh, hard refresh and/or skip forward in the video.
+
+What in the world is causing this issue? How can this be possible with a 40/5 (40 down 5 up) connection?
+
+--
+
+[Speedtest.net Results](http://www.speedtest.net/result/966216403.png)
+
+[Bright House/RR Test Results](http://imgur.com/OL6MK.png)
+
+--
+
+OS: Apple OS X 10.6 Snow Leopard
+
+Machine: 13"" Unibody Aluminum MBP @ 2.53ghz Core2Duo and 4gig ram
+
+Browser: Firefox 3.6.10
+
+Net: Bright House Road Runner Lightning 40mb down 5mb up
+
+
+Anyone have any ideas? It's really rather frustrating to not be able to watch YouTube videos in anything higher than 480p. :(",46,7,2010-09-24,AAPL,0.032167986035346985,0.9306872487068176,0.03714480623602867
+apple,"What useful things can I do with Terminal in Snow Leapard that I can't really do in finder? I'm not a programmer or anything, but I'm no noob..","I have tried reading some intro guides on terminal but they only give commands like ls and cd... basically the shit equivalent of dos, woopdty shit.
+
+The only useful thing I have found thus far is whois.. it lets me do that really fast when im web designing
+
+I understand terminal accesses the unix core, but I guess I dont really see the point unless I'm some hardcore user who needs to access /bin and all that other weird shit that I know nothing about.
+
+I've used PC for 15 years and now that i swtiched to mac (and love it so much better) I feel like a noob though. I feel like if i dont know at least SOME things about terminal I wont do my mac justice",34,5,2010-09-24,AAPL,0.02615833654999733,0.9345941543579102,0.03924745321273804
+apple,Before and after Apple. See any resemblance?,,223,358,2010-09-25,AAPL,0.04940125718712807,0.9227800965309143,0.027818679809570312
+iphone,every other week,,9,107,2010-09-25,AAPL,0.05126179754734039,0.917171061038971,0.03156713768839836
+iphone,HiFutureSelf v1.3.5 is now live in the App Store! Simple &amp; easy timed reminders. Download FREE.,,28,43,2010-09-25,AAPL,0.017472680658102036,0.9348306059837341,0.04769672825932503
+apple,iPad tops in consumer satisfaction,,24,36,2010-09-25,AAPL,0.013059288263320923,0.6000416278839111,0.3868991434574127
+apple,Disable the new Ping sidebar in iTunes 10.0.1: defaults write com.apple.iTunes disablePingSidebar 1,,22,25,2010-09-25,AAPL,0.02009369060397148,0.8958495259284973,0.08405672758817673
+apple,For those of you who missed the free Apple t-shirts...,,47,18,2010-09-25,AAPL,0.10247108340263367,0.8608168959617615,0.036712005734443665
+apple,Safari AutoFill Security Issue Rears Its Head Once Again,,0,18,2010-09-25,AAPL,0.039537958800792694,0.9360843896865845,0.024377640336751938
+apple,BMW Rolls Out iPhone Friendly Mini EV Scooter,,1,10,2010-09-25,AAPL,0.01635552942752838,0.8019455671310425,0.18169887363910675
+apple,The two Steves of Apple. Were they ever friends?,I just finished Woz [biography](http://www.amazon.com/iWoz-Computer-Geek-Cult-ebook/dp/B000VUCIZO/) and it's a great read. He talks about his life and people he met but he talks surprisingly little about Steve Jobs and the little he do take up is not that flattering. What gives?,18,9,2010-09-25,AAPL,0.04160922020673752,0.893974244594574,0.06441652774810791
+apple,Disable the Ping song buttons in iTunes 10.0.1:  defaults write com.apple.iTunes hide-ping-dropdown -bool TRUE,,1,9,2010-09-25,AAPL,0.043796345591545105,0.8998574614524841,0.05634618550539017
+apple,Apple's weakest link is at its core - it's high time to re-think iTunes,,220,263,2010-09-26,AAPL,0.08466475456953049,0.8619688153266907,0.053366437554359436
+apple,"Hey Apple, instead of playing around with Ping, how about adding this handy feature to iTunes?",,104,122,2010-09-26,AAPL,0.01927531510591507,0.8472558259963989,0.1334688812494278
+iphone,HURRY !!! GV Mobile + is Free for few hours!!!!,,47,53,2010-09-26,AAPL,0.020930619910359383,0.9147914052009583,0.0642780140042305
+apple,The dialog from iTunes is the bane of my existence. The Apple I used to love wouldn't have let this persist through so many updates.,,18,24,2010-09-26,AAPL,0.0405089408159256,0.910760223865509,0.048730865120887756
+apple,HyperDock puts window previews on your OS X Dock,,19,21,2010-09-26,AAPL,0.016641348600387573,0.9316384792327881,0.05172014236450195
+iphone,What's the best audio surveillance app?,"I have a spare iPod touch (and an incoming cheap microphone for it) and a crime to solve (in a legal way! Trust me, this could lead to a nice ama), but I need a good app for it to prevent the battery from running out quickly.
+
+I'd like to leave the iPod in a certain place, have it wakeup around ~2 AM, then whenever it finds a sound it records it and sends it via mail (that mailing part isn't crucial, but it would be a bonus in case it's stolen. Note that the iPod will remain stationary and always in wifi contact). Then at around 6 AM it should shut down and go back to low-battery mode (eg. do nothing).
+
+Best would be if the iPod could survive for two days (2x 4h being ""active"") or more.",4,17,2010-09-26,AAPL,0.03791160508990288,0.9176394939422607,0.04444887861609459
+mac,My MBP battery is down to 76% and I don't want to pay $129 for a new one.  Anyone have any good experience with third party batteries?,,23,15,2010-09-26,AAPL,0.015769582241773605,0.8917150497436523,0.09251538664102554
+apple,Reddit has been blocked on Apple's WiFi in their retail stores. What do we do now?,,69,14,2010-09-26,AAPL,0.06652043014764786,0.9128872156143188,0.020592408254742622
+apple,This is Pretty Impressive. And Useful!,,2,13,2010-09-26,AAPL,0.014276394620537758,0.11809290200471878,0.8676307201385498
+apple,Cyclic CPU usage renders firefox unusable,"I typically leave firefox running all the time.  I have 4 or 5 tabs open, rarely any more, and most of them are reddit.  This starts out ok, but after a while (a day perhaps), I see [cyclic cpu spikes like this](http://imgur.com/YGzhN.png) which renders firefox useless for the duration of the spike (say, 15 seconds)... no scrolling, typing, etc.  Then responsiveness returns.  If I kill firefox and restart, I get another period where it's ok.  I have a recent unibody MBP with 8GB RAM.
+
+Any ideas what the cause is?
+
+EDIT: details",16,12,2010-09-26,AAPL,0.056512247771024704,0.9220632910728455,0.021424444392323494
+apple,Valve accidentally announces Left 4 Dead on Mac. Finally!,,54,162,2010-09-27,AAPL,0.5846108794212341,0.3923230469226837,0.023066053166985512
+apple,Apple now has a patent for a device that uses capacitive sensors to recognize your identity just by the way you hold it (and subsequently personalize the device's buttons and settings to your hand based on your user profile).,,11,50,2010-09-27,AAPL,0.028485849499702454,0.9406657814979553,0.03084838204085827
+apple,Google extends deal with Apple to remain default iPhone search,,4,43,2010-09-27,AAPL,0.0258878655731678,0.8871191740036011,0.08699289709329605
+iphone,Health in the future: iPhone keeps diabetes in check,,3,27,2010-09-27,AAPL,0.06459495425224304,0.848953902721405,0.08645112067461014
+iphone,ThinkGeek offers flip-out Bluetooth keyboard for iPhone 4 and 3GS,,5,14,2010-09-27,AAPL,0.019106823951005936,0.905890941619873,0.07500225305557251
+apple,"MacMini to watch online video on home TV, over kill? simpler options?","I want to buy a MacMini to replace my aging desktop that i hooked up to my living room TV so i could watch Netflix and Hulu. But thats basically all i want to do, watch internet TV. my current machine (1.8 processor, 1 gig RAM) its at least 8 years old. the picture is jerky/freezy/dopey (and doc) about 25% of the time, its becoming a real nuisance to use. Am i heading down ""Over Kill Alley?""",21,13,2010-09-27,AAPL,0.02283419296145439,0.9204106330871582,0.05675516650080681
+apple,Evolution of the Apple Mouse [pics],,20,11,2010-09-27,AAPL,0.0163426510989666,0.8264196515083313,0.157237708568573
+iphone,I am tired and I am grumpy. And it’s my iPhone’s fault!,,6,11,2010-09-27,AAPL,0.024663036689162254,0.9194045662879944,0.05593234300613403
+iphone,Isn't there a list somewhere for apps that are on sale?,[deleted],15,10,2010-09-27,AAPL,0.030592435970902443,0.9316075444221497,0.03780001029372215
+apple,Parallels Desktop 6: The Ars Review,,9,9,2010-09-27,AAPL,0.01603766530752182,0.9160576462745667,0.06790468096733093
+apple,TIL you can cmd+click to manipulate OSX windows in the background without losing focus of the top window,,71,242,2010-09-28,AAPL,0.02587047778069973,0.930640697479248,0.043488845229148865
+iphone,"Apple Has Already Approved The Official Google Voice App For iPhone, Expect It Soon",,36,84,2010-09-28,AAPL,0.008405295200645924,0.8357720375061035,0.15582263469696045
+apple,How Popular is the iPhone Anyways,,63,61,2010-09-28,AAPL,0.013104346580803394,0.7709439992904663,0.21595168113708496
+apple,DAE think that the resolution on the 13 inch macbooks has got to change?,"It's 2010, the iPhone 4 has a 960 x 640 screen. I think my macbook should have at least 1440x900 or so. And the giant bezel around the screen, while I understand to be for integrity of the screen, should be reduced at least a little.",113,56,2010-09-28,AAPL,0.0193905308842659,0.9006945490837097,0.0799148678779602
+apple,At first I liked the idea of a social network about music. Then I discovered Ping seems to hate indie.,[deleted],30,51,2010-09-28,AAPL,0.029023338109254837,0.899414598941803,0.07156206667423248
+apple,All you need to tidy your iTunes collection on the Mac:,"* ""Doug's iTunes Scripts"" - http://dougscripts.com/itunes/
+
+* beaTunes - http://www.beatunes.com/beatunes-download.html 
+
+I have a big collection, and these two things helped me tidy everything up. Now i have everything named correctly, with album artwork, BPM, key, color, lyrics, genre, and albums. I'm not ashamed of my iTunes anymore :p
+
+Edit: added links. There are some really handy iTunes scripts. They don't require a command line. I have about 15 installed.
+
+Edit2: Here's an `ls` of my iTunes scripts directory:
+
+
+    Add-Subtract A Half Star.rtfd
+    Add-Subtract A Half Star.scpt
+    Artist - Name Corrector.rtf
+    Block Party!.rtfd
+    Block Party!.scptd
+    CD Text to CD Info.rtf
+    CD Text to CD Info.scpt
+    Clipboard to Current Track's Lyrics.scpt
+    Clipboard to Lyrics Scripts.rtf
+    Clipboard to Selected Track's Lyrics.scpt
+    Corral iTunes Dupes.app
+    Filenames to Song Names.rtf
+    Filenames to Song Names.scpt
+    Google Lyric Search.rtf
+    New Play Count.rtf
+    New Play Count.scptd
+    Proper English Title Capitalization.rtfd
+    Proper English Title Capitalization.scptd
+    Rate Me! Rate Me!.app
+    Rate Me! Rate Me!.rtfd
+    Re-Locate Selected.rtfd
+    Re-Locate Selected.scptd
+    Remove n Characters From Front or Back.rtfd
+    Remove n Characters From Front or Back.scptd
+    Search-Replace Tag Text.scptd
+    Search:Replace Tag Text.rtf
+    Super Remove Dead Tracks.rtf
+    Super Remove Dead Tracks.scptd
+    This Tag That Tag Scripts
+    This Tag, That Tag.rtf
+    _Artist - Name Corrector.scptd
+    _Google Lyric Search.scpt
+    iTunes In Safari Status.rtf
+    iTunes Sleep Timer.app
+    iTunes in Safari Status.app
+
+Edit3: Here's a tip: Search your iTunes library for `www.` and `.com`. Hopefully they return no results!",13,26,2010-09-28,AAPL,0.06917882710695267,0.8989325165748596,0.0318886898458004
+apple,Apple TV runs iOS 4.1 and can be jailbroken with SHAtter,,8,24,2010-09-28,AAPL,0.09393775463104248,0.8647496104240417,0.04131263494491577
+apple,"Apple Remote app hits 2.0, now supports iPad display size.",,9,20,2010-09-28,AAPL,0.01463024877011776,0.9063758254051208,0.07899390906095505
+apple,"Official Google Voice app coming soon, already approved by Apple?",,1,15,2010-09-28,AAPL,0.011875414289534092,0.8794360160827637,0.10868857800960541
+mac,I don't even know how to google this problem.,,22,14,2010-09-28,AAPL,0.14924967288970947,0.825165867805481,0.025584455579519272
+apple,"Maybe I'm the last to know... but Safari users, hit the space bar on a long scrolling webpage.  Then hit shift-space.",,102,134,2010-09-29,AAPL,0.02778184972703457,0.8982604146003723,0.07395767420530319
+apple,How to get Apple to do a non-warranty repair [Tip],,86,107,2010-09-29,AAPL,0.06539331376552582,0.8958376049995422,0.03876904770731926
+apple,Apple TV review (2010) -- Engadget,,96,92,2010-09-29,AAPL,0.04339307174086571,0.8922427892684937,0.06436415761709213
+apple,"Sorry guys, there will be no Firefox browser for the iPhone (official statement)",,76,57,2010-09-29,AAPL,0.08606449514627457,0.8897733688354492,0.024162137880921364
+apple,Light years ahead: Steve Jobs using the Mail app and editing documents WYSIWYG in 1994 when majority of computers ran MS-DOS,,19,32,2010-09-29,AAPL,0.034247417002916336,0.9329239726066589,0.032828543335199356
+iphone,"Ask /r/iPhone: Would you ever pay for a free app after you use it, if it let you choose your own price?","So a while ago I asked for game ideas here (http://www.reddit.com/r/iphone/comments/d8sqi/riphone_ive_been_working_on_serious_iphone_apps/).  It's been more than two weeks, but I'm finally getting close to finishing - hoping to submit to Apple by the end of this week.
+
+The game is obviously pretty simple and low-budget.  Although I'm really really happy with it, trying to charge for it would likely doom it to obscurity.
+
+I was thinking of adding a button to let you ""Buy our eternal gratitude"", which would be an in-app purchase that doesn't unlock any hidden content, just a thank you screen from the developers (I would make it extremely clear what it does, I don't want to trick anyone).  The price would be your choice - $1, $2, $3, etc., or you can of course simply pay nothing and enjoy the free game.  It'd be non-obtrusive, just an option on the home screen.
+
+If you saw something like that in a free game that you enjoyed playing, would you ever use it?  What would make you consider paying/not paying?
+
+EDIT: thanks for the awesome feedback, everyone.  A lot of good points.  I know a lot of people don't like paying for apps (hell, I don't), and I know the game has to be good (I love my game, but I have no illusions that it's an A+++ title).  I think in the very best case a good app might get something like 1% of people who download it pitching something in.  But it's not much work to put something like this in the app, so it's probably worth the effort.",30,30,2010-09-29,AAPL,0.01970737613737583,0.9136740565299988,0.06661854684352875
+mac,Removing Ping from iTunes 10.0.1,,2,30,2010-09-29,AAPL,0.04204682633280754,0.6066505312919617,0.3513026237487793
+ipad,"I'm getting an iPad, what are some must have apps?",,54,24,2010-09-29,AAPL,0.016976049169898033,0.8866571187973022,0.09636685997247696
+mac,Lock your Mac via iPhone and take an iSight picture with login attempts,,9,21,2010-09-29,AAPL,0.029842954128980637,0.9306209683418274,0.03953613340854645
+iphone,Will there be a revised version of the iPhone 4?,I heard about a couple of hints that there will be a new iPhone 4 coming in October. Which would work out well with the fact that Apples Bumper Program ends in September. Anyone got more Information in this?,33,15,2010-09-29,AAPL,0.011193154379725456,0.843833863735199,0.1449730545282364
+apple,The best use of jiggling iphone icons thus far. [NSFW],,60,310,2010-09-30,AAPL,0.025316577404737473,0.9154313206672668,0.05925212800502777
+apple,"Thanks MS, I see you haven't changed a bit.",[deleted],216,212,2010-09-30,AAPL,0.06299852579832077,0.6593626737594604,0.2776387929916382
+iphone,The most useful Iphone app you have.,I'm getting my iphone 4 tommorrow and I've got $50 worth of app store credit. What should I get on the spot?,176,76,2010-09-30,AAPL,0.013620158657431602,0.8326614499092102,0.15371841192245483
+iphone,Anyone wants to test facetime? I promise views of unaware office girls and a totally messed up rack of cables.,"Just got a new ipod touch, you can call me on facetime at seele97@hotmail.com.
+
+EDIT: Well calls have simmered down a bit, so I'll leave this thread with an open invitation to anyone else that wants to test Facetime. This ipod can usually be found active from Tuesday-Saturdays 8am-5pm UTC–4 (West coast time more or less).
+
+EDIT oct 01: There were a bunch of missed calls from last night after I got home, I apologize for not taking any them. This thread explicitly promised unaware office girls and a disorderly IT cabinet. Not some fat man in his undies browsing reddit. If for some reason I do pick up the call and provide you with visuals of a fatman in his undies I apologize. It was not my intention to deceive you in any way, it was most likely the effects of Budweiser at 11:00pm.
+
+EDIT: going though the missed called log from last night and cross referencing the area codes: Australia, Louisiana and Ontario.",35,56,2010-09-30,AAPL,0.05051734670996666,0.9214507937431335,0.028031889349222183
+iphone,You wanted Reader Mode for iPhone and iPad. And I just made it! (20 promo codes inside),"I just wanted to share my last application with you and, as usual, give you some promo codes.
+
+Reader Mode is basically the same as the Reader mode in Apple's Safari, but adapted for iPhone and iPad and offering some additional features like:
+
+- Extracts the relevant information from any web page, including text, images and videos, and shows it to you in a format which is truly comfortable to read
+- Merges multi-page articles into one single page
+- Supports 5 different color themes: white, dark, brown, cream and sepia
+- Allows you to adjust the font size and choose the font you like more between the ones available in your device
+- Caches printed articles, so that you can read them offline
+- Fully supports iPad and Retina Display
+- Completely accessible (some accessibility related features require iOS greater or equal than 4.0)
+
+I'd recommend you to check the screenshots from the **[iTunes page](http://itunes.apple.com/app/reader-mode/id393750561?mt=8)**, since that will get you a better idea about how it looks like.
+
+Also, if you like the app, please don't forget to leave a review.
+
+**Please, don't forget to leave a comment when you use a code, so other redittors coming after you won't need to check them all**
+
+`
+HWKK6HP3RP66
+WPMEWPF3N3AX
+JRRLAAFET9P7
+6MPER4YALTLX
+KMH44YNMR9AN
+RARM7K9KXW7X
+TYRTK3M9NF9H
+R64K4XFNTKHY
+YKTJRFRYEW6E
+YKJ3X6H9HAJR
+J4FYEFJXLJ4K
+JEJNPLF9ERWY
+K6Y33X694RPK
+L93NTRYRH694
+RNEREPTTMFPJ
+PXXFAJY9HK9A
+9TLXFHXPPX9J
+HL6HJ39HHXX7
+YKLT3LN6WRAM
+HEX3ARAR367P
+`
+
+**Edit: Added 10 more promo codes**
+
+`
+E4KMWMM7P3X4
+YEPANNWWJJF3
+N66YE43XPJXT
+RKNLKMX77YR7
+ETN7LR4TLYFN
+LM4KKTF3PXTN
+TFKKWKELKF4A
+3AXHWE64739Y
+KN6PXR4RY6R3
+9HHWFM9JRX3F
+`",52,23,2010-09-30,AAPL,0.03670549392700195,0.9220730066299438,0.04122145473957062
+apple,"Apple's segmentation strategy, and the folly of conventional wisdom",,1,17,2010-09-30,AAPL,0.024923153221607208,0.9280371069908142,0.04703979194164276
+iphone,SoundHound music ID: get unlimited ID's without purchasing the app.,[deleted],6,11,2010-09-30,AAPL,0.02140778861939907,0.9443030953407288,0.03428908437490463
+iphone,"John Carmack asks: ""What things do you commonly see apps screw up?""",,1,10,2010-09-30,AAPL,0.027713093906641006,0.9265778064727783,0.04570915549993515
+apple,Patent Evidence found that Apple is developing new OSX feature  |  TekGoblin,,8,9,2010-09-30,AAPL,0.027105214074254036,0.7740540504455566,0.19884076714515686
+apple,"The ultimate CAD solution using AutoCAD WS, right from your iPad and iPhone",[deleted],4,7,2010-09-30,AAPL,0.009628438390791416,0.8744257688522339,0.1159457117319107

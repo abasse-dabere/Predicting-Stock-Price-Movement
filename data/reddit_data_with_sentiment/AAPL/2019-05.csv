@@ -1,0 +1,830 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+iphone,He never left,,63,8418,2019-05-01,AAPL,0.08143017441034317,0.8520135283470154,0.06655634939670563
+apple,Apple hits $1 trillion market cap once again,,285,3823,2019-05-01,AAPL,0.03158183768391609,0.7725245356559753,0.19589368999004364
+iphone,Three Generations of iPhone Cases,,126,3288,2019-05-01,AAPL,0.014850365929305553,0.9064009785652161,0.07874861359596252
+mac,Found this old beauty in the back of my repair shop. Runs just as well as the day we got it.,,96,2135,2019-05-01,AAPL,0.023347685113549232,0.8153387904167175,0.16131357848644257
+apple,Apple Adds Eight-Year-Old iPad 2 Models to Vintage and Obsolete Products List,,312,1780,2019-05-01,AAPL,0.02578364498913288,0.9250163435935974,0.049199942499399185
+apple,Netflix announces improved audio quality for Apple TV 4K users and more,,97,781,2019-05-01,AAPL,0.015103178098797798,0.03651594743132591,0.9483809471130371
+iphone,Its says in Danish: iPhone is locked try again in 49 years 3 months 2 weeks 6 days and 11 hours.... please Help....,,94,739,2019-05-01,AAPL,0.03497271612286568,0.9359121918678284,0.029115136712789536
+apple,The Netherlansds finally getting Apple Pay,,131,583,2019-05-01,AAPL,0.013512872159481049,0.7646504640579224,0.2218366414308548
+mac,Petition to have this be the new screen while macOS is updating. It seems so fitting. Hahaha,,34,575,2019-05-01,AAPL,0.020297884941101074,0.8390865325927734,0.1406155526638031
+ipad,YouTube is pathetic for removing features the iPad comes with,"I can run videos in the background with Safari, Netflix, etc. Youtube app removes this feature because it is a feature included in their paid subscription service. So, essentially, they remove a feature that makes the iPad cool because they want your money.. also, you can just go on the YouTube website and use this feature when running YT on Safari.
+
+What a stupid and completely useless inconvenience. Google sucks. Rant over.
+
+Edit: I did not mention many other annoyances with YT iPad app such as:
+- No keyboard functionality (Netflix lets me pause and FFWD)
+- No full screen/zoomed viewing to get rid of black borders like on iPhone (also offered on Netflix app)
+- Constantly have to change quality to 1080p. I’m always on wifi. Why the HELL!!! would I want to watch in shit quality on my beautiful iPad screen?",129,509,2019-05-01,AAPL,0.04477471485733986,0.9231959581375122,0.03202934190630913
+apple,MacBook Pro Keyboard Failures: Why Apples dust excuse is bullshit! [Teardown + Explanations],"Today we will be tearing down a MacBook Pro keyboard to try and see if we can rule out dust as a possible cause.  Settle down, because this will be a bit of a long post. Hopefully you'll at least learn something from this.
+
+***Disclaimer: This post is not meant to answer why keyboards fail. That is beyond me and I can only offer theories. My goal is only to disprove the idea that dust causes no-input and multi-input style failures.***
+
+***My Background:***
+
+* I've worked as an Apple Authorized Service Provider (AASP) Technician for the last 3 years.
+* Before that, I use to work as a 3rd party Technician at an Apple-focused repair shop.
+
+Because of this experience, I stand in an interesting position where I use to see all the shit Apple pulls in order to make 3rd party and DIY repair difficult, and now I sit in a position where I can see exactly how Apple deals with these issues and get a more-representative ideas of how the machine fails, how many fail, and exactly what the most common failures are. 
+
+***History:*** 
+
+Apple originally released the Butterfly-style keyboard back in 2015 with the release of the 12"" Macbook. Afterwards in 2016, this keyboard design was expanded to all Macbook Pros. The butterfly keyboard is different from a conventional rubber-dome keyboard that was used for 20+ years before that. It uses a metal dome that buckles under enough stress and makes contact between 2 metal terminals, and the keycap itself is held up with a butterfly-style henge rather than a traditional scissor hinge. Both are pictured further down.
+
+***This entire experiment began with a thought: How could something as simple as dust kill the keyboard switch?***
+
+My old 3rd party tech instincts say that this should not be possible, since there are billions of smartphones that use metal-dome style buttons that do not experience failures like this.
+
+Apples official stance is that dust manages to somehow enter the keyboard and cause the issues. This can cause things like: 
+
+* Keyboard keys feel sticky, crunchy, or are physically jammed.
+* Keyboard does not input even though you pressed the key.
+* Keyboard inputs the same character 2+ times even though you only pressed the button once.   [https://www.apple.com/support/keyboard-service-program-for-macbook-and-macbook-pro/](https://www.apple.com/support/keyboard-service-program-for-macbook-and-macbook-pro/)
+
+Their official documentation also states that you can ""fix"" the issue by using compressed air to blow out the keys.     [https://support.apple.com/en-ca/HT205662](https://support.apple.com/en-ca/HT205662)
+
+When it comes to failures, there's 3 schools of thought about how the switches fail:
+
+* ""Dust"" Theory. This generally takes apples words at face value and don't go deep into it.
+* ""Heat"" Theory. This assumes that Dust Theory is bullshit and assumes that overheating causes the material to expand and warp enough to render the buttons inoperable (2018 TouchBar models in particular).
+* ""Shit Design"" Theory. This assumes and accepts that it's just awful design.      
+
+You may have also seen articles like [https://www.digitaltrends.com/computing/macbook-pro-keyboard-failure-rate-double-older-models/](https://www.digitaltrends.com/computing/macbook-pro-keyboard-failure-rate-double-older-models/) that , relative to all repairs done in 2016/2017, the keyboard failure rate is in the low 10% range, but these should not be accepted at all since they do not take into account a number of things that critically invalidate these statistics as a whole:
+
+* **They come from the words of AASP and Apple employees, which is a huge conflict of interest considering they have to sell these machines to make money.**
+* **They do not take into account the number of repairs that were turned down due to the cost of the repair itself, which is around 500USD before the keyboard replacement program came into effect.**
+* **They do not take into account the number of people that don't want to go to apple or cannot go to apple due to time constraints, especially since most countries do not offer over-the-phone mail-in repairs on Macs.**
+* **They do not take into account the number of people who just avoid apple stores and AASP in general and instead go to local 3rd party repair stores.**
+* **The keyboard program was introduced June 22, 2018, meaning that anyone before that date who does not have warranty was forced to pay 500USD for the replacement part, and most likely falls into the above. Notice how conveniently these statistics don't include numbers for 2018?**
+
+From my experience as an Apple Technician, here are the most commonly reported problems at my store, in order of most to least common:
+
+1. No-input, particularly from all vowel keys, most commonly used consonants, spacebar, enter, and shift.
+2. Multi-input, particularly from all vowel keys, most commonly used consonants, spacebar, enter, and shift.
+3. Sticky/Crunchy/Stuck keys.
+
+As for demographic, the most common folks we see with these issues are:
+
+* Writers or any kind (blog, scripts, office workers, etc).
+* Students of all kinds.
+* Programmers. 
+
+With that said, here are a few things that were floating around in my head:
+
+1. The first red flag about the dust hypothesis should be the failure types. Only 1/3 are related to physical objects actually preventing the keys from working. The other 2/3 are related to electricity, specifically whether the circuit in the switch itself is ""closed"" or ""open"". Open circuit means that the positive and negative terminals are not connected, which is the equivalent of a keyboard button that is not pressed. Closed circuit is the opposite. 
+2. Second red flag is that human dust and household dust is classified as non-conductive. By itself, it does not have enough conductivity to meaningfully carry electricity, so the multi-input style failure should not be possible at all. The No-input failure can somewhat be explained with dust, since it can at as an insulator between 2 metal terminals, but keep reading and you'll see why this isn't the case. 
+3. Third red flag should be specifically which keys fail. Spacebar, enter, shift, vowels, and the most common consonants are the most commonly pressed buttons whenever anyone types on their keyboard. Coincidentally, these buttons are the ones that are reported to fail the most.
+4. Finally, the last red flag is the demographic. All of these are people who type a lot on the machines. While this one is highly anecdotal, most of my customers fall within this demographic.     
+
+&amp;#x200B;
+
+Enough rambling, on with the teardown!    
+
+&amp;#x200B;
+
+[https://i.imgur.com/5MRswJ6.jpg](https://i.imgur.com/5MRswJ6.jpg)
+
+In front of me, I have what's referred to as a Top Case assembly. Its essentially the metal frame, battery, keyboard and trackpad, all shipped and prepared as one piece for Apple techs to swap out. This particular one came from a 2017 model MacBook Pro 13"", which rocks the 2nd generation of the Butterfly keyboard. This specific top case came from a machine that was ""liquid damaged by my drunk roommate"" so I have no issues tearing it apart for the greater good.
+
+[https://i.imgur.com/dnwTzDO.jpg](https://i.imgur.com/dnwTzDO.jpg)
+
+After removing the keycaps, here's what the keys actually look like underneath. Theres a few main parts here:
+
+* The silver metal dome. Thats what actually teams the machine that a key is pressed. It makes contact between metal pads when it is pressed.
+* Clear Plastic Housing around metal done. Its there to make sure the dome doesn't go anywhere and keeps it safe.
+* Butterfly Mechanism. This is the white part all around the perimeter of the clear plastic body.
+
+I included both larger and smaller sized keys just for demonstration purposes.
+
+[https://i.imgur.com/VoRDuhG.mp4](https://i.imgur.com/VoRDuhG.mp4)
+
+Butterfly Mechanism in action. This is actually a genius idea, since it eliminates individual moving parts in favour of a single Large one. Youtube creator Veritasium made a video talking about how flexible moving pieces have a lot more advantages over multi-piece hinges ([https://www.youtube.com/watch?v=97t7Xj\_iBv0](https://www.youtube.com/watch?v=97t7Xj_iBv0)).
+
+[https://i.imgur.com/8zsuDFg.mp4](https://i.imgur.com/8zsuDFg.mp4)
+
+Metal dome in action. This is what happens to the dome and butterfly mechanism when the key is pressed.
+
+[https://i.imgur.com/SROBJRq.jpg](https://i.imgur.com/SROBJRq.jpg)
+
+Here's an example of something that can cause the ""Sticky, Crunchy, or Stuck Keys"" problem. Having crumbs, or sticky liquids, or other gunk will cause your keys to feel weird, or to stop working. These are genuinely caused by crap getting stuck between the mechanism. Enough of these can definitely jam a key. The 3rd generation keyboards help negate this problem by adding a rubber piece around the perimeter of the butterfly mechanism in order to reduce ingress of larger bits into the mechanism.
+
+[https://i.imgur.com/fauw47h.mp4](https://i.imgur.com/fauw47h.mp4)
+
+Example of how a key can get jammed. That single large piece prevents the mechanism and switch from pressing down al the way.
+
+[https://i.imgur.com/SogaaLg.mp4](https://i.imgur.com/SogaaLg.mp4)
+
+Upon further inspection, we run into another blockade in the Dust theory, a see-through plastic barrier that encloses the entire switch.
+
+The purpose of this barrier is both ingress-protection and to make sure the metal dome stays in its proper place, as you'll see later.
+
+[https://i.imgur.com/N2YxJhs.mp4](https://i.imgur.com/N2YxJhs.mp4)
+
+There is also this black tape-like material covering the top portion. After peeling it off, I discovered that this is where there is a little lip that overhangs the plastic housing. Most likely this is so that the domes can be replaced by the companies that refurbish all the old parts/devices apple sends to them.
+
+[https://i.imgur.com/1KDJK2n.mp4](https://i.imgur.com/1KDJK2n.mp4)
+
+It wasn't very hard to peel it off, but the plastic film was adhered to the plastic frame. Again, a huge dead-end forest theory since it physically cannot get in through this area.
+
+[https://i.imgur.com/GqsUHrz.jpg](https://i.imgur.com/GqsUHrz.jpg)
+
+A close-up of the film and the metal dome itself.
+
+[https://i.imgur.com/6zVVFuY.mp4](https://i.imgur.com/6zVVFuY.mp4)
+
+After examining the dome, I discovered that it is not at all soldered down into place, but rather it is free-floating within the plastic housing. Whether it makes a connection or not depends on how well its legs are contacting those gold pads in the corners.
+
+[https://i.imgur.com/LAM75Lz.jpg](https://i.imgur.com/LAM75Lz.jpg)
+
+Top side of the dome itself. The 4 outer legs are what make contact with the gold pads that are used to carry electrical signals. The dome itself appears to be Steel. It is also incredibly light, it's no wonder the film has to keep it down.
+
+[https://i.imgur.com/ZBi4jau.jpg](https://i.imgur.com/ZBi4jau.jpg)
+
+Bottom side. That brown part is not corrosion, that's just laser-cutting left-overs from when the dome is manufactured. I checked, all the metal dome have these marks.
+
+[https://i.imgur.com/JmWD4DD.jpg](https://i.imgur.com/JmWD4DD.jpg)
+
+Close-up of the plastic body around the metal dome. Here we see 6 gold pads. All 6 of those are for carrying electrical signals. There is also a large hole close to the oval-shaped gold pad. This is a ventilation hole.
+
+Now, I know what you're thinking. Ventilation hole? Aha! That's where the dust gets in!
+
+Hold your horses, we are far from done.
+
+[https://i.imgur.com/o70lCgg.jpg](https://i.imgur.com/o70lCgg.jpg)
+
+The plastic body takes a bit of effort to remove, thanks to the fact that it uses 4 plastic legs that are riveted to the underside of the board.
+
+[https://i.imgur.com/tqLXY1c.jpg](https://i.imgur.com/tqLXY1c.jpg)
+
+Once removed, we see that the entire plastic body is surrounded by an adhesive film with no obvious gaps in its seal. This is another dead-end for the dust-ingress theory, since the entire plastic body is sealed around the perimeter. For the sake of thoroughness, I tested the conductivity of all the gold pads; the 4 outer pads along with the oval-shaped one in the middle are all connected and act as a single end of the terminal, while the round central pad is a second terminal. Once these 2 are bridged by a conductive object, like a metal dome, they will register as a keypress.
+
+[https://i.imgur.com/EHIkSsn.mp4](https://i.imgur.com/EHIkSsn.mp4)
+
+Just to give you an idea, You can see my trying to fit my sharpest set of tweezers under the plastic body. At most it budged a bit to the side, but that's because adhesive is fairly flexible. It takes a fair bit of pressure to puncture that plastic film on top.
+
+[https://i.imgur.com/WDD2C8b.jpg](https://i.imgur.com/WDD2C8b.jpg)
+
+Out of curiosity, I also tore apart the thinner small keys to see what the mechanism looked like. It's the same thing, just a smaller version.
+
+[https://i.imgur.com/tkg6RMH.jpg](https://i.imgur.com/tkg6RMH.jpg)
+
+I attempted to test the ""Heat Failure"" theory with my heat-gun set to 300C and pointed directly at the metal dome. This was a beyond-extreme-case test to see if the key would warp and possibly make contact. 
+
+Since MacBooks have god-awful cooling and will heat up to very hot temperatures in order to ensure that the machine stays as quiet as possible (which is a questionable method overall, [https://www.youtube.com/watch?v=947op8yKJRY](https://www.youtube.com/watch?v=947op8yKJRY) talks about it more), some people suspected that the expansion and contraction of material can cause these keys to stop working.
+
+After leaving it under heat for 2 minutes, it did not move a millimetre. This theory is very unlikely since there are keys that fail that do not sit in the same area as the Processor cooler (which can reach 70-100C pretty easily on these models).
+
+At this point, I finished tearing up the entire top-side of the keyboard, so I turned my attention to the underside.
+
+[https://i.imgur.com/IZsaOvE.jpg](https://i.imgur.com/IZsaOvE.jpg)
+
+The keyboard is covered by a large, layered film material. Based on its thickness, it is likely meant to serve several purposes:
+
+1. As a heat insulator for the keyboard area.
+2. As an insulator for electrical signals between the Motherboard and the metal frame/keyboard itself.
+3. As a barrier to prevent dust and crumbs from interfering with operation.
+
+&amp;#x200B;
+
+[https://i.imgur.com/iEdRuZs.jpg](https://i.imgur.com/iEdRuZs.jpg)
+
+After removing it, I found a small surprise. The keyboard itself sits on one giant PCB (Printed Circuit Board) and even has a fair bit of componentry on it! Quick google search showed that the 4 large chips on the right are for controlling the LED backlight, the pair of smaller chips in the middle are some sort of micro controllers (probably for the keyboard itself), and the components on the left are a mystery; I suspect they're the fan control/PWM (pulse width modulation) circuit for the fan, since the fan connects directly into the keyboard on all new models
+
+[https://i.imgur.com/6Pm0Uqd.jpg](https://i.imgur.com/6Pm0Uqd.jpg)
+
+Whats this? A dust filter? In *my* friendly christian teardown? Dust filter indeed. This is one of the finest filters I've seen in years! (pun intended).
+
+After looking at it, it turns out that this dust filter is used for the breathing hole that was pictured in the Switch teardown further up the post.
+
+Another dead-end for the Dust Theory, since the breather hole itself is covered by a *very* fine mesh.
+
+[https://i.imgur.com/hycxJcR.jpg](https://i.imgur.com/hycxJcR.jpg)
+
+Here's the tip of a 0.5mm ballot pen for size reference. Most dust and all hairs will not be able to fit between this mesh, which only further solidifies the dismissal of the Dust Theory.
+
+[https://i.imgur.com/rVfLEkF.jpg](https://i.imgur.com/rVfLEkF.jpg)
+
+This is the closest shot of the mesh that I can get. This is with 10x Macro lens + iPhone camera at full zoom. Pen marks for size reference.
+
+[https://i.imgur.com/hjIboNB.mp4](https://i.imgur.com/hjIboNB.mp4)
+
+Here's a short clip of the alignment of the dust filter with the breather hole along with visible movement from the underside of the metal dome and butterfly mechanism.
+
+[https://i.imgur.com/4rtoCUP.jpg](https://i.imgur.com/4rtoCUP.jpg)
+
+After looking closer at the protective keyboard insulator bit, I noticed that the entire mesh portion is surrounded by an adhesive-material, with absolutely 0 gaps around the hole. This basically puts a dead-end to the last possible entry point for dust, since this entire breather hole is not only sealed by adhesives on both top and bottom, but also a clear film on top side and an extremely fine mesh on the bottom of the switch.
+
+At this point, there should be little reason to believe that dust can get in there, since every possible vector of attack is throughly sealed and/or protected.
+
+Contrary to popular belief, Apple actually took *a lot* of effort sealing these switches from the elements.
+
+[https://i.imgur.com/9pmrI0A.jpg](https://i.imgur.com/9pmrI0A.jpg)
+
+I found some household dust and threw it on the mesh. As you can see, the mesh is not having trouble stopping these tiny bits.
+
+[https://i.imgur.com/j32hfyl.mp4](https://i.imgur.com/j32hfyl.mp4)
+
+And finally, here is a demonstration of what happens when the key is assembled and pressed under the most extreme of dusty conditions. I threw literally an entire pile of dust on that breather hole.
+
+Since these switches are pretty much sealed from all angles other than this breather hole, this is where all the air can freely move in the switch. Once assembled, the design of the switch actually very closely resembles that of a conventional speaker, which deals with air pressure inside its sealed chamber by allowing the air to freely enter and exit its port hole.           Once the key is pressed, there is a higher air pressure created between the PCB and metal dome. Since this pressure needs to go somewhere to prevent rupturing the plastic film, all of it immediately gets pushed out of this single vent.       Any dust that has accumulated on this opening will immediately be ejected from the mesh filter. Bear in mind that the laptop would technically be upside-down if you viewed it from this angle. In reality, the dust would actually fall to the underside of the Logic board, which sits in very close proximity to this breather hole.
+
+Excuse the shit quality, I had to heavily compress and alter the vids quality to make it fit into an upload able GIF.
+
+[https://i.imgur.com/i6a1KWK.jpg](https://i.imgur.com/i6a1KWK.jpg)
+
+See that rivet? There are close to 70 of these holding the keyboard into place, along with a battery that's glued in on-top of the bottom portion. You want DIY repairs? Good luck with that. This is why Apple ships these as a ""Top Case Assembly"" rather than ""Keyboard"".At this point, there is no evidence left at all that dust is the cause of failures for this switch, especially not for the Double-Input issue since that entirely relies on how long and how many electrical signals are detected by the keyboard controller. There is absolutely no reason why dust or humidity can cause this, especially with no easy entry points and the general lack of electrical conductivity of both dust and water.
+
+The No-Input issue can still somewhat be explained by a few other theories (Humidity, or oxidation of the underside of the dome), but both these theories still have a lot of holes (breather hole pushes humidity out when key is pressed, gold contacts do not oxidize on their own, corroded material will get slightly worn off when one and pads make repeated contact with dome, the amount of dust and water needed to cause these situations is fairly high, etc).
+
+ 
+
+***Why is this teardown so important***\*\*\*?\*\*\*
+
+&amp;#x200B;
+
+It proves that Apple themselves have no idea how to deal with the issue and that dust was either just an excuse to satisfy their customer bases demand for an answer, or their engineers are genuinely nowhere near as smart as everyone thinks they are. I'm not sure which of these two is worse. Considering they've had *4 years to deal with it*, i'm leaning more towards the latter.
+
+The way Apple is handling this problem is actually far from good. People think that its nice of them to have a repair program for the issue, but this is actually just a shitty half-assed bandaid fix for the problem. As it stands, the current situation is as follows:
+
+* **All** 12"" MacBooks + 2018 Air + all 2016-2018 Pro models **most likely** **will eventually develop keyboard issues, its a matter of time.**
+* **All 2016/2017 pros (and 12"" 2015-2017) have the extended keyboard warranty program.** *This program covers these units for 4 years from original purchase date*, meaning that 2016 models coverage ends around 2020/2021, depending on exact purchase date, and 2017 models coverage ends around 2021/2022. **2015 12"" Macbook coverage is ending between this year and next year, so 2015 12"" owners be prepared!**
+* ***2018 models are not covered by this program!*** Currently, they rely entirely on their warranty or consumer protection laws, meaning that if you didn't purchase AppleCare or live on a country where Consumer Protection laws suck, you'll only get support for 1 year out of the box.          
+
+For any of the above, once your warranty or keyboard program coverage ends, it's **$500 USD per failure** to replace the entire top case. There is no ""cheaper"" aftermarket solution, the keyboards themselves are a nightmare to replace and the aftermarket parts are even more likely to fail. **Replacing the part will not permanently fix the issue either since Apple only replaces it with identical parts**, meaning they're bound to fail again. On top of that, **all machines will be classified as vintage 5 years after their original purchase date**. Once that happens, spare parts from apple go bye bye for good and you'll be left only with the cheaper aftermarket parts that are usually more prone to failure, or be stuck buying used parts which are also failure-prone. While the possibility of a Vintage Repair Program is high, the stock for that item will run out quickly, since most 2012/2013 Retinas already are running low on LCD stock to cover Anti-glare issue.
+
+*Ownership beyond 3-4 years fo these models is pretty much a gamble at best, and ownership for 2018 models without AppleCare is even more of a gamble since there's no repair program support for them and there is 0 guarantee that these models will be added to that keyboard replacement program at all.*
+
+As for what the actual cause is, honestly I don't know. My suspicion is that the metal dome experiences metal fatigue and slowly begin to lose connection, or that that little U-shaped cutout in the centre of the dome weakens and starts to easily bounce when pressed, making contact 2+ times. I honestly cannot test this at home, my equipment is woefully inadequate to go that deep.
+
+Macbook owners, please beware. Always have AppleCare, even if paying extra to cover a flaw that should be properly dealt with is morally questionable and a shitty thing to do. Right now is not a good time to be a Macbook owner or buyer, and please consider whether or not you wish to financially support a company that pulls stunts like these.
+
+&amp;#x200B;
+
+This law firm is setting up a class action if anybody wants to join: [https://www.research.net/r/MacKeyboard](https://www.research.net/r/MacKeyboard)
+
+&amp;#x200B;
+
+Edit:After reading through a lot of comments, stories, criticisms, and other possible brain-storming ideas, I an definitely considering making a part 2 with different tests. If i am in a position where i can gather testing equipment for relatively cheap, i will probably start work on it then.",1058,11190,2019-05-02,AAPL,0.06959689408540726,0.9022361397743225,0.02816695161163807
+iphone,Woz,,93,2942,2019-05-02,AAPL,0.04529447481036186,0.8887279629707336,0.06597761064767838
+mac,What a classic behemoth! 17” 2009 MacBook Pro,,120,994,2019-05-02,AAPL,0.030128680169582367,0.9181949496269226,0.05167631432414055
+ipad,I still hate this...,,174,615,2019-05-02,AAPL,0.23523938655853271,0.4860469698905945,0.2787136137485504
+ipad,Paperless since 2017 :),,87,582,2019-05-02,AAPL,0.5641704201698303,0.4059252142906189,0.02990437112748623
+apple,Man Swallows AirPods Surprised To Know They Work In His Stomach,,73,566,2019-05-02,AAPL,0.04351973533630371,0.8063539266586304,0.1501263827085495
+iphone,Did anybody else get charged 10$ just for the free trial for apple news app? I remembered that I canceled the free 30 days but some how still got charged. Best part you can’t dispute apple apps at least on the App Store you can’t.,[deleted],81,426,2019-05-02,AAPL,0.2295156866312027,0.7337794303894043,0.03670491278171539
+AppleWatch,Activation locked S3 delivered today,"Received my S3 from eBay today... 42mm for about $210 in including shipping. I thought this was fair as the watch seemed in just about new condition from the pictures. When I received it I contacted the seller about deleting the device from his account so I could actually use it and got the response of “I’m at work, I will do it around 9pm.” This was at 4-5pm so already I am inconvenienced. So, as 9pm approaches, I send another message and am hit with “Ok...let me explain something to you...” He proceeds to feed me some line of fresh BS about the watch being his friend’s who did not know how to sell on eBay and who also apparently “didn’t know how to reset the watch.” Fortunately I called eBay and am returning this brick tomorrow and picking up a BRAND NEW one from Walmart so I have no lock, etc. to worry about.
+
+If anything, this post is meant to just be a vent for how crappy people can be and maybe it belongs here maybe not, but anyone looking for used AWs on eBay, CONFIRM WHETHER THE WATCH YOU ARE BUYING IS ACTIVATION LOCKED BEFORE BUYING. I will not make the same mistake again and I hope this can help anyone!",94,346,2019-05-02,AAPL,0.029203316196799278,0.916917622089386,0.05387899652123451
+apple,"John Grueber (Daring Fireball) on his podcast about his worries that Apple has become arrogant, as shown with the ongoing issues with the MacBook keyboard (segment starts at 1:34:07)",,278,342,2019-05-02,AAPL,0.06866965442895889,0.8859134316444397,0.04541695863008499
+AppleWatch,I'm building a Apple Watch series 3 diagnostic tool,"I need a one of those connectors that let you Apple Watch interface with a computer but they are too expensive and I have decided to make one. The tool connects to the diagnostic port on the Apple Watch and provides a female lighting connector that can be used to connect to a computer These tools are used in apple stores for restoring apple watches. I have heard conflicting rumors about the series 3 diagnostic port pinout matching that of a lighting port. I'm planning on 3d printing the outer housing and physical connector and I have pins that I can use to connect it to the port itself. I just need the pinout for the port and how to connect it to USB port like the original. If anyone has or can make a schematic for this thing that would be awesome. From looking at the photos is appears that this tool is more complicated then just a passive adapter. Ive seen on other threads that these circuit could be just for  I have photos of the inside of the tool itself down below:
+
+&amp;#x200B;
+
+my warranty is already over btw
+
+&amp;#x200B;
+
+there is another post like this on ghostlyhaks: [https://www.ghostlyhaks.com/forum/hacking-tools/734-apple-watch-diagnostic-port-device](https://www.ghostlyhaks.com/forum/hacking-tools/734-apple-watch-diagnostic-port-device)
+
+&amp;#x200B;
+
+A video of a cloned version of this (ibus): [https://www.youtube.com/watch?v=ad\_Vy3ulSE0](https://www.youtube.com/watch?v=ad_Vy3ulSE0)
+
+https://i.redd.it/c4d7wht0pvv21.jpg
+
+https://i.redd.it/ou74feqyovv21.jpg
+
+https://i.redd.it/hg1k9038nvv21.jpg
+
+https://i.redd.it/nelxfaz5nvv21.jpg
+
+https://i.redd.it/ku0zhp34nvv21.jpg",49,335,2019-05-02,AAPL,0.019912496209144592,0.9405791759490967,0.03950829803943634
+iphone,No thanks. I’m driving.,,245,3237,2019-05-03,AAPL,0.016802698373794556,0.7867549657821655,0.1964423656463623
+iphone,My first gen iPhone iPad and iPod nano,,119,2794,2019-05-03,AAPL,0.016939500346779823,0.911083459854126,0.07197698205709457
+apple,Super-Duper-Pro iOS tip: Double tap time pickers to switch to 1 min granularity instead of 5 min.,,187,2490,2019-05-03,AAPL,0.021734144538640976,0.9091017246246338,0.06916408985853195
+apple,I forgot how great MacBooks used to be.,[deleted],636,1861,2019-05-03,AAPL,0.03576665371656418,0.9392916560173035,0.024941690266132355
+apple,Powerbeats Totally Wireless now available for preorder,,303,1450,2019-05-03,AAPL,0.02217479795217514,0.9327384233474731,0.045086778700351715
+mac,"My first Apple computer, a 2006 iMac. Grabbed it for free from the shelf at my local electronics recycling depot- in great working condition (only missing the left alt key)!",,70,1084,2019-05-03,AAPL,0.04769212380051613,0.8580436706542969,0.09426421672105789
+AppleWatch,So under represented. The Gold Aluminium S4.,,102,894,2019-05-03,AAPL,0.04352034255862236,0.5867846608161926,0.3696949779987335
+ipad,Welcome to my iPad Pro battlestation!,,100,894,2019-05-03,AAPL,0.014757679775357246,0.8936656713485718,0.09157663583755493
+apple,Right to Repair Bill Killed After Big Tech Lobbying In Ontario,,198,881,2019-05-03,AAPL,0.8890374302864075,0.08792731165885925,0.0230352021753788
+iphone,Came Across This While Cleaning -- iPod (Gen 2) -- Circa 2002,,66,775,2019-05-03,AAPL,0.013905935920774937,0.8550735712051392,0.1310204416513443
+iphone,Been keeping tabs on every iPhone XR color I’ve seen in the wild since launch,,389,4091,2019-05-04,AAPL,0.03174344450235367,0.8954391479492188,0.07281743735074997
+iphone,Look at your local store,,167,3003,2019-05-04,AAPL,0.02577572874724865,0.9316704273223877,0.04255383089184761
+mac,Most underated but very handy tool. 😊,,203,2577,2019-05-04,AAPL,0.02112329564988613,0.887747049331665,0.09112962335348129
+apple,Apple Watch Series 4 discounted to $349 for 40mm and $379 for 44mm at Amazon and Best Buy,,298,2267,2019-05-04,AAPL,0.034166764467954636,0.9174669981002808,0.048366304486989975
+apple,Tim Cook hopes Apple’s $30 million rehab of D.C.’s Carnegie Library will do more than sell iPhones,,307,1748,2019-05-04,AAPL,0.01074125710874796,0.7946352362632751,0.19462355971336365
+ipad,Amazing animation on iPad Pro,,28,1094,2019-05-04,AAPL,0.018606476485729218,0.9199225306510925,0.06147104129195213
+AppleWatch,Today is my one year anniversary since I bought my AppleWatch. Best decision I’ve made in a long time.,"Like the title says, today is my one year anniversary since I bought my first AppleWatch. One of the reasons why I bought it was to help me be more active. Before I got my AppleWatch, I was never active and would be sitting more. I didn’t even have a daily exercise routine, which result in being a little pudgy (not fat, but some noticeable weight).
+
+Since I got my AppleWatch, due to the rings, it has made me do a lot more moving, standing, and have a morning exercise routine. While I’m not muscular and buff, but I’ve noticed my cardio has improved and I’m not as lazy as before. While I know I need to do more exercises, but the amount I’ve done in this past year is an improvement than what I was doing before. My record for consecutive days of completed rings was 90 days, but that ended when I pulled a muscle in my shin and made me rest on it for a while.
+
+Before I got my AppleWatch, I used to think “who would ever use this? It’s pointless.” Now, I don’t know how I never bought one sooner? It just shows that a person’s opinion can change over time. So, in hindsight, I’m glad I got the AppleWatch. I look forward to many years with it. Thank you, Apple, for making something like this.",42,476,2019-05-04,AAPL,0.022380469366908073,0.9116973876953125,0.06592212617397308
+iphone,Face ID lock won’t stop spinning.,,68,399,2019-05-04,AAPL,0.1700795292854309,0.7752473950386047,0.05467307195067406
+apple,I created a free app to easily find meals from restaurants that match your personal diet restrictions.,"The App / Site are  **100% free, and have zero ads**.
+
+ [Website](https://www.caloriecap.com/) | [App Store](http://appstore.com/caloriecap) | [Screenshots](https://i.imgur.com/r0RJXSh.png)
+
+
+Hi r/Apple
+
+I'm just a guy who had a lot of issues trying to go out to eat with friends while staying within my macro guidelines I had set for myself. A lot of time wasted browsing through restaurant website searching for a nutritional pdf, and then trying to navigate that on my phone and find something that worked for me.
+
+When I first created this a few years back, I was mostly concerned with calories, so the initial release was just a simple web app that only showed calories. Reddit showed it a lot of love, and had a lot of requested for features which lead to me growing it from only a site that showed calories to an app that allowed for much more.
+
+For those who may not be tracking their macros down to a number, you can use some of our lifestyle options like Low Calorie to help with your Journey.
+
+We also have Keto, Vegetarian, and many more to come.
+
+Hope some of you find it useful!",62,344,2019-05-04,AAPL,0.020438864827156067,0.9299996495246887,0.04956144094467163
+AppleWatch,Apple watch series 4 for $349 now on amazon,,78,273,2019-05-04,AAPL,0.047150734812021255,0.7646688222885132,0.18818043172359467
+iphone,🔥 Beluga whale saves an iPhone from the sea in Norway,,163,6188,2019-05-05,AAPL,0.031201478093862534,0.8711183071136475,0.0976802334189415
+iphone,I think I had a record increase in screen time.,,94,2949,2019-05-05,AAPL,0.014093998819589615,0.882781445980072,0.1031244695186615
+mac,This beauty arrived just a couple days ago! Grape is definitely my favourite colour of them all!,,75,1680,2019-05-05,AAPL,0.01347642857581377,0.7577792406082153,0.22874432802200317
+apple,Kuo: 2019 iPhones to feature redesigned antenna structure with focus on improved indoor navigation,,337,1660,2019-05-05,AAPL,0.010224438272416592,0.0983726754784584,0.8914028406143188
+apple,Apple Pay Express Transit set to expand to new card types,,171,1248,2019-05-05,AAPL,0.00877288170158863,0.7883912920951843,0.2028357833623886
+mac,I got my old Power Mac G4 cube running!,,82,853,2019-05-05,AAPL,0.019082551822066307,0.8532406091690063,0.12767675518989563
+AppleWatch,Made myself a really nice looking Watch charger,,54,833,2019-05-05,AAPL,0.010183055885136127,0.8194286823272705,0.17038826644420624
+apple,Magisk developer John Wu picks up internship at Apple,,54,497,2019-05-05,AAPL,0.02440931648015976,0.8938472270965576,0.08174343407154083
+iphone,Putting your finger on the Touch ID highlights the saved name for that finger.,,49,375,2019-05-05,AAPL,0.044995859265327454,0.9241933226585388,0.030810805037617683
+mac,Girlfriend found an old “mac mini” going through her storage...pen for scale.,,36,369,2019-05-05,AAPL,0.026425419375300407,0.8844245672225952,0.08914999663829803
+apple,"Stumbled opon ""Dynamic Wallpaper Club"" - a website with dynamic wallpapers!",,138,4012,2019-05-06,AAPL,0.027432743459939957,0.9418430328369141,0.030724195763468742
+iphone,Another phone returned via dolphin!,,119,3594,2019-05-06,AAPL,0.02900630421936512,0.900091290473938,0.07090242207050323
+iphone,Wouldn't it be nice if you could jump to an App's settings using 3D touch,,82,2324,2019-05-06,AAPL,0.017001211643218994,0.9207461476325989,0.06225261837244034
+mac,Yikes.,,148,1768,2019-05-06,AAPL,0.06284888833761215,0.8979172706604004,0.039233796298503876
+mac,Abouuuuuuut a few more hours...,,57,902,2019-05-06,AAPL,0.038383498787879944,0.9212034940719604,0.04041306674480438
+apple,"Bloomberg: iOS 13 revamps Health and Reminders, watchOS 6 adds Calculator, Voice Memos, Books and App Store apps",,320,701,2019-05-06,AAPL,0.025438925251364708,0.9336742162704468,0.04088690131902695
+iphone,Just found this baby still sealed up.,,26,483,2019-05-06,AAPL,0.23906220495700836,0.6062952280044556,0.15464258193969727
+apple,EU to launch formal competition inquiry into Apple over Spotify’s complaints,,285,474,2019-05-06,AAPL,0.019953889772295952,0.862777054309845,0.11726906150579453
+AppleWatch,Bloomberg: watchOS 6 features,"watchOS 6:
+
+
+ • Voice Memos, Apple Books (for listening to audiobooks), Calculator, and health apps ‘Dose’ 
+and ‘Cycles’ for tracking medication and menstrual cycles.
+
+
+ • New watch faces: There will be a new ‘Gradient’ face, a classic ‘California’ face with Roman and Arabic numerals, a ‘Solar Analog’ face that reportedly looks like a sundial, and an ‘Infograph Subdial’ face that features larger complications
+
+
+ • New complications; battery status for hearing aids, a companion to the Books app for audiobooks playback, and more.
+
+
+
+
+[Source](https://9to5mac.com/2019/05/06/ios-13-watch-os-6-new-apps/)",205,454,2019-05-06,AAPL,0.02225206047296524,0.9326403141021729,0.04510762542486191
+apple,"Apple buys a company every few weeks, says CEO Tim Cook",,118,449,2019-05-06,AAPL,0.02067774347960949,0.9318563342094421,0.04746594280004501
+iphone,The London Eye moves in Apple Maps Satellite View.,,202,6301,2019-05-07,AAPL,0.05149587616324425,0.9189608097076416,0.029543327167630196
+apple,iOS reportedly getting its very own swipe-to-type keyboard,,425,3471,2019-05-07,AAPL,0.017055656760931015,0.9047508239746094,0.07819348573684692
+apple,Apple Trade In — Do one last great thing with your iPhone — Apple,,448,2235,2019-05-07,AAPL,0.019783783704042435,0.8540366291999817,0.12617960572242737
+mac,Came in to the shop from running a service call and one of my techs had this on his workbench. Running Mac OS 9.2. 896mb RAM.,,61,944,2019-05-07,AAPL,0.02446555346250534,0.9330053329467773,0.04252910241484642
+mac,Programs even snap onto the Dock!,,95,726,2019-05-07,AAPL,0.01474711298942566,0.9013290405273438,0.08392387628555298
+AppleWatch,My dream has come true! #AppleWatch,"Title. My dream has come true. I switched to iPhone last month to the XR, love the phone and all. But one of the reasons I switched was to get an Apple Watch. Picked up a Series 4 LTE for me and the wife this past weekend. 
+
+My dream has come true, I can go to work and not need to bring my phone. I made it the entire day with 19% battery left while working the entire day with just my watch. Messages, emails and calls handled all day, while even taking a nice long walk during a break and tracking it via GPS. I left my phone at home. I even streamed music to my car via Bluetooth. 
+
+This is the greatest thing since sliced bread. Cheers",93,549,2019-05-07,AAPL,0.03513556346297264,0.910558819770813,0.054305605590343475
+ipad,Don’t loose your Apple Pencil cap while charging! Just throw it near the home button and it’ll stay there because of *magical* magnets. This is a 6th gen 9.7” iPad but assume other iPads have magnets near home button too.,,84,480,2019-05-07,AAPL,0.02706141583621502,0.9164538383483887,0.05648469924926758
+apple,"Hey /r/Apple, join us over at /r/Android for Google's annual I/O conference!",,389,333,2019-05-07,AAPL,0.030381077900528908,0.9281412959098816,0.04147758334875107
+ios,"Apples Activity app is already dark mode, can’t wait for the real thing",,18,186,2019-05-07,AAPL,0.09069303423166275,0.8875409960746765,0.021765969693660736
+apple,Bloomberg: How the Apple Store Lost Its Luster,,178,182,2019-05-07,AAPL,0.940453290939331,0.044991981238126755,0.014554819092154503
+iphone,The time is coming..,[deleted],273,5540,2019-05-08,AAPL,0.029854973778128624,0.8912811279296875,0.07886390388011932
+iphone,When your alarm knows you’re just going to sleep through it and just gets straight to the point.,,43,3582,2019-05-08,AAPL,0.08147530257701874,0.7982836961746216,0.12024097144603729
+apple,Apple Watch Series 4's redesigned OLED screen crowned 'Display of the Year',,253,2837,2019-05-08,AAPL,0.017026573419570923,0.8736644387245178,0.10930902510881424
+iphone,Touché,,52,1410,2019-05-08,AAPL,0.05981381982564926,0.8309892416000366,0.10919694602489471
+mac,Old Macintosh‘s found in my school workbenches,,62,1321,2019-05-08,AAPL,0.05229026824235916,0.9027838706970215,0.044925931841135025
+apple,Apple Pay Launches in Iceland,,168,1308,2019-05-08,AAPL,0.052520643919706345,0.9106397032737732,0.03683965653181076
+iphone,"""sorry not sorry"" - jony ive",,45,567,2019-05-08,AAPL,0.2769790291786194,0.6617240309715271,0.061296895146369934
+AppleWatch,Does anyone have an Apple Watch series 4 face similar to this?,,79,334,2019-05-08,AAPL,0.030477050691843033,0.9033400416374207,0.06618288159370422
+apple,LG UltraFine 5K no longer available from Apple following disappearance of 4K model last month,,85,328,2019-05-08,AAPL,0.016193119809031487,0.8823842406272888,0.10142261534929276
+ipad,I SWEAR I bought it just to retire my MBP,,58,280,2019-05-08,AAPL,0.01645122841000557,0.8963732719421387,0.08717548102140427
+iphone,looks better if the camera don't stick out,,575,5189,2019-05-09,AAPL,0.03394346311688423,0.7264846563339233,0.23957188427448273
+mac,Great use of the Touch Bar!,,176,2205,2019-05-09,AAPL,0.015034266747534275,0.878044843673706,0.10692083835601807
+apple,"Apple’s iPad Pro is up to $450 off including cellular models, today only",,154,1743,2019-05-09,AAPL,0.010857157409191132,0.9048857092857361,0.08425718545913696
+apple,"New macOS 10.15 Music app code based on iTunes, not iOS",,182,994,2019-05-09,AAPL,0.0165385939180851,0.9330134391784668,0.050447966903448105
+apple,"Canalys: Apple shipped 14.6M iPhones in North America during Q1, securing 40% marketshare",,112,565,2019-05-09,AAPL,0.016094490885734558,0.8292904496192932,0.15461504459381104
+ipad,"size comparison for those wondering, currently switching from 11 inch to 12.9. Love the screen real estate of the 12.9",,91,519,2019-05-09,AAPL,0.015273612923920155,0.939054012298584,0.04567234590649605
+iphone,I tried to make a more realistic mockup of the iPhone Eleven's back,,63,518,2019-05-09,AAPL,0.019315723329782486,0.9210276007652283,0.05965667963027954
+mac,2018 MacBook Pro Keyboard wearing away already?,,105,474,2019-05-09,AAPL,0.1060677245259285,0.7985765933990479,0.09535572677850723
+ipad,Got a superb looking skin for my 2017 ipad pro,,27,396,2019-05-09,AAPL,0.01205518003553152,0.7111101746559143,0.276834636926651
+AppleWatch,I gave my mom an S4 Apple Watch for her birthday (today) and she hated it!,"She just made it clear she wouldn’t be able to figure it out, doesn’t like the way it looks, and can’t see the text.
+
+First time she’s ever said anything negative about a gift ever.
+
+She’s “giving it a shot” as a kind gesture but I just want to go return it.
+
+:(",101,347,2019-05-09,AAPL,0.048880577087402344,0.9016292691230774,0.04949015751481056
+apple,"Rumor suggests iOS 13 will not support iPhone 6, iPhone SE and iPhone 5s",,804,4051,2019-05-10,AAPL,0.012774047441780567,0.833646833896637,0.15357908606529236
+iphone,This what happens when my iphone touches the Huawei P30 Pro,,166,2906,2019-05-10,AAPL,0.017430149018764496,0.8901349902153015,0.0924348533153534
+iphone,I simply love this feature,,163,1679,2019-05-10,AAPL,0.022055234760046005,0.9158049821853638,0.062139783054590225
+mac,"After battling the keyboard failures on my 2017 TB MBP, I decided to trade in for a 5K iMac. So happy with this purchase.",,183,1157,2019-05-10,AAPL,0.09585794061422348,0.8247473239898682,0.07939478754997253
+apple,[Video] Privacy on iPhone - Inside Joke,,183,996,2019-05-10,AAPL,0.019974542781710625,0.9336189031600952,0.046406541019678116
+apple,BMW CarPlay subscription breaks feature during extended ConnectedDrive outage,,314,765,2019-05-10,AAPL,0.08391566574573517,0.8893797993659973,0.026704546064138412
+AppleWatch,I think I broke it,,74,699,2019-05-10,AAPL,0.07391316443681717,0.8869273066520691,0.03915959224104881
+ipad,My computer replacement setup,,94,537,2019-05-10,AAPL,0.10435149818658829,0.872305691242218,0.02334275096654892
+apple,"Bloomberg: Apple A13 production kicks off, destined for iPhone 11 and the new iPhone XR in the fall",,96,331,2019-05-10,AAPL,0.01464035827666521,0.7670997381210327,0.21825988590717316
+apple,"Bloomberg suggests news iPhones Will Charge AirPods, Have New wide-angle Camera, 'Auto-Correction' Feature for Photos and A13 chip",,191,319,2019-05-10,AAPL,0.01698405109345913,0.9128025770187378,0.07021334767341614
+iphone,One of the best features on iOS 12,,172,4621,2019-05-11,AAPL,0.016347987577319145,0.933775007724762,0.04987696185708046
+iphone,Do you think apple will actually step up their limited lighting capabilities? I have the iPhone XS right now and recently tried a pixel 3 for the night mode and other modes. It was incredible. It wasn’t enough to consider a Permanent switch. Still iPhone used to be top dog in cameras.,,611,4391,2019-05-11,AAPL,0.035149119794368744,0.9078149795532227,0.0570359006524086
+apple,What actually happened at the Apple March Event 2019.,,312,2801,2019-05-11,AAPL,0.061385203152894974,0.9086657762527466,0.029949015006422997
+apple,How iFixit Became the World's Best iPhone Teardown Team,,138,2170,2019-05-11,AAPL,0.021177051588892937,0.7792103290557861,0.19961266219615936
+mac,How the years have passed,,35,1784,2019-05-11,AAPL,0.10531964153051376,0.8470491170883179,0.04763124883174896
+ipad,Just waiting for that mouse support...,,205,1156,2019-05-11,AAPL,0.07882075756788254,0.8965418934822083,0.024637367576360703
+mac,"following the post of the battery indicators on the older Macs, I really want to see my battery percentage of my Mac on my iPhone battery widget",,85,1148,2019-05-11,AAPL,0.016564324498176575,0.9188643097877502,0.06457137316465378
+iphone,"Delft Blue combo with real Delft Blue in Delft, the Netherlands.",,43,662,2019-05-11,AAPL,0.021525176241993904,0.9301816821098328,0.04829312115907669
+apple,Guilherme Rambo believes a new MacBook Pro with redesigned keyboard is coming soon,,283,563,2019-05-11,AAPL,0.022735130041837692,0.9041674733161926,0.07309745252132416
+apple,"Report: 2019 iPhone XR to be available in two new colors, replacing coral and blue",,108,316,2019-05-11,AAPL,0.015150845982134342,0.7625753283500671,0.2222738265991211
+iphone,Apple be like,,149,5331,2019-05-12,AAPL,0.027243521064519882,0.9195842146873474,0.053172264248132706
+iphone,"Some Apple employees are getting Apple Card, so I received this photos, edited the name to protect the source and this also works as a watermark 😊👌🏻",,260,2486,2019-05-12,AAPL,0.05107508972287178,0.9304160475730896,0.01850886084139347
+apple,Apple Card packaging,,609,1567,2019-05-12,AAPL,0.02512279711663723,0.94202721118927,0.032850053161382675
+apple,Apple Beats PowerBeats pro review: throw away your AirPods,,460,1412,2019-05-12,AAPL,0.018989400938153267,0.8280920386314392,0.1529185175895691
+iphone,This is getting old. 😔,,177,1166,2019-05-12,AAPL,0.04068126156926155,0.7699279189109802,0.18939079344272614
+ipad,Procreate Animations!,,18,469,2019-05-12,AAPL,0.031809527426958084,0.9138347506523132,0.054355744272470474
+mac,"2009 Mac mini on El Capitan, should be retiring next week.",,43,315,2019-05-12,AAPL,0.32240384817123413,0.6522198915481567,0.02537623979151249
+mac,"i bought my first mac recently. it's a 2014 retina mbp but it still works perfectly fine, especially when compared to my previous laptop",,54,236,2019-05-12,AAPL,0.012216131202876568,0.15524423122406006,0.8325396776199341
+AppleWatch,My Apple Watch app for counting down current calendar events is finally out!,"Hey guys. A while ago I posted a TestFlight link to an app I was working on, but quite a few people said they would rather wait until it is fully ready-- well it is now!
+
+&amp;#x200B;
+
+[https://itunes.apple.com/us/app/how-long-left/id1450603293?ls=1&amp;mt=8](https://itunes.apple.com/us/app/how-long-left/id1450603293?ls=1&amp;mt=8)
+
+&amp;#x200B;
+
+(Full disclosure, the app does include an in-app purchase to access the ability for the countdown to be shown in the complication, but I think even without that feature the app is just as useful.)
+
+&amp;#x200B;
+
+So, check it out if you want. Thanks :)",62,223,2019-05-12,AAPL,0.021428944543004036,0.9133408069610596,0.06523027271032333
+iphone,Wht the new iPhone (based on leaks) reminds me of,,16,192,2019-05-12,AAPL,0.009712865576148033,0.8525508642196655,0.1377362608909607
+apple,Latest 2019 iPhone molds leak once again show square camera bump coming to all three new phones,,921,3824,2019-05-13,AAPL,0.014201902784407139,0.7494982481002808,0.23629985749721527
+iphone,This is a thing with Roku and console controllers; why not Apple TV?,,179,2103,2019-05-13,AAPL,0.02593144215643406,0.9273881316184998,0.04668036848306656
+iphone,This has happened on two genuine plugs. I can’t tell if it’s corrosion or burn marks from arcing. Anyone else get this?,,311,1776,2019-05-13,AAPL,0.04996234178543091,0.9206797480583191,0.02935793250799179
+mac,Mac Monday - Work from home.,,59,1260,2019-05-13,AAPL,0.06649096310138702,0.8777912855148315,0.055717773735523224
+mac,Purchased a complete &amp; mint 2003 G4 MDD for $100.,,49,685,2019-05-13,AAPL,0.014096838422119617,0.9099173545837402,0.07598577439785004
+apple,"Apple releases iOS 12.3 &amp; tvOS 12.3 with new TV app, watchOS 5.2.1 &amp; macOS 10.14.5 also now available",,222,683,2019-05-13,AAPL,0.027752412483096123,0.9489089250564575,0.023338692262768745
+ipad,iPad Pro 11” with the Nimbus Controller setup on the train from Venice to Florence,,105,513,2019-05-13,AAPL,0.01803901046514511,0.9153472185134888,0.06661372631788254
+apple,Apple Watch gains '2019' Pride face update in watchOS 5.2.1,,192,494,2019-05-13,AAPL,0.02827119082212448,0.9113658666610718,0.06036296486854553
+apple,Apple Support App Now Lets You Chat With an Expert in Messages,,57,463,2019-05-13,AAPL,0.014093338511884212,0.9281232357025146,0.05778343975543976
+apple,Supreme Court rules against Apple in App Store antitrust case,,668,425,2019-05-13,AAPL,0.6910836696624756,0.2708163559436798,0.03809996694326401
+iphone,The revolutionary Duckpods (@appletechig),,69,3427,2019-05-14,AAPL,0.047185517847537994,0.9096207618713379,0.04319373518228531
+iphone,"If you make this your lock screen, it appears animated when you turn your phone on",,205,2795,2019-05-14,AAPL,0.03422196954488754,0.9306697845458984,0.03510827571153641
+apple,"AAPL drops 6% as Trump’s tariffs bite: Apple accessories at 25%, overall costs could rise 10%",,151,2638,2019-05-14,AAPL,0.781318724155426,0.03403998911380768,0.18464133143424988
+iphone,Live wallpaper by Pablo Rochat,,110,2402,2019-05-14,AAPL,0.037154145538806915,0.9119254350662231,0.050920359790325165
+apple,"Warner Bros movies revert to HD instead of 4K on iTunes, including already purchased titles - 9to5Mac",,326,1583,2019-05-14,AAPL,0.01760757341980934,0.8791198134422302,0.10327257215976715
+apple,WhatsApp Vulnerability Left iPhones Vulnerable to Israeli Spyware,,278,1298,2019-05-14,AAPL,0.5836405158042908,0.3765537142753601,0.03980574756860733
+AppleWatch,"Well, isn’t that just fabulous!",,141,1018,2019-05-14,AAPL,0.07862941920757294,0.8120191693305969,0.10935144126415253
+apple,Apple employees have the highest confidence in customer data protection,,100,779,2019-05-14,AAPL,0.014753619208931923,0.8139762282371521,0.17127016186714172
+iphone,Everyone's nightmare,,95,759,2019-05-14,AAPL,0.08408098667860031,0.847283661365509,0.06863531470298767
+iphone,Just thought that this might make you chuckle.,,62,636,2019-05-14,AAPL,0.09005863964557648,0.7086796164512634,0.2012617588043213
+apple,‎Steam Link for iOS Now Available!,,453,2660,2019-05-15,AAPL,0.029049353674054146,0.9388557076454163,0.03209495171904564
+iphone,I see your “animated” spiral lock screen and I raise you the black ice lock screen (try it),,123,1387,2019-05-15,AAPL,0.02316918969154358,0.9400396943092346,0.0367911271750927
+mac,My MacBook Pro turned 10 today!,,173,1375,2019-05-15,AAPL,0.04049493372440338,0.9045733213424683,0.05493176355957985
+apple,Apple releases additional mitigations for speculative execution vulnerabilities in Intel CPUs – complete mitigation requires disabling hyperthreading,[deleted],441,1207,2019-05-15,AAPL,0.03625829890370369,0.9245348572731018,0.03920682519674301
+ipad,iPad air screen unlocking super slow motion,,39,659,2019-05-15,AAPL,0.02250651828944683,0.8832597732543945,0.0942336842417717
+apple,Report: Apple's custom 5G modems may not arrive until 2025 after 'long and painful divorce' with Intel,,98,348,2019-05-15,AAPL,0.11813589930534363,0.839996874332428,0.04186719283461571
+iphone,"Goodbye to one of the best phones I’ve ever had. After 4 years as a phone and 3 years as a backup device, my dumbass self left my iPhone 4s near moisture and this happened. I’ve since moved on to my beloved 6 Plus I’m typing on right now, but you will be missed 4s.",,78,347,2019-05-15,AAPL,0.02741200476884842,0.8983718156814575,0.07421621680259705
+apple,macOS Human Interface Guidelines for Dark Mode,,42,319,2019-05-15,AAPL,0.05093137547373772,0.9217535257339478,0.027315067127346992
+mac,after using for dark mode for so long...,"after switching to the light mode once, i was thinking ""how tf did my eyes ever survive this""
+
+&amp;#x200B;
+
+edit: typo meant ""the dark mode"" lol",41,298,2019-05-15,AAPL,0.03755820542573929,0.9327684044837952,0.029673447832465172
+apple,Apple highlights iPhone 6s 'made in India' in new marketing campaign,,148,285,2019-05-15,AAPL,0.010685197077691555,0.7051252126693726,0.2841896116733551
+iphone,True!,,266,10973,2019-05-16,AAPL,0.029420280829072,0.8964540362358093,0.0741257295012474
+iphone,"Didn’t know about this, but clock hands adjusts to the time that was typed.",,93,2547,2019-05-16,AAPL,0.06642994284629822,0.9057614207267761,0.02780865877866745
+apple,I analyzed how the AirPods 2 and Case charge,"EDIT3: The graph has been updated to fix the scaling issue.
+
+[Link to graph](https://i.imgur.com/jU2rmXN.png)
+
+EDIT: This is the AirPods 2 *without* wireless charging case, charging using an Apple cord and 5-watt brick. 
+EDIT2: **I made a mistake, the case holds 1,520 mWh, and the buds each hold 93 mWh, for a total of 1.706 Wh, so it's more efficient than first thought.
+
+* The AirPods ""boost"" charge for the first 3.5 minutes
+* Pods take 30 mins to completely charge, Case takes 2 hours
+* The case waits to charge until the Pods hit 20%
+* Pods+Case never draw more than 2.5 watts total",89,1719,2019-05-16,AAPL,0.028755158185958862,0.9337347745895386,0.03751010075211525
+mac,Surf's Up!,,118,1398,2019-05-16,AAPL,0.02716759778559208,0.9156700372695923,0.05716231092810631
+apple,"Apple Developer Academy applications now open, 400 free places available",,92,945,2019-05-16,AAPL,0.022924715653061867,0.9452167749404907,0.03185853734612465
+ipad,iPad Pro 12.9 + 2018 Mac Mini,,102,487,2019-05-16,AAPL,0.01770618185400963,0.9072268009185791,0.07506702840328217
+ipad,Finally upgraded!,,44,419,2019-05-16,AAPL,0.02865857258439064,0.8379714488983154,0.13336992263793945
+apple,Apple Rises to Third in Annual Fortune 500 List of America's Largest Companies,,19,388,2019-05-16,AAPL,0.05200216919183731,0.8266589641571045,0.1213388592004776
+apple,Apple Pay Launch Netherlands imminent including full support for Maestro cards online and in apps,,84,351,2019-05-16,AAPL,0.007301413454115391,0.6895973682403564,0.30310121178627014
+ios,Under rated feature.,,42,350,2019-05-16,AAPL,0.0357607901096344,0.8710866570472717,0.09315257519483566
+iphone,First-world solutions,,96,2972,2019-05-17,AAPL,0.022969141602516174,0.9127042293548584,0.06432661414146423
+apple,Minecraft Earth for iOS goes a step beyond Pokémon Go,,156,2044,2019-05-17,AAPL,0.024734865874052048,0.8853242993354797,0.08994080126285553
+iphone,What do you think of this design?,,222,1265,2019-05-17,AAPL,0.03663436695933342,0.9270943999290466,0.03627118840813637
+mac,The Macintosh Classic.,,33,1050,2019-05-17,AAPL,0.0279226191341877,0.9357854127883911,0.03629198670387268
+ipad,iPad Pro 11” and the Osmo Pocket in Positano,,45,517,2019-05-17,AAPL,0.025017520412802696,0.932664155960083,0.04231830686330795
+mac,Music Mac is done I think 😢,,45,408,2019-05-17,AAPL,0.03743898123502731,0.9046514630317688,0.0579095333814621
+AppleWatch,I had my first “Have You Fallen?” moment with my Apple Watch today,"I was driving in a parking garage today, and the stupidest bitch driving a huge SUV decided to turn the wrong way down the aisle right into my path, and i had to slam on my horn (while slamming on my brakes) to avoid an impact. The watch was on the arm that I slammed my horn with, and during a heated exchange with her dipshit boyfriend hanging out of the passenger side, I received an alert on my watch that it had “detected a fall.” My watch asked me to press one of two icons, “I’m okay” or “Send an SOS.” I pressed “I’m okay” and it asked me again if I’m okay, and I pressed the “I’m okay” icon a second time. This technology works. It’s amazing. I understood why I received this message, because the impact of my hand hitting the horn was quite substantial, as if I was falling off of a bicycle and hitting my hand on the pavement. My Apple Watch now appears to be well worth the money for the peace of mind, in case I do fall and need emergency services. My only question, is this: if I’m not able to press the “I’m okay” or the ""SOS"" icon, is there a time limit that the Watch will detect no press, and call emergency services anyway, in lieu of my not pressing an icon?",90,354,2019-05-17,AAPL,0.030246488749980927,0.9018161296844482,0.06793734431266785
+iphone,how is this even possible,,23,239,2019-05-17,AAPL,0.09454422444105148,0.6235058903694153,0.2819499671459198
+apple,Discovered the Apple Retail Stores still sell Apple nano-SIM card kits... Anyone know of any other (secret) Apple accessories that are available for sale?,"## So, I found out yesterday Apple Retail Stores still sell these... 
+
+## [https://imgur.com/I34KZXo](https://imgur.com/I34KZXo) ($4.99 btw)
+
+**Do any Apple Employees (current or former)** ***or anyone else*** **know of any other ""niche"" / ""secret"" products Apple still actually sells (that must be retrieved from the back / ordered internally and aren't available online)? Basically, things available for sale from Apple, which are not advertised anywhere online or in stores (unless you specifically ask for them).** 
+
+**Apparently Apple Pencil lightning female-female adapters are treated a similar way...**",119,209,2019-05-17,AAPL,0.029660655185580254,0.9376215934753418,0.03271771967411041
+apple,Apple Promotes Music-Making on Mac in New Ad,,70,176,2019-05-17,AAPL,0.014177205972373486,0.8856547474861145,0.10016802698373795
+apple,Apple CEO Tim Cook to the class of 2019: ‘My generation has failed you’,,1034,11844,2019-05-18,AAPL,0.02531210333108902,0.8910166621208191,0.08367131650447845
+iphone,Outstanding move,,57,4535,2019-05-18,AAPL,0.041356541216373444,0.9234303832054138,0.03521301969885826
+iphone,What would I do without Apple’s incredibly helpful messages???,,39,1875,2019-05-18,AAPL,0.01886652037501335,0.5863691568374634,0.394764244556427
+mac,I found this in my university.,,51,1036,2019-05-18,AAPL,0.04427428916096687,0.877605676651001,0.07812001556158066
+iphone,Anyone else SUPER annoyed that iOS doesn’t let you download ANYTHING over 150 MB over cellular data?,"I understand that some people don’t have unlimited data or just don’t want to be congesting the cellular towers. I also understand that people on shared data plans don’t want to be using up all their data in a hour. However, for those of us that do have unlimited 4G LTE and want to take advantage that our LTE is FASTER than our Wi-Fi, there should be AT LEAST an option for disabling that “feature”.  My 4G LTE is on average around 45 Mbps, but my Wi-Fi is on average 6 Mbps. If I want to download a game, or God forbid a 4K HDR movie on my iPhone XS Max, it will take all day. This is ridiculous! I know there’s ways to cheat around it and setting my time forward to trick iOS, but I shouldn’t have to. This is one of my only gripes about iOS...",253,1028,2019-05-18,AAPL,0.022076210007071495,0.9301667213439941,0.0477570965886116
+apple,"Tim Cook: ‘If you love what you do, you will never work a day in your life’ is ‘total crock’",,85,930,2019-05-18,AAPL,0.09314074367284775,0.8740187287330627,0.032840531319379807
+ipad,"iPad Pro 10.5"" remote controlling a PS4 Pro + a Windows 10 Pro laptop that in itself is remote controlling an Android device running Apple Music",,113,764,2019-05-18,AAPL,0.029521940276026726,0.9410268664360046,0.02945122867822647
+iphone,Today was Upgrade day.Finally made the switch iphone 5s to XR 128 gb.Thanks for all the help guys.Much love 💖,,97,530,2019-05-18,AAPL,0.015393226407468319,0.8699172139167786,0.11468964070081711
+iphone,Dropped my iPhone X (no AppleCare). How to proceed? Carrier store? Apple Store? Repair kiosk at the mall? Really hope I don’t need a new phone.,[deleted],163,303,2019-05-18,AAPL,0.022893184795975685,0.9089447855949402,0.06816194951534271
+apple,ARM and x86_64 translation with bitcode -- Apple has made the next CPU transition really simple,,97,270,2019-05-18,AAPL,0.011081323958933353,0.7595685720443726,0.2293500453233719
+iphone,"For the new iOS update, please add this emoji.",,117,6974,2019-05-19,AAPL,0.022273004055023193,0.942448079586029,0.03527893126010895
+mac,Super satisfied with how perfectly my new 15” MacBook Pro fits under my Mac Pro!,,123,1687,2019-05-19,AAPL,0.014542143791913986,0.8945794105529785,0.09087846428155899
+iphone,I’d love to see call history in imessage,,34,748,2019-05-19,AAPL,0.026310373097658157,0.9390262365341187,0.03466338291764259
+iphone,Night shift,,16,717,2019-05-19,AAPL,0.08633102476596832,0.8813226819038391,0.03234632685780525
+mac,My gaming/ workstation rarely is this organized,,24,336,2019-05-19,AAPL,0.1507924497127533,0.8273764252662659,0.02183118462562561
+iphone,"What did you do, sir?😂😏",,39,319,2019-05-19,AAPL,0.041672129184007645,0.8648503422737122,0.0934775322675705
+apple,Weird experience with battery replacement today,"I went to the Apple Store back in December to get my battery replaced for my iPhone 6S. I’ve had it since 2016, and my battery no longer held a charge for more than an hour. Super frustrating.
+
+So the girl runs a diagnostic test on my iPhone to determine that my battery is the issue, and it is. Unfortunately, they didn’t have any 6S batteries in stock, so she told me to come back in a few days to get my battery replaced.
+
+Due to a change of jobs and just general chaos of life, I haven’t been able to make it back in until today. I make an appt, show up on time, and get escorted to this girl who’s all set up with an iPad, ready to run a diagnostic test on my phone. While that runs, we’re chatting a bit, and she mentions how I’m eligible for an upgrade and how I could turn in my phone for $150 and get a new phone yadda yadda yadda. I tell her that I’m not interested in buying a new phone because my current phone works perfectly—except for the battery, which I need to replace. She makes another attempt to “sell” me on getting a new phone, and I again say no. She also makes a comment about some “white spots” on my phone (I’ve tried to see what she’s talking about, but I can’t?) and says it might be water damage that’s affecting my phone.
+
+So then the results of the diagnostic test comes back and surprise, surprise: “Your battery is working perfectly. There’s nothing with your battery.” I start to get annoyed because “Really? I was just here a few months ago, and the diagnostic test came back saying that my battery needed replaced.” I mean, what the hell? Did the battery fix itself in six months?
+
+She again brings up trading in my phone, and.. I get this weird vibe? Like I feel like she’s being shady with me. So I agree to go downstairs to look at other phones, but I call my husband instead and explain what happened. Because I am smol and shy, I needed his decisive words of “That’s bullshit. Does she work on commission? No, tell her you want a new battery and if she doesn’t comply, ask to speak to a manager.” Okay, so now I’ve hung up the phone and I am smol and angry now, so I march my butt back up to the third floor and explain that I DO want a new battery. She warns me that I might be wasting my money, telling me that my phone might only work 10% better if they replace the battery.
+
+This story is about to get really anticlimactic.
+
+So she tells me to come back in an hour. I come back in an hour. They’ve replaced my battery. I charge it to 100%. It works perfectly. The end.
+
+But really, I felt like something fishy was happening, and I’m not sure what or why? *Do* they work on commission or something? Has this happened to anyone else? I did a search on this sub and saw that people have had situations where they’ve gone to get a battery replaced and it turns out the battery wasn’t replaced. But has anyone had their tech support person try to push them to buy a new phone? Man, I haven’t had this level of passive-aggressive retail since I went wedding dress shopping.",91,218,2019-05-19,AAPL,0.06737779825925827,0.9006088972091675,0.032013341784477234
+AppleWatch,[Question] Virtual Pets,Are there any virtual pet games (Not fitness driven) updated for the latest WatchOS? All the ones I’m finding (including paid) are outdated.,38,178,2019-05-19,AAPL,0.026157233864068985,0.9201792478561401,0.05366349592804909
+apple,"[Discussion] Considering the hefty price tag on many of Apple's products, do you feel Apple should bump up included iCloud storage space? Say, 5GB per device instead of 5GB per user?","I have a 15"" MacBook Pro, 12.9"" iPad Pro, and will add an iPhone + Apple Watch later this year. Many of these devices have, and will have apps with options to backup to iCloud to ensure proper syncing between them all.
+
+The problem is, we are given 5GB of storage per account. This forces me to delete app data to allow room for other apps. I wouldn't exactly consider myself a power user either. Now I know what you're thinking: 50GB is only $12 a year, but I feel that is beside the point. 
+
+Would it be wrong to expect a bit more considering all the money I've given them? At the very least, 5GB of storage per device owned?
+
+I'd love to hear all of your thoughts.",163,168,2019-05-19,AAPL,0.028409995138645172,0.9330140352249146,0.038575947284698486
+iphone,I am addicted to settings apparently...,[deleted],16,161,2019-05-19,AAPL,0.04555143788456917,0.8389953970909119,0.11545316874980927
+iphone,Best feeling ever,,339,5281,2019-05-20,AAPL,0.040336232632398605,0.8447478413581848,0.11491595208644867
+apple,An extremely underrated feature of the X series,"One very underrated yet amazing, quality of life feature that not a lot of people seem to talk about with the 10 series of iPhones, is the fact that notifications and phone calls alike are significantly lowered in volume/muted when the phone knows that it has your attention. Before, whenever one would get a notification on previous iPhones, the phone would ring out at whatever volume the user had it set to. So, if the volume was on maximum, then they and everyone else around them would get blasted by a text or email chime. 
+
+Now, with the help of Face ID, the iPhone X/S/R know exactly when you’re looking at it and in turn, delivers notifications in a much quieter and less obnoxious manner. Even when one isn’t looking at their phone and they get a call for example, the second that they put their eyes on the phone, it quiets itself down. It’s almost as though the device is saying, “oops, sorry, I didn’t mean to yell, but you have a call coming in.” 
+
+It’s honestly something so small, and yet makes a world of a difference when using these phones day to day, and has become one of my favorite features. Again, quality of life stuff that just makes the ten series a pleasure to use.
+
+EDIT: I just started using an XS Max 256 GB really only a few days ago, so my apologies if this has already been discussed beforehand. I just thought that was so cool, haha.",199,3199,2019-05-20,AAPL,0.13631413877010345,0.8334513902664185,0.030234485864639282
+mac,10 year challenge - the two 12's,,89,1446,2019-05-20,AAPL,0.035664722323417664,0.8608801364898682,0.10345517843961716
+iphone,"TIL you can send your current location through iMessage by typing ""I'm at """,,98,1305,2019-05-20,AAPL,0.04434923455119133,0.933903694152832,0.021747037768363953
+apple,Apple TV App now available on Samsung Smart TVs as a part of Apple and Samsung's new partnership,,131,1111,2019-05-20,AAPL,0.013149932026863098,0.8944618701934814,0.09238818287849426
+apple,"After mocking Apple over 5G, Huawei has now lost Qualcomm and other top technology suppliers",,171,809,2019-05-20,AAPL,0.024278799071907997,0.9113427996635437,0.06437842547893524
+iphone,What is the dark patches,,92,763,2019-05-20,AAPL,0.09442158043384552,0.8660098910331726,0.03956860676407814
+ipad,Day 42. They still suspect nothing,,77,652,2019-05-20,AAPL,0.2661744952201843,0.6604475378990173,0.07337800413370132
+apple,Apple Watch replacement constraint means some Series 3 repairs will get Series 4 upgrade,,244,554,2019-05-20,AAPL,0.13623762130737305,0.7719905376434326,0.09177186340093613
+apple,"iCloud outage (Messages on Mac, Find My iPhone via web/icloud.com)?","Anyone experiencing an outage today?
+
+Apple's support/outage page is delayed.
+
+""Everything is awesome, everything is fine!""
+
+\-Tim ""Emmet"" Cook.",155,539,2019-05-20,AAPL,0.019466090947389603,0.917427122592926,0.0631067305803299
+iphone,Is it though?,,172,6271,2019-05-21,AAPL,0.05762407183647156,0.7818115949630737,0.16056428849697113
+apple,Apple made informal bid to buy Tesla at $240 per share in 2013,,525,3898,2019-05-21,AAPL,0.01888614147901535,0.8882518410682678,0.09286203980445862
+apple,"Apple introduces first 8-core MacBook Pro, the fastest Mac notebook ever",,1282,2108,2019-05-21,AAPL,0.01392030157148838,0.8812214732170105,0.10485820472240448
+iphone,My 4s phones screen got stuck,,101,1023,2019-05-21,AAPL,0.3734448552131653,0.5517485737800598,0.07480651140213013
+apple,"Health Canada Approves Apple Watch ECG App, Hinting Launch Imminent",,63,1005,2019-05-21,AAPL,0.016509264707565308,0.8919955492019653,0.09149521589279175
+mac,Just discovered this useful little feature in macOS finder!,,69,942,2019-05-21,AAPL,0.02941391058266163,0.9078566431999207,0.06272950768470764
+AppleWatch,Today was the reason I got my Apple Watch,"I got my Apple Watch about a year ago.  I mainly got it for running, so I can listen to music without my phone.  Being able to make a phone call without my phone was also nice because I run alone.
+
+Today on a my 4 mile route my foot landed awkwardly on the sidewalk and I went down.  I couldn’t put weight on my ankle and I am pretty scraped up.  I was able to call my wife who came and picked me up.   The ability to call my wife when I needed help made the price worth it.
+
+One trip to the ER later, it a nasty sprain but other than that I’m fine.",99,934,2019-05-21,AAPL,0.08905021846294403,0.8610436916351318,0.04990613833069801
+mac,"My 2019 iMac, just over a month in",,163,914,2019-05-21,AAPL,0.06832179427146912,0.8549054265022278,0.0767727717757225
+apple,"Apple tweaks its troubled MacBook keyboard design, expands repair program",,406,760,2019-05-21,AAPL,0.029274897649884224,0.9351869225502014,0.03553816303610802
+AppleWatch,CARROT Weather's supercharged notifications update,,311,660,2019-05-21,AAPL,0.03761393576860428,0.9123567938804626,0.05002927407622337
+iphone,This Huawei thing has gone too far now ffs,,88,3632,2019-05-22,AAPL,0.09905032068490982,0.7984266877174377,0.10252296924591064
+mac,This made me chuckle..,,47,2076,2019-05-22,AAPL,0.030966894701123238,0.9327674508094788,0.03626568242907524
+apple,Apple Sends Out Media Invites for WWDC Keynote on June 3,,305,1493,2019-05-22,AAPL,0.03143329918384552,0.9402058720588684,0.028360867872834206
+apple,Even Huawei propagandists attacking Apple over Trump ban tweet from the iPhone,,1,1439,2019-05-22,AAPL,0.06050695478916168,0.8920918107032776,0.04740118980407715
+iphone,Didn’t know spotlight can convert units,,108,1395,2019-05-22,AAPL,0.03210846707224846,0.927166759967804,0.0407247468829155
+AppleWatch,"Sometimes it feels like the SS Gold Watch doesn’t look good with any of my bands, but then I do things like this",,51,1201,2019-05-22,AAPL,0.15610788762569427,0.8035383820533752,0.0403536818921566
+mac,First Mac! Been an Iphone user since the 4S but I finally got my hands on my dream laptop.,,127,1106,2019-05-22,AAPL,0.0208300594240427,0.8682193160057068,0.11095067858695984
+iphone,The ability to change the icon in the WWDC iOS app must mean a dark mode with customizable colour accents is coming,,91,910,2019-05-22,AAPL,0.03555934876203537,0.9355422854423523,0.028898397460579872
+ipad,me_irl,,22,527,2019-05-22,AAPL,0.042108725756406784,0.9216290712356567,0.0362621508538723
+apple,Chinese media says it’s now ’embarrassing’ to use an iPhone in China,[deleted],261,468,2019-05-22,AAPL,0.04975587874650955,0.9193017482757568,0.030942410230636597
+iphone,Throwback: Back when you didn’t need a Pop Socket or kickstand to hold up your phone.,,262,4499,2019-05-23,AAPL,0.044399093836545944,0.9169714450836182,0.03862946107983589
+apple,Snapchat Employees Abused Data Access to Spy on Users,,221,2187,2019-05-23,AAPL,0.7583274841308594,0.2253757119178772,0.01629680022597313
+apple,"Apple is in talks with Samsung for OLED screens for future 16"" Macbook Pro and also iPads",,283,1536,2019-05-23,AAPL,0.015205473639070988,0.9118427038192749,0.07295183092355728
+mac,A B S O L U T E U N I T,,165,1519,2019-05-23,AAPL,0.054589465260505676,0.9042024612426758,0.041208136826753616
+apple,71% of College Students Prefer Macs Over PCs According to Jamf Survey,[deleted],780,1482,2019-05-23,AAPL,0.03926032409071922,0.8978142738342285,0.06292542815208435
+apple,Good Vibrations: How Apple Dominates the Touch Feedback Game,,196,1446,2019-05-23,AAPL,0.012776539660990238,0.7383325695991516,0.2488909363746643
+apple,"Man pleads guilty to conning Apple out of 1,493 iPhones",,67,392,2019-05-23,AAPL,0.03213915228843689,0.8841650485992432,0.08369579166173935
+ipad,Made the upgrade,,35,354,2019-05-23,AAPL,0.0320306159555912,0.8928318619728088,0.07513747364282608
+mac,Is there a way to sort these by name like in my applications folder?,,79,329,2019-05-23,AAPL,0.024279341101646423,0.9320855736732483,0.04363507032394409
+apple,"Answer from the former Apple Watch design lead to ""What Apple Watch design alternatives do you wish had made it into the final product?""",,102,317,2019-05-23,AAPL,0.015428771264851093,0.9047079682350159,0.07986327260732651
+iphone,I made my own iPhone 5 in April. Today I changed the red buttons (buttons of the custom red case) to space grey buttons. It took hours and it was hard. I want to know that if it looks good or bad. So I tought I should share this.,,386,3891,2019-05-24,AAPL,0.1172569990158081,0.8362573385238647,0.04648565128445625
+iphone,Oh now you’re just teasing us..,,185,3119,2019-05-24,AAPL,0.08938908576965332,0.7470771670341492,0.16353383660316467
+apple,iOS13 Concept design.,,326,2668,2019-05-24,AAPL,0.025212092325091362,0.9356502890586853,0.03913770243525505
+AppleWatch,Given my OG Rose Gold Apple Watch Edition a new lease of life with Clockology app. The retro Casio Face makes it look old school whilst giving it a new leave of life,,87,990,2019-05-24,AAPL,0.018170906230807304,0.8677250742912292,0.11410406976938248
+mac,"Today I learned you can enter split fullscreen mode by long-clicking the green maximise button, and not only by dragging windows at one other in Mission Control",,95,899,2019-05-24,AAPL,0.03709132969379425,0.9262160062789917,0.03669261187314987
+mac,A long awaited upgrade has finally arrived. Im so happy,,87,687,2019-05-24,AAPL,0.017165087163448334,0.34980520606040955,0.6330296993255615
+AppleWatch,TermiWatch with my Hackintosh 🤓⌚️,,84,649,2019-05-24,AAPL,0.04987356439232826,0.9226250052452087,0.027501413598656654
+iphone,iPhone 4 running iOS 6,,52,624,2019-05-24,AAPL,0.016691606491804123,0.9101526141166687,0.07315583527088165
+apple,Apple’s keyboard ‘material’ changes on the new MacBook Pro are minor at best,,300,412,2019-05-24,AAPL,0.029985621571540833,0.9294049143791199,0.04060942307114601
+apple,"Apple removes Clicker Heroes worldwide after Chinese company cloned, trademarked, and requested takedown.",,103,369,2019-05-24,AAPL,0.0418408140540123,0.9168452620506287,0.04131394624710083
+iphone,Black and gold...you either love it or hate it,,225,4411,2019-05-25,AAPL,0.03808044269680977,0.9105851054191589,0.051334451884031296
+apple,the 2019 macbook pro is perfect,,596,2518,2019-05-25,AAPL,0.023382190614938736,0.9053570032119751,0.07126075774431229
+apple,My Apple Watch allowed me to record something so precious and invaluable from my ill grandfather,"My grandfather had a stroke a week ago and has since ended up with pneumonia, doctors are doing their best to keep him with us until all the family arrives in the country tomorrow to visit him one last time.
+
+While seeing him yesterday I remembered about the digital touch ""heartbeat"" feature.
+
+I placed my watch on his wrist and sent his heartbeat as a digital touch message to myself.
+
+Technology has never meant much to the rest of my family at all generations until I showed them all what was now on my watch, seeing the expression and emotion on their faces as I played it back on each of their wrists was almost as invaluable.
+
+If at all possible I want to create a backup of this for safe keeping, does anyone know if there is a way of doing this?",92,2120,2019-05-25,AAPL,0.0399528332054615,0.9045284986495972,0.05551870912313461
+mac,"During spring cleaning, found this gem down in the basement and booted right up!! Not bad for a 31 year old computer!",,49,1491,2019-05-25,AAPL,0.2722107768058777,0.6304441690444946,0.09734507650136948
+mac,Says it all: Best MacBook Pro alternative is a MacBook Pro!,,117,754,2019-05-25,AAPL,0.02386975660920143,0.9357284307479858,0.04040176793932915
+AppleWatch,Any devs that could make a version of this for the Apple Watch here??,,30,414,2019-05-25,AAPL,0.014894054271280766,0.9142916798591614,0.07081431150436401
+AppleWatch,I love this band. A bargain at 29 eur.,,52,343,2019-05-25,AAPL,0.04788270592689514,0.8477353453636169,0.10438202321529388
+apple,"Angela Ahrendts on Apple Retail Criticism: 'I Don't Read Any of it, and None of it is Based on Fact'",,146,336,2019-05-25,AAPL,0.07065727561712265,0.9043251872062683,0.025017542764544487
+ios,Apple appstore ecosystem,[deleted],8,301,2019-05-25,AAPL,0.1171579360961914,0.8404766917228699,0.04236536845564842
+apple,"30-plus years of HyperCard, the missing link to the Web. Before the World Wide Web did anything, HyperCard did everything.",,29,262,2019-05-25,AAPL,0.03192964196205139,0.9323683977127075,0.035701949149370193
+iphone,My grandma is still getting used to her new wireless charger,,85,4259,2019-05-26,AAPL,0.014928799122571945,0.8296846747398376,0.15538658201694489
+mac,Every programmer with a macbook,,202,3127,2019-05-26,AAPL,0.022160790860652924,0.923760712146759,0.05407857149839401
+apple,"China could hurt Apple profits by 29% if it avenged the Huawei ban, says analyst",,445,2609,2019-05-26,AAPL,0.7737428545951843,0.19128713011741638,0.034970007836818695
+apple,"Justin Long says Steve Jobs rejected some ""I'm a Mac"" ads because they were too funny",,104,1766,2019-05-26,AAPL,0.5582042932510376,0.3964992165565491,0.04529641941189766
+AppleWatch,Thief in Malaga took my phone and I caught him with Apple Watch PING,"I was at the airport and left my phone in the toilet. The man who came out looked at me and I said ""I left my phone"".  
+
+
+He just kept walking, instantly I thought ""PING YOUR PHONE""
+
+  
+As I pinged it, I it beeping on him as he walked away.  
+
+
+I stopped him again, and politely said ""I think my phone fell in your bag""
+
+  
+He said, ""NO IT DIDNT""
+
+  
+I kept pinging my phone.  
+
+
+He kept walking toward the airport exit.  
+
+
+I got in front of him and said, ""LISTEN, CANT YOU HEAR THE PING""
+
+&amp;#x200B;
+
+He looked at me and said No.  
+
+
+Finally I saw a airport employee and said ""This man has my phone""
+
+&amp;#x200B;
+
+He man was very upset and told me to call the police he didn't have it and he showed me inside his bag.  
+
+
+I could still hear the PING.  
+
+
+Finally I pulled up his shirt and my phone was under his belt.  
+
+
+I pointed at it and made my watch PING it again.  
+
+
+He looked at me and turned white.  
+
+
+I grabbed my phone and said, ""Your a thief, and a liar""  
+
+
+I was really shook up, but managed to sit down and relax and think about how different this could have been.",118,1500,2019-05-26,AAPL,0.06725498288869858,0.9040204286575317,0.028724564239382744
+iphone,Not my phone but thought I’d share my Apple Watch face.,,56,1314,2019-05-26,AAPL,0.025396227836608887,0.9350505471229553,0.03955317661166191
+iphone,"It isn’t the most groundbreaking feature, but it’s a nice touch (iOS 12.2)",,79,1220,2019-05-26,AAPL,0.009905639104545116,0.8707013726234436,0.11939295381307602
+mac,MacBook Pro 4K,,59,929,2019-05-26,AAPL,0.022503018379211426,0.9137007594108582,0.0637962743639946
+apple,Back in early 2011 I made a looping animation of the 360° spin view of devices seen on Apple's product pages. Here they are in webm form!,"Remember when Apple's website had this showcase? Those were the days.
+
+[iPhone 4, black](https://gfycat.com/VigorousMeekBanteng)
+
+[iPhone 4, white](https://gfycat.com/PlainDelightfulIrishwolfhound)
+
+Bonus: [other iPhone 4 images](https://imgur.com/a/K7ZGpUz)
+
+[iPad](https://gfycat.com/ImpracticalInformalBunny)
+
+[iPod Classic](https://gfycat.com/DiligentTheseBobolink)
+
+[iPod Shuffle](https://gfycat.com/RepulsiveJoyfulDunlin)
+
+[iPod Touch](https://gfycat.com/BlondAcrobaticCondor)
+
+They are 60 fps. If you're on desktop you can slow it down to 0.5x speed.
+
+I also have the individual frames of the iPod Nano and MacBook spinning but strangely no animation.
+
+Edit: would anyone like to...give it a spin? (pun intended) [I'll upload the individual frames to Google Drive](https://drive.google.com/drive/folders/1T8SQXXIR_Zo7n03VghE2-KNVT_kmqp4R?usp=sharing) 
+
+I put them together in Flash CS4.
+
+Edit 2: Rookie mistake on my part, it's come to my attention that Safari on Mac and iOS don't support webm, RIP
+
+I uploaded and previewed them on Chrome for Windows. They should still play fine as MP4 on Apple devices. (a bit ironic though)",80,705,2019-05-26,AAPL,0.050194889307022095,0.9174251556396484,0.032379988580942154
+ios,"A week until WWDC19, boys! (And girls)!",,87,577,2019-05-26,AAPL,0.04384739696979523,0.9211245775222778,0.035027991980314255
+iphone,And that’s a ducking fact,,129,5042,2019-05-27,AAPL,0.04672218859195709,0.9089500308036804,0.04432777315378189
+apple,Apple Expected to Remove 3D Touch From All 2019 iPhones in Favor of Haptic Touch,,730,3021,2019-05-27,AAPL,0.5141552686691284,0.4675472676753998,0.018297487869858742
+apple,Huawei CEO says China shouldn't punish Apple,,471,2949,2019-05-27,AAPL,0.18460774421691895,0.7465665936470032,0.06882569193840027
+iphone,The little red thingy,,50,1924,2019-05-27,AAPL,0.042710404843091965,0.899206817150116,0.05808277055621147
+apple,Report: iPhone 11 could let users send music to two Bluetooth devices at the same time,,257,1591,2019-05-27,AAPL,0.012436518445611,0.8942781686782837,0.09328528493642807
+iphone,My disassembled original iPhone,,68,1436,2019-05-27,AAPL,0.02617138996720314,0.9396188259124756,0.034209735691547394
+mac,Should've seen it coming,,34,1384,2019-05-27,AAPL,0.04784504696726799,0.8979682326316833,0.05418672785162926
+mac,Finally im also a Macbook owner :),,177,1295,2019-05-27,AAPL,0.02826032042503357,0.9038065075874329,0.06793313473463058
+AppleWatch,"On the bright side, it’s summertime so I can always just work more",,137,741,2019-05-27,AAPL,0.046317894011735916,0.8880831003189087,0.06559905409812927
+iphone,What a GameChanger!,,77,704,2019-05-27,AAPL,0.051198385655879974,0.8929489254951477,0.05585267022252083
+apple,"Apple releases new iPod touch featuring A10 Fusion chip, 256 GB storage option",,1309,5737,2019-05-28,AAPL,0.012062455527484417,0.6737965941429138,0.3141409158706665
+iphone,"After 5 years in storage, I decided to see if my iPod (which was water damaged 5 years ago) would work - it TURNED ON!",,164,2354,2019-05-28,AAPL,0.027640696614980698,0.8329377770423889,0.1394215077161789
+mac,“An empty desk is a sign of a cluttered drawer” - Mark Twain,,56,1734,2019-05-28,AAPL,0.10904450714588165,0.833242654800415,0.05771283432841301
+ipad,"My girlfriend made a bag especially for my iPad and my Apple Air Pods. When I told her that I would post a photo of it on Reddit, she teared up, because she could not imagine that I am so happy about her work.",,104,1645,2019-05-28,AAPL,0.023257382214069366,0.8802946209907532,0.09644804149866104
+iphone,"Exclusive: Screenshots reveal iOS 13 Dark Mode, new Reminders app, more",,326,1577,2019-05-28,AAPL,0.022324351593852043,0.9367730617523193,0.04090259596705437
+apple,"Exclusive: Screenshots reveal iOS 13 Dark Mode, new Reminders app, more",,435,1060,2019-05-28,AAPL,0.022324351593852043,0.9367730617523193,0.04090259596705437
+mac,"Spent some time performing a HDD-&gt;SSD swap today, best 2 hours I’ve ever spent!",,103,1032,2019-05-28,AAPL,0.019928086549043655,0.8560386896133423,0.12403324991464615
+AppleWatch,The WWDC app complication adds a countdown to the keynote on the infograph face,,78,866,2019-05-28,AAPL,0.04055542126297951,0.9336174726486206,0.025827106088399887
+AppleWatch,[Discussion] You can re add yourself to a group chat by texting it from your Apple Watch,,43,543,2019-05-28,AAPL,0.023163126781582832,0.92918461561203,0.04765221104025841
+apple,New iPod touch delivers even greater performance,,181,360,2019-05-28,AAPL,0.01138230413198471,0.05032988265156746,0.9382877945899963
+apple,My MacBook Pro exploded and burst into flames,"Yesterday afternoon my MacBook Pro exploded during normal use. It was on my lap, plugged in, and suddenly started to spew smoke out both sides. I quickly placed it on the floor where it popped, the smoke increased, and it caught fire. Toxic smelling smoke filled my house triggering smoke and CO alarms. No one was injured, thankfully, but there was some damage to my home. The situation could have been much worse - imagine if I had been on a plane.
+
+&amp;#x200B;
+
+I went inside and was able to remove the computer to the porch using gloves (it was scalding hot). Below is a short video taken when I re-entered the house a few minutes after the explosion. After it cooled for an hour or so, I took it to the local Apple store in a rage. They understood the severity of the situation but said nothing could be done until it spent 24 hours in a fire-proof safe and that they'd call me with a plan/update.
+
+&amp;#x200B;
+
+They did not call. I reached out today and was told it had been ""escalated"" and I should hear something within FIVE days. I produce music for a living - FIVE days without my computer is unacceptable. It seemed like a worthwhile piece of information to share with the world, so there you have it.
+
+&amp;#x200B;
+
+EDIT: the explosion was yesterday afternoon. earlier version said ""this afternoon"" and had people confused about timeline. apologies.
+
+EDIT: For those speculating that my music caused the explosion, you can listen here: https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety?si=ivcbXEKVTj6qn4hPPLvBdw
+
+https://reddit.com/link/bulbhv/video/qxi86sk0a8131/player",1223,4828,2019-05-29,AAPL,0.11185608059167862,0.8602820038795471,0.027861982583999634
+apple,NYC subway riders will be able to swipe in with Apple Pay starting Friday,,521,3544,2019-05-29,AAPL,0.027418913319706917,0.9299986958503723,0.042582377791404724
+mac,You can skip ads on YouTube with a MacBook TouchBar,,335,2566,2019-05-29,AAPL,0.047560423612594604,0.927573025226593,0.024866553023457527
+iphone,Going through my photos and apparently I took screenshots of my snoozes a few times last month,,111,2091,2019-05-29,AAPL,0.052101753652095795,0.9151728749275208,0.03272540494799614
+AppleWatch,Apple Watch has an icon for the new Powerbeats Pro,,55,1115,2019-05-29,AAPL,0.030637120828032494,0.7573248147964478,0.21203814446926117
+ipad,If you told me 20 years ago that I could play RollerCoaster Tycoon anywhere without a Gateway computer I would call you crazy,,104,967,2019-05-29,AAPL,0.032108988612890244,0.9310653209686279,0.036825742572546005
+iphone,Apple needs to release an Animoji Studio to play with. Being stuck in messages I feel is reducing the number of people whom use it,,56,641,2019-05-29,AAPL,0.0912727415561676,0.8711588382720947,0.03756845369935036
+apple,An iOS 13 concept I can really get behind. Everything based on one handed usability,,109,432,2019-05-29,AAPL,0.025094343349337578,0.9283571243286133,0.04654849320650101
+apple,Exclusive screenshots reveal new Music and TV apps on macOS 10.15,,145,407,2019-05-29,AAPL,0.013385043479502201,0.8826723098754883,0.10394265502691269
+iphone,I made Printable ScrewMat for iPhone 8+ (PDF in comments *5950 × 8420*),,36,406,2019-05-29,AAPL,0.05827335640788078,0.9039149284362793,0.037811748683452606
+iphone,My mom just upgraded from the iPhone 6 to the iPhone 7. She’s about to be really disappointed.,,509,6554,2019-05-30,AAPL,0.01700049266219139,0.7408949136734009,0.24210460484027863
+iphone,Bought a refurbed XR from Amazon for my son and decided to make the presentation a bit nicer.,,224,4745,2019-05-30,AAPL,0.02722596935927868,0.863314151763916,0.10945989936590195
+apple,"Apple, Google and WhatsApp condemn GCHQ proposal to eavesdrop on encrypted messages",,197,1472,2019-05-30,AAPL,0.03813563659787178,0.9230633974075317,0.03880095109343529
+apple,"Apple WWDC 2019: Mac Pro, iOS 13, Marzipan, and what to else to expect.",,473,994,2019-05-30,AAPL,0.0340750589966774,0.9272283315658569,0.03869656100869179
+AppleWatch,I don’t know when it showed up but I love the new update with the PoGo Watch app that shows you which Pokémon is nearby.,,50,764,2019-05-30,AAPL,0.017415691167116165,0.9149532318115234,0.06763099879026413
+ipad,I did it! I bought the beast! Holy wow I’m pumped to start drawing on it.,,99,619,2019-05-30,AAPL,0.03176745027303696,0.8608015775680542,0.10743098706007004
+iphone,A friend of mine who doesn’t know technology that well gave me his old iPhone 4 running iOS 5 for $10,[deleted],113,491,2019-05-30,AAPL,0.02377110905945301,0.8823274374008179,0.09390145540237427
+AppleWatch,Apple Fall Alert Well Worth The Money,"I just had to rave about the fall alert today on my Apple Watch, which was a feature I honestly never thought I’d use, besides maybe telling it, yeah I fell, but I’m fine. I’m just a klutz that way.
+However, today I was out in my backyard moving old wood and pulling weeds while my three year old played along side me. 
+I was trying to get it done quickly, so I possibly ignored the fact that it was hot and I needed more water then I was drinking, or maybe I just stood up from a bent over position too fast, but I remember looking at my daughter across our yard and trying to say something, then it was as if the edges of the world zoomed in and the next thing I know is i have a mouthful of dirt and grass and my daughter is screaming and crying my name above me while yanking on my hair. 
+It was incredibly disorienting, almost like you blink and the scene drastically changes without any warning. 
+Then through all this, while I’m trying to sort out what the hell just happened, I hear a voice asking if anyone can hear her, then my watch giving what I think was gps coordinates. 
+Apparently I was out about three minutes, or at least three minutes since 911 picked up. 
+Paramedics arrived not too long after and I managed to get my poor distraught daughter calmed down before they even arrived. 
+Honestly I’m fine, didn’t even take the ride to the hospital or get a bump on my head. 
+However, this has made me a huge fan of my Apple Watch! Like an incredibly super big shout from the roof top kind of fan! 
+I keep coming back to what if’s. Those are my reasons for being so much in love with this watch now. 
+No one knew where I was, meaning no one knew where my three year old was. 
+I don’t live close enough to neighbors for them to hear her and our backyard is completely fenced so no one could even see us. What if I hadn’t woken up, just how long would it had been before anyone had found us? 
+It makes me shudder just thinking about it. Especially considering how scared she was when I woke up. 
+Thankfully that wasn’t the case and overall it was just an incredibly embarrassing situation, but it’s seriously awesome to know that if something ever did happen or if I hadn’t woken up earlier, help would have still found us! 
+That alone made buying my watch worth it!",95,437,2019-05-30,AAPL,0.05365108698606491,0.9071851968765259,0.0391637422144413
+apple,Have any of you used the “Measure” app after the first week of having iOS12 installed?,"I think I showed it to people, but never really put it to practical use. Just wondering if it’s sitting far away in a folder like mine or if you actually use it",142,407,2019-05-30,AAPL,0.04661420360207558,0.9110591411590576,0.042326707392930984
+apple,Apple Pay Express Transit in London is on the way,,48,386,2019-05-30,AAPL,0.030754828825592995,0.9266366362571716,0.04260847717523575
+apple,Apple increases iPhone cellular download limit from 150 MB to 200 MB,,572,4356,2019-05-31,AAPL,0.050179123878479004,0.7107234597206116,0.23909737169742584
+iphone,Looking for some feedback on my camera dongle idea,,419,4311,2019-05-31,AAPL,0.028996795415878296,0.9141466021537781,0.056856609880924225
+iphone,Celebrate! Today is one of 7 days each year where Google Calendar’s iOS app icon is correct! 🙄,,123,3203,2019-05-31,AAPL,0.014196534641087055,0.8513458967208862,0.13445760309696198
+apple,iTunes Expected to Be Retired After Over 18 Years,,653,2588,2019-05-31,AAPL,0.0912572592496872,0.8804100751876831,0.028332630172371864
+AppleWatch,Found a tucked away Midnight fog loop at target for $10! Thank god i tagged along with the GF.,,74,1080,2019-05-31,AAPL,0.02152237482368946,0.8159059286117554,0.16257169842720032
+apple,"Rambo, who recently leaked screenshots of iOS 13 and macOS 10.15, has his hands on the iOS 13 SDK",,145,961,2019-05-31,AAPL,0.018694283440709114,0.9143338203430176,0.06697186827659607
+mac,Finally bumped the RAM on my 2012 MBP. Hoping to get another few years out of it!,,127,714,2019-05-31,AAPL,0.013645214028656483,0.7322199940681458,0.25413477420806885
+apple,"Guy tries to sell me iPhone X, I find out phone is not paid off, he claims it's no big deal...just a reminder to always check IMEI when purchasing used","I've been searching for a used iPhone X (switched to Android 2 months ago, I hated it, and going back to iPhones). Found this one locally, and paid. The ad showed it was a clear phone, but on AT&amp;T network which would have been fine with me. No IMEI listed, however it was a good price and bought it so no one else would grab it. He sent me the IMEI afterwords. I checked AT&amp;T's website ([https://www.att.com/deviceunlock](https://www.att.com/deviceunlock)) and it shows phone is not paid off. He claims it's no big deal, however if the person who bought it eventually stops making payments (or already has), or if the prior owner reports it stolen (I don't know where this ebay seller got the phone, he could have bought it off Craigslist for all I know) I could have had a bricked iPhone. Luckily he refunded immediately. Communications below were on my work phone.
+
+**EDIT:**
+
+Christ. I get it and I knew that I would not have been responsible for the balance. The original purchaser would have been. I also understand AT&amp;T apparently does not blacklist phones for non-payment (which I am still getting alternate answers about). I still didn't want to buy a phone that was not completely paid off at time of purchase. Everyone saying 'you should have just bought it, you fucked up'. F that noise. If I'm spending a few hundred dollars on a phone (used or otherwise) I want to make sure I am minimizing any potential issues. What if I bought the phone, then he (or the actual owner) calls it in stolen in order to get a refund or file an insurance claim? I don't know where the seller got the phone, maybe he bought off someone on Craigslist yesterday and that person will file a stolen report.
+
+As I stated in the title ""just a reminder to always check IMEI"". It does not mean the phone will be 100% (the seller could stop payments right after selling you a phone), but it does mean that buyers should do their homework when buying a phone used.
+
+https://i.redd.it/zmljqxsbrl131.png
+
+https://i.redd.it/vl01f1tbrl131.png
+
+https://i.redd.it/vo2mf1tbrl131.png
+
+https://i.redd.it/fvgehwsbrl131.png",149,708,2019-05-31,AAPL,0.17512132227420807,0.8029568195343018,0.02192184142768383
+apple,Publix Has Begun to Enable Contactless (Apple Pay) at Their Stores,,123,609,2019-05-31,AAPL,0.046148523688316345,0.9283173680305481,0.02553415670990944
+apple,Apple releases AirPort Base Station Firmware Updates 7.9.1,,70,470,2019-05-31,AAPL,0.03627213463187218,0.9243640303611755,0.03936390578746796

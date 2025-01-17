@@ -1,0 +1,576 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+apple,Watch live as Apple and the FBI make their cases to Congress,,143,616,2016-03-01,AAPL,0.0502224899828434,0.9200071096420288,0.02977047860622406
+iphone,"Federal judge rules Apple cannot be forced to aid in NY iPhone unlocking, cites 'unreasonable burden'",,21,429,2016-03-01,AAPL,0.6629732847213745,0.3133823275566101,0.02364443428814411
+apple,FBI Director Comey Admits ‘Mistake Made’ in Changing Apple Password,,47,327,2016-03-01,AAPL,0.4117799699306488,0.5207619071006775,0.06745811551809311
+apple,Macs will be able to stream PS4 games over Wi-Fi!,,175,314,2016-03-01,AAPL,0.016378464177250862,0.9190176129341125,0.06460391730070114
+apple,Apple Wins Patent for Flexible OLED iPhone Display,,92,229,2016-03-01,AAPL,0.01463303342461586,0.7349306344985962,0.25043630599975586
+apple,Apple Seeds Fifth Beta of iOS 9.3 to Developers,,89,202,2016-03-01,AAPL,0.01278402004390955,0.8692176342010498,0.11799837648868561
+iphone,Apple releases iOS 9.3 beta 5 for developers,,55,161,2016-03-01,AAPL,0.019894907251000404,0.9277754426002502,0.05232960358262062
+apple,"My wish for iOS 10: Video recording defaults to landscape, even if phone is held portrait",,104,150,2016-03-01,AAPL,0.014078202657401562,0.8568265438079834,0.12909522652626038
+AppleWatch,Second perfect month. Down 40 pounds.,,36,146,2016-03-01,AAPL,0.12230277061462402,0.8131752610206604,0.0645219162106514
+iphone,My iPhone overestimates my trucks capabilities,,31,140,2016-03-01,AAPL,0.027643747627735138,0.920464277267456,0.0518919862806797
+apple,Apple asks the FBI: How hard did you really try to hack into the iPhone?,,179,1057,2016-03-02,AAPL,0.035045914351940155,0.9275113940238953,0.037442632019519806
+apple,Congressman Suggests FBI Is Taking Advantage of San Bernardino Tragedy to Push Agenda,,44,832,2016-03-02,AAPL,0.039053983986377716,0.8128471970558167,0.14809882640838623
+apple,Text selection on iOS has become extremely frustrating,"Feel free to correct me if I'm doing it wrong. I am constantly struggling to select text in iOS, for example. There's a quote I want to select in safari so I tap the start and it selects the first word no problem, then I go to drag the selection and suddenly the entire paragraph is selected, then I have to try and work my way back by unselecting and eventually I end up just writing out the quote.
+
+Edit: Please also let Apple know and express your frustration here http://www.apple.com/feedback/iphone.html",155,763,2016-03-02,AAPL,0.20632043480873108,0.7703955769538879,0.023283973336219788
+iphone,iOS 9.3 makes it abundantly clear if your work iPhone is being tracked by your employer,,132,730,2016-03-02,AAPL,0.02211732044816017,0.8801770806312561,0.09770553559064865
+apple,John McAfee better prepare to eat a shoe because he doesn’t know how iPhones work,,116,396,2016-03-02,AAPL,0.04023868963122368,0.9215617775917053,0.03819958493113518
+apple,"WSJ Editorial Board: Apple Is Right on Encryption. The FBI doesn’t want merely one phone, and its warrant is legally suspect.",,13,350,2016-03-02,AAPL,0.02978036180138588,0.9420021176338196,0.028217537328600883
+apple,"Congress tells FBI that forcing Apple to unlock iPhones is 'a fool's errand': ""Legislators accuse Justice Department of overreaching and undermining privacy but warn Apple it's 'not going to like' a congressionally mandated solution""",,17,222,2016-03-02,AAPL,0.44536465406417847,0.5241767764091492,0.03045855462551117
+apple,Oculus' Palmer Luckey will consider Mac support if Apple 'ever releases a good computer',,238,108,2016-03-02,AAPL,0.015131580643355846,0.7699907422065735,0.2148776352405548
+apple,iOS 9.3 beta 5 changes for supervised devices - More prominent notices,"http://imgur.com/a/Eb4yJ
+
+Apple have made changes to supervised devices to include a message on the lockscreen, and also changed the message shows in Settings &gt; General &gt; About.
+
+**Edit:** Testing on another iPhone to see if the message appears when connected to MDM or supervised. Will report back shortly.
+
+**Edit 2:** Hi 9to5Mac! 
+
+**Edit 3:** I've seen a few people asking for the wallpaper source. I got it from this great dump: http://imgur.com/gallery/YGHnC
+
+**Edit 4:** I've checked. This appears ONLY if your phone is supervised. Being connected to an MDM is not enough. That said, it's still new, and I personally think Apple should make it appear for MDM's too.",34,98,2016-03-02,AAPL,0.0586804561316967,0.9075483083724976,0.03377119451761246
+apple,At Congressional Hearing Apple Says 'The World is Watching' iPhone Unlocking Battle,,1,75,2016-03-02,AAPL,0.015803983435034752,0.746907651424408,0.23728832602500916
+apple,U.S. Secretary of Defense on Apple encryption: 'I'm not a believer in backdoors',,76,1193,2016-03-03,AAPL,0.06958246976137161,0.884706437587738,0.045711059123277664
+iphone,"Apple launches official company Twitter account for tips, tricks and customer support queries",,30,403,2016-03-03,AAPL,0.03208637237548828,0.9230239987373352,0.04488971456885338
+apple,"Facebook, Google, Twitter, AT&amp;T to back Apple in court filings",,16,268,2016-03-03,AAPL,0.12064908444881439,0.850130558013916,0.029220381751656532
+apple,Apple starts providing customer service on Twitter,,31,206,2016-03-03,AAPL,0.022542133927345276,0.8871580362319946,0.09029987454414368
+apple,"Apple’s rumored San Francisco office, for around 500 employees, confirmed by Reuters",,49,190,2016-03-03,AAPL,0.03821302205324173,0.9192578792572021,0.042529042810201645
+apple,"TIL: iOS has codenames too, after Ski Resorts.",,31,171,2016-03-03,AAPL,0.033777303993701935,0.9332091808319092,0.03301357477903366
+apple,"Over 40 companies to back Apple in court battle over iPhone encryption backdoors, rival Samsung remains undecided",,20,123,2016-03-03,AAPL,0.32058101892471313,0.6472164988517761,0.03220253810286522
+iphone,"U.N. backs Apple, calls encryption fundamental to freedom",,6,112,2016-03-03,AAPL,0.04306958615779877,0.916991114616394,0.03993935137987137
+AppleWatch,I have loved my watch since launch day. I am so incredibly bored of these watch faces.,"I've settled on using the Modular watch face because it is the most useful one to me. I can get the most amount of information in one glance. But lately I've just been so tired of looking at it. I like the photo watch face, but without any complications it's not very useful. It's starting to become agonizing not having other options.",42,106,2016-03-03,AAPL,0.040104858577251434,0.9253307580947876,0.034564364701509476
+mac,"Apple launches official company Twitter account for tips, tricks and customer support queries",,10,102,2016-03-03,AAPL,0.03208637237548828,0.9230239987373352,0.04488971456885338
+apple,"Only two products are marked ""Buy Now"" green on Mac Rumors Buyer's Guide: the new iPad Pro and the just updated Apple TV",,321,602,2016-03-04,AAPL,0.014405200257897377,0.8823287487030029,0.10326612740755081
+apple,"FBI forcing Apple to weaken iOS security could endanger lives, warns UN.",,33,490,2016-03-04,AAPL,0.7761589288711548,0.1948595494031906,0.028981560841202736
+iphone,The way Instagram handles changing the volume now is great. It doesn't cover the screen and looks great. Apple should implement this. (See: status bar),,62,475,2016-03-04,AAPL,0.01297691185027361,0.6883378028869629,0.29868531227111816
+apple,Steve Jobs would be proud of Apple right now,"I don't want this to be another ""If Steve were still alive"" post, but I think it's worth mentioning.
+
+The way Apple has really stuck it to the FBI and banded together with all the other tech companies really brings home the whole ""Pirates of Silicon Valley"" mentality that Steve loved. I keep picturing that Apple pirate flag that  he would fly to create a rebellious culture amongst Apple. 
+
+I just think that he would be really proud of both Tim and the rest of the guys at Apple in how they are handling this case right now.",204,463,2016-03-04,AAPL,0.03397911414504051,0.9051993489265442,0.06082155182957649
+iphone,Anyone Find The Volume Bar To Be Really Close To The Playback Buttons?,,68,381,2016-03-04,AAPL,0.025616466999053955,0.9337010979652405,0.040682435035705566
+apple,Microsoft: Our legal brief in support of Apple,,26,305,2016-03-04,AAPL,0.07532510906457901,0.8961647152900696,0.02851017192006111
+apple,"Apple introduces support page on Twitter, gets 50k followers instantly",,31,189,2016-03-04,AAPL,0.022154083475470543,0.7702313661575317,0.20761460065841675
+apple,"San Bernardino shooter's iPhone may hold evidence of 'dormant cyber pathogen,' DA says",,93,164,2016-03-04,AAPL,0.30036842823028564,0.6393100619316101,0.060321465134620667
+mac,They said it couldn't be done. (Not mine),,37,160,2016-03-04,AAPL,0.15671949088573456,0.7288246750831604,0.11445583403110504
+apple,TIL on a share sheet you can press and hold app icons until they pop to change the order,Never noticed this...,26,141,2016-03-04,AAPL,0.03519720584154129,0.9346528053283691,0.03015003353357315
+apple,"This site perfectly sums up why I love Reader view in Safari and why I will exit and never visit a site again if the option isn't available. Make sure you click ""turn bullshit on"".",,133,979,2016-03-05,AAPL,0.05741886422038078,0.9219686388969421,0.020612547174096107
+apple,"Priest Who Helped Shaped Apple's Typography, the Rev. Robert Palladino, Dies at 83",,16,160,2016-03-05,AAPL,0.020896298810839653,0.8928283452987671,0.08627541363239288
+iphone,What is this about onscreen motion?,,39,153,2016-03-05,AAPL,0.032130129635334015,0.9358981847763062,0.03197172284126282
+AppleWatch,The pairing screen for the Apple Watch is too nice to be shown once.,,27,139,2016-03-05,AAPL,0.019555503502488136,0.8956354260444641,0.08480913192033768
+apple,iPhone 7 rumor claims Intel will help deliver faster wireless speeds than ever before,,53,127,2016-03-05,AAPL,0.01222387608140707,0.30173754692077637,0.6860384941101074
+apple,9.3 Beta 4 Night Shift disables for video.,I wasn't sure if this happened before beta 4 but I thought it's pretty neat to see Night Shift fade back in when I finish watching a video. Nice little touch. Sorry if this is old news!,59,125,2016-03-05,AAPL,0.047195956110954285,0.8890712857246399,0.0637328177690506
+apple,San Bernardino DA: Apple is not 'the Orwellian arbiter or definer of privacy' | VentureBeat,,45,105,2016-03-05,AAPL,0.03515392914414406,0.9068354368209839,0.05801061540842056
+iphone,iPhone 6S beats other Android flagships in Speed test.,,76,99,2016-03-05,AAPL,0.020421432331204414,0.14436374604701996,0.8352147340774536
+apple,Is there any chance Apple will unveil the 2016 Macbook Pros at the event on March 21st?,I'm looking to buy a new MacBook Pro but it sounds like they may not come out until June. Is there any chance they'll be released in March or is it pretty much sounding like June?,70,86,2016-03-05,AAPL,0.024768447503447533,0.9229742884635925,0.05225726217031479
+apple,Police say criminals like Apple iPhones because of encryption,,80,29,2016-03-05,AAPL,0.5018819570541382,0.4634718596935272,0.034646112471818924
+apple,Transmission 2.90 may be infected.,"Just got [this](http://imgur.com/0qRKARR) message when opening Transmission.
+
+Update: It looks like the general consensus is users who updated within the app weren't affected, but those who downloaded from the website may be.",421,1661,2016-03-06,AAPL,0.019161809235811234,0.9431438446044922,0.03769439086318016
+apple,iOS Photos tip: Selecting multiple photos without tapping individually.,"I found a neat trick that might not be well known to a majority of users. Instead of tapping an individual photo, you can hold your finger over one photo and then move your finger left or right. I prepared a gfycat video to show you what I mean. Hopefully this helps!
+
+www.gfycat.com/GrotesqueSimilarBengaltiger",85,492,2016-03-06,AAPL,0.037919193506240845,0.9252175688743591,0.03686325624585152
+iphone,"This app uses 3D on keys for shortcuts, this should be in the next IOS update",,62,349,2016-03-06,AAPL,0.020281553268432617,0.9452822804450989,0.03443614020943642
+apple,New OS X Ransomware KeRanger Infected Transmission BitTorrent Client Installer - Apple Promptly Revoked App Signing Certificate,,61,286,2016-03-06,AAPL,0.757632851600647,0.22791501879692078,0.014452103525400162
+mac,Transmission 2.90 infected with KeRanger,"From the Transmission website:
+
+&gt; Everyone running 2.90 on OS X should immediately upgrade to 2.91 or delete their copy of 2.90, as they may have downloaded a malware-infected file.
+
+Using “Activity Monitor” preinstalled in OS X, check whether any process named “kernel_service” is running. If so, double check the process, choose the “Open Files and Ports” and check whether there is a file name like “/Users//Library/kernel_service”. If so, the process is KeRanger’s main process. We suggest terminating it with “Quit -&gt; Force Quit”.
+
+More info [here](https://www.transmissionbt.com) and [here](https://forum.transmissionbt.com/viewtopic.php?t=17834).",70,196,2016-03-06,AAPL,0.0731411725282669,0.9068834781646729,0.01997535675764084
+AppleWatch,I feel like this isn't meant to happen.,,89,185,2016-03-06,AAPL,0.2701377868652344,0.6848668456077576,0.04499541223049164
+apple,500 rare Apple II programs and games are now preserved online at the Internet Archive,,9,136,2016-03-06,AAPL,0.03930934518575668,0.9356905221939087,0.02500007301568985
+apple,Apple users targeted in first known Mac ransomware campaign,,63,115,2016-03-06,AAPL,0.08065840601921082,0.8569234609603882,0.06241811811923981
+iphone,"Love snapchat. But how do I disable ""blank is typing"" notifications.",Like the push notifications. Sick of being notified when somebody is typing.,14,94,2016-03-06,AAPL,0.20251701772212982,0.7729525566101074,0.024530503898859024
+ios,Instagram's new volume bar - this should be system wide. It's amazing.,,13,75,2016-03-06,AAPL,0.011414733715355396,0.7947131991386414,0.19387201964855194
+apple,John McAfee lied about San Bernardino shooter's iPhone hack to 'get a s**tload of public attention',,178,1424,2016-03-07,AAPL,0.03431875631213188,0.9300062656402588,0.03567498177289963
+apple,"apple pencil review, drawn with an apple pencil",,88,625,2016-03-07,AAPL,0.049082137644290924,0.9140726327896118,0.03684522584080696
+apple,How many on here use FLUX on their computers?,I'm curious!,268,582,2016-03-07,AAPL,0.02314130589365959,0.9364287257194519,0.04042994976043701
+iphone,"Why does ""copy"" not often work? I highlight text, press copy, paste it, only to have the previous copied text pasted. I can often click copy multiple times before the text is actually copied.",,50,356,2016-03-07,AAPL,0.09651881456375122,0.8839181661605835,0.01956295222043991
+mac,Here's a handy guide I made to help make sense of Apple's display ports over the years.,,54,218,2016-03-07,AAPL,0.015440083108842373,0.768531084060669,0.2160288691520691
+apple,Got a popup that said I had a virus. Called the number and had some fun. Enjoy!,,70,153,2016-03-07,AAPL,0.03412261977791786,0.8959119319915771,0.06996548920869827
+apple,"Opinion post from Craig Federighi: ""The FBI wants to roll back safeguards that keep us a step ahead of criminals""",,13,141,2016-03-07,AAPL,0.03219889476895332,0.798058032989502,0.169743150472641
+apple,Google Photos now supports Live Photos on iOS,,66,137,2016-03-07,AAPL,0.012211783789098263,0.9266596436500549,0.06112854182720184
+ipad,Review of the iPad Pro Pencil illustrated using the Pencil on the iPad Pro,,27,131,2016-03-07,AAPL,0.028820015490055084,0.9321607947349548,0.03901926800608635
+apple,iOS 9.3 beta 6 released,,106,101,2016-03-07,AAPL,0.02328636683523655,0.9419559240341187,0.03475768864154816
+apple,"Steve Wozniak says the FBI ""picked the lamest case you ever could"" [Video]",,66,853,2016-03-08,AAPL,0.11430826038122177,0.81789630651474,0.06779539585113525
+apple,Apple Obsoletes Mid 2010 15-Inch and 17-Inch MacBook Pros,,149,231,2016-03-08,AAPL,0.0264103002846241,0.9111634492874146,0.06242627650499344
+iphone,New glitch: Disable iOS SpringBoard animations,,71,190,2016-03-08,AAPL,0.02214413695037365,0.9104787111282349,0.06737722456455231
+apple,How-To: Disable iOS SpringBoard animations,,104,187,2016-03-08,AAPL,0.03182331845164299,0.9219446182250977,0.046232037246227264
+apple,"Report: Tim Cook, other tech execs attended secret meeting to discuss how to stop Donald Trump",,180,150,2016-03-08,AAPL,0.051144056022167206,0.9134188890457153,0.035437021404504776
+iphone,Melted cheese. Cursed be thy name.,"After eating breakfast this morning, I pick up my iPhone to read some news, as is my morning custom.  But the fingerprint sensor will not accept my print.  So I type in my purposefully long and cumbersome password.  I finish my morning rituals, then drive to work.  Before I walk into the office I remember an email a coworker had sent to me.  The iPhone still will not accept my fingerprint.  I put the iPhone down and focus on something else.  a while later I pick up the phone to call my wife with the same result.  I enter my password for the 5th time today.  This is getting tiresome.  I find a cloth and spray some Windex on the cloth, then gently rub the fingerprint sensor.  It's not that dirty to begin with.  Same result.  I google ""How to replace fingerprint sensor on iPhone 6 plus""  I am mentally prepared to dismantle the device to try to fix this problem.
+
+Then I see it.
+
+A small orangish/yellow stain on the edge of my finger.  I lift the offending digit to within sniffing distance of my olfactory senses.  Cheddar.  Sharp Cheddar.  I remember how hot it was when I ate my egg and cheese sandwich a few hours ago.  A civilized man would get up, go to the nearest sink and wash his hands.  But I am in no mood for gentility.  I lick the embedded fingerprint cheese from my finger. I then dry off my finger by wiping it on my pants like a filthy gigantic man-toddler and test the iPhone.
+success.
+My homicidal rage has been abated, for now.",37,142,2016-03-08,AAPL,0.05083133280277252,0.9129732251167297,0.03619546443223953
+iphone,Apple Approves 'FlexBright' iOS App That Adjusts Display Temperature,,46,135,2016-03-08,AAPL,0.014054828323423862,0.8994296789169312,0.08651555329561234
+AppleWatch,Lookout Apple Watch app that buzzes your wrist if you’re about to leave your iPhone behind.,,37,135,2016-03-08,AAPL,0.024508971720933914,0.9268879294395447,0.04860309883952141
+AppleWatch,"""Exercise""",,27,130,2016-03-08,AAPL,0.04233209043741226,0.8767010569572449,0.08096684515476227
+apple,Selling MacBooks on craiglist &amp; the West Africa connection,This is my [everyday experience](http://i.imgur.com/jpgzOBf.jpg) with selling MacBooks on craiglist.,35,113,2016-03-08,AAPL,0.01965039223432541,0.933672308921814,0.046677302569150925
+apple,Snowden: FBI Claim That Only Apple Can Unlock Phone Is “Bullshit”,,197,786,2016-03-09,AAPL,0.09044414013624191,0.8667819499969482,0.04277396947145462
+apple,TIL you can use Ethernet on iOS devices,,192,558,2016-03-09,AAPL,0.014636708423495293,0.9379480481147766,0.047415222972631454
+iphone,"First purported iPhone 7 case leaks surface: resembles iPhone 6s, no headphone jack",,376,270,2016-03-09,AAPL,0.03573070466518402,0.9279983043670654,0.03627103567123413
+apple,"Apple Pulls 'FlexBright', Says iOS Apps That Adjust Display Temperature Aren't Allowed",,96,224,2016-03-09,AAPL,0.19152265787124634,0.7791921496391296,0.029285181313753128
+mac,"Recently picked up iPad Pro, this is it sitting next to my MacBook 12""",,45,126,2016-03-09,AAPL,0.013184132985770702,0.8753194212913513,0.1114964410662651
+mac,They're Finally Here: OWC Has Released Third-Party SSD Upgrades for the 2013 or Later MacBook Pro,,32,113,2016-03-09,AAPL,0.027997151017189026,0.895656406879425,0.07634644955396652
+apple,A young couple in China decided to sell their newborn online and use the money to purchase a new iPhone and a motorbike before being tracked down by the police and arrested.,,22,94,2016-03-09,AAPL,0.08817838877439499,0.8397411108016968,0.07208052277565002
+apple,"Apple's era of Liquid Metal is set to begin. Starting internal parts, Apple will perfect mass production and refine costs as it heads toward larger application of the wonder material.","As you've seen with Apple's many patent filings, their plan for Liquid Metal is not a matter of 'if' but 'when' it will be used on a large scale. With the home button and other internal parts, Apple is set to get the production equipment and processes in place with a plan to incrementally build upon those successes in a clear and steady path toward major uses of the product. A product, I might add, that their competitors will not have access to.
+
+It's been years coming, but it finally appears the gears are starting to turn for Liquid Metal.",54,67,2016-03-09,AAPL,0.013525846414268017,0.8155577778816223,0.1709163784980774
+ios,TIL you can use Ethernet with iOS devices,,9,62,2016-03-09,AAPL,0.014636708423495293,0.9379480481147766,0.047415222972631454
+apple,"First purported iPhone 7 case leaks surface: resembles iPhone 6s, no headphone jack",,126,62,2016-03-09,AAPL,0.03573070466518402,0.9279983043670654,0.03627103567123413
+apple,Apple Sends Invites for 'Let Us Loop You In' Media Event on March 21,,400,1075,2016-03-10,AAPL,0.03806223347783089,0.9354977011680603,0.026440106332302094
+apple,"Now that development and support for alienblue has ended, what is the best alternative?","Reddit abandoned Alienblue so they could profit from a new app with ads, and alienblue already has all sorts of bugs and will slowly become unusable. What are the best alternative out there?",482,606,2016-03-10,AAPL,0.02407989092171192,0.8759524822235107,0.09996762871742249
+apple,Worried about Apple? California Has a Bill That Would Disable Encryption on All Phones,,156,522,2016-03-10,AAPL,0.8468453884124756,0.12782031297683716,0.02533438615500927
+iphone,Craig Federighi: Force closing apps on iPhone is not beneficial to battery life,,105,509,2016-03-10,AAPL,0.020660024136304855,0.9156663417816162,0.06367367506027222
+apple,"Apple’s software SVP says quitting multitasking apps not necessary, won’t offer improved battery life",,159,316,2016-03-10,AAPL,0.010420984588563442,0.2497538924217224,0.7398250699043274
+apple,Diablo II 1.14a - Blizzard updates Diablo II to work on OS X once again!,,47,224,2016-03-10,AAPL,0.039623476564884186,0.8415259122848511,0.11885057389736176
+apple,"What's going on with the Mac Pro? It hasn't been updated since December 2013. ""Can't innovate anymore, my ass""","Phil Schiller said, ""Can't innovate anymore, my ass"" when the Mac Pro was released back in 2013. It's now 2016!!! 
+ 
+Are we expecting new Mac Pros soon? Any rumors?",180,139,2016-03-10,AAPL,0.03260910511016846,0.9050658941268921,0.06232501566410065
+mac,Diablo II 1.14a - Blizzard updates Diablo II to work on OS X once again!,,20,109,2016-03-10,AAPL,0.039623476564884186,0.8415259122848511,0.11885057389736176
+apple,"AMD Announces X-Connect, official support for external GPUs... C'mon, Apple / MacBook Pro!",,54,106,2016-03-10,AAPL,0.02639172039926052,0.9283088445663452,0.04529949277639389
+apple,Apple: 'FBI could force us to turn on iPhone cameras and microphones',,12,98,2016-03-10,AAPL,0.3018052875995636,0.6720858812332153,0.02610890008509159
+apple,Alien Blue 2.9.10 released - includes 4 years of Reddit gold with update,I guess that might confirm a subscription based model using gold will be implemented in the upcoming 'official' app,434,1109,2016-03-11,AAPL,0.01131441630423069,0.9082160592079163,0.0804695412516594
+apple,Donald Trump has already given up his iPhone boycott,,307,1027,2016-03-11,AAPL,0.013887882232666016,0.8828652501106262,0.10324688255786896
+iphone,"Very cool, Alien Blue and Reddit!",,219,762,2016-03-11,AAPL,0.04151270166039467,0.9175732731819153,0.040913987904787064
+apple,Important message to all Europeans: The upcoming Apple event will be one hour earlier than usual because of US summer time.,"The USA is switching to summer time on the 13th of March while Europe (and possibly other parts of the world) are switching on the 27th. This means that on the day of the Apple event the timezone difference will be hour less and the event is starting one hour *earlier* in the European time zones.
+
+Keep that in mind so that you're not tuning in one hour too late. The starting time is 17:00 GMT / 18:00 CET.",54,438,2016-03-11,AAPL,0.03645739331841469,0.921482264995575,0.04206031933426857
+apple,Apple vs. FBI: Senator Lindsey Graham (R-SC) changes his view from pro-FBI to pro-encryption. Video linked in comments.,,49,290,2016-03-11,AAPL,0.04920455813407898,0.9185672998428345,0.032228171825408936
+apple,"Former CIA director believes Apple ‘generally in the right’ on encryption case, FBI not ‘very good telephone designers’",,5,248,2016-03-11,AAPL,0.01326252706348896,0.7591558694839478,0.22758159041404724
+iphone,Make ANY iPhone Faster With Simple Glitch!,,109,212,2016-03-11,AAPL,0.016995830461382866,0.8824012875556946,0.10060282796621323
+apple,"Apple slams Justice Dept's latest filing as ""cheap shot""",,2,183,2016-03-11,AAPL,0.7544841170310974,0.1748608648777008,0.0706549882888794
+apple,The tone between Apple and the FBI is now openly hostile,,10,140,2016-03-11,AAPL,0.05276048928499222,0.9151246547698975,0.0321149043738842
+iphone,My dad's van has HDMI IN so I connected my phone with a lightning-HDMI adapter to the entertainment system and took a photo.,,23,123,2016-03-11,AAPL,0.02073667198419571,0.9229333996772766,0.05632999166846275
+apple,"FBI 'could force Apple to hand over private key': If Apple doesn’t comply with the court order requiring it to weaken the security on the San Bernardino shooter’s iPhone, it may be asked to hand over the source code to the entire operating system instead, the Department of Justice has implied.",,560,1616,2016-03-12,AAPL,0.2042752504348755,0.7751176953315735,0.020607061684131622
+iphone,Apple's Senior VP responds to customer email: closing apps does not prolong battery life.,,118,411,2016-03-12,AAPL,0.03509065508842468,0.9323867559432983,0.03252258896827698
+apple,Polk County sheriff says he will lock Tim cook up if he resist the court order to give the FBI what they want,,107,258,2016-03-12,AAPL,0.4607301354408264,0.4904513955116272,0.04881855845451355
+iphone,New Android N Wallpaper sized for iPhone 6s,,22,172,2016-03-12,AAPL,0.01873488910496235,0.8854982256889343,0.09576693922281265
+apple,"""A policeman's job is only easy in a police state.""",,16,128,2016-03-12,AAPL,0.06609087437391281,0.9014550447463989,0.03245410695672035
+apple,Latest Alien Blue Update Gifts Pro Users With Four Years of Reddit Gold,[deleted],42,75,2016-03-12,AAPL,0.01197311095893383,0.8151326179504395,0.17289428412914276
+mac,Are Macs really as good as everyone says they are?,"I'm looking to get a new laptop soon, as my last computer purchase is already failing a year in. I've been hearing a lot from friends and colleagues lately about how great Macs are, and am tempted to buy one. The price is keeping me back. 
+
+Are there any functional advantages to having a Mac? Do they work longer (years) than typical laptops? Does the battery life stay long after a year or more of daily (all day) use? Or do they just have great displays and appealing design?
+
+What I need in a computer:
+1. Something functional and reasonably fast
+2. Working USB and headphone ports
+3. A keyboard that can take a beating (use for work)
+4. A reasonably sized machine--where I can read the screen with ease, and transport it with something smaller than a backpack
+5. Something that won't die within a year b/c of daily use
+
+I'm not fussed about having a pretty machine. I just need it to work reliably and consistently. Is it worth it to get a Mac?
+
+EDIT: Holy crap, this got way more attention than I anticipated! Thank you all so much for your input :) !",159,72,2016-03-12,AAPL,0.03415665030479431,0.9050014019012451,0.060841936618089676
+apple,Upcoming March event is 2hrs long (according to this calendar event) whereas the 2015 spring forward event was only 1.5hrs,"http://www.apple.com/apple-events/march-2016/
+
+I don't think they'd spend a total time of 2hrs just on Apple Watch bands, 9.7in iPad Pro and iPhone 5se. Really hope they announce the new MacBooks!",51,70,2016-03-12,AAPL,0.014172651804983616,0.8808401226997375,0.10498721897602081
+apple,"So if FBI is trying to get Iphone code, etc...do they already have backdoor into other brands, Samsung, etc?",any articles on this?,85,69,2016-03-12,AAPL,0.04841360077261925,0.9245429039001465,0.02704348973929882
+mac,'Blockhead' Plug Provides Space Saving Solution for Apple Wall Adapters,[deleted],7,55,2016-03-12,AAPL,0.01126070600003004,0.8461658358573914,0.1425734907388687
+apple,TIL the flashlight icon in control center has a switch that changes if the flashlight is on or not.,,132,863,2016-03-13,AAPL,0.09329120814800262,0.8676217794418335,0.03908701613545418
+apple,The Government's Next Target in the Encryption War is 'WhatsApp' as Facebook Races to Strengthen it,,74,470,2016-03-13,AAPL,0.03699259087443352,0.9266020655632019,0.03640532121062279
+apple,Why Apple is right to resist the FBI,,56,277,2016-03-13,AAPL,0.058151230216026306,0.8107782602310181,0.13107050955295563
+iphone,What the hell is wrong with my AppStore?,,34,269,2016-03-13,AAPL,0.11509132385253906,0.8397440314292908,0.04516458511352539
+apple,Apple exec says you can’t save battery life by killing background apps,[deleted],131,260,2016-03-13,AAPL,0.02910340391099453,0.9230833053588867,0.0478132925927639
+apple,"Purported iPhone 7 chassis pictures show redesigned antenna lines, new larger camera",,203,225,2016-03-13,AAPL,0.019899630919098854,0.8050094842910767,0.17509080469608307
+iphone,"Purported iPhone 7 chassis pictures show redesigned antenna lines, new larger camera",,113,205,2016-03-13,AAPL,0.019899630919098854,0.8050094842910767,0.17509080469608307
+apple,Obama Addresses Apple vs. FBI at SXSW: Don’t ‘Fetishize’ Your Phone,[deleted],98,188,2016-03-13,AAPL,0.02261693961918354,0.9224644899368286,0.05491850897669792
+apple,What Would Your Ideal 2016 Skylake MacBook Pro Be?,"I'll start, for me it would be: 
+
+* Reduce screen bezel to fit 14 and 16 inch displays in the same footprint
+* higher resolution screens (4k on 16 inch)
+* Silver, Gold, and Space Grey colour options
+* Slimmer All metal body (including the hinge a la retina Macbook)
+* touch Id integrated into the track pad
+* more travel distance on keys than the retina macbook (something like the new magic keyboard would be fine)
+* keep the headphone jack
+* Two Thunderbolt 3 ports(which use the USB-c connector) on each side
+* Integrated first party eGPU support via Thunderbolt 3
+* losing the hdmi and sd card slot wouldn't be the worst thing in the world to me (you can use usb-c adapters, wifi and airplay instead)
+* Iris graphics on 14 inch and Iris pro on 16 inch with optional discrete GPU for 16 inch. (discrete GPUs kill battery life plus eGPU will offset the need for a built in one)
+* 10 hour battery life 
+
+BONUS
+
+* Announce a 5k 16:9 and 4k ultrawide thunderbolt displays with space grey and gold magic keyboards (one can only dream)",238,127,2016-03-13,AAPL,0.021579481661319733,0.933441698551178,0.04497885704040527
+apple,What new features would the 2nd generation Apple Watch need to have in order to convince you of getting one?,"If you don't already own one, what would make you consider getting one?",273,96,2016-03-13,AAPL,0.015527397394180298,0.9103080630302429,0.07416457682847977
+apple,Obama's 'tone deaf' comments on encryption draw criticism at SXSW,,179,974,2016-03-14,AAPL,0.06094397231936455,0.8841838240623474,0.05487227067351341
+apple,"Apple releases iOS 9.3 beta 7 with Night Shift, Touch ID Notes, Verizon Wi-Fi Calling, more",,141,355,2016-03-14,AAPL,0.019517196342349052,0.919000506401062,0.06148234009742737
+apple,John Oliver on Ecryption (Apple vs The FBI) - March 14th 2016,[deleted],37,349,2016-03-14,AAPL,0.04790493845939636,0.9039561152458191,0.048138927668333054
+apple,The Japanese Kana keyboard (O_o),,40,221,2016-03-14,AAPL,0.05918825790286064,0.9100727438926697,0.030739085748791695
+apple,Apple’s Phil Schiller promises to address the issue of spammy apps being featured in the App Store,,34,214,2016-03-14,AAPL,0.024509385228157043,0.9409689903259277,0.03452157974243164
+apple,"TIL the keyboard shortcut CMD+. presses the cancel button in a dialog box on Macs, allowing you to avoid having to use the mouse.","Edit: People complaining about the title. To clarify, the shortcut is the command and period keys pressed simultaneously.",50,181,2016-03-14,AAPL,0.12560108304023743,0.8553060293197632,0.019092921167612076
+iphone,"“Hey siri, what’s the traffic like on the highway?” I live in Chicago.",,44,163,2016-03-14,AAPL,0.0520203523337841,0.906216025352478,0.041763585060834885
+apple,Today my iPhone 6S died from the cold +6 degrees Celcius!,"So I was taking a run today in a mild kind of sunny pre-spring weather in Sweden. When I was doing the final rush to my house I took my phone out of the pocket to stop the Runkeeper activity and the phone died right in front of my eyes.
+
+
+After warming it up inside of my house I could start it again and it was at 18% battery life. 20 seconds later it died again cause of ""low battery level"". I plugged the lightning cable in and was able to use it normally a couple of minutes later.
+
+
+I've had my 6S since a couple of weeks after the release last year and I've experienced this multiple times even when it's not even below freezing point. Are today's smartphones not even usable around freezing point or is the iPhone 6S and particulary my iPhone really awful at staying alive in the cold?",124,159,2016-03-14,AAPL,0.04257621616125107,0.8817014098167419,0.07572231441736221
+iphone,Apple Seeds Seventh Beta of iOS 9.3 to Developers,,84,149,2016-03-14,AAPL,0.014570947736501694,0.8476380705833435,0.1377910077571869
+apple,Phil Schiller responds to developer complaints about App Store algorithms broken since at least 2013,,26,117,2016-03-14,AAPL,0.9016593098640442,0.07809851318597794,0.02024221234023571
+apple,Apple Music Becomes First Streaming Service to Include Underground DJ Remixes and Mashups,,143,937,2016-03-15,AAPL,0.01227311696857214,0.8821728229522705,0.1055539920926094
+iphone,"Swipe back when you're on Imgur in Alien Blue, and you won't even go to the previous picture anymore. Imgur, what is wrong with you for not letting us use this gesture?",,116,745,2016-03-15,AAPL,0.18143914639949799,0.7898300290107727,0.028730744495987892
+apple,Apple says the Justice Department is using the law as an 'all-powerful magic wand',,17,271,2016-03-15,AAPL,0.027536552399396896,0.9246100783348083,0.047853339463472366
+apple,"The Disturbingly Simple Way Dozens of Celebrities Had Their Nude Photos Stolen - According to the feds, all those celebrities who had their nudes stolen in “The Fappening” were phished",,70,231,2016-03-15,AAPL,0.048409704118967056,0.9108502864837646,0.0407399982213974
+apple,Take a stand against the Obama/FBI anti-encryption charm offensive,,16,221,2016-03-15,AAPL,0.019437750801444054,0.9011839032173157,0.0793784111738205
+mac,I wanted to add something fun to my app trial version. Here's what happens when it expires.,,40,204,2016-03-15,AAPL,0.020711084827780724,0.9195389151573181,0.05974996089935303
+apple,Potential First Photo of iPhone 7 Plus Shows Dual-Lens Camera and Smart Connector,,237,137,2016-03-15,AAPL,0.012231401167809963,0.8213411569595337,0.1664274036884308
+apple,Did we forget about the new iTunes?,Remember in that article Eddy (I think?) said that a new version of iTunes is coming with the next OS X version. Maybe they're releasing this at the March event...,72,90,2016-03-15,AAPL,0.042837515473365784,0.9243179559707642,0.03284446522593498
+AppleWatch,Thank god i was able to finally wake up! [Sleep++],,23,88,2016-03-15,AAPL,0.08695221692323685,0.5875421762466431,0.3255056142807007
+apple,"Behold the G4 Cube, Apple's most epic computer ever.",,25,82,2016-03-15,AAPL,0.013475772924721241,0.8567315936088562,0.12979264557361603
+apple,iPhone 6s - Timer,,219,1490,2016-03-16,AAPL,0.016515294089913368,0.8270537257194519,0.15643103420734406
+apple,"Apple, basically: 'If it pleases the court, tell FBI to go f**k themselves' / Boing Boing",,204,821,2016-03-16,AAPL,0.06643232703208923,0.8874526619911194,0.046114999800920486
+apple,Apple destroys government claim that it’s using encryption debate as a marketing tool,,106,662,2016-03-16,AAPL,0.3012791574001312,0.6707556247711182,0.027965186163783073
+apple,"So it turns out ""The Fappening"" had nothing to do with iCloud hacking-- it was just an email phishing attack",,97,563,2016-03-16,AAPL,0.031066544353961945,0.937360405921936,0.03157307207584381
+iphone,Apple Is Now Planning to Boost iCloud Encryption,,44,467,2016-03-16,AAPL,0.019657723605632782,0.8738570213317871,0.10648524016141891
+apple,"Google Faces Challenges in Encrypting Android Phones: Experts estimate fewer than 10% of the world’s 1.4 billion Android phones are encrypted, compared with 95% of Apple iPhones.",,84,303,2016-03-16,AAPL,0.029085718095302582,0.8479698896408081,0.12294436991214752
+apple,Apple Is Now Planning to Boost iCloud Encryption,[deleted],24,170,2016-03-16,AAPL,0.023846160620450974,0.9112099409103394,0.064943827688694
+apple,Apple Says America's Founding Fathers 'Would Be Appalled' With U.S. iPhone Demands,[deleted],13,148,2016-03-16,AAPL,0.012736541219055653,0.7778589129447937,0.20940455794334412
+iphone,"iPhone 5SE pre-order started on China’s e-Commerce Platform, priced at $599",[deleted],74,145,2016-03-16,AAPL,0.026686005294322968,0.9084813594818115,0.0648326575756073
+apple,"FBI should learn how to hack phones themselves, top cybersecurity expert says. Having tech companies develop loopholes for government agencies would put America’s security at risk.",,7,141,2016-03-16,AAPL,0.0912361592054367,0.8526918888092041,0.056071944534778595
+apple,FBI warns that car hacking is a real risk - so why the hell would we want backdoors made for hackers?,,71,1943,2016-03-17,AAPL,0.22489957511425018,0.7407992482185364,0.03430110961198807
+apple,Harvard Law professor &amp; former Obama special assistant dismisses FBI’s claims – “the law is clear: The FBI Cannot Make Apple Rewrite its OS”,[deleted],59,1033,2016-03-17,AAPL,0.1309685856103897,0.8454370498657227,0.023594394326210022
+iphone,I've owned iPhones for years and never knew about this -_- Anyone know of other similar things?,,211,702,2016-03-17,AAPL,0.03314371034502983,0.9278890490531921,0.03896724432706833
+apple,Apple Watch Saves Man's Life By Alerting Him to Heart Attack,,107,305,2016-03-17,AAPL,0.35008183121681213,0.5968308448791504,0.05308733507990837
+apple,Previously leaked iPhone 7 closeup photo (showing new antenna design) is actually of the upcoming Meizu Pro 6,,64,232,2016-03-17,AAPL,0.013697530142962933,0.8358660340309143,0.1504364311695099
+apple,"If Apple is Ordered to Unlock iPhone for FBI, Some Engineers Might Refuse to Help",,31,150,2016-03-17,AAPL,0.5219142436981201,0.40487515926361084,0.07321052998304367
+AppleWatch,Forgot to wear green today... No problem,,12,147,2016-03-17,AAPL,0.03174557164311409,0.903751790523529,0.06450264900922775
+apple,Leaked image of 4-inch iPhone packaging seems to confirm ‘SE’ branding and 16 GB storage size option,,187,141,2016-03-17,AAPL,0.013354559428989887,0.859829306602478,0.12681616842746735
+apple,"Inside Apple CEO Tim Cook’s Fight With the FBI: In an exclusive interview with TIME, Cook discusses your privacy, America’s security, and what’s at stake in the battle over encryption",,16,127,2016-03-17,AAPL,0.03033875674009323,0.9363291263580322,0.03333212435245514
+apple,The Law is Clear: The FBI Cannot Make Apple Rewrite its OS,,9,121,2016-03-17,AAPL,0.28799182176589966,0.68450528383255,0.027502914890646935
+apple,"More developers now use OS X than Linux, says ‘most comprehensive survey ever conducted’ by Stack Overflow.",,704,1159,2016-03-18,AAPL,0.01574685052037239,0.7666361331939697,0.2176169604063034
+iphone,Someone really liked their iPhone 4..,,71,595,2016-03-18,AAPL,0.01640545018017292,0.8952411413192749,0.0883534848690033
+mac,Something that gets me about the new Microsoft Surface commercials...,,116,360,2016-03-18,AAPL,0.01917535625398159,0.8620778322219849,0.11874675005674362
+iphone,"Friend's phone somehow took screenshot during boot, don't think I've seen the logo in full quality before, here it is.",,40,296,2016-03-18,AAPL,0.01984260231256485,0.8889397382736206,0.09121768921613693
+apple,Prevent mac from booting with sound by holding down mute button.,"Can be useful when trying to keep a low profile, or to stop the whole world from knowing you have a mac.",28,279,2016-03-18,AAPL,0.06397012621164322,0.9002036452293396,0.03582622483372688
+apple,"EXCLUSIVE: 9.7-inch iPad Pro to start at higher $599 price, come in 32 GB &amp; 128 GB capacities",,242,279,2016-03-18,AAPL,0.03250514715909958,0.8300217390060425,0.13747310638427734
+apple,"Well, this works.","Lightning to USB Camera Adapter then USB to Ethernet adapter.
+http://imgur.com/xnvSMlp",76,253,2016-03-18,AAPL,0.01148891355842352,0.8878495693206787,0.10066147893667221
+apple,DoJ surprises Apple with evidentiary hearing request,,44,114,2016-03-18,AAPL,0.06684136390686035,0.9059065580368042,0.027252014726400375
+apple,"TIL - if you name a group iMessage, it's announced to everyone in the group.","It says ""xxx named the conversation yyy"" in the actual conversation. Good to know so you don't accidentally embarrass yourself. 
+
+Edit:  it actually not only announces it, it changes the name in the other members' phones as well",35,97,2016-03-18,AAPL,0.03088528662919998,0.938701331615448,0.030413305386900902
+apple,Apple's product security expert will testify on Tuesday in San Bernardino case,,0,86,2016-03-18,AAPL,0.026519162580370903,0.9079124331474304,0.06556836515665054
+apple,I made a tiny open-source Mac app to set the Bing homepage image as my background,"BingBackground is a tiny app that sets the Bing Image of the Day as your background. That's it. I personally like variety and the only thing I like about Bing is their interesting homepage images every day.
+[Here are 10 of my favorites in the past year.](http://imgur.com/a/jO1a5) 
+
+I made this earlier in the year to match a [program I wrote for my Windows workstation at my job](https://github.com/josueespinosa/BingBackground) (I used to use the default Windows Bing app, but it was very bloated and did way more than I wanted it to). This morning a friend asked for this app when he saw my MacBook's background suddenly change, and I realized it might be appreciated by some people on /r/Apple. 
+
+You can automate it to run every morning (or whenever) using Automator or Calendar.
+
+The app can be downloaded at: 
+
+http://ejosue.com/wp-content/uploads/BingBackground.zip
+
+You can view the source at:
+
+https://github.com/josueespinosa/BingBackground-Mac
+
+Suggestions/contributions are always welcome!",118,639,2016-03-19,AAPL,0.02965162694454193,0.9318945407867432,0.03845386207103729
+apple,Tim Cook Featured on Cover of TIME Magazine in New Apple-FBI Interview,,36,388,2016-03-19,AAPL,0.02754414826631546,0.9374003410339355,0.03505555912852287
+apple,In preparation for Monday: Apple Keynote Bingo,"Print one out and play along, or mark it up on your iPad Pro!
+
+[Printable PDF on Google Drive](https://drive.google.com/file/d/0B2-Kjd1EF5hrTWF3bEhDYnV2UEk/view?usp=sharing)",73,244,2016-03-19,AAPL,0.030251823365688324,0.930989682674408,0.03875844553112984
+apple,"Apple Music's ""Connect"" has been running for about 9 months. Is it Ping 2.0?","Back when it was announced, a lot of people talked about how Ping was a mess because the music labels wanted it and Apple didn't put any effort into it. Now, about 9 months later, Connect has maybe 5 likes on a popular artist's post and a handful of comments. Is it better, or is it Ping 2.0?",81,205,2016-03-19,AAPL,0.02838081680238247,0.9189165234565735,0.05270269885659218
+iphone,What do the stars next to certain songs mean?,,31,139,2016-03-19,AAPL,0.04083535820245743,0.9319829344749451,0.027181733399629593
+apple,These iPhone 7 Renders Actually Make It Look Really Nice,,95,130,2016-03-19,AAPL,0.010473471134901047,0.6830362677574158,0.30649030208587646
+apple,Apple hires Amazon's corporate security officer amid legal battle with government,,2,117,2016-03-19,AAPL,0.870040774345398,0.11027469485998154,0.019684500992298126
+iphone,What do thieves do with iCloud locked iPhone?,"Just wondering, as I got my iPhone mugged a few days ago.
+
+I'm pretty sure majority of the iPhone users are familiar with Find My iPhone. What do these thieves do with those iPhones that has been locked and reported as lost? Do they sell them for parts? I have seen iCloud locked iPhone 6 selling around £200-350 on evil bay. Why would anyone buy those phones? 
+
+I have had another iPhone that was stolen 2.5 years ago and the iPhone status is still ""offline"" until now- from the day I reported it as lost. Does it mean that the thief never switched the phone on?",110,109,2016-03-19,AAPL,0.3773958086967468,0.5988240838050842,0.023780087009072304
+ipad,Instagram are killing the iPad apps,,20,97,2016-03-19,AAPL,0.04290859028697014,0.9167974591255188,0.04029393568634987
+iphone,Apple March 21 Event: iPhone SE And Everything We Know About It : PERSONAL TECH : Tech Times,,45,78,2016-03-19,AAPL,0.015477113425731659,0.9286901950836182,0.05583260953426361
+apple,"Starting with iOS 9.3, Apple will encrypt iCloud data against user device's passcode","If you have 2FA enabled, starting with iOS 9.3, Apple will encrypt iCloud data against user device's passcode.
+
+http://i.imgur.com/DYNtDuB.png",460,1928,2016-03-20,AAPL,0.02708982303738594,0.9210515022277832,0.05185874179005623
+iphone,"Yes, I know wi-fi is turned off. If I have to dismiss this message one more time I swear to god...",,241,1607,2016-03-20,AAPL,0.059067610651254654,0.8863632082939148,0.05456915497779846
+apple,TIL The same programmer has been making Klondike solitaire for Mac for 32 years.,"There were several articles noting the 25th anniversary of Windows 3.0 Solitaire last year, and even as a lifelong Mac guy I got a little nostalgic. Windows Solitaire has a Mac connection, in that the card graphics — and other icons in Windows 3.0 — were designed by ex-Apple artist Susan Kare.
+
+But today I was reminded that point-and-click solitaire, like much else on Windows, was on the Mac years earlier. Klondike was released for the original Macintosh 128K in 1984. The original developer, [Michael Casteel](http://www.casteel.org), has kept Klondike up-to-date for every Apple OS ever since — 32 years and counting!
+
+You can find several articles online that are supposed to be about the history of computer solitaire that don't mention this, or even name some other title as the first GUI solitaire game. At the risk of looking like I'm posting an ad (I'm not) I think Casteel deserves more recognition. There are and would be many other Solitaire games  without this one, but how many have 32 years of version history?
+
+It's just as well Apple never bought it and bundled it. Given their historic ambivalence about games it probably would have been buried during a re-org at some point.",26,606,2016-03-20,AAPL,0.042500805109739304,0.9199292659759521,0.03756990656256676
+apple,Why doesn't Apple have continuous music handoff between iPhone and Mac yet?,"Seamlessly passing music playback between Mac and iPhone is the only clear advantage of Spotify over iTunes/Apple Music. When I get home, I can just pass a song live from one device to another without a pause. 
+
+Plus $4.99/mo year for students is too awesome to pass off.",61,327,2016-03-20,AAPL,0.020980242639780045,0.915253758430481,0.0637659877538681
+apple,"MacBook 12"" Renew","Today at work I was browsing through and came upon a low inventory of MacBooks. I scrambled to check if some were at the warehouse and none were. The status states ""Discontinued"", which leads me to believe a new MacBook is coming Monday.
+
+Also good questions about the MacBook Pro and Air. Both are showing as Active models. So that tells me there most likely will not be an update for those two.",239,189,2016-03-20,AAPL,0.0350319929420948,0.8894797563552856,0.07548824697732925
+apple,The inconsistent availability of Apple Pay in the United States is having a negative effect on its user base.,,156,160,2016-03-20,AAPL,0.9049314856529236,0.07395445555448532,0.02111404947936535
+apple,Just went to 6s Plus from 5c...,"wtf.
+
+this isn't even fair.
+
+this phone is so quick, responsive, and just *fun* to use compared to my 5c. even something as small as Touch ID, where I can unlock the phone easier and not type a password every time I want to download an app is worth the upgrade.
+
+the display is beautiful. it's big, and I'm still getting used to it, but after 2 hours of using my 6s plus, my 5c feels like a cheap, plastic toy. (guess it kinda is)
+
+I'd have to recharge my 5c twice a day sometimes. charged this thing up to 80% and unplugged it 10 minutes ago and it hasn't dropped yet. 
+
+holy crap!",134,155,2016-03-20,AAPL,0.03186685964465141,0.9064370393753052,0.06169610098004341
+apple,Counterfeit Macbook charger teardown: convincing outside but dangerous inside,,13,108,2016-03-20,AAPL,0.32173067331314087,0.642580509185791,0.03568878024816513
+mac,"I'm super late reporting back, but that MagSafe charger I got from groupon was 100% genuine, confirmed by Apple genius",,15,99,2016-03-20,AAPL,0.030788511037826538,0.8409456610679626,0.12826576828956604
+apple,"TIL in 9.3 beta, Apple add the ability to put video in full screen in the Music app.",Also work on the podcast app,16,85,2016-03-20,AAPL,0.014672353863716125,0.9211856722831726,0.06414197385311127
+apple,Apple unveils the new 4-inch 'iPhone SE',,1581,1996,2016-03-21,AAPL,0.018742011860013008,0.8684403300285339,0.1128176674246788
+apple,"Please Apple, give me new Macbooks!","Please apple, i want to see new macbooks today, especially 14"" macbook pro retina.. Space grey! 
+
+PLEASE",434,624,2016-03-21,AAPL,0.021502137184143066,0.9322265386581421,0.04627133533358574
+apple,iOS 9.3 Now Available,It's out!,455,567,2016-03-21,AAPL,0.025905456393957138,0.9444100260734558,0.02968444861471653
+iphone,The new iPhone is officially called the iPhone SE,,438,534,2016-03-21,AAPL,0.013278194703161716,0.9236023426055908,0.06311948597431183
+apple,"DOJ asks that hearing w/ Apple be vacated, says it found ‘possible method’ to unlock iPhone",,144,437,2016-03-21,AAPL,0.0146757448092103,0.9096579551696777,0.07566633075475693
+apple,How many of you guys are still waiting for new MBP's :),Just curious :),425,425,2016-03-21,AAPL,0.034574806690216064,0.917022168636322,0.04840300232172012
+apple,Johns Hopkins researchers poke a hole in Apple’s iMessage encryption. Fix to be in iOS 9.3,,41,372,2016-03-21,AAPL,0.0623440220952034,0.8965291380882263,0.04112682864069939
+apple,"""Let Us Loop You In"" Official Event Megathread","Hello, /r/apple, and welcome to the ""Let Us Loop You In"" event megathread!
+
+As a reminder, here are the rules regarding today's event:
+
+* All submissions will be turned off beginning at immediately and will be turned back on as soon as the event is over.
+* We will provide pre-event, event, and post-event megathreads that people can comment in and discuss what's happening.
+* After the event, we will allow news submissions about announced products and services. We will, however, be actively removing duplicate threads. So please check /new before submitting news.
+
+[It's happening!](http://i.imgur.com/ZCB6iSJ.gifv) **We suggest sorting this thread by ""new.""**
+
+What to expect:
+
+* iPhone SE
+* 9.7"" iPad Pro
+* Apple Watch bands
+* iOS 9.3, watchOS 2.2, OS X 10.11.4, and tvOS 9.2
+
+What to *maybe* expect:
+
+* New MacBooks
+* iTunes Refresh
+
+Here are some recommended stream for today's event:
+
+* [Apple's Live Stream](http://www.apple.com/apple-events/march-2016/)
+* [VLC Link](http://p.events-delivery.apple.com.edgesuite.net/1603kjbnadcpjhbasdvpjbasdvpjb/m3u8/hls_mvp.m3u8)
+* [The Verge Live Blog](https://live.theverge.com/apple-iphone-se-ipad-pro-event-live-blog/?_ga=1.185438573.595054767.1395942687)
+* [TechCrunch Live Blog](http://techcrunch.com/2016/03/21/liveblog-apple-event-keynote-iphone-se-ipad-pro-spring-2016/)
+* [Ars Technica Live Blog](http://live.arstechnica.com/apples-march-2016-event/)
+* [CNET Live Blog](http://live.cnet.com/Event/Apples_March_21_event)
+
+If you find any other live blogs, please [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fapple) so we can add it.
+
+Enjoy!",2755,361,2016-03-21,AAPL,0.03561830520629883,0.9363619089126587,0.028019726276397705
+apple,What's the best OSX Safari Adblocking option now that uBlock is no longer being developed?,,125,281,2016-03-21,AAPL,0.039349522441625595,0.9175336360931396,0.043116845190525055
+apple,VLC link to March 2016 event here.,http://p.events-delivery.apple.com.edgesuite.net/1603kjbnadcpjhbasdvpjbasdvpjb/m3u8/atv_mvp.m3u8?t=YWxpc2FtaXg=,55,249,2016-03-21,AAPL,0.03496873378753662,0.9339901208877563,0.031041176989674568
+apple,"Apple Said to Ship New 'Ultra-Thin' 13"" and 15"" MacBooks by June-July",,655,926,2016-03-22,AAPL,0.022565800696611404,0.8997842669487,0.07764986902475357
+apple,5 Year Old PCs,"Am I the only one than cringed at them calling people running old hardware 'just sad?' Apart from the fact that one of the best features of Apple products is they're 'built to last' for environmental reasons makes it hypocritical to complain when people make their devices last, it just seems like 'lol poor people.'
+
+I have the new 12"", I just felt really awkward when they were criticising people who didn't have the latest and greatest hardware. 'You can't afford/don't prioritise cutting edge hardware and that's sad'",472,782,2016-03-22,AAPL,0.14849092066287994,0.8168042898178101,0.03470476344227791
+apple,DOJ has now classified their newly obtained method to access locked Apple iPhones.,,191,476,2016-03-22,AAPL,0.018891530111432076,0.9314234256744385,0.04968506842851639
+apple,Benchmarks suggests iPhone SE has 2GB of RAM,,241,443,2016-03-22,AAPL,0.016515487805008888,0.8696175217628479,0.11386699974536896
+iphone,"The iPhone SE is a sign that the iPhone 5 design will probably be the ""iPod Classic"" of the iPhone line.","The iPod Classic design, discontinued in 2014, was essentially introduced in 2004, with the 4th generation iPod, and it was continually refreshed every few years between 2004 and 2009. 
+History appears to be repeating itself. Apple is refreshing an iPhone model, that while slightly outdated, has a devoted fan base. 
+People clung to the iPod classic, because it offered the most music storage per dollar, and because they felt they just wanted something that could store and play music easily. The iPhone 5/s/SE design offers the full iPhone experience in a device that fits easily in the palm and pocket.
+I would bet that there will be one new 4"" iPhone 5-based device for every Tick-Tock cycle of the main iPhone line until at least the iPhone 8.",133,397,2016-03-22,AAPL,0.03414197266101837,0.8993247151374817,0.06653334200382233
+apple,"iPad Pro 9.7"" has 2GB of RAM",Source: https://twitter.com/panzer/status/712327424659161089,236,276,2016-03-22,AAPL,0.023637376725673676,0.9270281195640564,0.04933454468846321
+apple,Apple in “advanced talks” to acquire Imagination Technologies for PowerVR GPU,,73,261,2016-03-22,AAPL,0.017870929092168808,0.9267959594726562,0.05533311888575554
+apple,[HOW TO] Use Night Shift and Low Power Mode at the same time on iOS 9.3,,56,225,2016-03-22,AAPL,0.052313223481178284,0.9279791116714478,0.019707733765244484
+apple,Is it just me or iOS 9.3 actually has way better battery life,"I start my day at 8 and use narwhal, youtube, facebook and spotify a lot and by noon my battery comes down to 40% normally but today i am still sitting at 70%. Well done apple. 
+
+Edit:  https://imgur.com/a/z1TjA. My usage today from 8am. Before iOS 9.3 it never lasted till 3pm to reach 20%",122,206,2016-03-22,AAPL,0.024567656219005585,0.7965496778488159,0.1788826286792755
+apple,"By reintroducing a 4 inch phone without 3D Touch, Apple is enlarging the gap between apps with 3D Touch and iPhone 6&gt; resolution.","With the addition of a 4 inch NON 3D Touch phone, Apple is slowing developers adoption of 3D Touch and 6/6s Plus resolution. Many apps haven't even adopted the resolution fully much less 3D Touch.",144,178,2016-03-22,AAPL,0.017910191789269447,0.8950746059417725,0.08701518923044205
+iphone,Seriously Imgur... We just went through this like two weeks ago. Stop high-jacking native functionality of a fucking mobile web browser!,"There was a post like two weeks ago about this exact issue that the Imgur founder even came in on and said they'd get it fixed. They did, and now again have written some new stupid function that makes swiping from the left side go to some other stupid-ass picture instead of going back to the comments, or wherever you came from, on AlienBlue...
+
+Edit: time flies! I guess... [Original post](https://m.reddit.com/r/iphone/comments/46cjo5/i_just_want_to_say_fuck_imgur_for_overpowering/)",141,987,2016-03-23,AAPL,0.10968491435050964,0.8557156324386597,0.03459940850734711
+apple,Mossberg: The iPhone 7 had better be spectacular,,1078,760,2016-03-23,AAPL,0.024117711931467056,0.1016794741153717,0.8742027878761292
+apple,"If you buy the 9.7-inch iPad Pro, you'll get to use Microsoft Office for free.",,35,177,2016-03-23,AAPL,0.016900205984711647,0.907780110836029,0.07531966269016266
+apple,References to ‘early 2016 12-inch MacBook’ seen in latest OS X Server version,,83,155,2016-03-23,AAPL,0.023612745106220245,0.9387840628623962,0.03760325163602829
+apple,Just found a little easter egg with Spotlight on El Capitan,"If you moved the spotlight field around your screen and want it to return to it's default position, Hold your mouse down on the spotlight icon on the menu bar - It'll reset it's position after a few seconds.
+
+I find this useful if I've moved it around a bit and when I go to use it it's in it's old position :)
+
+EDIT: Sorry, I've been made aware it's more an Undocumented Feature. I called it an easter egg as I thought it was one in the same!",26,138,2016-03-23,AAPL,0.032512545585632324,0.9119143486022949,0.055573150515556335
+apple,If I went back in time 5 years and told you everything that happened to Apple since 2010 what would you be most shocked to hear about?,"This is technically an x-post from the /r/NBA subreddit, but I saw it on /r/android... Thought it was an interesting question and would love to hear the responses for Apple.",266,107,2016-03-23,AAPL,0.022601274773478508,0.8668822646141052,0.11051644384860992
+apple,ios 10 wishlist !!!,,307,73,2016-03-23,AAPL,0.04396207258105278,0.8997396230697632,0.056298330426216125
+iphone,"The iPhone SE is a good buy. Just repeat after us: ""64GB or nothing"".",,48,70,2016-03-23,AAPL,0.022169217467308044,0.6887049078941345,0.28912588953971863
+apple,"FBI is working with Cellebrite to unlock San Bernardino iPhone, reports say",,56,66,2016-03-23,AAPL,0.07905010879039764,0.8905137777328491,0.030436119064688683
+apple,So the iPad Pro camera hump isnt half as bad as I was expecting.,https://mobile.twitter.com/panzer/status/712361542818209792,43,61,2016-03-23,AAPL,0.02323395572602749,0.8621513247489929,0.11461476236581802
+apple,Judge: Order to Compel Apple Has Been 'Unenforceable' All Along,,136,1276,2016-03-24,AAPL,0.041466232389211655,0.9188666343688965,0.03966718167066574
+apple,I really appreciate night shift. Thanks for adding it,Seriously. Feels a lot more relaxing,339,801,2016-03-24,AAPL,0.025595879182219505,0.7737605571746826,0.20064358413219452
+apple,Apple designing its own servers to avoid spying; suspects that servers are intercepted and modified during shipping.,,123,657,2016-03-24,AAPL,0.37832728028297424,0.5947227478027344,0.026949964463710785
+apple,Day One 2 for iOS free on Apple Store,"Apple Store app is giving away Day One 2 for iOS ~~(US only)~~.
+
+1. Launch **Apple Store** app.
+2. Click **Stores** tab.
+3. Scroll down a bit to **iPhone Upgrade Program** banner (may be different by the time you read this).
+4. Swipe right 3 times until you see **Keep a beautiful journal** banner.
+5. Click **Day One** icon.
+
+The offer expires May 1, 2016.
+
+EDIT: The app is apparently available in most (or all) countries.
+
+Since many people asked, this app normally costs $9.99 (on sale at $4.99 for limited time). Day One 2 is a journaling app that stores data to its own cloud (Day One 1 synced to iCloud). Think of it as a private Facebook (you can optionally share each entry via Share Sheet, including Facebook). It can automatically tag each journal entry with location, weather, and health information.
+
+Day One 2 is also available for Mac, as whopping $29.99 app.",180,530,2016-03-24,AAPL,0.02202828787267208,0.9364215135574341,0.041550248861312866
+apple,Which country is cheapest for each Apple product? I made a small website for that.,,143,525,2016-03-24,AAPL,0.06184962019324303,0.8704673647880554,0.06768295168876648
+iphone,iPhone SE vs iPhone 6s,,126,255,2016-03-24,AAPL,0.07159211486577988,0.24848823249340057,0.6799196600914001
+apple,iPhone SE Reviews: Blazingly Fast With Impressive Battery Life,,138,175,2016-03-24,AAPL,0.021585684269666672,0.5054864883422852,0.47292786836624146
+AppleWatch,Bought a leather loop on eBay. Here is the feature list from the box.,,28,140,2016-03-24,AAPL,0.022151540964841843,0.9130885004997253,0.0647600069642067
+AppleWatch,Target's prices on bands aren't very competitive,,22,120,2016-03-24,AAPL,0.037443436682224274,0.9177715182304382,0.044784996658563614
+apple,iPhone SE prices US vs. EU,"I always get excited with the price drops and new products , but then I realize I live in the wrong part of the world.
+ iPhone SE 16Gb is 399$ in USA , but it is 489 euros in Europe. That translates to 546$  which is 36% more expensive, which is just insane!
+It is not a cheap or even reasonably priced phone. In Europe , that is.",133,99,2016-03-24,AAPL,0.032291948795318604,0.8682030439376831,0.09950503706932068
+iphone,iRony....,,57,769,2016-03-25,AAPL,0.05091780051589012,0.8576407432556152,0.09144141525030136
+apple,Mac OS X turns 15,,233,734,2016-03-25,AAPL,0.06733058393001556,0.8471946716308594,0.08547470718622208
+apple,Apple pulls iOS 9.3 update for older devices following activation problems,,186,491,2016-03-25,AAPL,0.014076869003474712,0.8801027536392212,0.10582036525011063
+apple,A major highway opened in Houston over a month ago and Apple Maps still hasn't shown it.,"http://imgur.com/nu6TQIr
+
+I usually don't like to compare Google Maps and Apple Maps, but Google Maps updated for the new Grand Parkway segments in Houston the day they opened. It's been a month and a half and Apple Maps still hasn't been updated. I just don't understand why it would take that long. 
+
+Edit: Yes, I know you can report it, I'm just saying that when a major highway opens in a major city, it should show up on a maps application pretty soon after it opens. It's been over a month. I'm fairly certain that other Houstonians have reported this.",283,477,2016-03-25,AAPL,0.025485239923000336,0.9305499196052551,0.04396478459239006
+AppleWatch,One of my coworkers just printed this charging dock for me,,17,217,2016-03-25,AAPL,0.05791996419429779,0.8667380213737488,0.07534202188253403
+apple,"iPhone SE review: today’s tech, yesterday’s design",,315,191,2016-03-25,AAPL,0.029576946049928665,0.8853862285614014,0.08503680676221848
+apple,Wasn't there meant to be a new version of iTunes coming with the latest version of OS X?,,77,166,2016-03-25,AAPL,0.025423597544431686,0.9266274571418762,0.0479489229619503
+apple,Does everyone still enjoy their Apple Watch?,"I was considering picking up one today with the price cuts introduced. 
+
+What is your favorite feature about it?
+
+
+
+
+**Edit:** Thanks for the feedback! I just bought the 42mm Gold w/ blue strap sport model as a certified refurbished from Best Buy for $270. Loving it...",173,137,2016-03-25,AAPL,0.01686524972319603,0.7052949070930481,0.27783986926078796
+ipad,iRony...,,10,94,2016-03-25,AAPL,0.05091780051589012,0.8576407432556152,0.09144141525030136
+apple,There's a slim chance the FBI will have to tell Apple how it'll break into terrorist's iPhone,,32,70,2016-03-25,AAPL,0.05730321258306503,0.8975987434387207,0.04509797692298889
+apple,"KGI: Apple to revamp iPhone lineup in 2017 w/ iPhone 4-like design, AMOLED screen, 5.8-inch model",,351,568,2016-03-26,AAPL,0.019110091030597687,0.9036141633987427,0.07727578282356262
+apple,Can we take a moment to appreciate just how good Apple's emoji designs are?,"Apple's emojis are really fantastic, they are well designed and have become iconic in the WhatsApp/iMessage era - when people think of emojis, the Apple designs are seen as default (what emoji are you YT videos, emoji cakes, Katy Perry Roar lyric video all using Apple emojis).
+
+Most other emoji designs are really quite poor by comparison.
+
+For example, consider one of the most used emojis, the grinning face: 😀
+
+[Apple Emoji grinning face](http://emojipedia-us.s3.amazonaws.com/cache/19/0c/190cf73e8ae41c318e51fa7fe774f047.png)
+Simple design, nicely detailed, kind of 'cute' (due to lack of a better word...)
+
+[Google Emoji grinning face](http://emojipedia-us.s3.amazonaws.com/cache/a3/22/a32265bb1e91b1f642f53fc4f4edb5cc.png) Flat design went way too far, what is going on with the teeth? Looks a bit creepy
+
+[Microsoft Emoji grinning face](http://emojipedia-us.s3.amazonaws.com/cache/2d/27/2d27b5e8382fee57e97ea8d791b77ca3.png)
+What were they thinking!? This is just scary
+
+[Samsung Emoji grinning face](http://emojipedia-us.s3.amazonaws.com/cache/47/d4/47d4b96b68bcea708240443bdb0d0240.png) Looks tacky, too much detail/skeumorphism for small text
+
+I realise this is hardly groundbreaking innovation, but it just goes to show the level of work put in the small details - Apple realised how important texting was and designed beautiful emojis that work very well and are nice to look at.
+
+Google obviously put in effort too, but latched on too much to the flat design fad and their emojis are simply less pleasant and end up looking a bit creepy in some cases. Microsoft also has this issue, but even worse, with everything being completely flat and looking a bit creepy.
+
+Samsung are on the other end of the spectrum, their designs look really low effort to be honest and have far too much detail - it just doesn't seem well thought out.
+
+This is obviously subjective and this is my own opinion of it, but given how [people seem to love the Apple emojis](https://www.google.co.uk/?gfe_rd=cr&amp;ei=PnX2VvzUH6fS8Ae0xrSwAQ&amp;gws_rd=ssl#q=emoji&amp;tbm=vid) (despite Samsung and Google having strong market share), it seems that I'm not the only one - what do you think?",314,564,2016-03-26,AAPL,0.03518765792250633,0.8965224623680115,0.06828993558883667
+apple,"TIL When you put a flight number in iMessage, it hyper links to the flight with a map and live update","Example : ""I'm on flight AA1224""",60,329,2016-03-26,AAPL,0.021721746772527695,0.9390674829483032,0.039210762828588486
+apple,macOS: It’s time to take the next step. — Prototyping: From UX to Front End,,95,248,2016-03-26,AAPL,0.021827924996614456,0.9246576428413391,0.05351441353559494
+iphone,Here's a GIF of the 9.3 Safari issue. The end is where Safari freezes.,,76,232,2016-03-26,AAPL,0.04550245404243469,0.9043931365013123,0.050104424357414246
+iphone,"TIL When you put a flight number in iMessage, it hyper links to the flight with a map and live update","Example : ""I'm on flight AA1224""",10,170,2016-03-26,AAPL,0.021721746772527695,0.9390674829483032,0.039210762828588486
+apple,Can't Apple Sue the FBI for Violating the iOS Software License?,,36,123,2016-03-26,AAPL,0.7985332608222961,0.18567852675914764,0.015788177028298378
+AppleWatch,Left my phone at home but ended up having a cool experience,"Last weekend my SO and I head up north for a quick getaway. On Saturday night we decide to hit a few tap houses with friends and then dinner. When we arrive at the first place I realize I left my phone at our accommodations. I'm a little bummed but no biggie. Then my wrist buzzes! It's a text from the friends we're meeting up with.
+
+It turns out that we went to this same tap house last summer (before I had an Apple Watch) and I connected to their wifi. I learned that night:
+
+&gt; If your Apple Watch is in range of a Wi-Fi network that iPhone has connected to before, you can still do the following (even if iPhone is turned off):
+
+&gt; * Send and receive Digital Touch messages
+
+&gt; * Send and receive messages using Messages
+
+&gt; * Make and receive phone calls Phone icon (if you have Wi-Fi calling enabled and you’re within range of a Wi-Fi network that your iPhone has connected to before)
+
+&gt; * Check current weather conditions
+
+&gt; * Track your stocks
+
+[Source](https://help.apple.com/watch/#/apd0443fb403)
+
+I had to share this really cool moment with you guys.",25,112,2016-03-26,AAPL,0.0189120601862669,0.9161291718482971,0.06495877355337143
+apple,I just dropped my iphone in butter. My speaker is messed up how do I get it out?,"^
+edit: I used a Q-Tip to try to get some of it out and it kinda worked. But after about an hour it worked perfectly fine.",59,106,2016-03-26,AAPL,0.028666438534855843,0.8625332117080688,0.10880041122436523
+AppleWatch,"Come in, Brain... are you there?",,7,94,2016-03-26,AAPL,0.04146463796496391,0.8913544416427612,0.06718088686466217
+apple,"If apple wants the iPad to be a laptop replacement, it's software should not be effectively a slight revision of its phone software.",,871,2485,2016-03-27,AAPL,0.020453035831451416,0.8801605105400085,0.09938652813434601
+apple,TIL that Internet Explorer was the default browser for Mac between 1998 and 2003.,"""As a result of the five-year agreement between Apple and Microsoft in 1997, it was the default browser on Mac OS and Mac OS X from 1998 until it was superseded by Apple's own Safari web browser in 2003 with the release of Mac OS X 10.3 Panther."" - [Internet Explorer for Mac](https://en.wikipedia.org/wiki/Internet_Explorer_for_Mac)
+
+Also here is [Microsofts Website from 2003 Explaining Internet Explorer for Mac](http://web.archive.org/web/20030806054339/http://www.microsoft.com/mac/products/internetexplorer/internetexplorer.aspx?pid=internetexplorer)
+
+
+Edit: Thanks for the up votes! If you have never checked out the [Macworld Boston 1997 Microsoft Partnership Deal](https://www.youtube.com/watch?v=WxOp5mBY9IY) it is also worth a watch.",277,1135,2016-03-27,AAPL,0.025131316855549812,0.9221355319023132,0.05273308977484703
+apple,"Dear Apple, Please Put a REAL GPU as an option in the next macbook pro.","signed,
+your customers.",333,300,2016-03-27,AAPL,0.022033799439668655,0.9308838844299316,0.04708235338330269
+iphone,"It might seem a bit gaudy to some, but a Champagne Gold housing with black glass would look so good as a color option for the SE (imo)",,42,213,2016-03-27,AAPL,0.014732357114553452,0.8564403653144836,0.1288272738456726
+iphone,Phone was stolen over a month ago. Got texts from a random number but now I got more and it's an iMessage. Can I find the guy somehow?,,30,184,2016-03-27,AAPL,0.05079226940870285,0.9036986231803894,0.045509111136198044
+apple,Your favorite $0.99 iOS game?,What would be your favorite $0.99 game from the AppStore?,98,152,2016-03-27,AAPL,0.02122800052165985,0.9264819025993347,0.05229009687900543
+AppleWatch,Does anyone else always keep their watch on silent?,I've only taken it off silent a handful of times since I got it. I guess I just don't like drawing attention to myself or disrupting other people at work or in a public environment. Anyone else?,94,115,2016-03-27,AAPL,0.16186760365962982,0.8171828389167786,0.020949600264430046
+iphone,5 Best New iPhone APPS 📱 (March 2016 - Week 4) Incl. TL;DR,,19,104,2016-03-27,AAPL,0.038280148059129715,0.8822368383407593,0.0794830247759819
+AppleWatch,"Wanted to start taking my fitness seriously, so invested in a 42mm gold sport with an additional black nylon strap. I think it looks really cool, and the watch is brilliant. A great fitness tracker, and every day I'm finding a new reason to love it. £300 all in, it's worth every penny.",,47,69,2016-03-27,AAPL,0.014385300688445568,0.8466135859489441,0.13900117576122284
+mac,4 years later and the MBA still is only an i5 and 4GB of Memory. Why?,,91,68,2016-03-27,AAPL,0.030108654871582985,0.8533094525337219,0.11658188700675964
+apple,Official: Justice Department to withdraw legal action against Apple,,219,1728,2016-03-28,AAPL,0.7984415292739868,0.17653027176856995,0.025028234347701073
+apple,"As Apple resists creating a ‘GovtOS’ in the U.S., Microsoft already wrote one for China",,154,858,2016-03-28,AAPL,0.023026438429951668,0.9225469827651978,0.054426610469818115
+iphone,Trying to add a ringtone to my iPhone makes me realize how iTunes is the weakest link.,"Its so obtuse, I had to connect to a pc, where is this post pc world that we are suppose to be living in? 
+
+it sucked.",107,418,2016-03-28,AAPL,0.025652972981333733,0.8698770403862,0.10446999222040176
+apple,"Note: Do NOT install the Booking.com app on iOS devices, it completely breaks Safari requiring a complete reload of device. Other apps may also cause the problem. Apple knows of issue.",,87,397,2016-03-28,AAPL,0.9183527827262878,0.07198512554168701,0.00966214295476675
+iphone,"Shit question, please do not upvote.",[removed],34,353,2016-03-28,AAPL,0.047043561935424805,0.9226166009902954,0.030339879915118217
+iphone,My friends phone. My head would explode.,,112,352,2016-03-28,AAPL,0.14143864810466766,0.7367347478866577,0.12182662636041641
+apple,FBI has accessed San Bernardino shooter’s phone without Apple’s help,,165,323,2016-03-28,AAPL,0.1272246092557907,0.8512725830078125,0.021502789109945297
+mac,10 Mac Menu Bar Apps You Can’t Live Without,,64,260,2016-03-28,AAPL,0.028707703575491905,0.928392231464386,0.04290003702044487
+iphone,"iPhone SE a big hit in China, with 3.4M preorders through retailers – CNBC",,34,241,2016-03-28,AAPL,0.020999150350689888,0.8786510229110718,0.1003497764468193
+apple,"iPhone SE preorders top 3.4M in China, gold &amp; rose gold most popular - report",,66,172,2016-03-28,AAPL,0.017300261184573174,0.6437065601348877,0.3389931917190552
+apple,"US says it would use “court system” again to defeat encryption. Feds say they can force entire tech sector, not just Apple, to disable security.",,110,557,2016-03-29,AAPL,0.032597046345472336,0.9148889183998108,0.052514031529426575
+iphone,"Last year, I posted the bootleg 6 someone brought in. Here's this year's model: Bootleg iPhone 6S",,155,388,2016-03-29,AAPL,0.01610540971159935,0.8393730521202087,0.14452148973941803
+apple,iPad Pro 12.9 fast charging tested,,152,379,2016-03-29,AAPL,0.011907554231584072,0.8672978281974792,0.12079457193613052
+apple,"As of iOS 9.3, Apple Music can now be accessed through API for playback and adding tracks to library",,48,275,2016-03-29,AAPL,0.015335800126194954,0.9269648194313049,0.05769941583275795
+apple,"Apple acknowledges iOS 9 crashing bugs when tapping links, fix coming ‘soon’ with a software update",,41,196,2016-03-29,AAPL,0.5448957085609436,0.4251229763031006,0.029981384053826332
+apple,Apple patent reveals stackable Smart Connector plugs and possible MagSafe Lightning cable.,,20,97,2016-03-29,AAPL,0.022913187742233276,0.9245079755783081,0.052578914910554886
+apple,Does anyone else miss the old iOS App Switcher?,"You used to be able to scrub along the small icons and quickly scroll though open apps to find the one you wanted. Now you can't do that and the controls are very sticky, so going from an app on one end of the list to an app on the other end takes so much longer with endless swiping.
+
+
+Or am I missing something?",92,95,2016-03-29,AAPL,0.12683801352977753,0.8457096815109253,0.027452310547232628
+apple,'Next-generation' Apple Store opens in Memphis with custom 37-foot display,,49,80,2016-03-29,AAPL,0.033449478447437286,0.8842542767524719,0.08229628205299377
+apple,Can Apple’s color-shifting screen really help you fall asleep faster?,,44,80,2016-03-29,AAPL,0.03487301990389824,0.9025864005088806,0.06254062056541443
+AppleWatch,I use this custom reply more than I thought I would. I have shit workmates.,,18,77,2016-03-29,AAPL,0.023770062252879143,0.9126080870628357,0.06362186372280121
+apple,"Mac OS X Might Be Dropping The ""X"" to become 'MacOS'",,524,921,2016-03-30,AAPL,0.0646963119506836,0.8983802199363708,0.03692351281642914
+apple,"Apple launches Safari Technology Preview, a new browser aimed at web developers",,205,660,2016-03-30,AAPL,0.014160610735416412,0.9017984867095947,0.08404088765382767
+apple,Spotted a rare beast at a thrift shop last night: the Macintosh TV,"I'm traveling on business and had some time to kill after work yesterday, so I stopped into a large Goodwill thrift store on my way back to my hotel. In addition to a bunch of cool / random / vintage stuff, I spotted [this very rare Macintosh TV](http://i.imgur.com/eDHQudQ.jpg). This was a Mac from the early 1990s that could switch from being a Mac to being a full-color TV - here's [the Wikipedia page](https://en.wikipedia.org/wiki/Macintosh_TV) with details.
+
+See that clear dot above the monitor? That's the IR receiver for the TV remote control! I can only imagine how rad I would have felt if I'd had this setup in my dorm-room in 1993.
+
+Anyway, hope you guys also get a kick out of this",66,412,2016-03-30,AAPL,0.024669146165251732,0.9245378375053406,0.05079302191734314
+apple,Google Announces Cardboard SDK for iOS,,35,302,2016-03-30,AAPL,0.03945309296250343,0.9017329812049866,0.05881398543715477
+iphone,Foxconn confirms $3.5 billion takeover of iPhone display maker,,31,246,2016-03-30,AAPL,0.017088621854782104,0.926204264163971,0.05670708045363426
+iphone,"First iPhone SE teardown reveals mainly 5s/6s parts inside, but a few surprises too",,51,170,2016-03-30,AAPL,0.025051534175872803,0.9306190013885498,0.04432949423789978
+AppleWatch,"John Romero, original DOOM developer, tweeted this pic.",,31,164,2016-03-30,AAPL,0.05423109605908394,0.9130645394325256,0.03270437940955162
+apple,Where is Jony Ive?,"He was always present in new product videos saying some things about the design. He was totally absent under the last event?
+
+I kinda miss his part in the presentation. Anyone else that feels the same way or know what's going on?",108,115,2016-03-30,AAPL,0.0809943899512291,0.89658522605896,0.022420451045036316
+apple,iPad Pro 9.7 review: Damn the torpedoes,,132,98,2016-03-30,AAPL,0.024478768929839134,0.876304566860199,0.09921662509441376
+apple,"Mossberg: understanding the iPhone SE and iPad Pro. They won’t rock your world, but that’s not the point",,45,98,2016-03-30,AAPL,0.016726821660995483,0.8518933057785034,0.1313798725605011
+apple,Really early comment on 9.7 iPad Pro protruding camera,"I just now received my 9.7"" iPad Pro. When I pre-ordered it I read that several people were complaining about the slightly protruding camera which may make iPad wobble on a flat surface, thereby ruining the drawing experience. I became worried but then realized that if the camera bump is not really high, it won't make much difference given the size of the device. And anyway I would put a case on the ipad, which will flatten out the bump.
+
+So about an hour ago with some apprehension I put my brand new ipad on the wooden desk and to my relief found literally no wobble. I used Notability with Pencil for around 15 minutes and experienced no issues whatsoever because of the bump. And it's been an amazing experience writing with the Pencil. Currently I use a Wacom tablet but this is so much better.
+
+So in case you are holding off iPad Pro purchase only because of the concern about the camera bump, I say don't worry.
+
+Edit: Why are people downvoting this?
+
+Edit 2: I complained about downvoting when the post was really new.",159,647,2016-03-31,AAPL,0.2205091118812561,0.7520123720169067,0.027478475123643875
+apple,There's a Happy iCloud eating cookies on iCloud,,32,557,2016-03-31,AAPL,0.03806384280323982,0.912741482257843,0.04919468238949776
+apple,Apple Releases iOS 9.3.1 With Fix for Web Link Crashing Bug,,120,502,2016-03-31,AAPL,0.06733229011297226,0.8937907814979553,0.0388769805431366
+apple,Verizon will soon charge a $20 upgrade fee even if you pay full price for a phone,,273,449,2016-03-31,AAPL,0.013683230616152287,0.8918491005897522,0.09446758776903152
+iphone,iPhone SE just came in the mail!,,189,355,2016-03-31,AAPL,0.01826745830476284,0.8548073768615723,0.12692515552043915
+iphone,Verizon will soon charge a $20 upgrade fee even if you pay full price for a phone,,54,260,2016-03-31,AAPL,0.013683230616152287,0.8918491005897522,0.09446758776903152
+iphone,Apple Releases iOS 9.3.1 With Fix for Web Link Crashing Bug,,50,218,2016-03-31,AAPL,0.06733229011297226,0.8937907814979553,0.0388769805431366
+apple,Scaled up iPhone apps on iPad now use iPhone 6+ version,"Has anyone else noticed this? I believe this is a 9.3 change. Instagram used to look especially ridiculous on the iPad Pro, using the iPhone 4s app size, now it takes up most of the screen and appears to use the 6+ size. Nice change.
+
+Edit: Appears to be for 12.9"" iPad Pro only",52,190,2016-03-31,AAPL,0.027525022625923157,0.9035269618034363,0.06894802302122116
+apple,"Nintendo's first mobile app, Miitomo, is now out.",,154,173,2016-03-31,AAPL,0.01123209297657013,0.8792652487754822,0.10950265824794769
+apple,"iOS 9.3 'Most Stable New Release in Years', Says Analytics Firm",,52,134,2016-03-31,AAPL,0.013302468694746494,0.8752531409263611,0.11144445836544037

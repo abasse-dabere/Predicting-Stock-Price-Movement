@@ -1,0 +1,757 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+iphone,Took a picture while AirPlay Mirroring.,,26,219,2012-03-01,AAPL,0.029355589300394058,0.9268450140953064,0.04379941150546074
+apple,Awesome feature comparison by The Verge between the Windows 8 tab and the iPad,,204,152,2012-03-01,AAPL,0.012204749509692192,0.6604914665222168,0.32730379700660706
+apple,Stunning Photo of Glass Staircase at Amsterdam Retail Store,,23,147,2012-03-01,AAPL,0.01938880793750286,0.9001765251159668,0.08043472468852997
+mac,Why my Mac crashes,,36,102,2012-03-01,AAPL,0.03954542055726051,0.9263525605201721,0.03410198912024498
+iphone,AT&amp;T increases unlimited data throttling threshold - SlashGear,,56,94,2012-03-01,AAPL,0.02789580635726452,0.896826446056366,0.07527774572372437
+iphone,If the calendar icon shows the actual date why can't the weather icon show the real-time weather?,,28,71,2012-03-01,AAPL,0.04356050863862038,0.9341709017753601,0.02226860821247101
+apple,AT&amp;T yields a bit on throttling loyal customers,,35,55,2012-03-01,AAPL,0.04359413683414459,0.905798614025116,0.05060728266835213
+ipad,Reflection.app - AirPlay Mirroring to your Mac without appletv!,,18,47,2012-03-01,AAPL,0.0328751802444458,0.9181584715843201,0.04896634444594383
+ipad,Flipboard update brings Cover Stories to iPad,,12,41,2012-03-01,AAPL,0.03244587033987045,0.9363029599189758,0.03125115483999252
+apple,Question about iCloud,"So, question: I have a different contact list on my phone than on my computer. If I conenct both to iCloud, will it override and delete my iphone contacts, or will it merge the two lists?",17,37,2012-03-01,AAPL,0.0600537545979023,0.9230156540870667,0.016930552199482918
+iphone,"Epic r/iphone comment thread, featuring Dev Team members and iOS source",,86,951,2012-03-02,AAPL,0.030069701373577118,0.9386062026023865,0.031324051320552826
+apple,iPads using high res displays and iOS 6 showing up in Ars server logs,,53,297,2012-03-02,AAPL,0.010755428113043308,0.9074382781982422,0.08180634677410126
+iphone,Best total $16 spent on my iPhone,,103,235,2012-03-02,AAPL,0.1803552508354187,0.763253390789032,0.05639132857322693
+iphone,Siri giving egg cooking advice,,17,106,2012-03-02,AAPL,0.024743376299738884,0.9024369120597839,0.07281965017318726
+apple,iPad3 might have haptic feedback. That would definitely make one have to see it and TOUCH it to appreciate it.,"[Here](http://theweek.com/article/index/224970/apples-mysterious-ipad-3-invitation-3-takeaways) is the rumor itself.
+
+[Here](http://cnettv.cnet.com/senseg-demos-prototype-touch-feedback-technology/9742-1_53-50115714.html?tag=contentMain;contentBody;1n) is a video of the technology itself. Note that this isn't the brute force buzzing haptics we all know, but something more that makes the idea of haptic use in technology a much more elegant and desirable idea.
+     
+[Here](http://www.appleinsider.com/articles/10/06/24/apple_investigating_multi_haptic_feedback_for_multi_touch_devices.html) is a link to a patent that apple has filed on haptic tech.
+
+It seems feasible if the technology itself works as touted in practice. Battery life might be an issue, but I have no idea how energy hungry such tech is. It is my understanding that this is an evolution of traditional haptics and may be more efficient than traditional implementations. Or it may not be.
+
+*I realize this is merely a rumor, however, how do you think the haptics itself would impact you personally as an addendum to the iPad3's list of features*?",167,82,2012-03-02,AAPL,0.013216682709753513,0.9100094437599182,0.07677391916513443
+apple,Apple’s tough talk backfires in negotiations for new streaming TV service,,37,66,2012-03-02,AAPL,0.020049886777997017,0.8702055215835571,0.10974463075399399
+ipad,I wish padgadget had better content sometimes,,3,54,2012-03-02,AAPL,0.01257251389324665,0.7791283130645752,0.2082992047071457
+iphone,"CodeRunner for iPhone is on sale for $2.  This ARG will make you feel like a spy, more people need to play this so pick it up now.",,55,48,2012-03-02,AAPL,0.021354680880904198,0.9098525047302246,0.06879283487796783
+ipad,Call it iPad HD?,,19,27,2012-03-02,AAPL,0.03873908147215843,0.9293069839477539,0.03195393830537796
+ipad,"US Air Force awards $9 million contract to purchase up to 18,000 IPads",,0,25,2012-03-02,AAPL,0.02567260153591633,0.4809899628162384,0.4933374226093292
+iphone,"Owners, Y U NO MAKE AVAILABLE?!?!",,43,350,2012-03-03,AAPL,0.014044983312487602,0.9023892879486084,0.08356575667858124
+apple,Cleaned the gf's and my MacBook and MacBook Pro. I guess this explains the fan noise.,,125,333,2012-03-03,AAPL,0.021195264533162117,0.9201911687850952,0.05861355736851692
+apple,"US Air Force to spend $9 million on up to 18,000 iPads",,73,182,2012-03-03,AAPL,0.02369159273803234,0.8317588567733765,0.14454954862594604
+apple,Genius Bar Rep Saved Me from Starvation and/or Catching Fire.,"Today I took my laptop into apple to see why it nearly catches fire every time I turn it on and to see if I could exchange my 5 year old power cable (based on that class action law suit).
+I went to the genius bar and the rep ran some diagnostics and said that my battery needed to be replaced and my power cable didn't qualify for the replacement plan. He said a new battery was $100 and the cable was $70.
+I said ""I'm on a tight budget."" Before I could say another word he said ""hold on"" and disappeared. 
+When he came back he started installing a brand new battery then handed me a receipt for $0. Then he looked at my power cable and said, ""Well, that's a fire hazard"" then proceeds to ring up a brand new cable for $0. 
+He said that being able to do things like this was the whole reason he started working for Apple; also that he had been promoted and it was his last day working in that store. 
+I gave him several hugs and have not stopped smiling all evening. Thank you Apple employee whose name I can't remember (because I'm bad with names, not because you weren't rememberable). Because of you I will not catch fire and I won't starve this month. 
+
+**TL;DR** Apple rep gave me free battery and cable because I'm poor and he's wonderful.",19,41,2012-03-03,AAPL,0.03775499761104584,0.8956188559532166,0.0666261836886406
+ipad,Is there a way to stop Safari on iPad from redirecting to the YouTube app?,"It's as annoying as can be. I hate the YouTube app and I can't find a way to stop Safari from redirecting every youtube video to the damn app. :)
+
+Please help",12,39,2012-03-03,AAPL,0.046946439892053604,0.9314003586769104,0.021653197705745697
+ipad,Anything like this for iPad?,,20,33,2012-03-03,AAPL,0.03477422520518303,0.9242347478866577,0.04099104180932045
+iphone,How to Sync an iPhone to a New Computer Without Losing Data,,10,29,2012-03-03,AAPL,0.02125697396695614,0.9369766116142273,0.041766438633203506
+iphone,Vans iPhone 4 Waffle Case,,10,28,2012-03-03,AAPL,0.01636459119617939,0.8815449476242065,0.10209047794342041
+ipad,Torrents on iPad 2 ... is it possible ?,I know there are some apps on the old iphones and the old iPad. But is it possible to get a proper working torrent client on the iPad 2 which allows you to open files (like avi) in an external app ?,34,24,2012-03-03,AAPL,0.014167646877467632,0.9165435433387756,0.06928880512714386
+ipad,Apple could break through its 100 millionth iPad this year,,1,18,2012-03-03,AAPL,0.017113186419010162,0.2642422318458557,0.7186445593833923
+iphone,I can't be the only one.,,183,787,2012-03-04,AAPL,0.07148973643779755,0.8667680621147156,0.06174222752451897
+apple,#Logic,,236,502,2012-03-04,AAPL,0.0667279064655304,0.8492851853370667,0.08398693054914474
+apple,Paintbrush for Mac - great open source image MacPaint alternative,,31,146,2012-03-04,AAPL,0.01913781836628914,0.9387161731719971,0.042145997285842896
+ipad,"Why do I get this kind of desktop iTunes page on the App Store in iOS? Download button doesn't work, reviews and screenshots don't load. Can something be done about it?",,11,22,2012-03-04,AAPL,0.09483154118061066,0.883159339427948,0.022009065374732018
+iphone,"Friends and I found a little loophole in Siri, leading to humorous responses (starts silly, then gets creative, then silly again)",,6,17,2012-03-04,AAPL,0.06376183032989502,0.8759666681289673,0.06027153506875038
+iphone,Is Spotify for mobile worth it?,"I will be getting an Iphone (finally) this week and was wondering if Spotify premium is worth 9.99 a month? Unlimited songs is tempting and not paying 1.29 per song in itunes is also a nice prospect. Also, what has been your general feelings towards Spotify? Thanks.",23,14,2012-03-04,AAPL,0.01294378936290741,0.7636581659317017,0.22339797019958496
+ipad,"iPad question. syncing, tranferring purchased music, and not losing my music.","I do not own a CPU, and had to originally sync my iPad2 to a buddy's Mac. Now that I moved away from him, to update my iPad to iOS5 and manage my music, I would like to sync to another friends Mac. I have purchased music on my iPad that I want to transfer over to his CPU. I assume when I sync I will lose my music? Well thats fine because other than my purchased music there isnt a whole lot. I hope then after that I can manually drag the purchased songs I want back over to my iPad along with some of my new buddy's. How do I sucessfully pull this off? By doing so will I delete my new friends iTunes library because that would most certainly not be advantageous to our new found friendship.",10,13,2012-03-04,AAPL,0.0377207025885582,0.9236193895339966,0.03865984454751015
+iphone,Hey Reddit. Here's my 5 favorite iphone wallpapers. What's yours?,"Ok guys. So I'm always searching for the best iphone wallpapers that I can find. And today I'm sharing what I founded with you guys. Hope you like it. Please fell free to share yours. 
+
+1- for all you Street Fighters Fan : [Street Fighter gang](http://imgur.com/B3PsO)
+
+2- [Don't F*ck with Winnie the Poo](http://imgur.com/tgO3Q)
+
+3-[Darth Vador on his cigarette brake](http://imgur.com/X9Np)
+
+4-[Swag Geisha](http://imgur.com/CuKva)
+
+
+EDIT: correct link for vador wp in comments
+
+
+
+5-[Speakerwall](http://imgur.com/Qx0TD)  
+
+Hope you like it",17,13,2012-03-04,AAPL,0.020339153707027435,0.8889421820640564,0.09071862697601318
+iphone,My (13 year old) son just finished his second cross-stitch iPhone case!,,3,12,2012-03-04,AAPL,0.01890213042497635,0.8875468373298645,0.09355109930038452
+mac,"CrossOver 10 is now on sale at 50% off, with a free upgrade to CrossOver XI!",,5,10,2012-03-04,AAPL,0.012500550597906113,0.9016096591949463,0.08588975667953491
+apple,"Please, can we get rid of the 'Tangled' image?  It's a crappy ad for a Disney film.",,217,374,2012-03-05,AAPL,0.09347308427095413,0.8760539293289185,0.03047294355928898
+iphone,Clauses in AT&amp;T Contracts Have Always Provided for Limits on 'Unlimited' Data Plans,,74,63,2012-03-05,AAPL,0.03408266231417656,0.9351922273635864,0.03072509728372097
+mac,"So, after being a hardcore Windows user for 20 years, I got myself an iMac today. What's the first cool thing I should do/get? What apps shouldn't I miss, what functions should I activate, etc. etc?",,63,54,2012-03-05,AAPL,0.039313316345214844,0.9309705495834351,0.029716158285737038
+apple,What 'Mastered For iTunes' Really Means,,11,52,2012-03-05,AAPL,0.013882593251764774,0.859197735786438,0.126919686794281
+apple,29% of mobile web users intend to buy Apple iPad 3 but there might be less supply than demand from Apple,,51,47,2012-03-05,AAPL,0.047454703599214554,0.8017728924751282,0.15077239274978638
+apple,IPad 3 Rumor Mill,,51,34,2012-03-05,AAPL,0.04583131521940231,0.8849256038665771,0.06924311071634293
+ipad,iPad 3 rumor roundup: everything we think we know,,5,30,2012-03-05,AAPL,0.021709926426410675,0.906495988368988,0.07179401814937592
+iphone,iPhone 4S worth the upgrade?,"I have an iPhone 4 at this time. I work for a wireless provider and I can now get the 4S, there is usually a delay for employees to get the newer phones. When the 5 comes out it will probably be about 3-5 months before I could get it anyway, which would put my upgrade availability sometime in the first quarter of next year. My contract length is only a year, should I get the 4S? Just looking for opinions.",60,24,2012-03-05,AAPL,0.03392602875828743,0.9021554589271545,0.06391848623752594
+ipad,Is it possible to play roms transferred from a Dropbox account on an emulator?,"I know this is a pretty specific question, I just can't figure out any other way to save files to my ipad",7,22,2012-03-05,AAPL,0.027328524738550186,0.9386388659477234,0.03403261676430702
+apple,Square Register iPad Point-of-Sale system makes old cash registers look like ‘POS’,,16,19,2012-03-05,AAPL,0.02718193829059601,0.9266535043716431,0.04616455361247063
+apple,"Im not the greatest at photoshop, but here is a Calvin and Hobbes Mac wallpaper.",,56,600,2012-03-06,AAPL,0.029011091217398643,0.9273859262466431,0.043602991849184036
+iphone,Fortunate to wake up on time today at 7.,,51,436,2012-03-06,AAPL,0.0696801021695137,0.8771558403968811,0.05316411331295967
+iphone,Seems legit...,,14,193,2012-03-06,AAPL,0.05444585159420967,0.8181549310684204,0.1273992359638214
+apple,Apple wins right to Android development details in patent lawsuit,,63,135,2012-03-06,AAPL,0.04837533459067345,0.9079601168632507,0.043664559721946716
+iphone,I asked Siri this and well...,,12,134,2012-03-06,AAPL,0.05967975780367851,0.879412055015564,0.060908179730176926
+iphone,TIL that there is a built-in 'find' function in mobile Safari.,,20,107,2012-03-06,AAPL,0.022001100704073906,0.9031654596328735,0.07483340799808502
+apple,"Apple granted major patent for iWallet, drawings depict iPhone with NFC, transactions via iTunes billing backend",,48,103,2012-03-06,AAPL,0.02529042959213257,0.9321525692939758,0.0425569973886013
+apple,"If you could have Apple add one thing to iOS, what would it be?","I made a thread yesterday that came off very dick-ish, but this is one good question that came out of it.
+
+So, if you could have any feature, what would it be?",430,80,2012-03-06,AAPL,0.014447181485593319,0.9081603288650513,0.07739247381687164
+iphone,I feel like I might be the last person in the world to discover this background...,,16,76,2012-03-06,AAPL,0.05314221605658531,0.9110611081123352,0.0357966423034668
+iphone,Just my lockscreen,,11,65,2012-03-06,AAPL,0.056505851447582245,0.9177932143211365,0.025700900703668594
+apple,The New iPad Summed Up.,,715,1291,2012-03-07,AAPL,0.010490468703210354,0.7995900511741638,0.18991950154304504
+iphone,40 iPhone Features You May Not Know. I consider myself a power user and I learned three things.,,90,350,2012-03-07,AAPL,0.019220512360334396,0.8693262338638306,0.11145324259996414
+apple,"Everybody remember, no matter what Apple announces today up until now they have promised nothing. All the rumors were just that, rumors. So please don't freak out when special feature 'X' isn't included.","My suggestion would be anytime someone complains about something missing just link them to this thread and maybe we can avoid the flame wars for once. Friendly discussion is great but threads full of: ""it doesn't have XXX not gonna buy it"", get really old, really quick. 
+
+For anyone thinking this is a karma grab, there is no karma for self posts.",125,339,2012-03-07,AAPL,0.08588175475597382,0.8825171589851379,0.031601034104824066
+apple,March 7 iPad 3 Live Event - Video &amp; Text Streams,"All live streams are starting at 10:00 AM Pacific time/1:00 PM Eastern ([click here to convert to your time zone](http://www.wolframalpha.com/input/?i=10+AM+PST+3%2F7)). If anyone knows any other, feel free to post.
+
+**Live Video**:
+
+Apple has put up the link to the official video:
+http://www.apple.com/apple-events/march-2012/
+
+**Live Text Stream**:
+
+* http://live.gdgt.com/live-apple-ipad-3-event-coverage/
+* http://live.theverge.com/Event/Live_from_Apples_iPad_3_event_in_San_Francisco
+* http://www.engadget.com/2012/03/07/apple-ipad-3-liveblog/",172,255,2012-03-07,AAPL,0.029402215033769608,0.9425538778305054,0.02804393880069256
+apple,TIL how the iMac glass is attached/removed.,,54,243,2012-03-07,AAPL,0.04664921388030052,0.9130056500434875,0.040345173329114914
+iphone,iOS 5.1 is out,,218,229,2012-03-07,AAPL,0.03820312023162842,0.9248418807983398,0.03695502504706383
+iphone,Every time I download a new app it does this and downloads some of my recently other downloaded apps. This all started when I downloaded scramble with friends. Help it didn't hurt my iPhone I think but it's just annoying. After this notification it downloads the app even though it says it can't.,,28,141,2012-03-07,AAPL,0.08892881870269775,0.8613783717155457,0.049692802131175995
+apple,"New iPad announced with LTE, Retina Display, A5X processor with quad-core graphics",,199,137,2012-03-07,AAPL,0.01108897477388382,0.8766176104545593,0.11229342967271805
+iphone,"After updating to 5.1, my 3G logo turned into 4G. Why?",,86,122,2012-03-07,AAPL,0.02716512233018875,0.8000342845916748,0.17280060052871704
+apple,Keynote Reaction Thread,,722,96,2012-03-07,AAPL,0.03213733807206154,0.9194390773773193,0.04842360317707062
+apple,New iPad's most revolutionary feature is its battery,,197,423,2012-03-08,AAPL,0.009466605260968208,0.5953502058982849,0.3951832056045532
+iphone,USB IPad Charging Adapter....are you kidding me?,,59,238,2012-03-08,AAPL,0.020555226132273674,0.9235607385635376,0.05588400363922119
+ipad,New iPad First World Problem,,19,194,2012-03-08,AAPL,0.12574003636837006,0.831322193145752,0.042937733232975006
+apple,"""If you think iPhoto is coming to iOS you're stupid"".",,98,190,2012-03-08,AAPL,0.03120039775967598,0.9154583215713501,0.05334135517477989
+iphone,"iMessages not delivering, but they are? Anyone else having this issue?",,67,144,2012-03-08,AAPL,0.05929930508136749,0.9077352285385132,0.032965514808893204
+apple,The New iPad Keynote In 90 Seconds,,29,106,2012-03-08,AAPL,0.012376286089420319,0.8725836277008057,0.11504010111093521
+apple,"""So dad, how do you like that iPad we got you?""",,7,104,2012-03-08,AAPL,0.01911838911473751,0.9214102029800415,0.059471383690834045
+apple,"So with iOS 5.1, my iPhone 4s tells me I have a 4g connection.",,96,103,2012-03-08,AAPL,0.01957784593105316,0.922726571559906,0.057695552706718445
+iphone,As a jailbroken iPhone user this is how I feel about the 5.1 update...,,46,83,2012-03-08,AAPL,0.11698731034994125,0.822647750377655,0.06036501005291939
+ipad,Faith in Humanity Restored,"Arriving home from a long day I dig through my bag and realize something is missing.  Cue total panic attack as I realize my iPad is nowhere to be found.  I hadn't used it in a few hours, and its last known location was my city's main public library (not a place I would consider leaving anything unattended for more than a moment).  Wasting no time I jump in the car and speed back to the library hoping that there is any chance it is still there. To my surprise some kind honest person had found it where I left it and took it to the reference desk. Amazing!
+
+TL;DR
+Dumb me left iPad at busy public library. Awesome citizen did the right thing and turned it in.",18,66,2012-03-08,AAPL,0.06097841635346413,0.896655797958374,0.04236575588583946
+apple,The best thing about iOS 5.1 is this...,"http://i.imgur.com/URY9H.jpg
+
+When I tap Safari from the home screen, I'm no longer forced to choose from bookmarks or history. I get a blank page ready to navigate the web. This was probably my biggest annoyance! So thank you Apple for the fix.",188,436,2012-03-09,AAPL,0.06795483827590942,0.8693311810493469,0.06271399557590485
+iphone,paying it forward. found an iphone on the ground yesterday. contacted the owner and gave it back. got this,,89,294,2012-03-09,AAPL,0.0532996766269207,0.6247849464416504,0.3219153583049774
+apple,"Apple to create 3,600 jobs in Austin",,91,278,2012-03-09,AAPL,0.1317502111196518,0.7850558757781982,0.08319385349750519
+iphone,My favorite feature of iOS5.,,64,269,2012-03-09,AAPL,0.015686769038438797,0.8954390287399292,0.08887416124343872
+mac,Mac Plus. Fired up for the first time in a couple decades. Not bad for a 26 year old dinosaur.,,47,107,2012-03-09,AAPL,0.13039860129356384,0.6649051308631897,0.20469629764556885
+iphone,It just keeps getting worse,,56,104,2012-03-09,AAPL,0.38234925270080566,0.4973638355731964,0.12028688937425613
+apple,"Upload images to Imgur from your Mac by selecting files in the Finder, right-click and select ""Upload to imgur"".",,38,69,2012-03-09,AAPL,0.027292398735880852,0.9109039306640625,0.06180369108915329
+iphone,"If you haven't set up ""Find My iPhone"" please set it up now.","There are constantly posts here about what to do if there is a lost iPhone, stolen, left at a restaurant, eaten by a pig whatever. It seems that 9/10 they haven't set up find my iPhone which is like setting yourself up to be knocked down. So if you haven't yet, please do. It's free. Takes a few minutes and will save you countless hours of stress and money if push comes to shove. You may not end up using it at all, but it's like never syncing your iPhone to your computer and it gets reset.",35,65,2012-03-09,AAPL,0.14848805963993073,0.7815331816673279,0.06997880339622498
+apple,"If you preordered The New iPad, expect to see this in your inbox soon.",,104,65,2012-03-09,AAPL,0.016280602663755417,0.9318774342536926,0.05184188857674599
+ipad,Apple trolled me pretty hard this morning...,,26,60,2012-03-09,AAPL,0.307465136051178,0.4262307286262512,0.2663041055202484
+apple,Hidden gems in Mac OS X,,48,592,2012-03-10,AAPL,0.03584020584821701,0.9281072020530701,0.03605252504348755
+apple,iPhoto for iOS out-does Adobe for mobile image editing,,45,115,2012-03-10,AAPL,0.04067345708608627,0.9332613945007324,0.02606508694589138
+iphone,"I know Iphone 4g on att is the same as 3g, but this is my speeds before and after the update, taken at the same place. Whats up wit dat?",,41,114,2012-03-10,AAPL,0.030575580894947052,0.9283570051193237,0.041067373007535934
+apple,HTML5 Web App To Allow Tethering From iPhone - No Jailbreak Required,,80,102,2012-03-10,AAPL,0.06449300795793533,0.9051939845085144,0.030313093215227127
+apple,The comparison shots of the new iPad retina display on Apple's website may be actual screenshots from the iPad. Check out the resolution of the images. Impressive to say the least.,,25,74,2012-03-10,AAPL,0.014934029430150986,0.9189688563346863,0.06609708815813065
+iphone,Organizing Apps By Color,,31,67,2012-03-10,AAPL,0.023342952132225037,0.9362667202949524,0.04039033502340317
+ipad,This Article Generating Thousands Of Dollars In Ad Revenue Simply By Mentioning New iPad,,4,67,2012-03-10,AAPL,0.03273256495594978,0.9211876392364502,0.046079833060503006
+iphone,"Hey guys, check out my amazingly fast 4G connection on my iPhone 4S!",,24,41,2012-03-10,AAPL,0.021525168791413307,0.864036500453949,0.11443832516670227
+iphone,"After two years, my friend and I are finally releasing our first game: Ninja Dino Showdown! Promo codes and AMA","[Ninja Dino Showdown](http://ninjadinoshowdown.com/) is an action lane defense game with an active job system. It's releasing with 1.5 episodes and has 3 more coming as free DLC. My friend and I have been working on it for ~2 years now, he quit his job to do this and I have delayed my thesis. -- tell us what you think.
+
+
+Promo Codes:
+
+~~NJYL7N9YTRA3~~
+
+~~HRJ9EFTN9MTL~~
+
+~~A9XE77K4WFXJ~~
+
+~~TPTNXW3MTMNW~~
+
+~~7AHF69LE9HMN~~
+
+
+EDIT: All the promo codes are taken, and we are out of the codes supplied by Apple. We will be starting the Beta for the next episode sometime within the next month. If you are interested, let me know.",37,39,2012-03-10,AAPL,0.042698536068201065,0.9266680479049683,0.030633388087153435
+apple,"So, with iPhoto for iPhone, iPad and Mac + PhotoStream, what the heck is the workflow?","Consider this hypothetical situation:
+Person has an iPhone, Mac Mini and iPad. This person goes on a short trip to another place, bringing just the iPad and iPhone. They also take all their photographs using the iPhone. Photo stream will automatically push the photos to the other devices, perfect. 
+
+But with iPhoto in the equation, it just seems like a disaster to do some edits on the iPhone, then beam them to the iPad to finish. The album organization is completely lost. You could take photos and sort them into albums in the photos app, beam to the iPad and they all go into an album called ""beamed.""
+
+Alternatively, everything could be downloaded from photo stream on the iPad, but then edits are lost and albums would have to be sorted again.
+
+Finally, there doesn't seem to be a way to take all the edits and changes I made and send those to iPhoto for Mac without exporting to the camera roll. But then all the unedited photos will be automatically downloaded via PhotoStream so, duplications or being forced to re-edit.
+
+No matter what situation you choose, the person will either have many many duplicates, and/or loss of organization and/or being forced to redo edits and organization. It seems like the clear answer would have been utilizing iCloud to keep all three devices the same, or at least some kind of wireless sync/merge functionality like Bento. 
+
+Right now, the only idea I have to better manage is to not use iPhoto for the iPhone, but have photo stream on for backup purposes. Then using the camera connection kit to transfer the photos to an iPad where ALL of the editing will take place - the iPad has photo stream disabled. The best edits are exported to the camera roll, where they can be synced from the iPad to iPhoto for Mac when the person gets home.
+
+Unless anyone else has any better ideas ----- yikes!",32,34,2012-03-10,AAPL,0.04774854704737663,0.9271690249443054,0.025082433596253395
+apple,"Sometimes, I spec out a Mac Pro just for fun.  17K!",,350,974,2012-03-11,AAPL,0.020608626306056976,0.9016432166099548,0.07774820923805237
+iphone,"Siri, how do I get to Hawaii?",,15,176,2012-03-11,AAPL,0.03294207155704498,0.8090671300888062,0.15799079835414886
+ipad,Alien Blue 2.0 Update,"New Features:
+
+- Sliding navigation interface with pinch-close panes
+- High resolution artwork for new iPad (Retina launch images coming in following update)
+- Ability to view content (like videos) alongside comments
+- Large server-supported thumbnails
+- Comment link thumbnail previews for images, videos and articles
+- Revised Posts screen design
+- Revised Comments screen design
+- Revised Pull to Refresh
+- Optimal Browsing: Renders web articles to fit nicely
+- Image links are presented without clutter
+- Youtube videos are presented without clutter
+- Secure SSL authentication to Reddit
+
+Improvements:
+
+- Links to subreddits now open natively in Alien Blue
+- Ability to Delete Posts
+- Tags for work-unfriendly posts
+- Evernote integration
+- Ability to jump to subreddit directly from a post
+- Ability to jump to submitter's details directly from a post
+- Revised the display of prompts
+- Improved appearance of account login screen
+- Tapping anywhere on an inbox message now marks it as read
+- Threaded message support for Moderator inbox
+- Prioritised Orangered indicator over Mod-mail indicator
+- Improved transitions between themes/night mode
+- Added Setting: Show Voting Icons (Posts)
+- Added Setting: Show Voting Icons (Comments)
+
+Gestures: (Visual Guide available in Settings screen)
+
+- Gesture: Slide left and right to navigate between panes
+- Gesture: Pinch-close panes (although AB takes care of this automatically)
+- Gesture: Double-tap header for fullscreen
+- Gesture: Hold-tap on Posts list to show post options
+- Gesture: (Alternative) 2-finger swipe to show post options
+- Gesture: 2-finger tap to upvote items
+- Gesture: 3-finger tap to downvote items
+- Gesture: 2-finger left swipe over comments to collapse to root
+- Gesture: Drag Posts list up to load more
+
+Fixes:
+
+- Fixed: Context option occasionally not finding the comment
+- Fixed: HTML tags displaying in comments
+- Fixed: Double spacing around quoted comments
+- Fixed: Correct plural presentation, eg. 0 pts, 1 pt, 2 pts etc.
+- Fixed: Missing scroll indicators in Inbox
+- Fixed: Navigation bar buttons flickering blue when presenting Inbox and Settings
+- Fixed: Facebook and Twitter sharing not working
+- Fixed: Handling of deeplinked imgur urls with subreddit parameters
+- Fixed: Randomly glowing comment icons
+- Fixed: Part of comment drawer appearing on collapsed comment threads
+- Fixed: Mark all as read button not working for Mods
+- Fixed: Https links not responding to tap
+- Fixed: More button not loading new posts after a long period of inactivity
+- Fixed: Default 'http://' text interrupting post creation
+- Fixed: Sorting by New occasionally returns no results
+- Fixed: Lose place when rotating the device
+- Fixed: Subscribing to Reddits occasionally crashes",23,174,2012-03-11,AAPL,0.05541294813156128,0.9111935496330261,0.03339351341128349
+ipad,The Khan Academy is coming to iPad,,17,134,2012-03-11,AAPL,0.04562810808420181,0.8015864491462708,0.15278543531894684
+iphone,Have you guys gotten really good battery life after the iOS 5.1 Update?,,89,133,2012-03-11,AAPL,0.011410035192966461,0.3506540060043335,0.6379359364509583
+iphone,CameraSharp free today! (Reg. $1.99),"I just released version 1.2 and made the app free for the weekend. It's packed with tools like anti-shake, self-timer, time lapse/burst, big button, bubble level, and more to help you capture photos. Hope you guys enjoy it!
+
+[Link to app store](http://itunes.apple.com/us/app/camerasharp/id442142280?mt=8)
+
+Edit: works on any iDevice with a camera on iOS 4.0+.",44,116,2012-03-11,AAPL,0.01721634529531002,0.9239183664321899,0.0588652603328228
+iphone,"The Redditor iPhone/iPad app - app I made to download and read 'The Redditor', the magazine made by redditors. Free.",,18,97,2012-03-11,AAPL,0.02207113243639469,0.9466870427131653,0.03124186396598816
+apple,iOS Transmission remote app (torrent),"Well, i wrote an app that let's you remotely control the torrent app Transmission. As expected it was rejected from the App Store, and that is ok.
+
+But i still find the app useful, and imagine that there are more people out there with the same opinion. So, if you want, i'll make sure you can install it on your device. Send me a pm to either get the source code or the signed app for free.
+
+the iPhone app is able to:
+
+* start/pause downloads 
+* delete current downloads
+* add new downloads from either links or torrent files
+
+for more infos see the very ugly https://sites.google.com/site/idifferentialapp/ or reply here ;)
+
+
+
+EDIT: i'll look into the possibility to distribute the app through cydia. in the meantime, to sign the app i'd need the devices UDIDs. don't know if there is other way to distribute the app without having the udids really…
+
+
+EDIT2: i added a repo on github, here it is: https://github.com/dfritsch86/iDifferential
+just a few remarks:
+
+* first time i am using github, so if i made any beginner's mistakes, please excuse me (and maybe tell me what to do better)
+
+* the app itself just does basic stuff. so if you want to fully configure your transmission client remotely, this is not for you. i was planing on adding more functions in the future, but since it has been rejected, i don't know how and when this will happen.
+
+* feel free to read and improve code (there is lots of room for improvement!). fork as you like, add functionalities if you want to, but leave it public. i'd like to see and use your improved versions too :)
+
+* this was my first obj-c app, so probably there is lot's of stuff that could have been handled better. feel free to comment and criticize, as it is the best way for me to learn :P
+
+*i'll still see what can be done about adding the app to cydia, can't say how long it will take me tho 
+
+EDIT 3 (and last for today):
+
+since lot's of people are asking per pm and here, i thought i should explain better what my app does and doesn't do:
+
+my app DOES:
+
+* start/pause existing torrents (by simply tapping on them)
+* delete torrents deciding whether to delete or keep the data (swipe to delete)
+* add downloads to Transmission by:
+ - saving a link to a torrent file in the clipboard (best done in a browser, just copy the link)
+ - downloading the actual .torrent file with another app (mail, idownloader ecc) and then importing it in iDifferential
+* save a number of different clients each with it's own ip-address, username, password, port number ecc (this is useful for making a setting with the internal ip-address and another with the external)
+* set how often the data should refresh
+
+
+what my app does NOT do:
+
+* edit settings of the client
+* show advanced informations like peers/trackers ecc
+* automatically open magnet files (but i could implement that soon, as this shouldn't be very complicated)
+* pretty much everything else that transmission does.
+
+
+To make it perfectly clear: my app is very basic and does LESS than the web-gui (but what it does, it does better than the web-gui).
+
+EDIT 4 (so sue me, i lied about the previous edit being the last for today):
+i posted the source code and i will try putting the app on cydia.
+if you do not want to jailbreak and if you don't have a developer account, the only way to get in on your phone is to send me a pm with your udid. i will then register the first 10 and send them the signed app.",39,63,2012-03-11,AAPL,0.034359440207481384,0.9278889894485474,0.03775165230035782
+ipad,what ipad could do to your family,,13,57,2012-03-11,AAPL,0.020704587921500206,0.8240222334861755,0.15527315437793732
+mac,my G4 cube adventure in pictures (the journey so far),,29,51,2012-03-11,AAPL,0.03523634001612663,0.8877147436141968,0.07704891264438629
+apple,One iOS Icon Is Larger Than The Entire Original Macintosh Screen,,92,362,2012-03-12,AAPL,0.02772442065179348,0.9450461864471436,0.027229376137256622
+iphone,Just playing Tic-tac-toe over iMessages,,31,287,2012-03-12,AAPL,0.02728431299328804,0.9291664958000183,0.04354921728372574
+apple,"A rare interview with The Man, Sir Jony Ive.",,78,252,2012-03-12,AAPL,0.023231731727719307,0.9130855202674866,0.06368274241685867
+iphone,"It's shit like this, Weather app",,51,222,2012-03-12,AAPL,0.16977150738239288,0.7888960838317871,0.041332487016916275
+apple,Can this guy really get away with this? Read his description.,,49,148,2012-03-12,AAPL,0.07239869982004166,0.8679248094558716,0.059676460921764374
+iphone,Unmodified image taken with iPhone 4. Not bad Apple!,,42,115,2012-03-12,AAPL,0.6470494866371155,0.30717596411705017,0.045774586498737335
+apple,"Apple: iPad preorders sell out, demand 'off the charts'",,229,113,2012-03-12,AAPL,0.039649367332458496,0.8050158619880676,0.15533475577831268
+iphone,"Transform Your iPhone Into a Microscope: Just Add Water | Compound Eye, Scientific American Blog Network",,22,104,2012-03-12,AAPL,0.033818136900663376,0.9256525039672852,0.04052940383553505
+mac,Life lesson from grade school.,,23,99,2012-03-12,AAPL,0.03202375769615173,0.883053183555603,0.08492310345172882
+iphone,My girlfriend took this with her iPhone 3GS. Who says old iPhones can't capture great images?,,27,90,2012-03-12,AAPL,0.016019541770219803,0.8668089509010315,0.1171715259552002
+apple,I worked at an Apple store when they transitioned from live phone operators to an automated system. It was a rough transition.,,91,568,2012-03-13,AAPL,0.024021554738283157,0.9416477680206299,0.03433072194457054
+iphone,Feature in 5.1 that I'm just noticing: Alphabetized Keyboard Shortcuts!,,54,185,2012-03-13,AAPL,0.0698242262005806,0.8981235027313232,0.03205228969454765
+apple,I'm sick of Adobe.,"Adobe is no longer a company that innovates. Their software has become a continued annoyance in multiple ways. They need to either seriously rethink their products or just go away. Some of the problems I've noticed with Adobe products (at least on OS X) over the years are:
+
+* Tons of crap scattered throughout your computer. The applications folder is a mess with Adobe's crap, and if you dare to delete or move any of these precious files Adobe software freaks out. How hard would it be to create a self-contained application?
+* Horrible management of your system's resources. I'm talking everything from hard drive space to CPU usage. Adobe applications are horribly inefficient. Just look at Flash and AIR. They are incredibly inefficient and haven't been refined in *years*.
+* An inconsistent UI. Adobe insists on doing things its way, causing their applications to be a real eyesore in OS X. Their window system is confusing and the general design does not fit with the rest of OS X, something that is very important at least for me (and I imagine many Mac-owners).
+* Annual (or near-annual) updates to software that cost ~$200, providing only very minor changes that should be free. Buying Adobe products new is even more ridiculous; Photoshop CS5.5 is **$700**!
+* Annoying update software that gets in your face.
+
+Adobe should really clean up their product line. It's a shame that they suck so much since some of their applications are very useful, even though they have so many problems.
+
+This is what I think they should do for their software:
+
+* Overhaul Flash and AIR. Rebuild them from the ground-up. Alternatively, destroy them from the face of the earth. Don't worry: if you kill Flash and AIR we'll forgive and forget.
+* Get rid of the unnecessary crap in their applications and make their applications self-contained.
+* Dramatically improve efficiency and UI consistency.
+* Lower the price.
+* (Optional) Release their apps on the Mac App Store. I realize, however, that this may be a problem since Apple takes a 30% slice, which would only raise prices further.
+* (Optional) iCloud and Auto Save / Versions integration. Not essential, but would be very appealing to OS X users.
+* (Optional) Full iOS apps. Give us the complete desktop functionality of Creative Suite and bring it to the iPad. Adobe, you have no idea how much money you would make off of that. Especially if you seamlessly integrated your iOS software with your desktop software.
+
+Adobe definitely can redeem itself, it's just a matter of if they want to or not. Thoughts from the community?
+
+***
+
+**TL;DR** Adobe software sucks, especially on the Mac. However, they can fix it if they choose to.",261,171,2012-03-13,AAPL,0.0705057829618454,0.8904693126678467,0.0390249565243721
+apple,"apple credits jailbreak ""dream team""",,50,103,2012-03-13,AAPL,0.04676363617181778,0.8499919772148132,0.10324443131685257
+ipad,"Benchmarks of Apple's new iPad confirm 1GB of RAM, same CPU speed",,22,53,2012-03-13,AAPL,0.0152314193546772,0.8814782500267029,0.10329035669565201
+apple,The iPad 2 with Tangled in the sidebar is getting a little old. Here's a page with some images of the iPad 3 that we can use. [Sorry for the previous post w/ download].,,19,43,2012-03-13,AAPL,0.03966841474175453,0.9289515614509583,0.031380053609609604
+iphone,Popular iOS App UI Design Shots for iPhone and iPad,,3,43,2012-03-13,AAPL,0.013191934674978256,0.9068228006362915,0.07998520880937576
+apple,What Retina Display Wallpapers will you be using? Here's just a few that I've collected,,17,35,2012-03-13,AAPL,0.024963995441794395,0.9372743368148804,0.03776172548532486
+ipad,(wince) what have apple done to the top app charts in the app store? Right to left scrolling is so much more difficult to see what's hot compared to a top to bottom list!,,4,35,2012-03-13,AAPL,0.04550495371222496,0.9003161787986755,0.054178789258003235
+ipad,"""The 25 best iPad apps"" - I wouldn't say they are the ""best"", but there are some pretty nice, interesting apps in this list",,19,28,2012-03-13,AAPL,0.020577099174261093,0.8919121026992798,0.08751077204942703
+apple,A shipment of Mac Pro's arrived today,,230,1287,2012-03-14,AAPL,0.013080134987831116,0.8357980251312256,0.1511218398809433
+apple,Can't be bothered to read the whole paper? Apples got your back!,,100,422,2012-03-14,AAPL,0.10929300636053085,0.7892903685569763,0.10141664743423462
+iphone,Meet the iCache Geode: an iPhone case to replace your wallet. It has an e-ink display to scan loyalty cards and a re-programmable credit card.,,72,208,2012-03-14,AAPL,0.03225534409284592,0.913752019405365,0.05399264022707939
+iphone,AT&amp;T Tells Customer It Will Shut Off His Service Over Throttling,,47,134,2012-03-14,AAPL,0.23186929523944855,0.7394277453422546,0.02870299480855465
+ipad,For your consideration: New iPad apps are up to five times larger than their predecessors. 16GB iPad in particular is looking short on local storage.,,51,69,2012-03-14,AAPL,0.019414421170949936,0.8696821331977844,0.11090341955423355
+apple,The coming iPad storage crunch thanks to Retina display apps,,68,68,2012-03-14,AAPL,0.019226307049393654,0.8895142674446106,0.09125936776399612
+ipad,Just playing Draw Something,,21,52,2012-03-14,AAPL,0.06519793719053268,0.9059687852859497,0.028833242133259773
+iphone,What are some really beautifully designed apps that people may not have heard about?,"I'm a sucker for really well designed and beautiful apps (e.g. Clear, Flipboard, etc.), and I was wondering if anybody has found some really great apps that may not be very well known.
+
+Feel free to mention anything that you really like as well though!",34,48,2012-03-14,AAPL,0.014402234926819801,0.8830388784408569,0.10255888104438782
+ipad,Not sure if this has been on here but....standzfree,,22,48,2012-03-14,AAPL,0.038456618785858154,0.895542562007904,0.0660008043050766
+iphone,"While browsing the bookstore, this icon reminded me of a famous Twilight Zone episode...",,10,43,2012-03-14,AAPL,0.06635450571775436,0.832465648651123,0.10117991268634796
+apple,What my brain saw at this moment in last week's iPad keynote.,,27,455,2012-03-15,AAPL,0.02598595805466175,0.8201688528060913,0.15384520590305328
+iphone,clear backplate on my 4s,,84,382,2012-03-15,AAPL,0.02864711359143257,0.893467366695404,0.0778854489326477
+iphone,Plain Glass 4S Backplate,,46,165,2012-03-15,AAPL,0.07478224486112595,0.8694899082183838,0.05572783574461937
+ipad,So how much better is the new iPad's Retina display?  This much:,,37,115,2012-03-15,AAPL,0.010816649533808231,0.6028151512145996,0.3863682150840759
+ipad,The Verge Review: iPad (3rd Generation),,40,95,2012-03-15,AAPL,0.0329727903008461,0.9275466799736023,0.039480458945035934
+apple,"Despite their higher-speed LTE network connection, third-generation iPads still can't make FaceTime calls over anything but WiFi",,75,76,2012-03-15,AAPL,0.03470082953572273,0.9136557579040527,0.051643386483192444
+apple,List of iPad (3rd Generation) Reviews - Maybe we can put them here instead of having 50 different submissions,"Instead of having 50 different links to the different reviews out there, why not just list them all here?
+
+* [The Verge](http://www.theverge.com/2012/3/14/2870533/ipad-review)
+* [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304459804577281472610072322.html?mod=e2tw)
+* [TechCrunch](http://techcrunch.com/2012/03/14/the-new-ipad-review/)
+* [MacWorld](https://www.macworld.com/article/1165849/review_the_third_generation_ipad.html)
+* [SlashGear](http://www.slashgear.com/new-ipad-review-3rd-gen-14218465/)
+* [The Telegraph](http://www.telegraph.co.uk/technology/apple/9144168/Apple-iPad-review.html)
+* [Daring Fireball](http://daringfireball.net/2012/03/ipad_3)
+* [Loop Insight \(The Loop\)](http://www.loopinsight.com/2012/03/14/review-ipad-third-generation/)
+* [New York Times](https://www.nytimes.com/2012/03/15/technology/personaltech/the-new-ipad-is-much-the-same-only-better.html?_r=1)
+
+As I see more, I'll list them here. Feel free to add any others below.",65,72,2012-03-15,AAPL,0.03664158284664154,0.9271129369735718,0.036245498806238174
+apple,iPad 3 4G Teardown - iFixit,,48,70,2012-03-15,AAPL,0.1787816733121872,0.7895305156707764,0.03168778866529465
+ipad,"Verison allows free wifi tethering for new iPad(LTE). So my wife can Facetime on her ipad, through mine, but mine isn't allowed to Facetime through LTE directly?  WTF people!",,11,58,2012-03-15,AAPL,0.030452141538262367,0.9262552857398987,0.043292585760354996
+iphone,Sparrow for iPhone finally released!,,55,55,2012-03-15,AAPL,0.01957828365266323,0.7340427041053772,0.24637898802757263
+apple,"""Ira writes: We've learned that Mike Daisey's story about Apple in China - which we broadcast in January - contained significant fabrications. We're retracting the story because we can’t vouch for its truth, and this weekend's episode of our show will explain the errors in the story.""",,184,600,2012-03-16,AAPL,0.07518383860588074,0.8839999437332153,0.04081614315509796
+iphone,"You know you can send animated GIFs in iMessage, right?",,79,590,2012-03-16,AAPL,0.02098626084625721,0.9137523770332336,0.06526128202676773
+apple,This is my mac rig. There are many like it but this one is mine.,,160,496,2012-03-16,AAPL,0.02196044847369194,0.8915267586708069,0.0865127444267273
+apple,Screenshots from the new iPad are gigantic (pic),,141,401,2012-03-16,AAPL,0.011081735603511333,0.8312594890594482,0.15765874087810516
+ipad,What I feel like waiting for the delivery truck this morning,,56,174,2012-03-16,AAPL,0.03410372510552406,0.9184362292289734,0.04746003448963165
+apple,This American Life devotes hour detailing fabrications in Daisey’s story about visiting Foxconn  factory.,,29,166,2012-03-16,AAPL,0.029140032827854156,0.918037474155426,0.052822429686784744
+ipad,"New iPad engraving: Made with the tears of 1,000,000 Chinese workers",,67,160,2012-03-16,AAPL,0.01391551923006773,0.8628411293029785,0.1232433021068573
+ipad,This American Life retracts Mike Daisey's story about Apple in China,,20,109,2012-03-16,AAPL,0.027972185984253883,0.9212507605552673,0.05077705159783363
+apple,"An Apple tradition: Woz, first in line for the new iPad (at Century City, L.A. Apple Store)",,28,100,2012-03-16,AAPL,0.019974492490291595,0.9203343987464905,0.059691108763217926
+iphone,My 4s caught rain drops during a brief storm today.,,7,87,2012-03-16,AAPL,0.4850434362888336,0.4145936667919159,0.10036289691925049
+apple,Mountain Lion now protects your contacts,,45,250,2012-03-17,AAPL,0.02654270827770233,0.8734505772590637,0.10000674426555634
+apple,Interesting iPad display bug. Is this new?,,32,174,2012-03-17,AAPL,0.039973121136426926,0.9005975723266602,0.05942928045988083
+apple,Infinity Blade Updated for new iPad--All I can say is: Wow!,,40,166,2012-03-17,AAPL,0.013895262964069843,0.8162063360214233,0.1698983907699585
+ipad,ipad chastity belt?,,12,136,2012-03-17,AAPL,0.023210227489471436,0.9079384803771973,0.06885125488042831
+iphone,Thomas Jefferson's Monticello panorama (taken w/ iPhone 4),,14,129,2012-03-17,AAPL,0.036377474665641785,0.9221628904342651,0.0414595827460289
+iphone,What is cleaning?,,22,120,2012-03-17,AAPL,0.0477147214114666,0.8571818470954895,0.095103420317173
+ipad,Some original iPad 3 retina wallpapers I made...very crisp! 2048x2048,"The first 3 are made in photoshop, the rest are photos I took. They are all 2048x2048.
+
+**If you are viewing on the ipad** you have to save the image and view it in photos to see it at full 2048 resolution. For some reason Safari resizes everything down to 1024 and even zooming won't fix that. It has to be saved to see full resolution.
+
+Anyway, enjoy....
+
+Space scene 1: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%203%2046%2012%20PM.jpg
+
+Space scene 2: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%203%2047%2059%20PM.jpg
+
+Space scene 3: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2002%2021%20PM.jpg
+
+Moon photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%203%2056%2057%20PM.jpg
+
+Rock erosion photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2010%2055%20PM.jpg
+
+Badlands photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2012%2023%20PM.jpg
+
+Close to water photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2014%2052%20PM.jpg
+
+Beach photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2018%2023%20PM.jpg
+
+Moody sky over lake photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2019%2046%20PM.jpg
+
+Colorful sunset photo: http://dl.dropbox.com/u/25316727/Retinas/Photo%20Mar%2016%2C%204%2021%2048%20PM.jpg",25,97,2012-03-17,AAPL,0.023089097812771797,0.9259119629859924,0.05099886283278465
+ipad,Just picked up the new iPad (my first iPad ever). All I have to say is I am in love with this thing.,"I've had an iPhone for awhile now, but this is a completely different experience. Also, Reddit is ten times more addicting now thanks to AlienBlue HD. Loved the AlienBlue app for iPhone and love the iPad version even more. Just wanted to share my joy with you all :)",66,87,2012-03-17,AAPL,0.012020315043628216,0.8541427850723267,0.13383693993091583
+iphone,Check out the new illuminated iPhone cable in action!,,22,43,2012-03-17,AAPL,0.016646873205900192,0.9065693616867065,0.07678370177745819
+apple,my $23 Leopard itunes server,"So I decided to jump on the new product train and bought a 1080p Apple TV.  After I got it working nicely, I started putzing around the interwebs looking for something cool to could do with my old Gen 1 Apple TV (G1) that was otherwise destined for the garbage bin.  I eventually came across web pages that were talking about loading a compact version of Leopard onto the G1's hard drive and use it as an iTunes server.  BINGO!  Now I've got something cool with the G1 and can solve the problem of having to go back to the office and log in any time I wanted to watch/listen to anything (and a cool project to boot).
+
+I pulled the hard drive out of the G1 and reformatted/repartitioned it, downloaded a compact 10.5.8 Leopard image and loaded it onto the hard drive.  To my surprise, it booted the first time.  Then I remoted in and did a bit of configuring, attached my external media drive via the USB port and imported the lot into iTunes. 
+
+Now my iMac is logged off, I'm streaming to the 1080p Apple TV from the Leoparded G1 and it's working exactly as I had hoped.  The 1Ghz processor and 258mb of ram are far from quick, but so far seems to be sufficient for how I'm using it.
+
+Oh... and the $23... I had to buy a universal USB hard drive reader so I could rewrite the G1's hard drive.",24,43,2012-03-17,AAPL,0.029032737016677856,0.9258865714073181,0.045080725103616714
+apple,Mountain lion now protects your contacts.. [FIXED],,24,1029,2012-03-18,AAPL,0.039234861731529236,0.9126110076904297,0.04815411940217018
+iphone,"Okay apple, this message either needs to be optional or less intrusive.",,121,592,2012-03-18,AAPL,0.0396394319832325,0.9246782660484314,0.035682275891304016
+apple,Perhaps it is time for Apple to update their dictionary...,,76,544,2012-03-18,AAPL,0.02355918660759926,0.9193295240402222,0.057111259549856186
+iphone,"Dear Apple, Thanks for making the Iphone 4 so easy to fix. (50$/30mins)",,73,271,2012-03-18,AAPL,0.013147572986781597,0.8492655158042908,0.13758695125579834
+apple,Apple will announce what it plans to do with all of its cash ($100 Billion) tomorrow,,206,238,2012-03-18,AAPL,0.01346792746335268,0.9023780226707458,0.08415408432483673
+ipad,I don't get the Facebook app.,,37,208,2012-03-18,AAPL,0.11636930704116821,0.8593990802764893,0.024231644347310066
+iphone,Well this is new. I should probably take the (Original) charger back to the apple store now then..,,29,77,2012-03-18,AAPL,0.04589284956455231,0.8900490999221802,0.06405799090862274
+apple,"Opened my brand new Macbook Pro, only to find that the J and K keys aren't in their correct places. Should I fix it myself or take it back?",,67,72,2012-03-18,AAPL,0.045541003346443176,0.9178094863891602,0.036649513989686966
+mac,Mac redditors can you please help me out with a post I'm working on by clicking on the poll and choosing your preferred browser? You don't need sign up it's all anonymous. The more results the better. Thank you everyone.,,35,40,2012-03-18,AAPL,0.01612294837832451,0.8959782719612122,0.08789876848459244
+ipad,Manufacturing cost plus bill of materials for the new iPad 32GB/4G is $408.70.,,26,39,2012-03-18,AAPL,0.03265184536576271,0.8794609308242798,0.0878872498869896
+apple,"Apple announces dividend and share repurchase program for 2012, expects to spend $45 billion over three years -- Engadget",,161,351,2012-03-19,AAPL,0.01866118237376213,0.8851343989372253,0.09620443731546402
+iphone,Free Aluminium Case Giveaway (Details Inside),"Hey r/IPhone! This past week i've promised to give away a number of cases here. Well, today I received them and I'm ready to give you a chance to get an awesome case for free! 
+
+All you have to do is reply in this thread with 'enter me' and state which colour you want. I will take replies for 24 Hours before picking Four winners.
+
+These cases are IPhone 4S specific for Verizon and the AT&amp;amp;amp;amp;T and will also fit the IPhone 4 Verizon. All European 4S's will be ok. Throwaway accounts will not be accepted or duplicate accounts. I only ask you pay the shipping cost of your choice but please keep in mind I am located in the UK so shipping may cost a bit, depending on where you are.
+
+So that's it guys, good luck :)
+
+http://imgur.com/vo9uf
+
+http://imgur.com/xGGvr
+
+Edit: Here is the website for the cases which will go on sale sometime in April. No word on the price yet but they will not be expensive.
+
+http://www.icemdesign.com/yoo/index.php
+
+Edit 2: The cases will be on sale from the 15th April. On the opening day if you order you get free shipping to the UK, Europe or the US. Also if you email the designer at sales@icemdesign and specify which colours you are interested in, you will get a coupon for 5% off your first order. The 5% will be one per person, and this will apply to one case.
+
+I'm still waiting for the pricing but I will update once I have the information. 
+
+Edit 3: There seems to be some confusion about the colours. They are Black, Gold, Red and Pink. If you have not chosen one of these colours please edit your post so you don't miss out. :)
+
+Edit 4: Some more pictures here with the case on the IPhone. If you look at the previously posted pictures you can see that iteration did not include the small cutouts at the Four antenna break points. The addition of these cut outs at the Antenna breaks make it easier for the phone to maintain a good signal. Sorry but i don't have the Blue to give away but it's available on the website when sales start.
+
+http://i.imgur.com/vQZZK.jpg
+
+http://i.imgur.com/W2uBF.jpg
+
+http://i.imgur.com/93fTd.jpg
+
+http://i.imgur.com/Rw7jS.jpg
+
+Edit 5: Ok guys, as of 16:45 GMT (UK time), 20/03/2012 the competition is closed. Thank you all so much for participating and for the kind comments about the case. I've passed on the thread to the case designer and he is overwhelmed by all the comments and Interest.
+
+The winners are listed here and I will be contacting them very shortly.
+
+kristentx PINK CASE
+
+mcganndan GOLD CASE
+
+jimidybob RED CASE
+
+memeTLDR BLACK CASE
+
+
+Please check out the info in the above to see about when the case goes on sale and the website. Thank you :)",847,242,2012-03-19,AAPL,0.04906132444739342,0.9181761741638184,0.032762520015239716
+apple,Coding Horror: Welcome to the Post PC Era,,119,231,2012-03-19,AAPL,0.014966171234846115,0.7986427545547485,0.18639113008975983
+ipad,Mr. Burn's Ipad,,21,215,2012-03-19,AAPL,0.04392324760556221,0.9039080142974854,0.05216876417398453
+ipad,First World IPad problem,,32,215,2012-03-19,AAPL,0.42323437333106995,0.5364218354225159,0.0403437502682209
+iphone,Tried to record some lightning on my iPhone and got an interesting effect,,12,89,2012-03-19,AAPL,0.01647300459444523,0.7962137460708618,0.18731321394443512
+iphone,"Is it just me, or did the Facebook app suddenly get really awful?",The app crashes every single time I try to open it. This is a recent thing. It's nearly unusable. Is this happening with anyone else? I know the app hasn't gotten a lot of positive feedback as of late.,53,72,2012-03-19,AAPL,0.5657190084457397,0.39512914419174194,0.039151813834905624
+apple,Apple: 3 million iPads sold since launch,,11,54,2012-03-19,AAPL,0.012953272089362144,0.8541308045387268,0.13291595876216888
+apple,New iPad Finally Uses High Res Version of Apps for iPhone 4/S and iPods,"I didn't see much chatter on it, so I thought I'd confirm that for anyone who is interested. For comparison, the iPad 1 and 2 would only use the low res version of apps designed for the original iphone/ipods, even though the full screen of the iPad 1/2 could handle the high res images from the newer iPhone 4/S apps.  Say goodbye to those blocky keyboards in 2x mode!",18,52,2012-03-19,AAPL,0.016888095065951347,0.9281312227249146,0.054980672895908356
+ipad,Obligatory cat photo taken on my new iPad.,,11,45,2012-03-19,AAPL,0.038057003170251846,0.9278958439826965,0.0340472050011158
+apple,Tim Cook convinces AT&amp;T to unlock customer’s iPhone,,165,619,2012-03-20,AAPL,0.016119854524731636,0.8087446093559265,0.17513559758663177
+iphone,Now that's my kind of update...,,33,343,2012-03-20,AAPL,0.03004084713757038,0.8340137004852295,0.1359454244375229
+iphone,Lock screen redesign.,,91,300,2012-03-20,AAPL,0.045661527663469315,0.9315124750137329,0.02282600663602352
+iphone,Words with Friends,,12,289,2012-03-20,AAPL,0.056926604360342026,0.9001121520996094,0.04296119883656502
+iphone,Classic Apple iPhone Background [Retina],,42,147,2012-03-20,AAPL,0.015642961487174034,0.9193427562713623,0.06501433998346329
+ipad,"The iPad concept, as envisioned 40 years ago",,31,121,2012-03-20,AAPL,0.018646664917469025,0.9243286848068237,0.05702468380331993
+ipad,Trent Reznor has posted 54 retina-optimized Nine Inch Nails backgrounds,,6,71,2012-03-20,AAPL,0.06713798642158508,0.886902928352356,0.04595911502838135
+ipad,This is what happens when Russia isn't one the list of first countries to receive ipads. Apple you are losing profits!,,42,67,2012-03-20,AAPL,0.033432334661483765,0.8838391900062561,0.08272841572761536
+apple,PSA: Photo Stream deletion actually deletes from all your devices now!,"When 5.1 first came out, people were excited about deleting pictures from Photo Stream but I remember a lot of complaints about the fact that they were only deleted from the photo stream album *on the current device*. 
+
+Well this morning I deleted a picture from Photo Stream on my iPhone and noticed that the warning message had changed to explicitly state that the photo would get deleted form all my photo stream devices, and sure enough, the photo disappeared from my iPad as well.
+
+Just thought everyone would like to know!
+
+**EDIT: Some clarification from dirtymatt:**
+
+&gt;Photos added to Photo Stream AFTER you upgrade to 5.1 will be deleted on all devices. Photos added before upgrading to 5.1 will only be deleted on the current device. 5.1 added a unique ID to photos uploaded to Photo Stream, allowing them to be deleted across all devices. In 5.0 there was no unique ID, so there was no way for your other devices to know which photo to delete.",18,63,2012-03-20,AAPL,0.06987381726503372,0.8955460786819458,0.03458008915185928
+apple,Fluid Corners,,18,62,2012-03-20,AAPL,0.030685801059007645,0.9136163592338562,0.05569785460829735
+apple,Gizmodo's obvious sour grapes regarding Apple,"Has anyone noticed the negative editorial tone of Gizmodo's articles surrounding the new iPad release? Examples include: videos depicting people that can't tell the difference between iPad 2 &amp; 3, overheating stories, Conan taking jabs at Apple, and today an article about a supposed weak WiFi signal in the new iPad. I think someone is bitter about being shut out of keynotes and early reviews after the stolen iPhone 4 debacle.",305,368,2012-03-21,AAPL,0.6625833511352539,0.32067176699638367,0.01674489490687847
+apple,I have Facebook messenger on my iPhone and iPad. I also have a mac pro and macbook. This is what it's like when I'm at home and get a message on Facebook.,,74,336,2012-03-21,AAPL,0.045750461518764496,0.9244811534881592,0.029768362641334534
+iphone,An awesome photo I took with the 4S this morning that I thought you guys would enjoy! Spring is here! :),,39,243,2012-03-21,AAPL,0.01576664298772812,0.760105550289154,0.22412778437137604
+iphone,The end of trying in game design,,58,127,2012-03-21,AAPL,0.07350384443998337,0.8953123688697815,0.03118377923965454
+ipad,"Comic book reader? You're gonna want the new iPad. 
+Here's why.","I wasn't sure if the Retina Display would make much difference in reading comics. Sure didn't when I jumped from the iPhone 3GS to the 4. But on the iPad's big screen, it's a whole new ball game.
+
+Feast your eye upon this. I assure you, it's the exact same file, downloaded years ago.
+
+With Retina
+http://i.imgur.com/3ejyd.jpg
+
+Without Retina
+http://i.imgur.com/IEfmc.jpg
+
+If you're a comic book reader and you needed justification to upgrade, there you go. The best thing is that the higher resolution allows you to have the entire page displayed on the screen, as opposed to make it touch the screen horizontally and scroll up and down to be able to make out the words.",64,69,2012-03-21,AAPL,0.01449366845190525,0.8906145691871643,0.09489178657531738
+iphone,Zynga buys out Draw Something developer,,39,66,2012-03-21,AAPL,0.02584558166563511,0.9296817779541016,0.044472645968198776
+apple,My iOS 6 wish list,,102,44,2012-03-21,AAPL,0.03707118704915047,0.927479088306427,0.03544967621564865
+ipad,Video speed trap lurks in the new iPad.,,21,41,2012-03-21,AAPL,0.03922243043780327,0.8984814882278442,0.06229608505964279
+iphone,"It will probably be overshadowed by the release of birds in space, but my games ""Puzzling Penguins 2"" and ""Geared"" are both FREE today.","Puzzling Penguins 2: http://bit.ly/uU1U0U
+
+Geared: http://bit.ly/rbGjny",11,37,2012-03-21,AAPL,0.014371872879564762,0.9022807478904724,0.08334733545780182
+ipad,"Is there an app that is a copy of Microsoft Word's notebook layout? IMO, nothing is better to take class notes.  Mac example attached.",,34,36,2012-03-21,AAPL,0.0664907693862915,0.9074875712394714,0.026021664962172508
+iphone,Apple iPhone Lock Screen [Retina],,29,226,2012-03-22,AAPL,0.0231412872672081,0.9246020317077637,0.05225669592618942
+apple,"Signs in Mountain Lion point to ""retina"" display MacBooks sooner than later",,103,219,2012-03-22,AAPL,0.04782746732234955,0.9049908518791199,0.04718168079853058
+apple,Apple patches 3 years old bug,,73,217,2012-03-22,AAPL,0.04309512674808502,0.8705890774726868,0.08631577342748642
+apple,Building An App Is The New 'Starting A Band',,28,181,2012-03-22,AAPL,0.013622974045574665,0.7783426642417908,0.20803439617156982
+iphone,My boyfriend uses an Andriod...,,107,167,2012-03-22,AAPL,0.055844422429800034,0.9125328660011292,0.03162270039319992
+ipad,"Oh snap. Baldur's Gate coming to iOS, and it looks good.",,34,138,2012-03-22,AAPL,0.03039582259953022,0.655898928642273,0.3137052655220032
+ipad,"After going retina, this makes me sad.",,42,115,2012-03-22,AAPL,0.24415244162082672,0.6345646381378174,0.1212828978896141
+apple,Design case study: iPad to Windows 8 Metro style app,,75,99,2012-03-22,AAPL,0.016157817095518112,0.9329675436019897,0.05087462440133095
+ipad,Ignore the media hysteria. The new iPad is perfect.,"Got my new iPad early this afternoon and have been using it mostly non-stop since then. Some observations:
+
+1. It doesn't get hot. Granted I haven't been playing Infinity Blade or anything, but I did activate LTE and download a bunch of apps. It got unseasonably warm outside here in the Northeast today and I don't have A/C. The iPad still stayed cool.
+
+2. No WiFi problems. It gets a full signal in all but the furthest corners of the house. Basically the same performance as the iPhone 4. I have a crappy LinkSys router and it handles it just fine.
+
+3. No light leakage.
+
+4. The screen is awesome. I still think there is room for future improvement, but basically this is the best screen I've ever seen. I don't see any yellow tint, either.
+
+5. Battery seems great. I still have 23% after 8 hours or so, and have yet to plug it in.
+
+6. I didn't have an iPad 2 but the thickness and weight seem fine to me. It's much more light and compact than any laptop. To quibble over a fraction of a millimeter seems silly.
+
+These articles are just grasping for straws over something to criticize. There's no problem here. This thing is basically perfect.",115,92,2012-03-22,AAPL,0.026251433417201042,0.9194445013999939,0.054304033517837524
+iphone,Angry Birds Space...launched...it's actually pretty awesome,,27,85,2012-03-22,AAPL,0.014368331991136074,0.7334809899330139,0.25215062499046326
+apple,Steve Jobs's Last Gift To Apple Employees,,28,267,2012-03-23,AAPL,0.10750193148851395,0.8565167188644409,0.0359814316034317
+apple,1998: The Year of Thinking Different Book,,26,190,2012-03-23,AAPL,0.09229325503110886,0.8575614094734192,0.05014532059431076
+iphone,Galileo - Robotic Tilt Device For IPhone,,27,114,2012-03-23,AAPL,0.019672853872179985,0.9332035779953003,0.04712356999516487
+iphone,"I've created a subreddit just for discounted/free apps/app codes. Hopefully I'm not behind the curve on this. All OS's (mobile and desktop) welcome! I am tired of missing out on awesome apps and a chance to provide feedback, so here it is!",,16,111,2012-03-23,AAPL,0.017876114696264267,0.8825341463088989,0.0995897576212883
+iphone,Nintendo GameBoy Case for iPhone 4 - $2.32 Free Shipping,,41,88,2012-03-23,AAPL,0.013406902551651001,0.8608366847038269,0.1257564127445221
+apple,I just posted a youtube video using a Imovie template and got a copyright claim.,"I made a quick vid using video I shot and a template from I movie posted it on youtube and got a notice of a copy right claim from Audiovisual content administered by:Telstra Bigpond  any idea how this works?
+
+**Update**
+I went and looked through the videos )around 100) I have posted on youtube some have music that is flagged that's no big deal, but I have also had the following copyright claims posted from the following:
+* AppuSeries 
+* Telstra Bigpond (again)
+* a lot of this ""Video blocked in some countries. ""
+* Kontor New Media
+
+It seems that these company's just do it for the free advertising that is placed on youtube videos. Fuckers
+So I am disputing all of them. No word on any of it yet.",28,87,2012-03-23,AAPL,0.04571996629238129,0.9294582605361938,0.024821732193231583
+iphone,Climbing the App Store Charts is Easy. Making Money is Another Story.,"I'm conducting a series of studies on what works and what doesn't when it comes to success on the App Store. The first piece looks at hard numbers with games that have used the Free App A Day service.
+
+http://www.philterdesign.com/?p=541",11,29,2012-03-23,AAPL,0.032204341143369675,0.9214399456977844,0.046355705708265305
+mac,"When i try to do a screenshot, this happens - what is wrong ?",,19,28,2012-03-23,AAPL,0.08727625757455826,0.8811704516410828,0.031553301960229874
+iphone,Developer shows how iOS multitasks,,11,25,2012-03-23,AAPL,0.028161609545350075,0.9322513937950134,0.039586953818798065
+apple,"does Apple care if you ""share"" your iOS apps?","When you've purchase an app on the app store, you are able to download it to 5 different iOS devices.  
+
+Does Apple require that you are the owner of each of those devices? It's easy to ""share"" an app with a friend. All you have to do is to log into your Apple ID &amp; go to the app store using his/her device. Once you've downloaded your purchases, you can log out of your Apple ID &amp; the apps will still work.  
+
+The only thing your friend can't do is to update those apps. If they try, they'll be asked to log in with your Apple ID.",10,24,2012-03-23,AAPL,0.01850992813706398,0.9303032755851746,0.05118683725595474
+apple,Congratulations,"Perhaps this isn't the most appropriate place to post this but it's Friday night and I am toasting over and over by myself. I'm in my mid 30's. My first Mac was a Performa 550 that, in 1994, I bought with all the money I had saved up from my first job. I got into design after using Photoshop and Illustrator while still in high school which got me into university studying design in 1995 and ""stuck"" on Macs for the rest of my life. Nearly 17 years later, in two weeks I'll be moving half way across the country to start a new career at Apple. A dream come true.
+
+I'm nervous, excited and more than anything happy. Never give up on your dreams, kids. No matter how long it takes. Cheers.
+
+""Don't forget what happened to the man who suddenly got everything he always wanted.""",113,516,2012-03-24,AAPL,0.04151694476604462,0.898830771446228,0.05965227261185646
+apple,A cool and detailed unboxing of a Macintosh 128k from a listing on Ebay.,,54,296,2012-03-24,AAPL,0.029881350696086884,0.904389500617981,0.06572915613651276
+ipad,My wife recently had several surgeries and we were stuck in the hospital for a week.  This is how I kept myself busy while she slept. (Draw Something on iPad with Stylus),,43,212,2012-03-24,AAPL,0.12164255231618881,0.8054349422454834,0.07292253524065018
+apple,The new iPad as a magician's tool,,33,130,2012-03-24,AAPL,0.0117015540599823,0.8301088213920593,0.15818962454795837
+iphone,I've never been banned am I missing something?,,49,102,2012-03-24,AAPL,0.038854796439409256,0.9065443873405457,0.05460080876946449
+iphone,Can anyone explain to me why AT&amp;T will not supply an unlock code for an iPhone even if it's out of contract?,"I get that it's a policy, but if your contract has expired (i.e. no longer carrier subsidised), why can't it be unlocked? Also, would you stand a chance if you took them to court over it?",85,77,2012-03-24,AAPL,0.034506816416978836,0.8942546248435974,0.07123857736587524
+apple,Making enemies at work.,,18,62,2012-03-24,AAPL,0.18169668316841125,0.7815691232681274,0.03673418611288071
+apple,"Former Apple TV Engineer on new interface: ""Those new designs were tossed out 5 years ago because [Steve Jobs] didn't like them. Now there is nobody to say ""no"" to bad design.""",,62,57,2012-03-24,AAPL,0.04430621862411499,0.9140071868896484,0.04168655350804329
+apple,"Can we have some sort of buyer's guide in the sidebar? I'm tired of all the ""Should I get Mac?"" posts.","It just doesn't seem like a good discussion anymore. The same question has been answered over and over again. 
+
+Edit: and to those of you who will say ""Just downvote and move on,"" let me say this: These are valid questions. I shouldn't downvote them because I don't like them. I'll downvote them when there's an alternative or a link where all these questions have been answered. 
+
+Edit: Included in this guide would be the MacRumors guide which is great with the refresh cycles. 
+http://buyersguide.macrumors.com/",40,42,2012-03-24,AAPL,0.03434658423066139,0.9162269234657288,0.049426522105932236
+apple,OS X Mountain Lion Galaxy Photo Identified,,1,21,2012-03-24,AAPL,0.018602248281240463,0.9367996454238892,0.04459808021783829
+apple,Found an integer overflow in Finder?,,48,359,2012-03-25,AAPL,0.06280704587697983,0.8925321698188782,0.04466075450181961
+apple,Now Can We Start Talking About the Real Foxconn?,,69,327,2012-03-25,AAPL,0.03910019248723984,0.9296305775642395,0.031269244849681854
+mac,I Keep Trying To Tell My Cleaning Lady That My Track Pad ISN'T A Mouse Pad JPG,,30,135,2012-03-25,AAPL,0.06427085399627686,0.910158634185791,0.02557050622999668
+iphone,iH8sn0w finds way to downgrade A5 iDevices,,13,132,2012-03-25,AAPL,0.041769951581954956,0.9008377194404602,0.057392388582229614
+iphone,"US Government pays $250,000 for an iOS Zero-Day exploit",,13,123,2012-03-25,AAPL,0.09451793134212494,0.8605098724365234,0.04497227072715759
+ipad,Original vlc on ipad3.,,55,97,2012-03-25,AAPL,0.024191759526729584,0.9259249567985535,0.04988330602645874
+ipad,Some great geometric/abstract retina wallpapers...,,7,90,2012-03-25,AAPL,0.02896950952708721,0.9305651187896729,0.04046542942523956
+iphone,Took this while running with my iPhone,,23,71,2012-03-25,AAPL,0.14581041038036346,0.7844883799552917,0.06970120966434479
+apple,"If Apple created their own telephone and data service, would you join them?","I would, just to spite Verizon and AT&amp;T and maybe level out the playing field even more.",101,60,2012-03-25,AAPL,0.011991588398814201,0.8268047571182251,0.16120365262031555
+ipad,How to use iPad as second display for your PC,"I figured how to do this a few hours ago, and i was blown away. Here's how to do it:
+
+http://forum.xda-developers.com/archive/index.php/t-919782.html",30,26,2012-03-25,AAPL,0.059007976204156876,0.9003996849060059,0.040592342615127563
+apple,Saw this little easter egg at the end of Monsters Inc. (Scare Different),,67,1634,2012-03-26,AAPL,0.13034500181674957,0.8293480277061462,0.040307022631168365
+iphone,"My game ""Geared"" is currently free (rank #11 in free apps USA at the moment).  The only ad it has is one for another game of mine, and the in-app purchases are not necessary to play through all 200 levels.",,55,327,2012-03-26,AAPL,0.03799660876393318,0.9183412194252014,0.043662238866090775
+apple,Does anyone here use the Macbook Air as a primary machine? How is it?,,135,97,2012-03-26,AAPL,0.02576771192252636,0.9434322714805603,0.030800094828009605
+apple,Microsoft’s Skype division has rolled out a new Skype update that supports the new retina-display graphics in Apple’s latest iPad.,,7,55,2012-03-26,AAPL,0.01216714084148407,0.8857378363609314,0.10209500789642334
+ipad,So is Plants vs Zombies Ever Going to Get the Latest Updates?,"It's been since June 2011 that PvZ for iPhone has had the Zen Garden and mini-games. I'm just wondering if there's some reason that the iPad version is being ignored, despite being more money! Without the retina graphics being available yet, I honestly can't think of a single justification for having paid more for this version than the iPhone version.",16,52,2012-03-26,AAPL,0.04664915055036545,0.9164242744445801,0.036926526576280594
+apple,"America... ""83-year old Evelyn Paswall is suing Apple after walking into the glass doors at the Manhassett Apple Store on Long Island.""",,48,49,2012-03-26,AAPL,0.03499151021242142,0.9027883410453796,0.062220118939876556
+ipad,More great wallpaper choices for your new iPad,,3,45,2012-03-26,AAPL,0.01761270873248577,0.8982066512107849,0.08418060094118118
+apple,"A new study says that most people who use Siri find it a satisfying, but that few people are actually using the feature on a daily basis.",,35,41,2012-03-26,AAPL,0.028056327253580093,0.8879556655883789,0.0839880108833313
+mac,OSX 10.7 comes with the PF firewall. IceFloor is a GUI frontend for easy configuration. (hanynet.com) XPost from r/netsec,,5,34,2012-03-26,AAPL,0.030916264280676842,0.9112187623977661,0.05786501243710518
+apple,Saw this lovely face palm on MacRumors,,34,28,2012-03-26,AAPL,0.01977987214922905,0.87269127368927,0.10752882063388824
+iphone,I guess they got some bad reviews in the app store...,,75,629,2012-03-27,AAPL,0.8916546702384949,0.09464657306671143,0.013698655180633068
+apple,My MAC success story: a 5-year laptop,"So there have certainly been a lot of 'I love Apple' posts recently, but I thought it would be worthwhile to add my own. 
+
+I bought a mac for the first time in August 2007 before I started university. I got a Core2Duo macbook (white) and was stoked. Since I have graduated, started grad school, trucked my laptop through rural Africa, published two papers on it, and continue to use it for my everyday tool and during my development/relief work in East Africa.
+
+The battery is still strong (2-3 hours of battery life) after 959 cycles. It has been able to take on snow-leopard (haven't jumped onto Lion yet), and do just about everything that I need to do. I tell my friends that I have had my laptop for nearly 5 years and they are stunned. I have only had one problem (HD crash while in Tanzania) but it was completely restored from Time Machine and a 2 day visit to an Apple Store. Sure the laptop isn't lightning fast, but I don't know many people who still use a computer 5 years old.
+
+For those who say Apple is overpriced. My $1200 mac over 60 months (5 years) averages out to about $20 a month. Not bad.
+
+Looking forward to a new update on the macbook pros. I expect it to last another 5!
+
+**HO-LEE Shit, lots of replies here, thanks for appreciating my macbook. And I promise to uncapitalize 'Mac' in the future. Please accept my apologies.**",507,335,2012-03-27,AAPL,0.02096724696457386,0.9042880535125732,0.07474476844072342
+apple,The Mac App Store Needs Paid Upgrades,,192,184,2012-03-27,AAPL,0.48878806829452515,0.3251705765724182,0.1860414296388626
+iphone,Turning down Zynga: Why I left after the $210M Omgpop buy,,33,136,2012-03-27,AAPL,0.036522381007671356,0.91374272108078,0.04973483830690384
+ipad,PCMag: The iPad Wins Because Android Tablet Apps Suck,,87,117,2012-03-27,AAPL,0.018917493522167206,0.4422808289527893,0.5388016104698181
+iphone,Whatever happened to the census that Zynga was horrible and so is Dream Heights?,,29,88,2012-03-27,AAPL,0.3549831509590149,0.6168385148048401,0.02817828767001629
+apple,"Found a page with some Classic Mac games ported to Mac OS X, immediately got hit with nostalgia",,32,40,2012-03-27,AAPL,0.1023474633693695,0.7982947826385498,0.09935776889324188
+iphone,"It's starting to be overdone, but here's a funny variation",,2,39,2012-03-27,AAPL,0.059346020221710205,0.8656582832336426,0.07499562948942184
+iphone,Hatchi 3.0 approved(now universal) Heres a bunch of promo codes. Thanks Reddit.,,34,39,2012-03-27,AAPL,0.02031688578426838,0.8987544178962708,0.08092871308326721
+ipad,Tested: Battery Life on the new iPad,,18,34,2012-03-27,AAPL,0.014167800545692444,0.7751858234405518,0.21064640581607819
+apple,If you say so Dropbox,,25,634,2012-03-28,AAPL,0.0836256816983223,0.8716487288475037,0.04472557455301285
+apple,I didn't know I had a 20 billion gigabyte hard-drive!,,84,469,2012-03-28,AAPL,0.051027119159698486,0.8987259268760681,0.0502469427883625
+iphone,Wish I could update twice!,,46,220,2012-03-28,AAPL,0.021248461678624153,0.9348568320274353,0.043894726783037186
+apple,I feel like such a moron for not knowing about this.,,44,201,2012-03-28,AAPL,0.06654588133096695,0.8680759072303772,0.06537824124097824
+iphone,Noticed this while playing Jetpack Joyride.,,19,139,2012-03-28,AAPL,0.03946291282773018,0.8479808568954468,0.11255623400211334
+mac,When PC users bitch at me for buying a mac,,28,103,2012-03-28,AAPL,0.028395099565386772,0.7991390824317932,0.17246577143669128
+iphone,Guy lawyers up after being denied the Smoked by Windows Phone challenge win twice in a row with his iPhone,,39,78,2012-03-28,AAPL,0.5166004300117493,0.32001927495002747,0.16338036954402924
+ipad,Is the screen on the 3 really worth it over the 2?,"Im debating between the 32 gig iPad 2 and the 16 gig 3.
+
+Honestly I will use it for the web, boardgame ports and maybe Netflix.",117,62,2012-03-28,AAPL,0.02159027010202408,0.9232087731361389,0.05520099028944969
+iphone,87% of iPhone 4S owners use Siri at least once a month - Mac Rumors,,67,58,2012-03-28,AAPL,0.018592728301882744,0.9347338080406189,0.04667341709136963
+apple,"Motion control stand for iOS (Kickstarter), looks pretty cool...",,15,40,2012-03-28,AAPL,0.012302089482545853,0.7448712587356567,0.2428266853094101
+apple,Dr. Neil deGrasse Tyson on Macs,,694,1621,2012-03-29,AAPL,0.0258816946297884,0.9251024723052979,0.049015894532203674
+iphone,Really happy to see a redditor made app #2! Great work :),,42,354,2012-03-29,AAPL,0.014156905934214592,0.7249259948730469,0.2609170973300934
+iphone,What changing an iPhone app to free does to it's download numbers. [Infographic],,66,258,2012-03-29,AAPL,0.029038680717349052,0.9442177414894104,0.02674359828233719
+ipad,"Change my iPad app to free, then this all happened [Infographic]",,48,85,2012-03-29,AAPL,0.021664230152964592,0.9370220899581909,0.04131361469626427
+apple,"Ugh, why wouldn't you warn me before letting me accept this autoupdate???",,39,57,2012-03-29,AAPL,0.08974902331829071,0.8639037013053894,0.046347279101610184
+ipad,Paper for iPad,"Finally found an app that let's me simply draw. I looked at the drawing apps on the app store and all off them seem too complicated for drawing. 
+
+This app on the other hand allows me to just draw and sketch without hassles and complications. what's great is that you van try out some of the tools before purchasing to see if you like it. 
+
+http://www.theverge.com/2012/3/29/2909537/paper-drawing-ipad-app-fiftythree-brains-behind-courier",50,56,2012-03-29,AAPL,0.03238603100180626,0.9265305995941162,0.041083384305238724
+apple,Do we really need such superfluous CSS when it breaks functionality of the site?,,34,52,2012-03-29,AAPL,0.019807759672403336,0.9243985414505005,0.05579373240470886
+apple,What's wrong with this picture? Thank you walmart!,,19,50,2012-03-29,AAPL,0.2507609724998474,0.7026581168174744,0.046580880880355835
+apple,The rare facepalm in Apple's otherwise stellar design history,,36,47,2012-03-29,AAPL,0.018866723403334618,0.8843967318534851,0.0967366173863411
+iphone,Why Android is pretty funny.,,18,38,2012-03-29,AAPL,0.024739906191825867,0.6398628354072571,0.33539730310440063
+apple,Seems Legit,,78,479,2012-03-30,AAPL,0.05444585159420967,0.8181549310684204,0.1273992359638214
+iphone,"Skype defaults to ""always"" mode, using data and battery regardless of app launch, reduced my standby time by over 50%. Settings -&gt; Skype -&gt; Go Offline -&gt; ""immediately"" to fix",,61,301,2012-03-30,AAPL,0.04627027362585068,0.9209339618682861,0.03279579430818558
+apple,NBC (SOPA Supporter) caught stealing Apple's copyrighted artwork,,15,150,2012-03-30,AAPL,0.1715420037508011,0.7857586145401001,0.04269934445619583
+apple,SSH to any of your computers using iCloud and Back to My Mac,"I just discovered this recently, and thought others would find it handy. You can SSH to any of your computers that are running, connected to the internet, and setup with iCloud regardless of router configuration/port forwarding/etc. **Just make sure that Back to My Mac is setup and enabled.**
+
+First, to get the domain for your iCloud account, run in the Terminal:
+
+    mDNS -E
+
+You should see some domains start to pop up, one of which will be an icloud.com domain. Copy the entire domain. You can kill the mDNS process by hitting Ctrl+c once you see it come up.
+
+Now that you have this address, you can prepend any of your computer's hostnames to the domain to access them. So for example, to SSH into a computer with the hostname ""meltingice-mac"", I would do:
+
+    ssh meltingice@meltingice-mac.123456789.members.btmm.icloud.com",40,92,2012-03-30,AAPL,0.029383815824985504,0.9369723200798035,0.033643938601017
+apple,That didn't take long: Tim Cook rated top CEO,,14,89,2012-03-30,AAPL,0.017187731340527534,0.7748658657073975,0.20794638991355896
+ipad,Does any one know if theres a max year in the calender?,,35,74,2012-03-30,AAPL,0.04019666463136673,0.9068387746810913,0.05296454206109047
+apple,"""Apple is a powerful reminder, at a time when the Chinese model of state capitalism is gaining adherents, that the free market can still be remarkably innovative. It is impossible to imagine any of those designs being dreamed up by a Beijing bureaucrat.""",,20,45,2012-03-30,AAPL,0.01294640637934208,0.7537484765052795,0.23330508172512054
+ipad,'Mad' Magazine coming to the iPad April 1st,,9,39,2012-03-30,AAPL,0.0537068173289299,0.9229293465614319,0.02336387149989605
+apple,"If your App doesn't need sound to function, but still takes over the device sound, fuck you.",Im looking at you Draw Something,4,33,2012-03-30,AAPL,0.0310593880712986,0.9373999238014221,0.03154071792960167
+apple,Apple products now found in half of all American dwellings,,10,32,2012-03-30,AAPL,0.15329432487487793,0.6955173015594482,0.15118831396102905
+apple,OSX For Hackers,,139,348,2012-03-31,AAPL,0.034549567848443985,0.907722532749176,0.05772785469889641
+iphone,An amazing iPhone feature I just discovered...  Speechless...,"I was listening to music on my iTunes on my desktop.  My iPhone has its WIFI-sync enabled, and thus I can see that it listed under devices on iTunes. 
+
+I get a phone call &gt; Music automatically stops on my desktop's iTunes. 
+
+After I finish the call, my desktop resumes playing the song. 
+
+I found this to be extremely clever.
+
+[EDIT]I accidently meat chop the spelling",53,261,2012-03-31,AAPL,0.030272379517555237,0.9076054692268372,0.06212213635444641
+apple,"Apple denied me service at the Genius Bar on my phone today. When I got home, I learned that my phone was actually still within warranty. I'm not too happy.","I recently was at the Genius Bar and had my 3GS replaced because of a broken volume toggle switch. This was about a month before my warranty expired, and two months before today. My phone is stuck in restore mode now, and I took it into the Genius Bar and he tried to restore it in DFU mode, but it didn't fix it. So when that happened, he proceeded to tell me that there was nothing he could do for me and that I would have to buy a replacement. I have since learned that any time you get a replacement part or phone from apple, it has a three month warranty or you retain you one year warranty. The guy who tried to help me wasn't even a genius. What can I do tomorrow to make sure this doesn't happen again?",134,138,2012-03-31,AAPL,0.1122925654053688,0.8432849049568176,0.044422462582588196
+apple,My Father's Apple Success Story: A Love Affair of a Lifetime,"In 1984, my father bought a Macintosh computer in order to help keep track of the finances of his new dental practice.  This was not its only function, as he also used Adobe Pagemaker to create his practice's letterhead and logo, that he still uses today. *[Note from my dad: I also used Pagemaker to edit a Dental Society Newsletter.]*  This original Mac still sits in my father's office, where it is still used to print out labels to adhere to envelopes to send to patients. 
+*[If anyone is really interested in seeing this, I can drive up to the office later and get pics.]*
+
+&gt;**UPDATE:** Went to the office and started taking [some pictures](http://i.imgur.com/yIOKD.jpg) and [stuff](http://i.imgur.com/NuI4C.jpg).  When I turned it on, [this happened...](http://i.imgur.com/3R9Am.jpg) &amp;#3232;\_&amp;#3232;
+  Even my father didn't know what to make of it.  We might play with it some more tonight, but my father's allergies have gotten the better of him so it might have to wait until he feels better. And yes, I know this is a Classic II but I figured I'd post it anyway.  Dad doesn't know where he put the 1984 model atm.  It might be in storage, he said.
+
+
+As time progressed, it was obvious he needed to upgrade to a better computer and he had several (Macintosh SE, Macintosh PowerBook 170, etc.).  The one I want to point out is the [Macintosh Quadra 660av](http://i.imgur.com/48k0fh.jpg).  My father bought this computer in 1993 for the purpose of keeping track (again) of his practice's finances, and also to print out his employees paychecks.  
+
+He still uses this computer.  In fact, he used Quicken this week to print out this month's paychecks.  [Here is the computer in his office at home](http://i.imgur.com/GSnkZ.jpg).  In this next picture, you can see the payroll that was last typed up [2 days ago](http://i.imgur.com/jgn9uh.jpg).  For shits and giggles, the [About This Macintosh](http://i.imgur.com/fiKc9.jpg) window.  [Proof](http://i.imgur.com/3xaPh.jpg) that this really is me and my father's computer.
+
+This is my father's Apple 19 year old success story.  
+
+*[Sidenote]* Some of you might ask why he hasn't upgraded yet.  My dad subscribes to the ideology *""If it ain't broke, don't fix it.""*  It's still working, even after being on ALL THE TIME.  No literally.  It runs all the time.  He doesn't turn it off.  Except for the occasional power outage, I know that thing has been running constantly since we moved into this house in 1996.  I can't remember how it ran in our previous house.
+
+*[Another Sidenote]* He does have a backup computer though, which is what I used in Jr. High and High School.  It's a [Macintosh Performa 550](http://i.imgur.com/F0aj7.jpg) (Sorry the model number is obscured because I put nail polish on top of it).  [Here](http://i.imgur.com/tH42p.jpg) you can see the backup Quicken file that is on the other computer in approximately the same location on the desktop. [Proof](http://i.imgur.com/ZbDYM.jpg) and [more proof](http://i.imgur.com/EHEbR.jpg).
+
+*[Bonus]* [Game nostalgia](http://i.imgur.com/QH3a2h.jpg).",78,134,2012-03-31,AAPL,0.03752820938825607,0.9200001955032349,0.0424715131521225
+iphone,My brother replaced his iPhone 4 screen &amp; has an extra part. What is this and is it important?,,31,116,2012-03-31,AAPL,0.02652564086019993,0.8577438592910767,0.11573044210672379
+ipad,Somebody approves of my new IPad,,22,109,2012-03-31,AAPL,0.013646007515490055,0.8843443989753723,0.10200963169336319
+apple,It's World Backup Day! Here's how I back up! How do you back up?,,70,73,2012-03-31,AAPL,0.044521912932395935,0.7012238502502441,0.25425422191619873
+apple,Anyone else think apple is sitting on a untapped gold mine with Apple TV?,"The way I see it, Apple TV is a decent, affordable, polished device, but it's missing one huge, glaring feature: Apps.
+
+It seems to me that if apple would only open up an app store for the Apple TV, they'd immediately release the creativity of 1000's iOS developers. It could become one of the top streaming video solutions (competing with roku, boxee, google tv) and probably have a high adoption rate by the HTPC crowd (XBMC, Plex, Boxee users)
+
+It could become a game console, perhaps even sharing some of the iOS game ecosystem (buy for iPhone, get for Apple TV, iPad as well).
+
+Most importantly, a broad adoption rate and willingness to spend money could attract a lot of video services and programming we might not even imagine today. 
+
+I understand the rumors of an actual TV released by Apple, but I don't understand how this couldn't all just work in the current set top box as well.
+
+Am I crazy here, or does anyone else desperately want to see application development for the Apple TV?",66,64,2012-03-31,AAPL,0.020401855930685997,0.9298316240310669,0.04976651072502136
+apple,Anyone else have iMessage issues?,"Since yesterday the service seems terrible, saying messages were delivered, then not, then delivered, then not, and sending as texts. Seems to be a big time outage, but I can't find anything on the web about it. Happening to me and a few people I know. No status on Apple's site of course.
+
+***EDIT***
+
+**I spoke to Apple care, no system outages. I troubleshooted more, and it's the goddamn iMessage beta client. If you go in and disable iMessage in the settings (not just quit the app) functionality returns.**",41,63,2012-03-31,AAPL,0.18984292447566986,0.787300169467926,0.022856885567307472
+apple,Mac owners 3X more likely to preview next OS than Windows users,,48,55,2012-03-31,AAPL,0.015468331053853035,0.9209498763084412,0.06358178704977036

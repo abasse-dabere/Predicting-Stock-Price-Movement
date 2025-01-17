@@ -1,0 +1,676 @@
+subreddit,title,selftext,num_comments,score,created_utc,stock/sector,neg,neu,pos
+Health,FDA Deletes 1 Million Signatures for GMO Labeling Campaign,,4,147,2012-04-01,PHARMA,0.022951051592826843,0.9263151288032532,0.05073380470275879
+Health,Is Sugar Toxic?,,27,80,2012-04-01,PHARMA,0.05471950024366379,0.897102415561676,0.04817806929349899
+Health,Romania's Hospital Scandal: Babies Left To Die As Doctors Refuse To Work Without Bribes,,13,78,2012-04-01,PHARMA,0.8892872929573059,0.09027756750583649,0.020435191690921783
+Health,"A short, intense exercise session may be healthier than a longer, more moderate session that burns the same number of calories, a new study suggests.",,0,15,2012-04-01,PHARMA,0.03884800523519516,0.9226537346839905,0.03849826008081436
+medicine,"Thought you guys might find this interesting, it's a new subreddit I created where you can post seminal articles of science!","http://www.reddit.com/r/ClassicScience/
+
+Post paradigm shifting articles here.
+
+Anything from Galen to Darwin to Einstein is fair game here!
+
+The goal is to create a sort of inventory of some of the most important contributions to science and human advancement in the past.",2,14,2012-04-01,PHARMA,0.024330394342541695,0.9184874892234802,0.05718207359313965
+Health,Nasal spray vaccine that stops heart attacks by cutting fat in arteries 'will be here within five years',,3,13,2012-04-01,PHARMA,0.04173056781291962,0.8870416879653931,0.07122773677110672
+medicine,What is the purpose of the 'earth'/'neutral' electrode of an ECG (EKG)? (askscience xpost),"Looking for a fairly specific explanation here.
+
+In a standard 12 lead ECG generally, 10 electrodes are connected to a person. 6 electrodes are on the precordium and represent V1-V6 alone - nothing interesting there.
+
+The limb electrodes are right arm, left arm, and left leg. From these three connections you can get 3 bipolar leads (I: RA to LA, II: RA to LL, III: LA to LL). Because each lead has a positive and negative electrode equidistant from the electrical centre of the heart, you can work out a zero point at the centre of this vector traingle (Einthoven's triangle) and come up with three unipolar leads from the centre; aVR, aVL, aVF. All this makes perfect sense and brings us up to 12 leads.
+
+Which brings us to the neutral or earth lead, commonly connected to the right leg when setting up an ECG. I understand that it's supposed to be the 'electrical earth' or zero point from which current is measured, but I don't really have the understanding of physics/electricity to understand what that means? Why do you need this additional electrode, and why does it provide any additional information over the left leg lead in producing an ECG?
+
+Thanks in advance.",9,10,2012-04-01,PHARMA,0.02184007316827774,0.9350565075874329,0.043103426694869995
+medicine,What is the mechanism of action in the use of bupropion (Wellbutrin) in ADHD cases?,"I am currently an ADHD patient prescribed adderall and have found it helpful. My nursing school peer has been prescribed 150-300mg PO (SR) Bupropion (Wellbutrin) BID for her ADHD as an off-label use and I was wondering what the mechanism of action of the drug is for ADHD. I googled it, and have been reading a couple of articles, but I'm still not quite sure about it. 
+
+As a side question, are there any adverse effects of concurrent use of bupropion and adderall (20mg XR)? 
+
+Thanks!",6,6,2012-04-01,PHARMA,0.07830377668142319,0.8968146443367004,0.024881593883037567
+Health,Allergy Shots; Should I continue?,"I haven't seen much on allergy shots, nor am I sure this is the right place to post.
+
+I have very severe environmental allergies. I'm basically allergic to everything. I get weekly allergy shots in hopes it will help. I have been getting them for about 6 months with no improvement.
+
+At this point I am having to repeat doses 2-3x because of how bad the swelling is. I get 3 a week, and one of them is much worse than the others. The area on my arm swells to about the size of a tennis ball, maybe a bit smaller. And the lump is hard and sensitive as fuck. It is painful for about 2 days after the shot, then it dies down. The other two injection areas swell to about quarter size and then die down. 
+
+My allergies have not seen any improvement, possibly worsened. 
+
+I'm not sure what to do here.",7,6,2012-04-01,PHARMA,0.24547332525253296,0.5876019597053528,0.16692468523979187
+Health,Link between fast food and depression confirmed,,1,6,2012-04-01,PHARMA,0.5380070209503174,0.4162408709526062,0.04575205594301224
+Health,55 Percent Favor Financially Compensating Organ Donors,,43,88,2012-04-02,PHARMA,0.013693914748728275,0.8762868642807007,0.1100192666053772
+Health,Study Finds Dramatic Rise in Skin Cancer Among Young Adults,,21,88,2012-04-02,PHARMA,0.1883278489112854,0.07026246190071106,0.7414096593856812
+Health,Tobacco executive admits involvement in destruction of research documents ... at least 60 documents including some research that showed the company was aware smoking could cause cancer and other health problems,,0,43,2012-04-02,PHARMA,0.18462005257606506,0.7626779079437256,0.05270204320549965
+Health,Radioactive Iodine from Fukushima Found in California Kelp - There's no published research on what iodine 131 might do to fish at the levels found,,1,31,2012-04-02,PHARMA,0.027657508850097656,0.9114570617675781,0.06088536977767944
+medicine,Have you performed/assisted with performing an abortion?,"I am a premed student. While I know that I might change my mind any number of times between now and graduation from med school, right now my goal is to do women's reproductive health, with a focus on providing abortions, including late-term abortions when necessary. I know that it is a very hard path to follow, and there will be a fair amount of social stigma associated with it, but this is an aspect of health care that I feel very strongly about, and think that it should be an option to those who need it. I would obviously not do anything that I felt violated my personal ethical code, but it is a service that should absolutely be available to women who need it, and I think I would be capable of providing it with compassion and understanding. I currently volunteer at Planned Parenthood, and am a clinic escort when my schedule allows.
+
+Here is my question- have you performed an abortion (or more than one)? How did it make you feel? Were there any unexpected aspects of it? Did classmates, teachers, or anyone else ever make you feel uncomfortable about it? Any other thoughts on the subject, in relation to the attitude of the medical community towards people who want to perform abortions (want being a somewhat misleading term- it would be nice if there was no need to do so, but there is, so, here I am)?",43,25,2012-04-02,PHARMA,0.090039923787117,0.871962308883667,0.03799774870276451
+medicine,New Bill Would Create National Prescription Drug Monitoring System,,10,15,2012-04-02,PHARMA,0.009718061424791813,0.8298477530479431,0.16043415665626526
+Health,"Woman’s abdomen catches fire during C-section, as surgical tool ignites antispetic",,1,14,2012-04-02,PHARMA,0.04377564415335655,0.9243563413619995,0.03186793252825737
+pharmacy,It's official: F.T.C. Clears Express Scripts-Medco Deal ... Pharmacists weigh in here!,,15,13,2012-04-02,PHARMA,0.019705859944224358,0.9279043674468994,0.05238983780145645
+Health,Mondays make you sick? How stress influences disease,,0,11,2012-04-02,PHARMA,0.2614772915840149,0.6753631234169006,0.06315963715314865
+Health,"Merely walking into a room can begin to stir up the microbial soup that fills it — one person can send about 37 million bacteria into the air every hour, according to new research that measured microbes suspended in a room when it was occupied and unoccupied.",,3,8,2012-04-02,PHARMA,0.03996320441365242,0.9241920113563538,0.035844843834638596
+Health,Congress considering proposal to let chicken slaughterhouses inspect themselves for violations of health and sanitization.,,54,415,2012-04-03,PHARMA,0.047241900116205215,0.9266723394393921,0.026085710152983665
+medicine,"France best, U.S. worst in preventable death ranking",,17,33,2012-04-03,PHARMA,0.5777690410614014,0.3865140676498413,0.035716891288757324
+Health,130 million antidepressants prescribed every year in the US alone... Do we really need these that much?,,2,16,2012-04-03,PHARMA,0.0755297988653183,0.8647807240486145,0.0596894733607769
+medicine,How much time do residents typically spend moonlighting and how much money is it possible to make?,"Also, if someone does a fellowship after residency can they moonlight as an attending?",18,12,2012-04-03,PHARMA,0.01763548143208027,0.9149503707885742,0.06741413474082947
+Health,Life in prison for ex-nurse in 5 bleach deaths,,2,9,2012-04-03,PHARMA,0.025145893916487694,0.9265121817588806,0.04834188520908356
+biotech,Amgen (AMGN) Signs $50 Million Deal with AstraZeneca PLC (AZN) to Develop 5 Biotech Drugs,,0,8,2012-04-03,PHARMA,0.012676195241510868,0.8833913207054138,0.1039324551820755
+medicine,I did not match this year... what should i do?,"Hi meddit, 
+
+Title pretty self explanatory, applied for a very competitive field, did not back up properly, result = not matched. I went to a Carib School and am not an american citizen. 
+Next time around i intend to only apply to a Primary Care specialty, but am trying to figure out what to do in the mean time! Thanks",0,8,2012-04-03,PHARMA,0.02566356211900711,0.91451096534729,0.05982546880841255
+medicine,Mayo Clinic Study: Nutritional Supplement Works Against Pancreatic Cancer Cells In Mice,,2,8,2012-04-03,PHARMA,0.02043825015425682,0.9166725277900696,0.06288915127515793
+Health,The placenta-eaters: January Jones of 'Mad Men' and many others see health benefits in eating their own placenta after birth.,,10,7,2012-04-03,PHARMA,0.031115027144551277,0.9037079811096191,0.06517701596021652
+Health,Romney Would Lower Health Costs by Having Patients Pay More for Their Benefits,,7,6,2012-04-03,PHARMA,0.03524947538971901,0.4328489899635315,0.5319015979766846
+Health,The Gardasil Problem - How Politics Poisons Public Health &amp; Why The US Lost Faith In A Promising Vaccine,,7,85,2012-04-04,PHARMA,0.035199105739593506,0.7983875274658203,0.1664133369922638
+Health,"Vitals - 'Pink slime' in your meat? Labels to tell you, USDA says",,37,50,2012-04-04,PHARMA,0.02214403823018074,0.9149746298789978,0.06288129836320877
+medicine,A decade of research into hepatitis C may have yielded results as researchers in America have announced the discovery of a vaccine against the disease.,,4,42,2012-04-04,PHARMA,0.019259292632341385,0.2271624207496643,0.7535781860351562
+Health,Research Confirms Mothers Caffeine Consumption Does Not Awaken Infants At Night,,1,42,2012-04-04,PHARMA,0.074364572763443,0.8810930848121643,0.0445423498749733
+Health,Salmonella spreading rapidly - spicy tuna rolls to blame,,9,31,2012-04-04,PHARMA,0.07581812888383865,0.5679861903190613,0.35619568824768066
+Health,"Autism Linked to Genetic Mutations, Particularly from Older Fathers",,0,21,2012-04-04,PHARMA,0.5398168563842773,0.4255187511444092,0.03466438874602318
+Health,"American Board of Internal Medicine Foundation launches the ""Choose Wisely"" campaign to end unnecessary procedures and save $700 billion a year.",,1,17,2012-04-04,PHARMA,0.03281185030937195,0.8085463047027588,0.15864183008670807
+Health,Forty-five procedures doctors don’t think doctors should do,,3,14,2012-04-04,PHARMA,0.1380355954170227,0.8352261185646057,0.026738248765468597
+medicine,RxmindMe - An app every doctor should prescribe,,7,13,2012-04-04,PHARMA,0.04153205081820488,0.9054135680198669,0.053054336458444595
+Health,Urethal Rectal Fistula,"Has anyone ever had/delt with this condition before? Especially a really advanced case? I think this might be what I have. Currently seeing a doctor and running tests to diagnose, but all the symptoms are there. My question is how you delt/deal with the pain and if theres a certain diet you follow to not aggravate it. I'm a mid 20's male, btw. Thank you to anyone who replies and gives advice. I've been in constant pain for months now.",7,12,2012-04-04,PHARMA,0.036761004477739334,0.9094424247741699,0.053796518594026566
+Health,"It's time to start a campaign to stop the practice of giving arsenic, antibiotics, and Prozac to chickens- just like pink slime - time to get rid of this!",,27,220,2012-04-05,PHARMA,0.02970816008746624,0.9206416010856628,0.04965030029416084
+Health,Rethink Your Drink - Cool image depicting sugar in different popular drinks,,22,170,2012-04-05,PHARMA,0.022085392847657204,0.8790068030357361,0.09890783578157425
+Health,"The case for universal care at the state level: A recent study showed that unified system would save Minnesota $4 billion overall in 2014, a 9 percent decrease in health spending",,2,40,2012-04-05,PHARMA,0.13339334726333618,0.1285284459590912,0.7380781769752502
+Health,The Dark Tactics for Selling Legal Drugs - Pharmaceutical giants play on our fear of death &amp; invent diseases,,11,32,2012-04-05,PHARMA,0.08692742884159088,0.8724154829978943,0.04065709188580513
+Health,Plan to Let Poultry Plants Inspect Birds Is Criticized,,2,31,2012-04-05,PHARMA,0.01695316657423973,0.9387462139129639,0.0443006232380867
+Health,"Ammonia used in many foods, not just ""pink slime""",,4,9,2012-04-05,PHARMA,0.03551795333623886,0.9080228209495544,0.056459229439496994
+Health,“Reverse Culture Shock” as a Parent Returns to America « FreeRangeKids,,2,8,2012-04-05,PHARMA,0.06268493831157684,0.8690921664237976,0.06822291761636734
+Health,"Obesity now accounts for almost 21 percent of U.S. health care costs -- more than twice the previous estimates, reports a new Cornell study.",,1,8,2012-04-05,PHARMA,0.06016814336180687,0.8496899008750916,0.09014187753200531
+Health,Hand eczema is already pretty bad on all of my hand's fingers and now its spreading to my other hand.,"How can i prevent it from spreading, and what creams and stuff should i put on my hands",15,7,2012-04-05,PHARMA,0.0717783197760582,0.886326253414154,0.04189548268914223
+Health,Help my buddy with Duchenne Muscular Dystrophy get a new set of wheels,,1,6,2012-04-05,PHARMA,0.018720319494605064,0.8946454524993896,0.08663427084684372
+Health,"New USDA proposals would increase the standard  of 3 inspectors look at 140 birds each per minute, to one looking closer to 200 birds a minute: Salmonella anyone?",,18,79,2012-04-06,PHARMA,0.017118506133556366,0.7739602327346802,0.20892134308815002
+Health,"Drug-Resistant Malaria Is Spreading, and It Could Be a Public Health Disaster.",,7,59,2012-04-06,PHARMA,0.13007871806621552,0.8249634504318237,0.04495782032608986
+Health,Face transplant man Richard Norris has 'life restored',,9,47,2012-04-06,PHARMA,0.045991718769073486,0.8771675825119019,0.07684071362018585
+Health,10-Year-Old Girl Gives Birth,,9,39,2012-04-06,PHARMA,0.052438002079725266,0.8962011933326721,0.05136086419224739
+medicine,Intussusception/Inception trailer by Vanderbilt Med School,,15,39,2012-04-06,PHARMA,0.02349136210978031,0.9319069385528564,0.04460170492529869
+medicine,"Nature Medicine: Suicide is the third largest cause of death among people under 45, yet is practically ignored in research",,4,36,2012-04-06,PHARMA,0.32771387696266174,0.6297932267189026,0.042492933571338654
+Health,Student Sues College to Keep her Guinea Pig - A college sophomore claims in court that Grand Valley State University discriminated against her by banning her medically prescribed assistance animal - a guinea pig - from her campus apartment.,,13,35,2012-04-06,PHARMA,0.12609520554542542,0.8486630320549011,0.025241747498512268
+medicine,Latest NY Times Diagnosis column: a 27 year old woman with progressive weakness and proximal muscle fasciculations presents with unsteady gait.,,7,22,2012-04-06,PHARMA,0.05307542532682419,0.8985306024551392,0.04839394986629486
+Health,"""It is an admission that is verging on sacrilegious for a French president. But Nicolas Sarkozy's top chef has revealed that the French head of state has banned cheese from the table at the Elysée Palace.""",,1,16,2012-04-06,PHARMA,0.03451303392648697,0.8854541778564453,0.08003274351358414
+Health,A Manifesto on Interoperability in Health Care IT - Forbes,,0,16,2012-04-06,PHARMA,0.023184124380350113,0.8976060748100281,0.07920984923839569
+Health,"Olive oil, milk, honey, saffron, orange juice, coffee, &amp; apple juice are most likely to be adulterated for economic gain, according to new report",,31,101,2012-04-07,PHARMA,0.03310892730951309,0.7691701650619507,0.1977209895849228
+Health,Big advance against cystic fibrosis: Stem cell researchers create lung surface tissue in a dish,,0,45,2012-04-07,PHARMA,0.013443542644381523,0.9191740155220032,0.06738250702619553
+Health,How does one accept that they are dying?,"I went to the doctor a month or so ago and was diagnosed with fibromyalgia and was put on medication to treat that along with IBS and other underlying conditions. I got bloodwork to see if anything else was wrong, and later an abdominal ultrasound after my liver results came back and suggested a problem.
+
+My liver ultrasound came back negative for significant damage, but further testing suggested hepatitis and non-alcoholic cirrhosis in my liver and the combination of the medication I'm on along with NSAIDs could put me into liver failure. I was told I would not be eligible for a liver transplant if this was the case, and I'm still waiting on an explanation as to why.
+
+The big scary news came about two weeks later. More test results came back, they analyzed the results, and came to the conclusion that I have hepatitis caused by a combination of NSAIDs, antibiotics, and birth control and complicated by my other medications. I have severely scarred liver tissue. My stomach lining is diminished as well. And I have 25 weeks of life left according to my doctors.
+
+To sum it up: I'm 19 years old, a freshman in college, and I'm dying of hepatitis and liver failure. Please help me accept this?",26,37,2012-04-07,PHARMA,0.13889652490615845,0.8236715793609619,0.037431955337524414
+Health,10-Year-Old Girl Gives Birth to Daughter,,1,21,2012-04-07,PHARMA,0.04807361960411072,0.905704140663147,0.0462222620844841
+pharmacy,Vanco Trough,,9,18,2012-04-07,PHARMA,0.03482826426625252,0.8827835321426392,0.0823882594704628
+Health,Anyone used the Eliava website for bacteriophage to stop their MRSA or related infection?,,27,15,2012-04-07,PHARMA,0.03950398415327072,0.9349335432052612,0.025562522932887077
+medicine,"The Errors of Their Ways -- essay on medical error by Rachel Giese: ""As the tools for healing proliferate, so do the difficulties in determining and executing correct diagnoses and treatments; each discovery creates new opportunities for mistakes, side effects, dangers""",,0,15,2012-04-07,PHARMA,0.024108583107590675,0.8873011469841003,0.08859030157327652
+Health,I've been getting charlie horses in my legs during my sleep.,"About once every one or two months I get extreme pain in my calves that wake me up in the middle of the night. It takes a good 10 minutes or so for it to subside, with just a weak feeling leg when I wake up in the morning. What causes this, and what are some good treatments for it when it happens?",8,9,2012-04-07,PHARMA,0.04817916080355644,0.8280748724937439,0.12374598532915115
+Health,New way to plug leaky heart valves,,0,9,2012-04-07,PHARMA,0.04995106905698776,0.8688077330589294,0.08124115318059921
+Health,New Hampshire Considers ‘Pro-Life’ Bill,,2,8,2012-04-07,PHARMA,0.02762114442884922,0.8909674286842346,0.08141140639781952
+Health,"Anxiety improves a person's ability to smell potentially threatening odors, according to a new study.",,8,46,2012-04-08,PHARMA,0.051790814846754074,0.4305335581302643,0.5176755785942078
+Health,I was prescribed paxil after one minute with a new doctor. Is this normal?,"41 yo male, never had any major health problems, dont drink or smoke and try to eat healthy and exercise. I havent been sleeping well and have felt a little overwhelmed lately since Ive been working a lot starting a new business. Basically, a doctor gave me 10mg of paxil to take everyday and didnt even tell me when to go back and see him. I went home, took the pill then started reading online about common side affects, and the affects of trying to STOP taking them. Fuck that! I returned them to the pharmacy. Is this normal now? Just tell somebody to take meds like this without knowing anything about them?",103,46,2012-04-08,PHARMA,0.0511818490922451,0.9017899632453918,0.04702819883823395
+Health,Thinking about taking a multivitamin?  There's something you should know.,"1)  The CDC just came out with a [report](http://www.cdc.gov/media/releases/2012/p0402_vitamins_nutrients.html) saying most Americans get enough vitamin A.
+
+2)  A [review](http://summaries.cochrane.org/CD007176/antioxidant-supplements-for-prevention-of-mortality-in-healthy-participants-and-patients-with-various-diseases) of 78 studies with almost 300,000 participants found that there is an increased risk of mortality associated with supplementation of vitamin A and beta-carotene (a precursor to vitamin A).
+
+A lot of people take multivitamins as an ""insurance policy"" to cover them just in case they are missing something.  However, indiscriminate there is such a thing as ""too much of a good thing"" (vitamin toxicity).  If you are thinking about taking vitamin supplements, figure out what you might actually need (possibly vitamin D or iron) rather than taking every vitamin you can find.",38,44,2012-04-08,PHARMA,0.03676917031407356,0.8842819333076477,0.07894888520240784
+Health,"A study in Finland has found that children vaccinated against the H1N1 swine flu virus with Pandemrix, a swine flu vaccine by drug giant GlaxoSmithKline, are 1700 times more likely to develop the sleep disorder narcolepsy.",,19,33,2012-04-08,PHARMA,0.04026160016655922,0.9085016250610352,0.05123680457472801
+Health,"You are what you eat? - New York Times food columnist Mark Bittman joins the conversation on “pink slime,” a chemically infused product of processed meat, and the deeper issues with the “slime” that go beyond just being unappetizing. [Video on msnbc]",,16,31,2012-04-08,PHARMA,0.025560131296515465,0.9250537753105164,0.04938611760735512
+Health,"/r/health, I introduce you to /r/healthbills. Got an outrageous bill? Show your bill and share your story there.",,5,29,2012-04-08,PHARMA,0.030012236908078194,0.9246721267700195,0.045315612107515335
+Health,"Sleep problems and schizophrenia may have common roots, raising hopes that the devastating mental disorder could be improved by helping patients overcome insomnia.",,1,20,2012-04-08,PHARMA,0.02638002671301365,0.3838871717453003,0.5897327661514282
+Health,"Chorda timpani neuroma... Fellow redditors, can you help me find information on my condition? I want to be able to taste my Cheetos again like I did last year!","Lost my sense of taste in 2/3 of my tongue in November 2011. Several appointments, an MRI, a CT scan, and a couple of nasal sprays later, my ENT found a very tiny growth on my chorda timpani and is referring me to Mass Eye and Ear. Anyone out there ever heard of this? Is the growth typically cancer or just a nodule of some kind? Can you remove this without sacrificing the chorda timpani completely?
+
+Edit: 32 female. Also, my initial research online has turned up only pay-to-view medical journals. Thanks for the up votes!
+
+Edit:thank you nohedge &amp; sexychippy!! This is in my reply below but warrants including in the post I think:
+
+""FYI: this little string here has just changed my husband's opinion of reddit from that place where I look at cats, memes he doesnt understand, and pictures that make him say ""please tell me you don't look at this stuff on your work computer/phone"" to a place of genuine value and community-oriented advice.""
+
+Thank you!",7,18,2012-04-08,PHARMA,0.04174772650003433,0.9287776350975037,0.029474640265107155
+Health,"Julie Chen, M.D.: Should We Take a Daily Aspirin or Not?",,10,16,2012-04-08,PHARMA,0.056372955441474915,0.9134104251861572,0.03021666221320629
+Health,Reclaim the Blemish-Free Skin You Once Had with the Stretch Mark Removal Option That Is Right for You,,0,8,2012-04-08,PHARMA,0.029426241293549538,0.9381918907165527,0.032381877303123474
+Health,Obesity in pregnancy linked to autism - mothers who were obese were about 67% more likely to have a child with autism,,24,158,2012-04-09,PHARMA,0.08652140945196152,0.8638856410980225,0.04959293082356453
+Health,“Pink slime” is only a symptom of industrial food safety problems. The real problem is our overuse of antibiotics to keep factory farm animals healthy in jam packed living spaces.,,6,66,2012-04-09,PHARMA,0.05589450150728226,0.9028282761573792,0.04127728193998337
+Health,Tired of being a hunchback- any tips to keep my shoulders back and my head straight?,,39,59,2012-04-09,PHARMA,0.09498653560876846,0.8513751029968262,0.05363836884498596
+medicine,"Rare, Beautiful and Disturbing Objects From the National Library of Medicine",,1,48,2012-04-09,PHARMA,0.028336089104413986,0.9246121048927307,0.047051794826984406
+Health,"Hey Reddit! A few days a go i tore my ACL, MCL, and Meniscus. since then I have sat on my butt doing nothing but eating. I need some work out ideas that dont involve my knees so i dont go from 6 pack to 6 rolls by summer :)",,49,35,2012-04-09,PHARMA,0.07309030741453171,0.8965458273887634,0.030363842844963074
+Health,Monsanto Threatens to Sue Vermont if Legislators Pass a Bill Requiring GMO Food to Be Labeled,,3,17,2012-04-09,PHARMA,0.7496892213821411,0.22736147046089172,0.022949334233999252
+medicine,A Major Study of Maternal Obesity &amp; Diabetes Shows an Association with Autism &amp; Other Developmental Disorders,,7,12,2012-04-09,PHARMA,0.050027403980493546,0.8934319615364075,0.05654064938426018
+medicine,This is social policy in the richest nation in the history of the world,,3,10,2012-04-09,PHARMA,0.03755120560526848,0.9305422902107239,0.031906455755233765
+Health,"If you are fat in Texas, you cannot work in certain hospitals.",,0,9,2012-04-09,PHARMA,0.12854048609733582,0.8447167277336121,0.026742804795503616
+Health,Why Does the U.S. Have Such a High Infant Mortality Rate?,,7,8,2012-04-09,PHARMA,0.8832897543907166,0.08656617999076843,0.03014405071735382
+medicine,"As an intern, how I feel when I put on my white coat",,23,148,2012-04-10,PHARMA,0.03146427124738693,0.7984436750411987,0.17009209096431732
+Health,Teen Birth Rate Hits Historic Lows,,18,137,2012-04-10,PHARMA,0.9282550811767578,0.018593525514006615,0.053151343017816544
+medicine,"(repost from /art) Had to do a painting series of anything for class. I did an HIV virus, Cancer cell, and Malaria infected cell",,11,105,2012-04-10,PHARMA,0.12937651574611664,0.837317943572998,0.03330552205443382
+Health,My cousin's wife has MS and does an annual MS Walk to raise funds to support research for a cure. Just wanted to see if reddit would like to surprise them with a little boost!,,7,65,2012-04-10,PHARMA,0.018273066729307175,0.8764285445213318,0.10529834777116776
+Health,Smoking Menthol Cigarettes May More than Double the Risk for Stroke,,3,46,2012-04-10,PHARMA,0.2040664553642273,0.758357048034668,0.03757651522755623
+Health,Frequent Dental X-Ray Scans Linked To Increased Risk for Brain Tumors,,2,22,2012-04-10,PHARMA,0.864804208278656,0.07065461575984955,0.06454115360975266
+Health,"To Treat Sleep Apnea, Some Shed a Mask - NYTimes.com",,2,20,2012-04-10,PHARMA,0.0424601174890995,0.9172706604003906,0.040269192308187485
+Health,"Chickens Fed Caffeine, Banned Antibiotics, and Prozac Often Without The Farmer’s Knowledge",,3,17,2012-04-10,PHARMA,0.14394217729568481,0.8344090580940247,0.021648744121193886
+Health,Dental X-rays May Raise Risk of Brain Cancer,,0,17,2012-04-10,PHARMA,0.2706362307071686,0.6817066669464111,0.04765709117054939
+Health,"Many Doctors Say It's 'High' Time To Legalize Marijuana 
+      - YouTube",,13,15,2012-04-10,PHARMA,0.11490511149168015,0.844805121421814,0.04028979316353798
+Health,FDA wants limits on antibiotics given to animals,,11,167,2012-04-11,PHARMA,0.1457684189081192,0.8122736811637878,0.04195784032344818
+Health,"""More than 210 drugs are in short supply or totally unavailable"" and hospitals aren't getting notice.",,3,81,2012-04-11,PHARMA,0.7735490202903748,0.20349492132663727,0.02295597642660141
+Health,An Arkansas judge on Wednesday fined Johnson &amp; Johnson and a subsidiary more than $1.1 billion after a jury found that the companies downplayed and hid risks associated with taking the antipsychotic drug Risperdal.,,0,25,2012-04-11,PHARMA,0.9003610610961914,0.08565838634967804,0.013980577699840069
+Health,Inside the Growing Prescription Pill Epidemic That's Ravaging Communities,,1,24,2012-04-11,PHARMA,0.04047679156064987,0.9054602980613708,0.05406291410326958
+Health,Down the Insurance Rabbit Hole,,3,19,2012-04-11,PHARMA,0.042607009410858154,0.9077157378196716,0.049677230417728424
+Health,"Are Drugs Behind Dementia Epidemic? Many people have actually been made “crazy” and often disabled by the use of  – or the withdrawal from – commonly prescribed, brain-altering and, for many, brain-damaging psychiatric drugs.",,11,16,2012-04-11,PHARMA,0.18528138101100922,0.7898234128952026,0.02489520236849785
+Health,10 Most Important Foods To Buy Organic,,7,10,2012-04-11,PHARMA,0.01501513086259365,0.8963738679885864,0.08861100673675537
+Health,British man allegedly fathered up to 600 children through secret sperm bank donations,,1,8,2012-04-11,PHARMA,0.07171523571014404,0.9041990637779236,0.02408573217689991
+pharmacy,Pharmacy student study help?!?!,"So I just started studying pharmacy to become a pharmacy tech and hope to move on to become a pharmacist.Well I had our first test today and needless to say I was blindsided by the components of the test. 
+
+I was wondering what is the best way to memorize all brand, generic, and therapeutic names of drugs. Also how do you memorize the spelling of everything? I just started out this week and don't want to make the same mistake twice, any and all help will be appreciated.
+
+Thank you for tips, notecards from here on out is a must! I don't work in a pharmacy yet, although I wish I did. Wish me luck! :D
+
+100 Notecards and 6 1/2 hours later over 2 chapters only to sit down in front of the test that has nothing to do with what we went over. :/",24,6,2012-04-11,PHARMA,0.026739507913589478,0.9101109504699707,0.06314953416585922
+Health,Abnehme Tips - Diät Abnehmtipps und Abnehmtips für schnellen Gewichtsverlust,,0,6,2012-04-11,PHARMA,0.05181334167718887,0.9014837145805359,0.04670289531350136
+Health,"Johnson &amp; Johnson to Pay $1.2 Billion in Deceptive Marketing Case - It sold antipsychotic drug Risperdal, without mentioning its side effects while claiming it safer than the competition &amp; causing govt-healthcare to pay for the drug, increasing risk of diabetes &amp; neurological problems.",,17,158,2012-04-12,PHARMA,0.11240517348051071,0.8555034399032593,0.0320914052426815
+Health,8 Surprising Foods That Contain More Sugar Than a Twinkie,,20,63,2012-04-12,PHARMA,0.06621041893959045,0.8909065127372742,0.042883098125457764
+Health,Drug-Resistant Bacteria Found in 4-Million-Year-Old Cave,,5,49,2012-04-12,PHARMA,0.03143184259533882,0.9096682071685791,0.05890001356601715
+medicine,Why all women should be encouraged to get the HPV Vaccine.,,30,33,2012-04-12,PHARMA,0.012305906042456627,0.7034926414489746,0.2842014729976654
+Health,"Is Your Job Killing You? Harvard Medical School 
+concluded night shift workers are at greater risk for 
+Type 2 diabetes, cancer and heart disease, among 
+other afflictions. Inside: A list of job types that 
+could have an adverse effect on your health.",,7,17,2012-04-12,PHARMA,0.8072090744972229,0.1777467131614685,0.015044206753373146
+medicine,Interesting article on regeneration therapy and its role in athletic therapy. Is anyone else here involved in the field of regenerative medicine?,,10,12,2012-04-12,PHARMA,0.036426715552806854,0.938264787197113,0.0253085158765316
+pharmacy,CVS won't promote me to an Intern,"I'm a P1 and have worked at CVS for 4 years as a technician.
+
+It's almost the end of the year and my District Manager still won't promote me to intern. All my classmates I've spoke with (who also work at CVS) are interns. 
+
+I've had an interview with the Intern coordinator and I felt it went OK. I have lots of work experience with the company, obviously, and all three pharmacist's I've worked with love me. They think it's nonsense I am not promoted yet and even spoke with the DM about it.
+
+My current PIC spoke with the DM and said CVS is concerned that I don't agree with all their programs, such as PCQ. This stems from a conversation I had with DM where I said CVS calls the customers too much and it bothers people. I said I get prescriptions at CVS, my sister does, and my mother, so I can understand when patients complain about all the calls because it is annoying.
+
+She said I should know why we call customers and it's for their benefit.
+
+Don't know if I should stick it out with CVS or try to get hired somewhere else. My salary isn't the issue. I already make $13/hr so that's not the reason for not promoting.
+
+TLDR;
+- Been with CVS for 4 years
+- DM thinks I don't agree with CVS's ""helpful programs"" and thus not intern worthy
+- Wat do?",27,10,2012-04-12,PHARMA,0.07075802236795425,0.891754150390625,0.03748780116438866
+Health,How the Internet is destroying our brains [Infographic],,5,8,2012-04-12,PHARMA,0.07434426993131638,0.9034931659698486,0.022162578999996185
+pharmacy,Next Malaria Drug After Artemisinin,,0,6,2012-04-12,PHARMA,0.016918668523430824,0.9015523195266724,0.08152899146080017
+Health,Food Packaging and Bisphenol A and Bis(2-Ethyhexyl) Phthalate Exposure: Findings from a Dietary Intervention,,0,5,2012-04-12,PHARMA,0.019414404407143593,0.9170361161231995,0.06354951113462448
+Health,Monsanto and Big Tobacco Blamed for Birth Defects,,2,162,2012-04-13,PHARMA,0.24401040375232697,0.7315957546234131,0.024393796920776367
+medicine,Doctors Urge Their Colleagues To Quit Doing Worthless Tests,,32,40,2012-04-13,PHARMA,0.6505984663963318,0.2760292589664459,0.07337220013141632
+Health,"B.C. Supreme Court justice strikes down section of medical marijuana law - ""We took THC and cannabis away from pharmaceuticals this morning and put it back in people’s backyards where they can make their own medicines.""",,0,39,2012-04-13,PHARMA,0.09510177373886108,0.8556358814239502,0.049262382090091705
+medicine,A question from a layman: Why does she do the hand examination at the start here?,,12,8,2012-04-13,PHARMA,0.04952361062169075,0.9155165553092957,0.03495989367365837
+medicine,Some medical career advice?,"Hello Meddit!
+
+I've always been enthralled by the field of medicine and have always planned on having some sort of career in it, but I was recently diagnosed with a condition which won't allow me to stand or walk for extended periods of time (the most I can do is around an hour before having to rest) and requires me to walk with a cane. 
+
+While I've planned to go down the MD track my entire life, it seems that from what I've heard, it's going to be impossible for me to be an actual doctor with this disability. Is it at all possible that a future employer might make accommodations for me, or are my dreams in becoming a doctor completely squashed? Are there any careers in the medical field that wouldn't require me standing for prolonged periods of time?",12,7,2012-04-13,PHARMA,0.04329173266887665,0.9187032580375671,0.03800499811768532
+Health,Omega 3 fatty acids can stop cancer from spreading,,2,7,2012-04-13,PHARMA,0.018835129216313362,0.9217814803123474,0.0593833327293396
+medicine,I need some help - Medical elective,"I'm currently in my 4th year of studying medicine in England, and I am planning my medical elective. I had a placement sorted in New Zealand but they've sacked us off. 
+
+Myself and 2 colleagues are now hoping to do our placement in Thailand but we're having trouble finding a hospital or clinic who will take us.
+
+If anyone has any advice or contacts that could help us out it'd be greatly appreciated.
+
+Cheers",9,7,2012-04-13,PHARMA,0.02282837964594364,0.7767215371131897,0.20045004785060883
+Health,Constant ear pain and so far doctor has been very unhelpful. Anyone else have similar experience?,"I have been having a lot of problems with my ears and migraine like headaches for over a year now and so far my doctor has not been taking it seriously. He keeps prescribing me nasal sprays (which are not helping at all) and asking me what I think is wrong with me. He has finally referred me to an ear specialist and given me some pain killers but I have been waiting for over a month so far and still have another two weeks to wait before seeing the specialist and things are only getting worse. I was hoping that someone else might have had a similar experience and can give me some incite or even something I can do at home to help.
+
+My problems started January 2011 when I had the worst sinus colds of my life. Since then my ears have been popping nonstop whenever I swallow or move my facial muscles. To begin with I was just having ear pain, sinus pain, and headaches occasionally or when I was sick. I went to the walk in clinic and was told that I needed some earwax cleaned out of my ears. The ear wax removal stopped the pain for a while but the popping continued. About a month or so later I started having the pain on and off again. 
+
+Things started to get worse about 5 months ago and since then the ear pain, sinus pain, and headaches have gotten a lot worse and more frequent. Since then I have been seeing the doctor regularly and he has been prescribing me nasal sprays. These seem to have stopped the nasal pain but have done nothing for my ears. Every time he looks into my ears he says that they are completely clean with no infection and he doesn't see any fluid behind the ear drum.
+
+Currently I am experiencing constant mild ear pain, headaches, fatigue, and constant ear popping but about once a week I get migraine like headaches (with sensitivity to light and noise), extreme ear pain, dizziness, and mild nausea. Whenever the extreme pain comes on I am forced to stop when I am doing and curl up in bed hoping it will be over soon. Lying down holds no relief though as even just my pillow touching my head causes extreme pain. I am reliant on the painkillers just to get me through each day but those come with their own set of side effects as well. 
+
+I have been doing some searching online but nothing seems to really fit what is going on with me. Hopefully one of you have overcome something similar and can help me out. (:",8,7,2012-04-13,PHARMA,0.22038085758686066,0.7498797178268433,0.029739441350102425
+medicine,Please help me understand how one can have a fatal heart attack missed by doctors?,"My husband, 45 years old, thin, active (smoker though) recently passed away from a fatal heart attack.  He had no previous history except in the early 90's was told that he had a heart murmur during a pre-employment physical.  (His late mother had heart attacks) He NEVER went to the doctor......until the last couple of months before his demise.  He had been complaing of back &amp; left shoulder pain (but his shoulder had bothered him for years so I thought it was the same) as for the back pain I told him he should go to the doctor.  He did not have medical insurance due to layoffs, was unemployed, so for him to feel the pain was bad enough to go to the Urgent Care/Emergency Room Hospital &amp; pay out of pocket speaks for itself.  They told him he had strained his back and gave him a perscription for Ultram.  He went back several times because it was not improving.  They just kept taking his money, wrote the prescriptions, and sent him on his way.  The Sunday after Thanksgiving he had mentioned that he felt ""funny"" but couldn't elaborate, and that his left arm ached and thought he had slept on it wrong, but I don't know if he told them when he went to the Urgent Care that afternoon (I wish I had went with him-but I didn't).  They just wrote him a refill.  He left the facility on foot and headed to the drug store (which is just across the parking lot about 50 yards) and just after entering the store he stumbled, sat on floor short of breath and collapsed.  By the time the paramedics got there he was already gone.  They were unable to revive him.  The autopsy revealed that the heart attack (""Cardiac Insufficiency"") was due to Aortic Stenosis and Cardiomegaly, and that they have been present for years.  I have been doing some research trying to make sense of it all and have found that the stenosis can be detected by hearing a murmur.  I obtained the Urgen Care's records and they marked the box that indicated no murmer present.  I would really like to know how the stenosis can be so bad that it causes a fatal heart attack yet be missed by the doctor who saw him literally just minutes before the fatal event?  It just doesn't seem right.   Am I wrong in believing they should have caught it?",28,5,2012-04-13,PHARMA,0.21943168342113495,0.7537035942077637,0.02686469815671444
+Health,Mental Health Self Tests,,2,5,2012-04-13,PHARMA,0.08047227561473846,0.8547831177711487,0.06474465131759644
+Health,Drug Shortages In The US Hit Record Levels; Responsible For At Least 15 Patient Deaths Since Mid-2011,,4,49,2012-04-14,PHARMA,0.46420398354530334,0.3677836060523987,0.16801238059997559
+Health,"In a new study that used a special type of photography to unveil hidden signs of sun damage, middle schoolers showed evidence of levels of UV exposure that could raise their risk for melanoma later in life",,2,31,2012-04-14,PHARMA,0.049436211585998535,0.7417129874229431,0.20885077118873596
+Health,"Mystery Sapovirus Strikes Nursing Homes - For sheer misery, few germs can cause the chaos of norovirus in a nursing home. The gut bug can spread rapidly through food, on surfaces or person-to-person, afflicting victims with violent diarrhea, vomiting &amp; stomach pain. Now it's on the rise.",,1,25,2012-04-14,PHARMA,0.6627299785614014,0.31811314821243286,0.01915684901177883
+Health,Alzheimer's Drug Candidate May Help Brain Injuries Heal:  Researchers uncover a potential new path to spinal cord regeneration,,0,25,2012-04-14,PHARMA,0.010588769800961018,0.31952396035194397,0.6698873043060303
+medicine,"Propecia labels will now include warnings for libido 
+disorders, ejaculation disorders, and orgasm 
+disorders that continued for men even months after 
+stopping the drug",,3,19,2012-04-14,PHARMA,0.8003029227256775,0.17702308297157288,0.022673994302749634
+Health,"Suffering from a second attack of acute Pancreatitis, how can I regain energy when I cannot eat? I need my health back!","I am not sure if this is where I should be posting, but as I am very weak I cannot do research for too long. I have had, since about 4 days, a second attack of pancreatitis. The first time was in August 2010 and was much worse where I was on the tip of loosing my life. This time however, it is not as serious, which also means that I am not hospitalized. In addition, I am also not in my own country and therefore the healthcare is extremely expensive. I have been told that I cannot eat until the pain goes away by the doctor, and they prescribed painkillers for me, but thats about it. I have gone now about 30 hours without eating and just drinking water, I am trying to drink some water with salt and sugar as well to give my body some of what it needs. But my question is this, what can I do to regain my health as fast as possible, what can I drink to ensure recovery because now my whole body is very weak, and the pain is not going away fast... I appreciate any answers that might lead me in the right way as I have had a hard time to really get a lot of information from doctors since it first happened in 2010.",8,15,2012-04-14,PHARMA,0.09181497991085052,0.8740277290344238,0.03415724262595177
+medicine,Germ warfare: The new generation of drugs that could blast any viral disease.,,0,13,2012-04-14,PHARMA,0.010273625142872334,0.6205314993858337,0.3691949248313904
+Health,'Alive Inside': New documentary shows how music can reawaken Alzheimer's patients,,0,11,2012-04-14,PHARMA,0.01968943141400814,0.8854194283485413,0.09489110857248306
+Health,Is this an Ocular migraine? description and questions inside.,"So, I just had what I think was an ocular migraine. However, when I went to go look this up, wikipedia, webmd, and mayoclinic all give slightly different info than the other sites my husband found. 
+
+All of a sudden this morning, I sat in front of the computer (reddit, what else!?!) and there was a large, C shaped, wavey-lined, floater on the leftish-central field of my vision. Unlike other small floaters, this didn't actually float. It stayed constant, it was hard to read through/around it, and I almost felt dizzy looking at the glare of the screen with it. I first worried I had a retinal tear, but realized that it was present for both eyes, whether open or closed. I had (and still have 2 hours later) no headache. Well, I've got a mild sinusy headache, but that's bilateral and directly where my sinus cavities are and my allergies are active. I haven't ever had a full-on migraine before, but I don't think this is it.  
+
+My hubby said that this seemed to be the description of an ocular migraine, and that it would either get larger over my field of vision over the next 20-30 minutes (which it was in the process of doing while he looked this up) and go away (which it did), or it would do this and then culminate in a migraine headache. I think I dodged a bullet on it. 
+
+So: what is the correct terminology for this? What causes it? Can I minimize the chance of it happening again? Is it worth an MD appointment especially for this, or just wait until the next time I see my MD? 
+
+Thanks much",16,9,2012-04-14,PHARMA,0.08244720101356506,0.8838962912559509,0.0336565263569355
+pharmacy,Pharmacists in R&amp;D?,"Are there any of you here on reddit? If so, what exactly do you do and how do you like it?",5,9,2012-04-14,PHARMA,0.033229436725378036,0.9308616518974304,0.035908933728933334
+Health,"Melinda Gates is fighting to put contraception on the global agenda -- because birth control saves children's lives and improves the standard of living. She says this is ""an uncontroversial idea"" that has become controversial.",,29,578,2012-04-15,PHARMA,0.1447504460811615,0.8179218173027039,0.03732772544026375
+medicine,Pre-Med’s New Priorities -  Heart and Soul and Social Science - NYTimes.com,,18,26,2012-04-15,PHARMA,0.02243688888847828,0.9158633947372437,0.061699770390987396
+Health,Generation Rx?  - A look at how an era of kids on psychotropic drugs are living now,,0,10,2012-04-15,PHARMA,0.03799263387918472,0.9279029965400696,0.03410438820719719
+Health,"Well, I can't differentiate color for shit apparently",,0,9,2012-04-15,PHARMA,0.056053172796964645,0.9112353920936584,0.032711461186409
+Health,Is it healthy to eat eggs every day for breakfast?,"Hey all,
+
+Just started a new job and I'm considering getting one of those all in one toasters and egg cookers.  I'd probably eat an egg on toast every day, but I'm trying to suss out if that would be good for me or end up killing me.
+
+I seem to remember eggs having something to do with cholesterol, but not in a ""bad"" way?
+
+Any help'd be awesome.
+
+EDIT: Further to that, can anyone recommend a good toast/egg cooker?",9,8,2012-04-15,PHARMA,0.031961217522621155,0.8943614959716797,0.07367730885744095
+Health,What studies have shown about sugar,,1,7,2012-04-15,PHARMA,0.03468374162912369,0.8443507552146912,0.12096548080444336
+Health,"Fungal Disease Threat Increasing - Fungal diseases are major threat not just to wild plants &amp; animals, but to us",,0,5,2012-04-15,PHARMA,0.33809033036231995,0.6423458456993103,0.01956385374069214
+Health,Medical Reviews of House,,1,5,2012-04-15,PHARMA,0.03607586771249771,0.9306384921073914,0.03328558802604675
+Health,The Politics of Fat: We Have to Keep Struggling to Liberate Ourselves from Self-Hatred,,0,4,2012-04-15,PHARMA,0.08142068237066269,0.8764947056770325,0.04208465293049812
+medicine,"In NYS, is a doctor required to notify his or her patient if said doctor is HIV positive?  Or other infectious/transmittable diseases?","I'm quite sure the answer is ""No"", but is there some evidence or law that protects physicians against this?",8,4,2012-04-15,PHARMA,0.03743049129843712,0.9146537780761719,0.04791570082306862
+Health,"""Americans now walk the least of any industrialized nation in the world. We've engineered walking out of our existence and everyday life.""",,24,175,2012-04-16,PHARMA,0.03597155958414078,0.9207737445831299,0.043254684656858444
+Health,Bacteria could be significant cause of OCD,,14,73,2012-04-16,PHARMA,0.6568260192871094,0.3097919821739197,0.033381979912519455
+Health,"Nuts Linked With Lower Diabetes, Heart Disease Risks",,6,26,2012-04-16,PHARMA,0.029051069170236588,0.7934654355049133,0.1774834543466568
+medicine,Taking concussion seriously,,3,10,2012-04-16,PHARMA,0.641983151435852,0.31544849276542664,0.0425683967769146
+Health,Canada's fast food some of the saltiest in the world,,1,8,2012-04-16,PHARMA,0.02127346582710743,0.9158298969268799,0.06289666146039963
+Health,Chronic lower back pain,"I have chronic lower back pain due to a degenerative disc.  I'm only 25 years old. The pain started several years ago and has progressively gotten worse.  It now bothers me all day, every day.  I'm unable to focus on anything but the pain.  I've tried strengthening and increasing flexibility through several physical therapy programs, I do home exercises constantly, I use hot/cold packs to manage pain, take NSAIDs, tried massage and pretty much anything I can think of and everything the doctors have recommended.  Nothing seems to help at all, or at least not last more than an hour before the pain returns.  I've seen several back specialists and had an x-ray and MRI done showing my degenerative disc in my lower back.  The doctor says surgery would be a risky and bad option as it's unlikely to help much and could make things worse.  I'm struggling to make it through days at my job and do anything outside of work as the pain is driving me insane.  The pain is not strong or sharp usually but never goes away.  I'm worried that it's only going to continue to get worse.  Reddit, do you have any ideas on what I can try next?",40,7,2012-04-16,PHARMA,0.1569094955921173,0.8021248579025269,0.04096568748354912
+medicine,Do any doctors here have any cases where there was medical errors involved? If so how were you able to handle and fix the situation?,"EDIT: This is a completely hypothetical question. No one has to mention any specifics, but I'm just wondering how doctors deal with medical errors. And how to prevent making errors in the future. 
+
+EDIT: Thanks for all of your help. Greatly appreciated!",15,6,2012-04-16,PHARMA,0.03765743225812912,0.9086835980415344,0.05365893244743347
+pharmacy,"PCAT and Organic Chemistry, Molecular Biology, and other subjects...is 4 months enough time?","Hi guys, I'm a freshmen who plans on applying for the class of 2017 to various pharmacy schools. At the end of my first semester I managed to get a 4.0 and I will probably maintain and if not, will be close to a 4.0 once again this semester. I have to take the PCAT this year but I have no knowledge of Orgo yet or Molecular Biology I have only taken the typical freshmen classes (Chem, Calc, Bio, etc) and I was just wondering, if I do take the PCAT this September will I able to learn these things on my own? I plan on taking a class in anatomy and physiology this summer since it is impossible to take it during fall or spring if you are not a pharmacy student here so I will probably know that part of the biology section. However, my main concern is if I will be able to teach myself Organic Chemistry I and become proficient enough to take it on the PCAT? What do you guys think? Thanks!
+
+Also, if it helps I plan to apply to the University of Minnesota, University of Texas Austin, UNC, UK, and Rutgers. Also, if you guys can suggest some other pharmacy schools to apply to feel free to chime in about that too... I was only going by rankings for these ( even though I'm fully aware that rankings mean little to nothing for pharmacy...atleast right now). Rutgers is my main choice since I currently go there. 
+
+
+Edit: Also, if you guys can suggest what guides to study from like Cliffnotes,Kaplan,Princeton Review that would be wonderful. Once again thanks guys!",39,5,2012-04-16,PHARMA,0.019740162417292595,0.9267402291297913,0.05351956933736801
+Health,"Now that you finally have that gorgeous hair and women are throwing themselves at you, you lose your sexual desire.",,1,5,2012-04-16,PHARMA,0.4385507106781006,0.5145033597946167,0.04694591835141182
+medicine,The number of deaths in England caused by heart attacks has halved in the last decade say researchers from the University of Oxford.,,0,5,2012-04-16,PHARMA,0.28269365429878235,0.6762486696243286,0.04105764627456665
+Health,The Fat Trap,,31,92,2012-04-17,PHARMA,0.04217957705259323,0.90532386302948,0.052496545016765594
+Health,"People underestimate the amount of sugar in drinks which are perceived to be ""healthy"", research suggests",,17,60,2012-04-17,PHARMA,0.013614499010145664,0.6639153957366943,0.32247015833854675
+Health,New treatment for prostate cancer gives 'perfect results' for nine in ten men.,,5,60,2012-04-17,PHARMA,0.01422385685145855,0.2914528548717499,0.6943233609199524
+Health,Lack of sleep is linked to obesity,,6,58,2012-04-17,PHARMA,0.16421791911125183,0.8060829043388367,0.029699232429265976
+Health,I'm really struggling with Anorexia and my family refuse to acknowledge my disorder. Please help,"I'm 21 and right now I weigh 45kg (99.2 lbs). I have been trying to deal with my fear of food for the past 7 months and saw a specialist for the first few months but ran out of sessions. My family refuse to acknowledge that I have a problem and always say that there is nothing wrong with me. My mum was small at my age. She tries to rationalize my disorder and tell me that she was my size at the same age and gives me clothes she wore at my age. I think she has body image issues and I have asked her about it but she doesn't seem to think anything is wrong. 
+
+I want to gain more weight because at the moment I'm slipping into dizzy spells and i can feel my body eating itself. I'm incredibly scared of what this disorder is doing to me. I don't like the way I look and I can feel people judging me and my size when I'm in public. 
+I want to change the way i think about food but its really hard to when your family tell you that nothing is wrong. I don't want to make excuses for this disorder anymore.
+
+I want to help my family understand what I'm going through so if anyone has any resources on anorexia i would be really grateful. 
+
+I don't know what do do next with my eating. if anyone has any good eating schedules or meal ideas that would be amazing.
+
+thanks",12,20,2012-04-17,PHARMA,0.07973278313875198,0.8876789808273315,0.03258822485804558
+medicine,3D printer developed for drugs,,9,17,2012-04-17,PHARMA,0.011546523310244083,0.8671471476554871,0.1213063895702362
+medicine,Internal Medicine residents! Which subspecialty are you planning on going for and why?,"Hello, I'm currently a resident in a Canadian training program and will be applying for subspecialty fellowship in the next few months and would like to get some thoughts as to what fields redditor residents are interested in and the reasons behind it.
+Please state where you are from as well!",21,16,2012-04-17,PHARMA,0.03901382163167,0.9230611324310303,0.03792499005794525
+Health,Strange brain problems. Should I be concerned?,"Hello. I'm a 20 year old healthy female. Within the last 2 years I've noticed that i'm starting not to feel ""right"". First thing that happened is that my memory got bad. I'm having trouble grasping the idea of things. It's like I try to keep up, but I lose it before I can understand. Then my reflexes started acting different randomly. It doesnt happen on command, but it seems like I 'thud' before I grab things. Like I've  been drinking and have no control. I've also been having number problems. I was at work when I noticed the number ""9"" seemed to appear as if it were floating on white paper. I did a double check and it wasn't a ""9"" at all, it was actually the       number ""6"". Also, just now I got confused thinking I had 2 charactors left in a text when I actually had 98. Weird. Next is my eyes. It's weird, but in a certain spot in           my peripheral vision, it appears warped, but I only notice it on patterns. Also,  i've had some strange accidents where I get pale, can't hear,  and can't see for about 30 seconds. Whenever it happens, people say I have a ""lost"" look on my face.
+
+Blegh. Maybe I just have bad allergies and developed dyslexia. If it matters, I also have nose polyps. I just can't help feeling that somethings off. Any ideas? (I'll make a doc appointment soon!)
+
+Anyways, I'm sooo sorry for how badly written that was. I'm dozing off and typing on my cellular device, which is a bad mix. Again, I'm sorry!",5,10,2012-04-17,PHARMA,0.21693085134029388,0.7582883834838867,0.02478073164820671
+medicine,Why are beta blockers contraindicated in Prinzmetal's angina?,"I know that calcium blockers are used to treat prinzmetals to prevent vasospasms, but why are beta blockers contraindicated? Is it because they are also a class II antiarrhythmic and increase the PR interval, thus allowing opening a window of time for vasopasms to occur more frequently? Or is the mechanism completely different from that?",7,9,2012-04-17,PHARMA,0.07708105444908142,0.9013388156890869,0.021580126136541367
+Health,New radiation therapy reduces treatment of gynecologic cancers from 5 weeks to 3 days,,0,7,2012-04-17,PHARMA,0.028270089998841286,0.9214441180229187,0.05028575658798218
+Health,"My wife is extremely ill, and nobody knows why (didn't realize this still happened in modern medicine):","She is a 37-year-old, white female.  Began running high fever one day in Sept. 2010 (104F), about 4-months after our daughter was born.  Ended up being diagnosed with Stage 2 Hodgkin's Lymphoma.  Began treatment, which was actually quite successful, but was hospitalized through most of it due to the fever persisting as well as extensive nerve damage after the very first dose of chemo.  At one point she was transferred to MD Anderson in Houston and they said: 1. They had no idea why she still had fever, and 2. They'd never seen someone with such extensive nerve damage after one dose of chemo (loss of function from the knee down on both legs, drop foot, etc.).
+
+Once treatment was over, she continued to improve and was even walking using a walker/braces.  Fever still hung around but was mainly low grade.  Around November of 2011, she had a few days of high fever again (103.8F at the highest).  It subsided, then came back again in December (almost exactly 4-weeks later).  Subsided again (never actually ""normal"", just down to 101F which is normal for her these days).  
+
+Around Feb 2012, the fever was back, along with some mental confusion (which was new).  Went to the hospital and was determined she had a very bad UTI.  She was treated for it and released, but was so physically weak at this point that she had to go to the rehabilitation hospital.  She went back to the regular hospital in Mid-March 2012 with another high fever.  Thorough investigation revealed no abnormalities anywhere, on anything.  No infection, nothing.  At the end of March the local hospital had exhausted all their options so she was transferred to the Mayo Clinic in Minnesota.
+
+She is still at the Mayo Clinic and has been there for 3-weeks.  Her fever has hung around 103F the entire time, and her function has been declining.  She is asleep most of the time, and delusional/confused during the brief moments she is awake.  She has trouble using her hands now and cannot feed herself or even use her phone (both are new problems).  The Mayo Clinic has done many new tests, as well as repeated old tests:  lumbar puncture, CT scans, PET scan, multiple blood tests, bone marrow biopsy, MRI, EEG, EMG, and so on... and has hit a brick wall every time.  Every single test is negative and shows NOTHING.
+
+They did a lymph node biopsy yesterday so we are waiting on the results, but if it shows nothing then they are getting ready to discharge her to come home with no answers, and just basically waste away.  I always thought that Mayo was where you went when nobody else could figure it out... they are one of the top places in the world for diagnosing people when nobody else can, and even THEY can't figure this out.
+
+How can someone this young be THIS sick and nobody knows why?  I've had friends and family who have dealt with serious illness, but never in my life have I been told, ""We don't know why this is happening.""
+
+Have any of you been in a similar situation?  Do you know of any options we should try next?  I feel like we have done everything we can do and yet she continues to get worse and we have no answers at all.
+
+Thank you for reading.",144,216,2012-04-18,PHARMA,0.09589958935976028,0.8721044659614563,0.031995970755815506
+Health,"Gulf seafood deformities alarm scientists - Eyeless shrimp and fish with lesions are becoming common, with BP oil pollution believed to be the likely cause what's harming the wildlife could also harm you (aljazeera.com)",,3,66,2012-04-18,PHARMA,0.5541775226593018,0.42425695061683655,0.02156556025147438
+Health,"What we currently call breast cancer should be thought of as 10 completely separate diseases, according to an international study which has been described as a ""landmark"".",,2,57,2012-04-18,PHARMA,0.03216515854001045,0.9399182796478271,0.027916518971323967
+medicine,The Doctor Will See You-If You're Quick (Doctor-patient relationship is in tatters. You have about 23 seconds to explain your symptoms. You probably won't grasp the reply. And you'll get the wrong kind of care: CT scans if litigation is feared; too many drugs if you're old),,16,55,2012-04-18,PHARMA,0.1564517319202423,0.8107511401176453,0.03279706835746765
+Health,"A new Iowa State University study confirms your mom was right, you should chew your food thoroughly. Mom's logic was that proper chewing would ease digestion, but the ISU research found that chewing food thoroughly also reduces food intake in healthy young adults",,2,44,2012-04-18,PHARMA,0.0426623672246933,0.789339542388916,0.16799814999103546
+medicine,Thinking of career change to medicine. Would appreciate any feedback.,"Current situation:  I'm a 28 yo mid-level Congressional staffer.  Career is the focus of my life b/c I'm truly content when I'm working with complex ideas and applying them to solve problems or create strategies.  I'm single, have no obligations, no debts, no plans of having a family, and don't intend to ever retire.  
+
+Problem:  Starting 1.5 year ago, I've increasingly come to view my work in public policy as meaningless. Even though I'm advancing on to more complex projects, I'm often bored. I despise that logic and rationality don't matter.  Although my group is pretty far removed from politics, its still similar to working with lawyers in an adversarial system; the goal is to advocate instead of finding the truth or best solution (even when what we do should be objective work; e.g., documenting groundwater absorption rates f/ a toxicology assessment). 
+
+I regret having gone down this career path, believe it's not a good match for my strengths and weaknesses, and am having trouble finding any meaning in my life (in an existential sense, mental/physical health is good). I want to dedicate my life to becoming an expert in a field where I can apply my knowledge and experience to help others.
+
+Solution?:  After researching potential careers ad nauseum, I can't shake the feeling that medicine could be extremely exciting and rewarding.  It has the potential to be intellectually satisfying, there's never-ending research, colleagues would have high standards for performance,  I'd be able to apply science and see results, and, most significantly, there are few careers I think of that offer such a direct, immediate benefit to society. Also, I guess I'd be able to afford to help out my mom when she's older. 
+
+Back to premed? I graduated in 2007 w/ polisci degree from a top SLAC, but started out as a bio/geo double major. Overall GPA 3.8; Science GPA 4.0, taken following courses: bio I, bio II, chem I, phy I (for life sciences), and and 3 geo courses.  Maths: algebra, calc (CLEP test). Granted, I'v forgotten a good bit of this and would need a refresher. The only med exposure I've had is a little admin. volunteering in a hospital and following my GP and OD for a couple days.  Unfortunately, due to recent string of family illnesses, I've been exposed to the world of specialists.  I'd never had any idea medicine is so deep and broad. 
+
+Next step? I'm seriously considering this plan: 1) resign 2)self-review math/ basic sciences 3)  take chem II, o-chem, phys II at state uni. while gaining more clinical experience (ER volunteer?) 4) assess chance of MS admission 4) decide to give 100% to MS prep, or choose another field to devote myself.
+
+I know this post is long and rambling.  Thanks for reading.  And please don't hold back with any opinions, advice, experiences, etc. you may have.",34,19,2012-04-18,PHARMA,0.046573456376791,0.9155573844909668,0.03786911442875862
+Health,More People Sick with Allergies This Year,,4,18,2012-04-18,PHARMA,0.44201475381851196,0.530875027179718,0.027110278606414795
+Health,Socioeconomic Factors Trump Race &amp; Geography for Odds of Living to Old Age,,1,17,2012-04-18,PHARMA,0.07143858075141907,0.8961679339408875,0.032393425703048706
+Health,A very interesting read on what happens when high-tech radiation therapy goes wrong.,,1,15,2012-04-18,PHARMA,0.03481343388557434,0.8758187890052795,0.08936778455972672
+Health,Unexpected Low-Impact Workouts,,2,14,2012-04-18,PHARMA,0.12442894279956818,0.8316840529441833,0.04388699308037758
+Health,"The USDA has decided, in its infinite wisdom, despite pink slime and a few other debacles of the food industry, to test a program allowing chicken companies to check their own livestock and decide whether or not the chickens are safe to eat.",,21,181,2012-04-19,PHARMA,0.012336397543549538,0.8485541939735413,0.13910946249961853
+Health,"Investigation: 2 Years After the BP Spill, A Hidden Health Crisis Festers - 
+Gulf residents &amp; cleanup workers continue to suffer serious health problems from the 2010 disaster, but the oil giant is not being held to account.",,2,88,2012-04-19,PHARMA,0.8910245895385742,0.08425387740135193,0.024721642956137657
+Health,CDC: 2011 was worst measles year in U.S. in 15 years. 2/3's of infected not vaccinated.,,5,46,2012-04-19,PHARMA,0.04480287432670593,0.8981940746307373,0.05700308457016945
+Health,"Melting Glaciers Liberate Ancient Microbes - 
+The release of life-forms in cold storage for eons raises new concerns about the impacts of climate change",,7,39,2012-04-19,PHARMA,0.022127751260995865,0.8688247203826904,0.10904746502637863
+Health,How WebMD convinces us we’re dying,,8,34,2012-04-19,PHARMA,0.021755866706371307,0.7466226816177368,0.23162147402763367
+Health,Devil's Work: The Fascinating History of America's War on Masturbation and Porn,,0,25,2012-04-19,PHARMA,0.07458972185850143,0.8767971992492676,0.04861310496926308
+Health,Confirmed: He Who Sits the Most Dies the Soonest,,18,18,2012-04-19,PHARMA,0.09760359674692154,0.8534085154533386,0.048987921327352524
+medicine,"New research carried out at Lund University in Sweden show how it may be possible to render cancer tumours harmless without affecting the other cells and tissues in the body. The findings apply to cancers including breast, lung &amp; bowel cancer",,1,16,2012-04-19,PHARMA,0.02106732875108719,0.8853345513343811,0.09359806776046753
+Health,Why Support a Religion That Shames You? Pro-Choice Religious Group Offers Alternative,,4,11,2012-04-19,PHARMA,0.020607659593224525,0.9256981611251831,0.05369424819946289
+medicine,Expedition Medicine?,"Hey guys, this is my first post on this subreddit. I was looking for some sort of a medical community to ask about this, so here's hoping some of you can help me.
+
+Expedition Medicine is a field that I discovered a couple weeks ago, but I'm finding it extremely hard to find much relevant information about. Essentially, ""expedition medicine"" is accompanying some sort of expedition (research, business, filming, pleasure) in a remote area as a trained medical professional. The expedition would have to be big enough to afford hiring a doctor and the area would have to be remote, but it seems like this job exists in some forms.
+
+Does anybody know anything about this kind of job? It doesn't seem like it is an established field, from everything I've seen online - but somebody out there has to be doing it. It sounds like something that would be absolutely right up my alley, but I'm trying to find more information about this kind of field, or similar ones. I've always dreamed about traveling and going to remote places like Antarctica, so this would basically be a dream job if it exists.
+
+Thanks.",12,10,2012-04-19,PHARMA,0.02634044922888279,0.9209074974060059,0.052752114832401276
+Health,Cancer-killing dandelion tea gets $157K research grant,,15,138,2012-04-20,PHARMA,0.032013121992349625,0.9113813042640686,0.05660555884242058
+Health,"The horrific ramifications of the Gulf oil spill: Two years after the BP oil spill, deformed fish point to lasting environmental and health consequences",,2,79,2012-04-20,PHARMA,0.12214085459709167,0.8079586625099182,0.06990049034357071
+Health,"Ohio Republicans Move to Cut Funds to Planned Parenthood, Riling Democrats",,2,59,2012-04-20,PHARMA,0.5420495867729187,0.39308199286460876,0.06486839056015015
+pharmacy,for all you pharmacy students out there.,,16,38,2012-04-20,PHARMA,0.03155829757452011,0.9327276945114136,0.03571397066116333
+medicine,"Former FDA's chief scientist in charge of the clinical trials research for laser eye surgery, popularly known as LASIK, appeals to public for support in stopping LASIK",,16,32,2012-04-20,PHARMA,0.4937828481197357,0.20555824041366577,0.3006588816642761
+Health,"Gulf seafood that's on the market safe to eat despite oil spill concerns, claims FDA",,4,19,2012-04-20,PHARMA,0.045782823115587234,0.11628822237253189,0.8379290103912354
+Health,"Doc called, said he is putting me on prescription Vitamin D.. WTF?","I'm only 30, not obese (only 119lbs), and I spend an hour every day outside in direct sunlight (walking at lunch) - which is way more sun than I have ever gotten on a regular basis. I am not a vegetarian, actually I eat keto - so my egg, fatty fish, and vitamin D enhanced cheese level is probably higher than the regular eater. 
+
+I went for a regular screening - I actually went to get a baseline cholesterol panel - and he threw Vitamin D in for kicks. Apparently not since my Vitamin D levels are ""grievously low"", whatever that means. He is calling me in a prescription for Vitamin D and wants me retested in a few weeks. 
+
+What gives? Everything I have read (just now) says you are at risk for Vitamin D deficiency if you don't eat enough foods with VitD (I do), don't get enough sunlight (I do), are obese (I'm not)...
+
+Any ideas?",45,13,2012-04-20,PHARMA,0.0404413603246212,0.9186429381370544,0.04091569781303406
+medicine,Battle over Scope of Practice - Physicians Vs. Pharmacists,"I'm currently in pharmacy school and saw this in an article. I was wondering what are people's opinion on this. Is expanding the scope of practice for other healthcare professions (pharmacy, nursing, PAs) a particularly contentious issue in healthcare practice or is it just larger organizations playing politics? 
+
+
+http://www.nabp.net/news/seven-pharmacy-organizations-respond-to-ama-scope-of-pharmacy-practice-document/",14,13,2012-04-20,PHARMA,0.06596457213163376,0.9017354846000671,0.03229999542236328
+Health,Scar Tissue Transformed into Beating Heart Muscle in Mice | ALN,,0,7,2012-04-20,PHARMA,0.01774275302886963,0.9272001385688782,0.055057018995285034
+Health,I woke up this morning and something sharp was sticking out of my wisdom tooth socket.,"I had my wisdom teeth taken out last summer and since then the sockets have healed up nicely.
+
+However, this morning, I noticed a thin sharp object poking out of my gums where my bottom left wisdom tooth was.
+
+It doesn't really hurt unless I fiddle with it, but it's weird.
+
+Any idea what this is and what I should do about it?",6,5,2012-04-20,PHARMA,0.22085066139698029,0.6627050638198853,0.11644428968429565
+Health,What your gut’s telling you: why your digestion holds the key to your health,,24,107,2012-04-21,PHARMA,0.02014419436454773,0.8417900800704956,0.13806580007076263
+medicine,"Is there a ""Neil DeGrasse Tyson"" of Medicine?","I'm a master's student in biomedical science, and I *really* enjoy lectures from the likes of Dr. Tyson, Michio Kaku, Stephen Hawking, etc. However, I'm a bit disappointed to find that we really don't seem to have any 'mainstream' advocates of medical science such as those in astrophysics. I know Atul Gawande perhaps is an example of one such voice in medicine, along with maybe Jerome Groopman, I'm curious though Meddit, are there any other physicians/medical scientists that I may be unaware of that are worth looking into? Thanks guys!
+
+EDIT: Forgot to mention Abraham Vargese from Stanford (I think) is another.",55,48,2012-04-21,PHARMA,0.026387570425868034,0.9150770306587219,0.05853543058037758
+Health,"Vietnam pleads for help as mystery disease kills 19, sickens 171",,4,43,2012-04-21,PHARMA,0.5155956745147705,0.4412659704685211,0.04313831776380539
+Health,"Drinking too Much Coke Causes death of 30-year-old New Zealand mother? - The stay-at-home mom of 8 drank 8-10 liters (2.1-2.6 gallons) of Coke a day.  She went to sleep drinking Coke &amp; drank a Coke upon waking.  It's surmised she suffered from low potassium, causing her to drink Coke excessively.",,16,35,2012-04-21,PHARMA,0.1802833378314972,0.779667317867279,0.04004936292767525
+Health,Calories in Fruit – Largest List in Existence – Many rare exotic fruits included,,1,24,2012-04-21,PHARMA,0.017579758539795876,0.928627073764801,0.05379308760166168
+medicine,An Artificial Kidney To Take Patients Off The Transplant Waiting List,,2,16,2012-04-21,PHARMA,0.1204545646905899,0.8446139097213745,0.03493156656622887
+Health,Nashville woman sells chickenpox-infected lollipops for $50 each | MadConomist.com,,3,13,2012-04-21,PHARMA,0.03224395588040352,0.9217672944068909,0.04598872736096382
+Health,"What if, like myself, you drink both?",,8,9,2012-04-21,PHARMA,0.03671436756849289,0.8742818832397461,0.08900369703769684
+medicine,The U of T Admissions video for the Class of 2016 (1T6) - Funny,,2,8,2012-04-21,PHARMA,0.029430435970425606,0.9221227765083313,0.04844674468040466
+medicine,Doctors find cochlear implants restore hearing in rare disorder,,2,8,2012-04-21,PHARMA,0.09036099910736084,0.817805826663971,0.0918332040309906
+Health,Maryland blazes the trail to get arsenic out of chicken feed - The new law will also keep arsenic out of chicken feed out of a good portion of the waterways in one of the densest chicken-producing parts of the US,,10,165,2012-04-22,PHARMA,0.016702525317668915,0.9137477278709412,0.06954972445964813
+medicine,More Doctors 'Fire' Vaccine Refusers - WSJ.com,,54,48,2012-04-22,PHARMA,0.038145896047353745,0.9301593899726868,0.0316946879029274
+Health,Lost over 50 lbs in a summer and all I got was stretched out skin. What should I do?,"Hi Reddit. This is my first post.
+
+I was always fat since I could remember, but the Summer before high school I had lost a considerable amount of weight. I think it was about 60 lbs. I had some emotional issues and left school for independent study, in that time I ballooned up to 310 lbs. I was very large and had grown many stretch marks. I went back to school the following year and had naturally lost 40 lbs from not laying around so much. Then the summer before this current school year I have gone down to 220 lbs through cutting out a lot of calories. I was glad to have lost so much weight through healthier eating but I'm afraid I lost it too fast as now I have a lot of left over skin. It is quite unbearable at times to look at. 
+
+I was hoping someone could give me advice on how to get rid of it.
+
+edit: I'm a male. and I do have deep stretch marks on my stomach and hips. I'm 18.",16,22,2012-04-22,PHARMA,0.2688620984554291,0.6940844058990479,0.03705350682139397
+medicine,How Psychedelic Drugs Can Help Patients Face Death - NYTimes.com,,3,21,2012-04-22,PHARMA,0.033859651535749435,0.9074172377586365,0.0587230920791626
+Health,"Extreme sunburn, suggestions?","Hey guys,
+
+After applying sunscreen I still managed to get what I think is second degree sunburn on my shoulder. I am worried this will scar. Any suggestions on how to care for it. I've put tons of Aloe Vera on it but that has been extremely painful.
+
+Also, is it bad to work out with a sunburn? Only after I went for a long run I noticed that I had tons of bubbles on my skin and I began to peel. The picture below is a picture of my shoulder after I lost a layer of skin from peeling. Will this scar? Any suggestions? 
+
+http://imgur.com/wMQlW",31,10,2012-04-22,PHARMA,0.4788661301136017,0.49690505862236023,0.024228807538747787
+Health,How not to wake up with a head full of clogged Sinuses,"I wake up everyday with my nose blocked and an extremely heavy head. This makes my mornings very slow and groggy. I don't feel fully awake and relaxed till about noon, after I've spent the whole morning blowing my nose and clearing out my sinuses.
+
+Does anyone know of any tips/tricks than can help me wake up fresh and clear in the mornings?
+Also, I'm allergic to pollen, which may have something to do with my morning condition.",10,6,2012-04-22,PHARMA,0.10309594124555588,0.8641258478164673,0.03277816250920296
+Health,Maggots better than surgeons at wound cleaning -- for a week anyway,,0,5,2012-04-22,PHARMA,0.09940526634454727,0.8327561020851135,0.06783860921859741
+Health,How Psychedelic Drugs Can Help Patients Face Death,,0,5,2012-04-22,PHARMA,0.11617350578308105,0.7322118878364563,0.15161462128162384
+Health,Best ADHD Resources: List Of Helpful Resources For ADHD,,0,5,2012-04-22,PHARMA,0.026407862082123756,0.9324654936790466,0.04112658277153969
+Health,Painful labia - doctor is no help. Anyone heard of anything like this??,"I really need help with an unknown condition - it's affecting my sex life and sanity!
+
+24 y/o female, sexually active with one partner for 2 years. 
+
+I've been experiencing a strange, annoying, pain for the past few months on one side of my inner labia, the other side is fine. It is sensitive to the touch, often hurts if I need to wipe after using the restroom. It sometimes swells to x3 its size and becomes even worse so that it's painful to sit or walk. I think it started around January/February and it seems to get better (but not disappear completely), then get worse. It actually seems to get worse right after I finish my period. The last 2 times it got worse, I had sex on the weekend, got my period Monday-Friday, then the labia would start bothering me Friday/Saturday. We used condoms and lube because it's a tight fit, but we've used them the past 2 years.
+
+I've been to the gyno twice for this. The first time, it had started to get better although I could still feel it if touched directly. The doctor said she didn't see anything and gave me medicine for a yeast infection if it should get worse (the last 2 years I saw her she said my culture had a high level of yeast).
+
+When it got worse, I applied that medicine and it didn't help. I saw her again when it was at it's worse. She looked at it and said it didn't look like herpes and that it wouldn't help to lance it, but that it felt hard under the skin. I was sent home with an antibiotic prescription that did nothing.
+
+Now it's starting to get worse and I don't know what I should do. I don't want to go back to the same doctor as she hasn't helped at all, and I don't think my insurance will cover another gyno visit anyways.
+
+I've tried sleeping without underwear (I'm overweight so it can get a bit sweaty), wash my underwear in hot water, dry them without a dryer sheet, I don't use any soap on the area - just hot water. During my period I use Pearl tampons and unscented light pads or pantliners. I'm on the birth control pill (sprintec) and a low dose antibiotic for acne. My gyno knows about the antibiotic and has told me it shouldn't affect the effectiveness of the pill too much.
+
+I really need help! This is driving me nuts and is affecting my sex life because I can't do anything when it hurts, which is 28/30 days of the month. I just want it to go back to normal :(
+
+Edit: Forgot to mention that the worse the pain gets, only that area gets kind of itchy.",18,4,2012-04-22,PHARMA,0.2658213973045349,0.7058948278427124,0.028283745050430298
+Health,Farmers demand feds probe Monsanto and Dow over crops and chemicals,,12,255,2012-04-23,PHARMA,0.020653782412409782,0.8981771469116211,0.08116906136274338
+medicine,So funny. So true. (My apologies if this has already been posted),,4,79,2012-04-23,PHARMA,0.15772134065628052,0.693324625492096,0.14895404875278473
+Health,Acid-suppressing drugs linked to increased risk of fracture ·,,5,31,2012-04-23,PHARMA,0.06108250096440315,0.6743318438529968,0.2645856440067291
+medicine,"Scientists have found why a certain type of bacteria, harmless in healthy people, is so deadly to patients with cystic fibrosis",,0,14,2012-04-23,PHARMA,0.029451899230480194,0.9004576802253723,0.0700903832912445
+Health,Nutrition Blogger May Need License To Post. North Carolina threatens to shut down blog touting paleo-diet as remedy for diabetes,,17,13,2012-04-23,PHARMA,0.11393715441226959,0.8674520254135132,0.018610814586281776
+medicine,Changing M3 Educational Structure,"http://well.blogs.nytimes.com/2012/04/19/reinventing-the-third-year-medical-student/
+
+This article highlights a new approach to the third year of medical school being implemented at Harvard. Basically, the students follow 100 pts longitudinally throughout the year instead of the traditional rotating clerkships. The article is a little touchy-feely in that it talks about 'humanizing' the third year, but it does have a link to the related NEJM article. 
+
+I can see the value of extended pt contact and the possible merit in being a stronger advocate for your pts when you follow them through the gauntlet of modern medicine. On the other hand, it seems like a logistic nightmare: what if one of your pts has a whipple scheduled the same day another one goes into labor / has an MI / requires intubation / gets RSV? Also, how do you go from being a green M2 to a skilled clinician by just seeing this small sample size?
+
+I cannot fully comment until I read the related NEJM article at my library. Off the cuff though, I can't imagine that this new process will be nearly as rigorous as what I have experienced. 100 pts? really? A conservative estimate is that I saw &gt;1000 pts during third year, and I had to know everything about each of them. Also, how can one learn properly about a discipline without living and breathing it for a certain amount of time? I'm thinking of my OB rotation.... if I only had ~10 pregnant pts, what are the chances that I would see previa, abruption, NICU babies, etc? 
+
+I'm starting a surgical residency in a few months, so take it with a grain of salt.... but I feel like you can inject a modicum of listening and hand-holding into your practice without this drastic revision of the curriculum. At the end of the day, you're the best advocate for your pts if you really know your clinical science, can (patiently) obtain a proper history and guide them. I feel like if you want to hand-hold, you can always be a social worker. 
+
+The comments at the end of the article are fairly enlightening and run the gamut. Some of the students in the program rightly point out that you don't really learn all that much by holding a retractor for 4 hrs. We all know that there's a massive amount of inertia when it comes to medicine, and third year is a subjective experience that is largely attending-dependent.... but is this new system a good idea?
+
+TL;DR: Harvard gets rid of traditional clerkships in favor of longitudinal f/u of a cohort of pts, good idea?",8,12,2012-04-23,PHARMA,0.03405032679438591,0.9306418895721436,0.035307738929986954
+Health,"BBC News - Men set to live as long as women, figures show",,0,12,2012-04-23,PHARMA,0.1626797765493393,0.7958738207817078,0.041446395218372345
+medicine,American Airlines has decided to show a dangerously incorrect anti-vaccination piece - please sign the petition to stop it!,,2,9,2012-04-23,PHARMA,0.35792267322540283,0.619807243347168,0.022270111367106438
+Health,I am 35 and was just diagnosed with severe thoracic scoliosis that went unnoticed my entire life. Surgeons want to fuse my spine. Anyone with experience care to share?,"I am an operating room nurse who scrubs on fusion cases every day and it is barbaric and scary. I think I would have to be close to paralyzed to even consider it. 
+
+I am currently doing massage and chiropractic to alleviate symptoms, and starting PT soon. Just not sure what else I can do, as having the surgery means the end of my career.",14,8,2012-04-23,PHARMA,0.06620591878890991,0.8957986831665039,0.03799537196755409
+Health,How to Deal with Depression during Pregnancy,,0,7,2012-04-23,PHARMA,0.057996902614831924,0.8957081437110901,0.04629497602581978
+Health,Mad-Cow Case Confirmed in California Cow,,33,151,2012-04-24,PHARMA,0.20910923182964325,0.7502992153167725,0.040591515600681305
+Health,"The lack of sleep is one of the key debilitating factors in US society. Not only does lack of sleep pose a threat to your heart, weight, and stress levels, but it also increases the risk of cancer, diabetes, and other conventional illnesses.",,10,106,2012-04-24,PHARMA,0.11351573467254639,0.8589552044868469,0.02752901054918766
+Health,"My mom is a super hard working woman and it sucks to see her in so much pain. She has rheumatoid arthritis and I've been searching for some kind of relief for here. I guess my question is, has anybody cured it or at least minimized it? Any advice is really helpful. thanks","Ok so I think I read every response. I'm really surprised at how nice r/health is. I've pieced together most of what you guys said plus some research that I've done on my own and ill put it here for people to read. I still have to do some research but hopefully this could help out other people who have the same problem. 
+
+
+Rheumatoid arthritis is an auto-immune and inflammatory condition. As such, you may benefit from removing certain foods from your diet.
+
+-Grains, especially wheat and anything that contains gluten
+-Soy and other legumes including peanuts, conola oil, vegetable oil
+-Dairy, maybe butter
+-Vegetable oils
+-Eggs
+-Nightshades (peppers, eggplant, potato, and others)
+-Red meat
+-Sugars
+
+
+
+Excess omega-6 intake and chronic omega-3 deficiency provoke inflammation (primary sources are grains and vegetable oils such as soy, corn, canola; these oils are ubiquitous in processed foods). You may also benefit from adding certain supplements to your diet, including vitamin D3, magnesium, digestive enzymes, and probiotics.
+
+
+Eat lots of healthy animals and their fat, along with vegetables, and fruits and nuts on occasion.
+Get plenty of sleep.
+Get regular exercise – but not too much, and keep the Chronic Cardio to a minimum.
+Get regular sun. (if you have inflamation you muscle supplement Vitamine D3 atleast 7-10,000 IU (trust me)
+Don’t stress.
+
+Some people suggest probiotic usage, either in supplement or whole food form (yogurt, kefir, sauerkraut)( to help gut flora*DO MORE RESEARCH)
+
+Eating fibrous vegetables fresh from the garden, unwashed, in order to feed your new flora as well as introduce new bacteria and new digestive enzymes to diversify your gut’s digestive skill set. Foods like jicama, onions, garlic, and Jerusalem artichokes provide the prebiotic inulin (a type of fiber) which gut flora consume and convert to helpful short chain fatty acids. Olive oil, or coconut oil!!!!!!!! LOWER omega 6 oils, INCREASE FISH OIL!!!! Short chain omega 3 - flax oil. Its not as valuable. Not the same as fish oil. 
+
+
+
+**Suggestions that people have made:**
+
+
+-turmeric 3x daily, (450mg)
+
+-I'd suggest reading the books Anti-Cancer, Real Food, and looking into the GAPS Diet
+
+-Google 'gelatin arthritis', or 'chicken cartilage arthritis', or 'gelatin ray peat'
+
+-Ditch all artificial supplements in use, replace them with brewers yeast
+
+- Optional stuff: organic apple cider vinegar (in water, with honey if you like) and/or blackstrap molasses (bsm+milk=yummy), these are good for you. That should cover almost all vit/min needs.
+
+-floatation therapy
+
+-look at plaquenil
+
+-reiki treatments?
+
+-colloidal minerals
+
+-Search for YYYY's post in this thread. Very good link and information too
+
+-PALEO DIET!!!!!
+
+-Black Cherry concentrate
+
+**WEBSITES**
+
+http://www.thelivinlowcarbshow.com/shownotes/4162/476-dr-art-ayers-says-low-carb-fights-inflammation/
+
+http://coolinginflammation.blogspot.ca/search/label/anti-inflammatory%20diet
+
+http://www.marksdailyapple.com/whats-up-with-your-gut-beneficial-bacteria-and-good-digestive-health/#axzz1svv1lM3t
+
+http://tarc.med.unc.edu/
+
+http://www.naturalnews.com/035075_gluten_intolerance_rheumatoid_arthritis.html
+
+http://www.drmcdougall.com/stars/star06_jean-brown.html
+
+http://robbwolf.com/2012/04/23/battling-rheumatoid-arthritis-paleo-diet/
+
+http://drmcdougall.com/med_hot_arthritis.html
+
+
+
+HOPE THIS HELPS PEOPLE OUT THERE!!!",123,105,2012-04-24,PHARMA,0.0355353020131588,0.924939751625061,0.039524901658296585
+medicine,Students build wiki of medical devices designed for low-income countries,,1,33,2012-04-24,PHARMA,0.027878785505890846,0.9118471145629883,0.06027405336499214
+Health,"No, Virginia, cancer care in Europe doesn't suck, contrary to what a recent paper implies : Respectful Insolence",,0,31,2012-04-24,PHARMA,0.04553811252117157,0.8891375064849854,0.06532438099384308
+Health,Intravenous vaccination promotes brain plasticity and prevents memory loss in Alzheimer's disease,,1,30,2012-04-24,PHARMA,0.06408817321062088,0.8915191888809204,0.04439264535903931
+Health,"TIL: Mad-Cow disease (CJD) has a long incubation period of about 30-50 years, causes dementia, memory loss, hallucinations, seizures, pneumonia and as of 2011 no generally accepted treatment exists; Most victims die six months after initial symptoms appear.",,2,16,2012-04-24,PHARMA,0.14180180430412292,0.8330516219139099,0.025146575644612312
+Health,"Violence puts wear and tear on kids' DNA | Children who have experienced violence might really be older than their years. The DNA of 10-year-olds who experienced violence in their young lives has been found to show wear and tear normally associated with aging, a Duke University study has found.",,1,12,2012-04-24,PHARMA,0.09958544373512268,0.8504688739776611,0.04994569346308708
+Health,"""I'm currently living off of five foods. That's it.""",,2,12,2012-04-24,PHARMA,0.023898804560303688,0.9328314661979675,0.043269719928503036
+Health,Mad cow disease found in California dairy cow,,1,11,2012-04-24,PHARMA,0.6831361055374146,0.2669191062450409,0.04994480684399605
+Health,This doctor won't treat your kids if you don't get them vaccinated,,213,229,2012-04-25,PHARMA,0.09495331346988678,0.877159595489502,0.02788705937564373
+medicine,"Me and another medicine resident have spent the last 6 months putting together wikijournalclub.org, an open access approach to medical journals. Want a nice overview of the River's trial? ISIS-2 trial? ARDSNet? BAM. Done. Check it out. Oh yeah, and there's an iPhone app too.",,20,117,2012-04-25,PHARMA,0.013950545340776443,0.9053128361701965,0.08073662221431732
+medicine,"How medical supply behemoths stick it to the little guy, making America’s health care system more dangerous and expensive",,3,11,2012-04-25,PHARMA,0.7035322785377502,0.2730681002140045,0.02339966967701912
+Health,"I quit smoking 6 days ago. Now I'm coughing up small white chunks, a lot of phlegm. Is this normal?",Also I can't seem to get my throat to stop itching.,11,9,2012-04-25,PHARMA,0.1501760482788086,0.8172125816345215,0.03261134400963783
+Health,"Discovery of mad cow in U.S. was due to luck | ""We randomly pick a number of samples throughout the year, and this just happened to be one that we randomly sampled""",,3,8,2012-04-25,PHARMA,0.029335953295230865,0.9325147271156311,0.03814932703971863
+medicine,A single gene that promotes initial development of the most common form of lung cancer and its lethal metastases has been identified by researchers at Mayo Clinic in Florida,,0,8,2012-04-25,PHARMA,0.017021937295794487,0.927882730960846,0.05509539693593979
+Health,Stress Hormones Found To Make Cancer Resistant To Treatment,,0,5,2012-04-25,PHARMA,0.02886376343667507,0.781002402305603,0.19013381004333496
+pharmacy,Getting a certificate for chemo and other sterile products.,"So I was bored and started looking the NPTA's  website. I saw that they offer a course to get a certificate for sterile product preparation and aseptic techniques. I'm not really looking into that but is there anyone who did this? I saw it was like nearly $700 dollars **AND** you have to go to Texas to do this? For anyone who has done this, is it worth it? Are you getting paid more or did you just blow money. And why do you have to travel to Texas? Not only that but do you have to renew this and go back to Texas? Sounds like a lot of trouble just for a certificate.",8,5,2012-04-25,PHARMA,0.03248488903045654,0.8892875909805298,0.07822747528553009
+Health,"Dirty Medicine | How medical supply behemoths stick it to the little guy, making America’s health care system more dangerous and expensive. [2010]",,0,4,2012-04-25,PHARMA,0.4688637852668762,0.503292977809906,0.027843140065670013
+medicine,"Scientists have made a leap forward in understanding how a biochemical switch linked to blood-clotting, strokes and heart disease is switched on.",,0,4,2012-04-25,PHARMA,0.017722217366099358,0.8893833756446838,0.09289436787366867
+Health,Nutella finally admits it's not health food,,58,205,2012-04-26,PHARMA,0.03516414761543274,0.4897342026233673,0.47510164976119995
+Health,"Eating berries may slow brain's decline:  Women who eat blueberries and strawberries experience slower mental decline with age than women who consume fewer of the flavonoid-rich fruits, according to a US study.",,15,107,2012-04-26,PHARMA,0.21768350899219513,0.7400240898132324,0.042292460799217224
+Health,"Can You Get Mad Cow Disease From Milk? - 
+The USDA says you can't, but recent research on the sheep equivalent calls that claim into question",,6,40,2012-04-26,PHARMA,0.030217086896300316,0.906903088092804,0.06287984549999237
+medicine,"For the first time, a kidney that had been donated to a patient in need was removed and implanted into a new patient, the third individual to have the organ, after it failed in the first transplant recipient",,2,40,2012-04-26,PHARMA,0.4579266309738159,0.49505120515823364,0.04702215641736984
+pharmacy,Your best pharmacy story?,"I'm relatively new to reddit and was disappointed to see r/pharmacy isn't very lively so I thought I'd try to get a bit more action going on. What is your best story relating to pharmacy? Most shocking? Most 'did that just happen'?
+
+Mine is more along the line of 'did that just happen'? During my summer internship, I was walking through the neuro/stroke rehab floor and came across a family walking down the hall(presumable to visit a family member or friend) and in each child and adults hands was a bag brimming with McDonalds food. Each child was whining to their parent about having to be there. 
+
+Lost a bit of faith in humanity that day. What do you have?",28,23,2012-04-26,PHARMA,0.03660013899207115,0.8977890014648438,0.0656108483672142
+medicine,"When I was a kid, there weren't any peanut allergies, where did all of these allergic kids come from?",,29,23,2012-04-26,PHARMA,0.07480767369270325,0.8923275470733643,0.032864782959222794
+Health,My 3 month old daughter caught the flu and her blood platelet count came back almost 4 times the amount it should be. Anyone know anything about this? I'm freaking out here.,Doctors said it could be signs of Leukemia and I can't seem to find much info on infants with really high blood platelet counts. Anybody been through something similar? I'm a young father and am feeling lost and scared.,7,18,2012-04-26,PHARMA,0.2874607741832733,0.6776178479194641,0.03492136672139168
+medicine,Why trust in doctors is at an all-time high,,7,10,2012-04-26,PHARMA,0.044314492493867874,0.8775075674057007,0.07817800343036652
+Health,Does anyone know of an antiperspirant that does not contain aluminum?,"My searching up to this point has yielded no alternatives. I make use of an Epsom salt crystal to help with odor which works well, but this doesn't help control moisture.",14,9,2012-04-26,PHARMA,0.03733626380562782,0.9140152335166931,0.04864850640296936
+Health,Which multivitamin do you recommend?,"I'm a guy, mid 20s, fit and healthy. I was thinking of getting Centrum or One a Day but I'm not sure if they are good.",23,8,2012-04-26,PHARMA,0.022709233686327934,0.8416844010353088,0.13560636341571808
+Health,"How Washington went soft on childhood obesity. At every level of government, the food and beverage industries won fight after fight during the last decade, despite mounting scientific evidence of the role of unhealthy food and children's marketing in obesity.",,10,164,2012-04-27,PHARMA,0.05742523446679115,0.8193450570106506,0.12322971224784851
+Health,"Dogs who accidentally eat a commercial poison to combat gophers and moles can emit a toxic gas that can sicken veterinary staff, a new report indicates.",,5,117,2012-04-27,PHARMA,0.15350058674812317,0.8249969482421875,0.021502450108528137
+Health,Between 36-122 Million Americans Have Pre-Existing Conditions That Would Restrict Health Insurance Coverage,,1,37,2012-04-27,PHARMA,0.27102282643318176,0.7083550095558167,0.0206221304833889
+Health,"Hospitals' hired-gun debt collectors violate law to pressure ER, labor patients for payment before they are treated",,1,24,2012-04-27,PHARMA,0.8344883322715759,0.13780717551708221,0.027704579755663872
+Health,When porn meets real motherhood - Sex - Salon.com,,3,17,2012-04-27,PHARMA,0.04377761110663414,0.9277120232582092,0.028510285541415215
+Health,"Thinking can undermine religious faith, study finds",,2,11,2012-04-27,PHARMA,0.0639360249042511,0.8754895329475403,0.06057441234588623
+medicine,Lab Values,"Does anyone have a resource that perhaps accomplishes the following?
+
+- Fairly concise (its a complicated topic I know)
+
+- Explains the most likely causes for increased / decreased lab values
+
+- Provides corrective actions and associations with other electrolytes, chemicals etc?",9,11,2012-04-27,PHARMA,0.5526901483535767,0.41770699620246887,0.029602844268083572
+Health,Up All Night: Just How Bad Are All-Nighters?,,0,10,2012-04-27,PHARMA,0.13554294407367706,0.8355770707130432,0.02888002060353756
+Health,"UCLA researchers combat global disease with a cell phone, Google Maps and a lot of ingenuity",,0,7,2012-04-27,PHARMA,0.026585275307297707,0.9158498644828796,0.05756478011608124
+medicine,Study first to show transgenerational effect of antibiotics,,2,7,2012-04-27,PHARMA,0.03801446780562401,0.9229637384414673,0.03902176022529602
+Health,How Nutella is emblematic of the food industry's attempts to make junk foods sound healthy.,,42,220,2012-04-28,PHARMA,0.02796509489417076,0.9030627608299255,0.06897211819887161
+medicine,"Well, that explains the speech impediment.",,10,114,2012-04-28,PHARMA,0.03282434120774269,0.9116874933242798,0.05548820272088051
+medicine,Physicians: How much do you make?,"The release of the [Medscape physician salary report](http://www.medscape.com/features/slideshow/compensation/2012/public) has started some conversation among medical students about salaries.  Students don't really get a lot of ""insider feedback"" about this stuff, because asking your attending ""hey, how much do you make"" is a poor decision.  
+
+I am interested in hearing what physicians think about their pay and the following discussion questions:
+
+* What is your specialty and country of practice?
+* How much did you make/year in your first few years out of residency?
+* How much do you make now (and how far out are you from your training)?
+* In general, do you make more or less than survey estimates/other colleagues?
+* Where do you see your salary going in the next 15 years?
+
+Edit: [AAMC has a site with some of this information](https://www.aamc.org/students/medstudents/cim/). This has data for American physicians only.",150,62,2012-04-28,PHARMA,0.07385378330945969,0.8975085616111755,0.028637617826461792
+Health,"Study raises doubts over treatment for prostate cancer
+
+Experts shaken by verdict suggesting thousands of men go through painful treatment for nothing",,0,10,2012-04-28,PHARMA,0.7575371265411377,0.17242835462093353,0.07003451138734818
+Health,Forget the Treadmill. Get a Dog.,,3,8,2012-04-28,PHARMA,0.16296832263469696,0.7717928290367126,0.06523879617452621
+Health,I keep losing my sense of smell completely and sometimes recover it for a few days. Any idea what it could be?,"99% of the time I don't have a sense of smell at all -- it started a few years ago. Used to be extremely good, now I can't even smell aftershave/medical alcohol/detergents.
+
+Sometimes, it slightly comes back for a few days, disappears again afterwards. Last time it actually came back was during a cold for a couple weeks.
+
+I've been to a few doctors but never got an answer. Maybe someone here knows?",16,6,2012-04-28,PHARMA,0.10830304026603699,0.8566523790359497,0.03504461795091629
+Health,"A friend launched a website two weeks ago that filters allergies and diets to show restaurants near you that cater to such needs, including lactose intolerance and gluten free.",,2,6,2012-04-28,PHARMA,0.015548350289463997,0.9099152684211731,0.07453637570142746
+pharmacy,TIL that the drug is called proPRANolol NOT proPANolol,"I'm a P2 (almost P3), and I just realized this &amp;#3232;\_&amp;#3232;",34,6,2012-04-28,PHARMA,0.028753653168678284,0.9093241691589355,0.06192224472761154
+pharmacy,Anyone currently in or already completed a Fellowship after Pharmacy school?,I've got a few questions on the process and wanted to know if I could get an insiders perspective.,2,3,2012-04-28,PHARMA,0.0336880125105381,0.9309369921684265,0.03537500277161598
+Health,Concerned about Lipid panel results - can anyone help me make sense of them?,"Cholesterol - 267	
+Triglyceride - 63	
+HDL - 53	
+Low density lipoprotein calculated - 201
+
+Some information: I walk/exercise frequently, at least 30-60 minutes of walking up/downhill a day and I weight lift 3-4 times a week. I eat on a primarily very high fat/low carb paleo diet with most of my calories coming from meat/eggs/olive oil and usually spend a majority of the week in ketosis. I also take fish oil everyday. 
+
+I frequently doing intermittent fasting for 24-36 hour periods usually 2-3 times a week. The test was taken at 12pm on Friday and the last meal I had was Thursday at 6 and it was an extremely large fatty meal (2500-3000 calories with 250g of protein and the rest being fat. It's not uncommon for me to eat one meal a day that looks similar to this and then fast for 24-36 hours.
+
+So that being said - I'm not sure how to interpret these results. I know that basically all of them are bad and the cholesterol/LDL levels are very alarming but I don't know if I might be missing something or if the numbers might be misleading. Is it possible that the last meal that I ate spiked up the results significantly? Any help is appreciated, thanks.",1,3,2012-04-28,PHARMA,0.051722776144742966,0.9057429432868958,0.04253428801894188
+Health,The endgame of for-profit medicine:  Cures not sought because indefinite treatments are more profitable.,,55,251,2012-04-29,PHARMA,0.03050335682928562,0.9060625433921814,0.06343410164117813
+Health,"In UK survey, doctors support denying treatment to smokers, the obese",,29,47,2012-04-29,PHARMA,0.09229125082492828,0.7049174308776855,0.2027912735939026
+medicine,Doctors back denial of treatment for smokers and the obese |The Observer,,23,36,2012-04-29,PHARMA,0.09271318465471268,0.8728621006011963,0.03442472219467163
+Health,Incomplete puberty?,"Hi all, i'm wondering if it's possible to start puberty but never actually finish it? Or only experience some changes while other changes are never reached? I've been trying to find out but can never find much helpful information... it's usually assumed that once u hit puberty then its all smooth sailing, more or less, into a fully mature adult. Not so for me
+
+I'm a 24 year old guy and i'm sure that i never actually completed puberty.. like seriously. I'm stuck looking like a 14-15 year old boy.
+
+I basically didnt hit puberty until i was well and truly 16 years old. I experienced the main textbook changes - appearance of pubic hair, underarm hair, voice changing, increased sexual interest/ability to ejaculate. Although my voice changed initially, it still sounds quite youthful (early to mid adolescence) and not like a man in his 20s.
+
+What i NEVER experienced to this day, that i should've, was changes in my skeletor/muscular build. Changes such as broadening shoulders, wider chest, bigger hands, a more masculine frame. Basically my body has never changed shape. I know my own body and never experienced any changes in body frame - i still have narrow thin shoulders, small chest, boney girl arms, basically the same kind of body physique as a 12 year old boy. I know that changes can occur at different times and rates.. but eventually it all catches up and you finish, certainly by the time you reach your 20s.
+
+I also never really experienced any growth spurt.. just basically grew steadily taller until i reached my adult height (5'6). Like a child from age 8 to 10 would have steadily grown taller, although largely the same body shape, if that makes sense.
+
+Just for reference, i haven't completely stopped further development dead in its tracks... However, the only other changes to have *gradually* occurred since is some facial hair (albeit not very thick, partial coverage, slow to grow back once shaved) and some very light chest hair. For the most part, i havent changed that much the way i look now and when i was 16. As far as my body shape, it just hasn't changed at all. I still have a youthful looking face and overall young appearance, due largely to my immature body frame.
+
+For those who still don't get my problem.. look up Andy Milonakis, a 31 year old stuck in the body of a preteen. I consider myself like a semi-Andy Milonakis.. not a complete absence of puberty, just partially complete, and being stuck in the body of an early teen.
+
+So any ideas, suggestions as to what might cause such abnormal puberty progression?
+
+tl;dr - 24 yo guy. Body of a 14 yo. Face of a 14 yo. Voice still hasn't cracked.",8,8,2012-04-29,PHARMA,0.10611070692539215,0.8569466471672058,0.036942627280950546
+medicine,"Researchers at Moffitt Cancer Center are creating ""designer lymph nodes."" Designer lymph nodes are built with specialized gene-modified cells that are injected into patients &amp; produce a pre-planned immunologic response for cancer patients",,0,6,2012-04-29,PHARMA,0.02208169549703598,0.9235193729400635,0.054398976266384125
+medicine,"Although children are more likely than adults to suffer from many diseases, few clinical trials are being conducted to test drugs in pediatric patients, according to a study to be presented Saturday, April 28, at the Pediatric Academic Societies (PAS) annual meeting in Boston",,1,6,2012-04-29,PHARMA,0.013926136307418346,0.8794628977775574,0.10661100596189499
+Health,"Psychiatry’s bible, the DSM, is doing more harm than good",,1,4,2012-04-29,PHARMA,0.036892663687467575,0.9115002751350403,0.05160701647400856
+Health,The FDA Just Approved A Drug To Treat the 'Plague',,0,4,2012-04-29,PHARMA,0.01140645146369934,0.5133845806121826,0.47520896792411804
+Health,Pertussis in Adults: who has experiences to share?,"I have been coughing since end of February after recovering from a bad case of Mono. Turns out that there was a epidemic of Pertussis in our region so what I thought to be a consequence of the mono was a complete new thing. My doctor was smart enough to give me the right antibiotics for it but many people in our company are coughing now. I read that the cough might take months to subside. 
+
+Does anybody have experience recovering from this condition? Is my immune system weakened during the coughing phase? Should I avoid sports? Is there anything else I can do except be patient?
+
+Thank you!",10,3,2012-04-29,PHARMA,0.06687900424003601,0.9004183411598206,0.03270267695188522
+Health,Mad cow scare shows how well nation’s food-safety system works,,0,3,2012-04-29,PHARMA,0.07624109089374542,0.8775777816772461,0.04618113860487938
+Health,"""Now, if I were being overly cynical, I’d say that the interests of a company producing blood sugar meters and strips aren’t necessarily aligned with the interests of a patient who wants to stop having diabetes.""",,7,92,2012-04-30,PHARMA,0.0960640087723732,0.8597549796104431,0.044181011617183685
+Health,Thirty percent of workers get far too little sleep,,8,83,2012-04-30,PHARMA,0.8799107670783997,0.09850858896970749,0.021580714732408524
+Health,Number of babies born addicted to prescription painkillers soars - USATODAY.com,,2,46,2012-04-30,PHARMA,0.059261154383420944,0.9099998474121094,0.030738942325115204
+medicine,i think we should be putting more funding into things like this,,8,23,2012-04-30,PHARMA,0.026164080947637558,0.9256160259246826,0.04821990430355072
+medicine,"Who would be the biggest loser of health care reform? If we're spending $1 trillion more yearly than the next highest country, who's getting that money?","Most of what's involved in health care is not imported, so almost all the money spent on health care in the US goes from Americans to Americans. That means that if we are able to find a way to cut health care costs, it's going to be Americans from whom that money is cut. According to [this article in The Incidental Economist](http://theincidentaleconomist.com/wordpress/what-makes-the-us-health-care-system-so-expensive-introduction/), the problem is _not_ with physician compensation. In 2006, physician salaries only accounted for $138 billion out of a total of $2,106 billion spent that year.
+
+According to that article, the majority of the overspending is with outpatient care. Overspending in insurance administration, drugs, and health care investment combined is about half as much as overspending in outpatient care.
+
+What I don't get is, how can overspending in outpatient care not be reflected in health care workers' compensation? Is the author wrong in his accounting of who's getting paid what money? Are there alternative theories concerning from whom all the money from hypothetical health care savings would come?
+
+For example, in the book [_Money Driven Medicine: The Real Reason Health Care Costs So Much_](http://www.amazon.com/Money-Driven-Medicine-Reason-Health-Costs/dp/006076533X) it says:
+
+&gt; Lucas County, Ohio, for example, boasts more than 250 magnetic resonance imaging (MRI) units. “We always joke that it’s surprising your car doesn’t start veering if you’re driving on Monroe or Secor, there are so many magnets out there,” Dr. Peter Royen, a radiologist and medical director of Regency Imaging Center in Toledo, says, chuckling. Dr. Kenneth Bertka, a Toledo family physician and past president of the Ohio Academy of Family Physicians is decidedly less enthusiastic: “We don’t need this many MRI scanners in Toledo; there’s no question about that.”
+
+That would seem to fall under health care investment overspending, at least initially. But then when I went to get an MRI scan recently, that would have been outpatient care. But who got the $1,800 they charged for that? Is that where the overspending in outpatient care is? Wouldn't that money go to the doctor who ordered the MRI? And if not does it just go to some random investor?
+
+So if that last speculation is the case, is most of the overspending in US health care going to some random investors? Is that who's going to be the biggest loser in health care reform?",35,19,2012-04-30,PHARMA,0.08617696911096573,0.8852541446685791,0.02856895513832569
+pharmacy,challenge: what is the significance of these markings?,,20,15,2012-04-30,PHARMA,0.04913325980305672,0.8990810513496399,0.05178570747375488
+medicine,"Scientists identify brain circuitry associated with addictive, depressive behaviors",,0,11,2012-04-30,PHARMA,0.03901168704032898,0.9272475242614746,0.033740848302841187
+Health,"As America's waistline expands, costs soar - Yahoo! News",,0,10,2012-04-30,PHARMA,0.056487251073122025,0.8716126084327698,0.0719001516699791
+Health,Obesity-Linked Diabetes in Children Resists Treatment,,2,6,2012-04-30,PHARMA,0.1050402969121933,0.863271951675415,0.03168770298361778
+Health,Debate on diabetes drugs gathers pace:  Petition unveils unnerving reports on potential carcinogenicity of GLP-1 mimics.,,0,5,2012-04-30,PHARMA,0.01918444037437439,0.8888161778450012,0.09199938178062439
